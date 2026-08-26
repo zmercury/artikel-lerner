@@ -1,347 +1,453 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="de" data-theme="light">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
-  <meta name="description" content="Artikel Trainer – German noun article & vocabulary practice with spaced repetition" />
-  <title>Artikel Trainer</title>
-  <link rel="preconnect" href="https://fonts.googleapis.com" />
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
-  <link rel="stylesheet" href="style.css" />
-</head>
-<body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, viewport-fit=cover"
+    />
+    <meta
+      name="description"
+      content="Artikel Trainer – German noun article & vocabulary practice with spaced repetition"
+    />
+    <title>Artikel Trainer</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="style.css" />
+    <link rel="icon" type="image/x-icon" href="/fav.ico" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <!-- ============ HEADER ============ -->
+      <header class="app-header">
+        <div class="header-logo">🇩🇪 <span>Artikel</span>Trainer</div>
+        <nav class="header-nav">
+          <button class="nav-btn active" data-view="view-dashboard">
+            🏠 Dashboard
+          </button>
+          <button class="nav-btn" data-view="view-practice">📚 Practice</button>
+          <button class="nav-btn" data-view="view-vocab">📖 Vocabulary</button>
+          <button class="nav-btn" data-view="view-settings">⚙️ Settings</button>
+        </nav>
+        <div class="header-actions">
+          <button class="icon-btn" id="theme-toggle" title="Toggle theme">
+            🌙
+          </button>
+        </div>
+      </header>
 
-<div class="app-shell">
-
-  <!-- ============ HEADER ============ -->
-  <header class="app-header">
-    <div class="header-logo">
-      🇩🇪 <span>Artikel</span>Trainer
-    </div>
-    <nav class="header-nav">
-      <button class="nav-btn active" data-view="view-dashboard">🏠 Dashboard</button>
-      <button class="nav-btn"        data-view="view-practice">📚 Practice</button>
-      <button class="nav-btn"        data-view="view-vocab">📖 Vocabulary</button>
-      <button class="nav-btn"        data-view="view-settings">⚙️ Settings</button>
-    </nav>
-    <div class="header-actions">
-      <button class="icon-btn" id="theme-toggle" title="Toggle theme">🌙</button>
-    </div>
-  </header>
-
-  <!-- ============ MAIN ============ -->
-  <main class="main-content">
-
-    <!-- ============================
+      <!-- ============ MAIN ============ -->
+      <main class="main-content">
+        <!-- ============================
          VIEW: DASHBOARD
          ============================ -->
-    <div class="view active" id="view-dashboard">
+        <div class="view active" id="view-dashboard">
+          <!-- Hero & Quick Stats Hub -->
+          <div class="dashboard-hero">
+            <div class="hero-main">
+              <div class="hero-eyebrow">
+                <span class="streak-pill" id="hero-streak-pill"
+                  >🔥 <strong id="stat-streak">0</strong> Streak</span
+                >
+                <span class="accuracy-pill"
+                  >🎯 <strong id="stat-accuracy">0%</strong> Accuracy</span
+                >
+              </div>
+              <h1 class="hero-title">Artikel Trainer</h1>
+              <p class="hero-sub">
+                German articles (<span
+                  style="color: var(--der); font-weight: 700"
+                  >der</span
+                >
+                / <span style="color: var(--die); font-weight: 700">die</span> /
+                <span style="color: var(--das); font-weight: 700">das</span>)
+                and vocabulary with spaced repetition.
+              </p>
 
-      <!-- Hero & Quick Stats Hub -->
-      <div class="dashboard-hero">
-        <div class="hero-main">
-          <div class="hero-eyebrow">
-            <span class="streak-pill" id="hero-streak-pill">🔥 <strong id="stat-streak">0</strong> Streak</span>
-            <span class="accuracy-pill">🎯 <strong id="stat-accuracy">0%</strong> Accuracy</span>
-          </div>
-          <h1 class="hero-title">Artikel Trainer</h1>
-          <p class="hero-sub">German articles (<span style="color:var(--der);font-weight:700;">der</span> / <span style="color:var(--die);font-weight:700;">die</span> / <span style="color:var(--das);font-weight:700;">das</span>) and vocabulary with spaced repetition.</p>
-          
-          <div class="hero-actions">
-            <button class="btn btn-hero" id="btn-start-practice">
-              <span>▶ Start Practice</span>
-            </button>
-            <button class="btn btn-secondary btn-hero-sub" onclick="startMode('mixed')">
-              <span>🎲 Quick Mixed</span>
-            </button>
-          </div>
-        </div>
+              <div class="hero-actions">
+                <button class="btn btn-hero" id="btn-start-practice">
+                  <span>▶ Start Practice</span>
+                </button>
+                <button
+                  class="btn btn-secondary btn-hero-sub"
+                  onclick="startMode('mixed')"
+                >
+                  <span>🎲 Quick Mixed</span>
+                </button>
+              </div>
+            </div>
 
-        <div class="hero-stats-grid">
-          <div class="hero-stat-card stat-total-card">
-            <div class="hero-stat-icon">📚</div>
-            <div class="hero-stat-info">
-              <div class="hero-stat-num" id="stat-total">0</div>
-              <div class="hero-stat-lbl">Total Words</div>
+            <div class="hero-stats-grid">
+              <div class="hero-stat-card stat-total-card">
+                <div class="hero-stat-icon">📚</div>
+                <div class="hero-stat-info">
+                  <div class="hero-stat-num" id="stat-total">0</div>
+                  <div class="hero-stat-lbl">Total Words</div>
+                </div>
+              </div>
+              <div class="hero-stat-card stat-due-card">
+                <div class="hero-stat-icon">📅</div>
+                <div class="hero-stat-info">
+                  <div class="hero-stat-num" id="stat-due">0</div>
+                  <div class="hero-stat-lbl">Due Now</div>
+                </div>
+              </div>
+              <div class="hero-stat-card stat-mastered-card">
+                <div class="hero-stat-icon">🏆</div>
+                <div class="hero-stat-info">
+                  <div class="hero-stat-num" id="stat-mastered">0</div>
+                  <div class="hero-stat-lbl">Mastered</div>
+                </div>
+              </div>
+              <div class="hero-stat-card stat-weak-card">
+                <div class="hero-stat-icon">⚠️</div>
+                <div class="hero-stat-info">
+                  <div class="hero-stat-num" id="stat-weak">0</div>
+                  <div class="hero-stat-lbl">Weak Words</div>
+                </div>
+              </div>
             </div>
           </div>
-          <div class="hero-stat-card stat-due-card">
-            <div class="hero-stat-icon">📅</div>
-            <div class="hero-stat-info">
-              <div class="hero-stat-num" id="stat-due">0</div>
-              <div class="hero-stat-lbl">Due Now</div>
+
+          <!-- Study Modes: Front & Center (No scrolling needed) -->
+          <div class="section-header">
+            <div>
+              <h2 class="section-title">🎯 Study Modes</h2>
+              <div class="section-hint">
+                Choose a mode to start practicing instantly
+              </div>
             </div>
           </div>
-          <div class="hero-stat-card stat-mastered-card">
-            <div class="hero-stat-icon">🏆</div>
-            <div class="hero-stat-info">
-              <div class="hero-stat-num" id="stat-mastered">0</div>
-              <div class="hero-stat-lbl">Mastered</div>
+          <div class="mode-grid" id="mode-cards-grid"></div>
+
+          <!-- Category Progress & Deck Explorer -->
+          <div class="section-header" style="margin-top: 2.25rem">
+            <div>
+              <h2 class="section-title">📂 Vocabulary Decks</h2>
+              <div class="section-hint">
+                Tap any category to practice that topic
+              </div>
             </div>
           </div>
-          <div class="hero-stat-card stat-weak-card">
-            <div class="hero-stat-icon">⚠️</div>
-            <div class="hero-stat-info">
-              <div class="hero-stat-num" id="stat-weak">0</div>
-              <div class="hero-stat-lbl">Weak Words</div>
-            </div>
-          </div>
+          <div class="category-grid" id="category-grid"></div>
         </div>
-      </div>
+        <!-- /dashboard -->
 
-      <!-- Study Modes: Front & Center (No scrolling needed) -->
-      <div class="section-header">
-        <div>
-          <h2 class="section-title">🎯 Study Modes</h2>
-          <div class="section-hint">Choose a mode to start practicing instantly</div>
-        </div>
-      </div>
-      <div class="mode-grid" id="mode-cards-grid"></div>
-
-      <!-- Category Progress & Deck Explorer -->
-      <div class="section-header" style="margin-top:2.25rem;">
-        <div>
-          <h2 class="section-title">📂 Vocabulary Decks</h2>
-          <div class="section-hint">Tap any category to practice that topic</div>
-        </div>
-      </div>
-      <div class="category-grid" id="category-grid"></div>
-
-    </div><!-- /dashboard -->
-
-    <!-- ============================
+        <!-- ============================
          VIEW: PRACTICE
          ============================ -->
-    <div class="view" id="view-practice">
-      <div class="practice-layout">
+        <div class="view" id="view-practice">
+          <div class="practice-layout">
+            <div class="practice-header">
+              <button
+                class="icon-btn"
+                id="btn-back-to-dash"
+                title="Back to dashboard"
+              >
+                ←
+              </button>
+              <span class="mode-label" id="mode-label">Article Mode</span>
+              <div class="session-stats">
+                <span class="session-stat"
+                  >✅ <strong id="session-correct">0</strong></span
+                >
+                <span class="session-stat"
+                  >❌ <strong id="session-wrong">0</strong></span
+                >
+                <span class="session-stat"
+                  >Total <strong id="session-total">0</strong></span
+                >
+              </div>
+            </div>
 
-        <div class="practice-header">
-          <button class="icon-btn" id="btn-back-to-dash" title="Back to dashboard">←</button>
-          <span class="mode-label" id="mode-label">Article Mode</span>
-          <div class="session-stats">
-            <span class="session-stat">✅ <strong id="session-correct">0</strong></span>
-            <span class="session-stat">❌ <strong id="session-wrong">0</strong></span>
-            <span class="session-stat">Total <strong id="session-total">0</strong></span>
+            <!-- Flash card -->
+            <div class="flash-card card-animate" id="flash-card">
+              <div class="card-mode-hint">Loading...</div>
+              <div id="feedback-overlay" class="feedback-overlay"></div>
+            </div>
+
+            <!-- Answer area (injected by JS) -->
+            <div id="answer-area"></div>
+
+            <!-- Word meta -->
+            <div class="word-meta-row" id="word-meta-row"></div>
           </div>
         </div>
+        <!-- /practice -->
 
-        <!-- Flash card -->
-        <div class="flash-card card-animate" id="flash-card">
-          <div class="card-mode-hint">Loading...</div>
-          <div id="feedback-overlay" class="feedback-overlay"></div>
-        </div>
-
-        <!-- Answer area (injected by JS) -->
-        <div id="answer-area"></div>
-
-        <!-- Word meta -->
-        <div class="word-meta-row" id="word-meta-row"></div>
-
-      </div>
-    </div><!-- /practice -->
-
-    <!-- ============================
+        <!-- ============================
          VIEW: VOCABULARY
          ============================ -->
-    <div class="view" id="view-vocab">
+        <div class="view" id="view-vocab">
+          <div class="vocab-toolbar">
+            <input
+              class="search-input"
+              id="vocab-search"
+              type="search"
+              placeholder="🔍 Search words..."
+            />
+            <select class="filter-select" id="filter-article">
+              <option value="all">All articles</option>
+              <option value="der">der</option>
+              <option value="die">die</option>
+              <option value="das">das</option>
+            </select>
+            <select class="filter-select" id="filter-category"></select>
+            <select class="filter-select" id="filter-status">
+              <option value="all">All words</option>
+              <option value="active">Active</option>
+              <option value="due">Due</option>
+              <option value="weak">Weak</option>
+              <option value="mastered">Mastered</option>
+              <option value="archived">Archived</option>
+            </select>
+          </div>
 
-      <div class="vocab-toolbar">
-        <input class="search-input" id="vocab-search" type="search" placeholder="🔍 Search words..." />
-        <select class="filter-select" id="filter-article">
-          <option value="all">All articles</option>
-          <option value="der">der</option>
-          <option value="die">die</option>
-          <option value="das">das</option>
-        </select>
-        <select class="filter-select" id="filter-category"></select>
-        <select class="filter-select" id="filter-status">
-          <option value="all">All words</option>
-          <option value="active">Active</option>
-          <option value="due">Due</option>
-          <option value="weak">Weak</option>
-          <option value="mastered">Mastered</option>
-          <option value="archived">Archived</option>
-        </select>
-      </div>
+          <div class="vocab-count" id="vocab-count">Loading…</div>
 
-      <div class="vocab-count" id="vocab-count">Loading…</div>
+          <div class="vocab-table-wrap">
+            <table class="vocab-table">
+              <thead>
+                <tr>
+                  <th>Art.</th>
+                  <th>Word</th>
+                  <th>Plural</th>
+                  <th>Translation</th>
+                  <th>Category</th>
+                  <th>Level</th>
+                  <th>Accuracy</th>
+                  <th>Actions</th>
+                </tr>
+              </thead>
+              <tbody id="vocab-tbody"></tbody>
+            </table>
+          </div>
+        </div>
+        <!-- /vocab -->
 
-      <div class="vocab-table-wrap">
-        <table class="vocab-table">
-          <thead>
-            <tr>
-              <th>Art.</th>
-              <th>Word</th>
-              <th>Plural</th>
-              <th>Translation</th>
-              <th>Category</th>
-              <th>Level</th>
-              <th>Accuracy</th>
-              <th>Actions</th>
-            </tr>
-          </thead>
-          <tbody id="vocab-tbody"></tbody>
-        </table>
-      </div>
-
-    </div><!-- /vocab -->
-
-    <!-- ============================
+        <!-- ============================
          VIEW: SETTINGS
          ============================ -->
-    <div class="view" id="view-settings">
-
-      <div class="settings-section">
-        <div class="settings-title">🎨 Appearance</div>
-        <div class="settings-row">
-          <div>
-            <div class="settings-label">Theme</div>
-            <div class="settings-desc">Light (beige) or dark mode</div>
+        <div class="view" id="view-settings">
+          <div class="settings-section">
+            <div class="settings-title">🎨 Appearance</div>
+            <div class="settings-row">
+              <div>
+                <div class="settings-label">Theme</div>
+                <div class="settings-desc">Light (beige) or dark mode</div>
+              </div>
+              <button class="btn btn-secondary" onclick="toggleTheme()">
+                Toggle Theme
+              </button>
+            </div>
           </div>
-          <button class="btn btn-secondary" onclick="toggleTheme()">Toggle Theme</button>
-        </div>
-      </div>
 
-      <div class="settings-section">
-        <div class="settings-title">📚 Practice Settings</div>
-        <div class="settings-row">
-          <div>
-            <div class="settings-label">Practice Category</div>
-            <div class="settings-desc">Only practice words from this category</div>
+          <div class="settings-section">
+            <div class="settings-title">📚 Practice Settings</div>
+            <div class="settings-row">
+              <div>
+                <div class="settings-label">Practice Category</div>
+                <div class="settings-desc">
+                  Only practice words from this category
+                </div>
+              </div>
+              <select class="filter-select" id="setting-category"></select>
+            </div>
           </div>
-          <select class="filter-select" id="setting-category"></select>
-        </div>
-      </div>
 
-      <div class="settings-section">
-        <div class="settings-title">🔊 Audio &amp; Pronunciation</div>
-        <div class="settings-row">
-          <div>
-            <div class="settings-label">German Voice Pronunciation</div>
-            <div class="settings-desc">Enable native German speech synthesis</div>
+          <div class="settings-section">
+            <div class="settings-title">🔊 Audio &amp; Pronunciation</div>
+            <div class="settings-row">
+              <div>
+                <div class="settings-label">German Voice Pronunciation</div>
+                <div class="settings-desc">
+                  Enable native German speech synthesis
+                </div>
+              </div>
+              <input
+                type="checkbox"
+                id="setting-audio-enabled"
+                style="width: 18px; height: 18px; cursor: pointer"
+                checked
+              />
+            </div>
+            <div class="settings-row">
+              <div>
+                <div class="settings-label">Auto-Pronounce</div>
+                <div class="settings-desc">
+                  Automatically speak word when answered
+                </div>
+              </div>
+              <input
+                type="checkbox"
+                id="setting-auto-pronounce"
+                style="width: 18px; height: 18px; cursor: pointer"
+                checked
+              />
+            </div>
+            <div class="settings-row">
+              <div>
+                <div class="settings-label">Speech Speed</div>
+                <div class="settings-desc">
+                  Playback speed for learning (<span id="speed-label">0.9x</span
+                  >)
+                </div>
+              </div>
+              <input
+                type="range"
+                id="setting-speech-rate"
+                min="0.5"
+                max="1.3"
+                step="0.05"
+                value="0.9"
+                style="cursor: pointer"
+              />
+            </div>
           </div>
-          <input type="checkbox" id="setting-audio-enabled" style="width:18px;height:18px;cursor:pointer;" checked />
-        </div>
-        <div class="settings-row">
-          <div>
-            <div class="settings-label">Auto-Pronounce</div>
-            <div class="settings-desc">Automatically speak word when answered</div>
-          </div>
-          <input type="checkbox" id="setting-auto-pronounce" style="width:18px;height:18px;cursor:pointer;" checked />
-        </div>
-        <div class="settings-row">
-          <div>
-            <div class="settings-label">Speech Speed</div>
-            <div class="settings-desc">Playback speed for learning (<span id="speed-label">0.9x</span>)</div>
-          </div>
-          <input type="range" id="setting-speech-rate" min="0.5" max="1.3" step="0.05" value="0.9" style="cursor:pointer;" />
-        </div>
-      </div>
 
-      <div class="settings-section">
-        <div class="settings-title">💾 Data &amp; Backup</div>
-        <div class="settings-row">
-          <div>
-            <div class="settings-label">Export Progress</div>
-            <div class="settings-desc">Download a JSON backup of all learning data</div>
+          <div class="settings-section">
+            <div class="settings-title">💾 Data &amp; Backup</div>
+            <div class="settings-row">
+              <div>
+                <div class="settings-label">Export Progress</div>
+                <div class="settings-desc">
+                  Download a JSON backup of all learning data
+                </div>
+              </div>
+              <button class="btn btn-primary" id="btn-export">⬇ Export</button>
+            </div>
+            <div class="settings-row">
+              <div>
+                <div class="settings-label">Import Progress</div>
+                <div class="settings-desc">
+                  Restore from a previous backup file
+                </div>
+              </div>
+              <button class="btn btn-secondary" id="btn-import">
+                ⬆ Import
+              </button>
+              <input
+                type="file"
+                id="import-file"
+                accept=".json"
+                style="display: none"
+              />
+            </div>
+            <div class="settings-row">
+              <div>
+                <div class="settings-label">Reset All Progress</div>
+                <div class="settings-desc">
+                  Wipe all learning data — cannot be undone
+                </div>
+              </div>
+              <button class="btn btn-danger" id="btn-reset-all">
+                🗑 Reset All
+              </button>
+            </div>
           </div>
-          <button class="btn btn-primary" id="btn-export">⬇ Export</button>
-        </div>
-        <div class="settings-row">
-          <div>
-            <div class="settings-label">Import Progress</div>
-            <div class="settings-desc">Restore from a previous backup file</div>
+
+          <div class="settings-section">
+            <div class="settings-title">⌨️ Keyboard Shortcuts</div>
+            <div
+              style="
+                font-size: 0.88rem;
+                color: var(--text-muted);
+                line-height: 2;
+              "
+            >
+              <strong style="color: var(--text)">1</strong> → DER &nbsp;|&nbsp;
+              <strong style="color: var(--text)">2</strong> → DIE &nbsp;|&nbsp;
+              <strong style="color: var(--text)">3</strong> → DAS &nbsp;|&nbsp;
+              <strong style="color: var(--text)">P</strong> → Listen to German
+              pronunciation &nbsp;|&nbsp;
+              <strong style="color: var(--text)">Enter / Space</strong> → Next
+              card
+            </div>
           </div>
-          <button class="btn btn-secondary" id="btn-import">⬆ Import</button>
-          <input type="file" id="import-file" accept=".json" style="display:none" />
         </div>
-        <div class="settings-row">
-          <div>
-            <div class="settings-label">Reset All Progress</div>
-            <div class="settings-desc">Wipe all learning data — cannot be undone</div>
-          </div>
-          <button class="btn btn-danger" id="btn-reset-all">🗑 Reset All</button>
+        <!-- /settings -->
+      </main>
+
+      <!-- ============ FOOTER ============ -->
+      <footer class="app-footer">
+        <div class="footer-content">
+          <span>Made by <strong>Mercury</strong></span>
+          <span class="footer-dot">•</span>
+          <span>Artikel Trainer</span>
         </div>
-      </div>
+      </footer>
 
-      <div class="settings-section">
-        <div class="settings-title">⌨️ Keyboard Shortcuts</div>
-        <div style="font-size:.88rem;color:var(--text-muted);line-height:2">
-          <strong style="color:var(--text)">1</strong> → DER &nbsp;|&nbsp;
-          <strong style="color:var(--text)">2</strong> → DIE &nbsp;|&nbsp;
-          <strong style="color:var(--text)">3</strong> → DAS &nbsp;|&nbsp;
-          <strong style="color:var(--text)">P</strong> → Listen to German pronunciation &nbsp;|&nbsp;
-          <strong style="color:var(--text)">Enter / Space</strong> → Next card
-        </div>
-      </div>
-
-    </div><!-- /settings -->
-
-  </main>
-
-  <!-- ============ FOOTER ============ -->
-  <footer class="app-footer">
-    <div class="footer-content">
-      <span>Made by <strong>Mercury</strong></span>
-      <span class="footer-dot">•</span>
-      <span>Artikel Trainer</span>
+      <!-- ============ MOBILE BOTTOM NAV ============ -->
+      <nav class="mobile-bottom-nav">
+        <button class="mobile-nav-btn active" data-view="view-dashboard">
+          <span class="mobile-nav-icon">🏠</span>
+          <span class="mobile-nav-label">Dashboard</span>
+        </button>
+        <button class="mobile-nav-btn" data-view="view-practice">
+          <span class="mobile-nav-icon">📚</span>
+          <span class="mobile-nav-label">Practice</span>
+        </button>
+        <button class="mobile-nav-btn" data-view="view-vocab">
+          <span class="mobile-nav-icon">📖</span>
+          <span class="mobile-nav-label">Vocab</span>
+        </button>
+        <button class="mobile-nav-btn" data-view="view-settings">
+          <span class="mobile-nav-icon">⚙️</span>
+          <span class="mobile-nav-label">Settings</span>
+        </button>
+      </nav>
     </div>
-  </footer>
+    <!-- /app-shell -->
 
-  <!-- ============ MOBILE BOTTOM NAV ============ -->
-  <nav class="mobile-bottom-nav">
-    <button class="mobile-nav-btn active" data-view="view-dashboard">
-      <span class="mobile-nav-icon">🏠</span>
-      <span class="mobile-nav-label">Dashboard</span>
-    </button>
-    <button class="mobile-nav-btn" data-view="view-practice">
-      <span class="mobile-nav-icon">📚</span>
-      <span class="mobile-nav-label">Practice</span>
-    </button>
-    <button class="mobile-nav-btn" data-view="view-vocab">
-      <span class="mobile-nav-icon">📖</span>
-      <span class="mobile-nav-label">Vocab</span>
-    </button>
-    <button class="mobile-nav-btn" data-view="view-settings">
-      <span class="mobile-nav-icon">⚙️</span>
-      <span class="mobile-nav-label">Settings</span>
-    </button>
-  </nav>
+    <!-- ============ MODALS ============ -->
 
-</div><!-- /app-shell -->
-
-<!-- ============ MODALS ============ -->
-
-<!-- Word Detail Modal -->
-<div class="modal-backdrop" id="word-detail-modal">
-  <div class="modal">
-    <div class="modal-title" id="detail-modal-title">Word Details</div>
-    <div class="modal-body" id="detail-modal-body"></div>
-    <div class="modal-actions">
-      <button class="btn btn-secondary" onclick="closeModal('word-detail-modal')">Close</button>
+    <!-- Word Detail Modal -->
+    <div class="modal-backdrop" id="word-detail-modal">
+      <div class="modal">
+        <div class="modal-title" id="detail-modal-title">Word Details</div>
+        <div class="modal-body" id="detail-modal-body"></div>
+        <div class="modal-actions">
+          <button
+            class="btn btn-secondary"
+            onclick="closeModal('word-detail-modal')"
+          >
+            Close
+          </button>
+        </div>
+      </div>
     </div>
-  </div>
-</div>
 
-<!-- Confirm Reset Modal -->
-<div class="modal-backdrop" id="confirm-reset-modal">
-  <div class="modal">
-    <div class="modal-title">⚠️ Reset All Progress?</div>
-    <div class="modal-body">
-      This will permanently delete <strong>all learning progress, streaks and statistics</strong>
-      for every word. This cannot be undone. Consider exporting a backup first.
+    <!-- Confirm Reset Modal -->
+    <div class="modal-backdrop" id="confirm-reset-modal">
+      <div class="modal">
+        <div class="modal-title">⚠️ Reset All Progress?</div>
+        <div class="modal-body">
+          This will permanently delete
+          <strong>all learning progress, streaks and statistics</strong>
+          for every word. This cannot be undone. Consider exporting a backup
+          first.
+        </div>
+        <div class="modal-actions">
+          <button
+            class="btn btn-secondary"
+            onclick="closeModal('confirm-reset-modal')"
+          >
+            Cancel
+          </button>
+          <button class="btn btn-danger" id="confirm-reset-btn">
+            Yes, Reset Everything
+          </button>
+        </div>
+      </div>
     </div>
-    <div class="modal-actions">
-      <button class="btn btn-secondary" onclick="closeModal('confirm-reset-modal')">Cancel</button>
-      <button class="btn btn-danger" id="confirm-reset-btn">Yes, Reset Everything</button>
-    </div>
-  </div>
-</div>
 
-<!-- Toast container -->
-<div class="toast-container" id="toast-container"></div>
+    <!-- Toast container -->
+    <div class="toast-container" id="toast-container"></div>
 
-<script src="app.js"></script>
-</body>
+    <script src="app.js"></script>
+  </body>
 </html>
