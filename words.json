@@ -1,0 +1,3474 @@
+[
+  {
+    "id": "tisch",
+    "word": "Tisch",
+    "article": "der",
+    "plural": "Tische",
+    "translation": "table",
+    "category": "home"
+  },
+  {
+    "id": "stuhl",
+    "word": "Stuhl",
+    "article": "der",
+    "plural": "Stühle",
+    "translation": "chair",
+    "category": "home"
+  },
+  {
+    "id": "schrank",
+    "word": "Schrank",
+    "article": "der",
+    "plural": "Schränke",
+    "translation": "cupboard / wardrobe",
+    "category": "home"
+  },
+  {
+    "id": "teppich",
+    "word": "Teppich",
+    "article": "der",
+    "plural": "Teppiche",
+    "translation": "carpet",
+    "category": "home"
+  },
+  {
+    "id": "spiegel",
+    "word": "Spiegel",
+    "article": "der",
+    "plural": "Spiegel",
+    "translation": "mirror",
+    "category": "home"
+  },
+  {
+    "id": "balkon",
+    "word": "Balkon",
+    "article": "der",
+    "plural": "Balkone",
+    "translation": "balcony",
+    "category": "home"
+  },
+  {
+    "id": "garten",
+    "word": "Garten",
+    "article": "der",
+    "plural": "Gärten",
+    "translation": "garden",
+    "category": "home"
+  },
+  {
+    "id": "schluessel",
+    "word": "Schlüssel",
+    "article": "der",
+    "plural": "Schlüssel",
+    "translation": "key",
+    "category": "home"
+  },
+  {
+    "id": "kuehlschrank",
+    "word": "Kühlschrank",
+    "article": "der",
+    "plural": "Kühlschränke",
+    "translation": "refrigerator",
+    "category": "home"
+  },
+  {
+    "id": "ofen",
+    "word": "Ofen",
+    "article": "der",
+    "plural": "Öfen",
+    "translation": "oven / stove",
+    "category": "home"
+  },
+  {
+    "id": "teller",
+    "word": "Teller",
+    "article": "der",
+    "plural": "Teller",
+    "translation": "plate",
+    "category": "home"
+  },
+  {
+    "id": "loeffel",
+    "word": "Löffel",
+    "article": "der",
+    "plural": "Löffel",
+    "translation": "spoon",
+    "category": "home"
+  },
+  {
+    "id": "muell",
+    "word": "Müll",
+    "article": "der",
+    "plural": "",
+    "translation": "trash / garbage",
+    "category": "home"
+  },
+  {
+    "id": "lampe",
+    "word": "Lampe",
+    "article": "die",
+    "plural": "Lampen",
+    "translation": "lamp",
+    "category": "home"
+  },
+  {
+    "id": "kueche",
+    "word": "Küche",
+    "article": "die",
+    "plural": "Küchen",
+    "translation": "kitchen",
+    "category": "home"
+  },
+  {
+    "id": "tuer",
+    "word": "Tür",
+    "article": "die",
+    "plural": "Türen",
+    "translation": "door",
+    "category": "home"
+  },
+  {
+    "id": "wand",
+    "word": "Wand",
+    "article": "die",
+    "plural": "Wände",
+    "translation": "wall",
+    "category": "home"
+  },
+  {
+    "id": "treppe",
+    "word": "Treppe",
+    "article": "die",
+    "plural": "Treppen",
+    "translation": "stairs / staircase",
+    "category": "home"
+  },
+  {
+    "id": "wohnung",
+    "word": "Wohnung",
+    "article": "die",
+    "plural": "Wohnungen",
+    "translation": "apartment",
+    "category": "home"
+  },
+  {
+    "id": "dusche",
+    "word": "Dusche",
+    "article": "die",
+    "plural": "Duschen",
+    "translation": "shower",
+    "category": "home"
+  },
+  {
+    "id": "waschmaschine",
+    "word": "Waschmaschine",
+    "article": "die",
+    "plural": "Waschmaschinen",
+    "translation": "washing machine",
+    "category": "home"
+  },
+  {
+    "id": "gabel",
+    "word": "Gabel",
+    "article": "die",
+    "plural": "Gabeln",
+    "translation": "fork",
+    "category": "home"
+  },
+  {
+    "id": "tasse",
+    "word": "Tasse",
+    "article": "die",
+    "plural": "Tassen",
+    "translation": "cup / mug",
+    "category": "home"
+  },
+  {
+    "id": "flasche",
+    "word": "Flasche",
+    "article": "die",
+    "plural": "Flaschen",
+    "translation": "bottle",
+    "category": "home"
+  },
+  {
+    "id": "uhr",
+    "word": "Uhr",
+    "article": "die",
+    "plural": "Uhren",
+    "translation": "clock / watch",
+    "category": "home"
+  },
+  {
+    "id": "decke",
+    "word": "Decke",
+    "article": "die",
+    "plural": "Decken",
+    "translation": "blanket / ceiling",
+    "category": "home"
+  },
+  {
+    "id": "bett",
+    "word": "Bett",
+    "article": "das",
+    "plural": "Betten",
+    "translation": "bed",
+    "category": "home"
+  },
+  {
+    "id": "fenster",
+    "word": "Fenster",
+    "article": "das",
+    "plural": "Fenster",
+    "translation": "window",
+    "category": "home"
+  },
+  {
+    "id": "zimmer",
+    "word": "Zimmer",
+    "article": "das",
+    "plural": "Zimmer",
+    "translation": "room",
+    "category": "home"
+  },
+  {
+    "id": "sofa",
+    "word": "Sofa",
+    "article": "das",
+    "plural": "Sofas",
+    "translation": "sofa / couch",
+    "category": "home"
+  },
+  {
+    "id": "regal",
+    "word": "Regal",
+    "article": "das",
+    "plural": "Regale",
+    "translation": "shelf",
+    "category": "home"
+  },
+  {
+    "id": "haus",
+    "word": "Haus",
+    "article": "das",
+    "plural": "Häuser",
+    "translation": "house",
+    "category": "home"
+  },
+  {
+    "id": "bad",
+    "word": "Bad",
+    "article": "das",
+    "plural": "Bäder",
+    "translation": "bathroom",
+    "category": "home"
+  },
+  {
+    "id": "messer",
+    "word": "Messer",
+    "article": "das",
+    "plural": "Messer",
+    "translation": "knife",
+    "category": "home"
+  },
+  {
+    "id": "glas",
+    "word": "Glas",
+    "article": "das",
+    "plural": "Gläser",
+    "translation": "drinking glass",
+    "category": "home"
+  },
+  {
+    "id": "kissen",
+    "word": "Kissen",
+    "article": "das",
+    "plural": "Kissen",
+    "translation": "pillow / cushion",
+    "category": "home"
+  },
+  {
+    "id": "bild",
+    "word": "Bild",
+    "article": "das",
+    "plural": "Bilder",
+    "translation": "picture / painting",
+    "category": "home"
+  },
+  {
+    "id": "licht",
+    "word": "Licht",
+    "article": "das",
+    "plural": "Lichter",
+    "translation": "light",
+    "category": "home"
+  },
+  {
+    "id": "apfel",
+    "word": "Apfel",
+    "article": "der",
+    "plural": "Äpfel",
+    "translation": "apple",
+    "category": "food"
+  },
+  {
+    "id": "kaese",
+    "word": "Käse",
+    "article": "der",
+    "plural": "Käse",
+    "translation": "cheese",
+    "category": "food"
+  },
+  {
+    "id": "kuchen",
+    "word": "Kuchen",
+    "article": "der",
+    "plural": "Kuchen",
+    "translation": "cake",
+    "category": "food"
+  },
+  {
+    "id": "joghurt",
+    "word": "Joghurt",
+    "article": "der",
+    "plural": "Joghurts",
+    "translation": "yoghurt",
+    "category": "food"
+  },
+  {
+    "id": "saft",
+    "word": "Saft",
+    "article": "der",
+    "plural": "Säfte",
+    "translation": "juice",
+    "category": "food"
+  },
+  {
+    "id": "kaffee",
+    "word": "Kaffee",
+    "article": "der",
+    "plural": "Kaffees",
+    "translation": "coffee",
+    "category": "food"
+  },
+  {
+    "id": "tee",
+    "word": "Tee",
+    "article": "der",
+    "plural": "Tees",
+    "translation": "tea",
+    "category": "food"
+  },
+  {
+    "id": "wein",
+    "word": "Wein",
+    "article": "der",
+    "plural": "Weine",
+    "translation": "wine",
+    "category": "food"
+  },
+  {
+    "id": "zucker",
+    "word": "Zucker",
+    "article": "der",
+    "plural": "",
+    "translation": "sugar",
+    "category": "food"
+  },
+  {
+    "id": "pfeffer",
+    "word": "Pfeffer",
+    "article": "der",
+    "plural": "",
+    "translation": "pepper",
+    "category": "food"
+  },
+  {
+    "id": "fisch",
+    "word": "Fisch",
+    "article": "der",
+    "plural": "Fische",
+    "translation": "fish",
+    "category": "food"
+  },
+  {
+    "id": "reis",
+    "word": "Reis",
+    "article": "der",
+    "plural": "",
+    "translation": "rice",
+    "category": "food"
+  },
+  {
+    "id": "salat",
+    "word": "Salat",
+    "article": "der",
+    "plural": "Salate",
+    "translation": "salad / lettuce",
+    "category": "food"
+  },
+  {
+    "id": "schinken",
+    "word": "Schinken",
+    "article": "der",
+    "plural": "Schinken",
+    "translation": "ham",
+    "category": "food"
+  },
+  {
+    "id": "kartoffel",
+    "word": "Kartoffel",
+    "article": "die",
+    "plural": "Kartoffeln",
+    "translation": "potato",
+    "category": "food"
+  },
+  {
+    "id": "tomate",
+    "word": "Tomate",
+    "article": "die",
+    "plural": "Tomaten",
+    "translation": "tomato",
+    "category": "food"
+  },
+  {
+    "id": "zwiebel",
+    "word": "Zwiebel",
+    "article": "die",
+    "plural": "Zwiebeln",
+    "translation": "onion",
+    "category": "food"
+  },
+  {
+    "id": "banane",
+    "word": "Banane",
+    "article": "die",
+    "plural": "Bananen",
+    "translation": "banana",
+    "category": "food"
+  },
+  {
+    "id": "suppe",
+    "word": "Suppe",
+    "article": "die",
+    "plural": "Suppen",
+    "translation": "soup",
+    "category": "food"
+  },
+  {
+    "id": "milch",
+    "word": "Milch",
+    "article": "die",
+    "plural": "",
+    "translation": "milk",
+    "category": "food"
+  },
+  {
+    "id": "butter",
+    "word": "Butter",
+    "article": "die",
+    "plural": "",
+    "translation": "butter",
+    "category": "food"
+  },
+  {
+    "id": "schokolade",
+    "word": "Schokolade",
+    "article": "die",
+    "plural": "Schokoladen",
+    "translation": "chocolate",
+    "category": "food"
+  },
+  {
+    "id": "orange",
+    "word": "Orange",
+    "article": "die",
+    "plural": "Orangen",
+    "translation": "orange",
+    "category": "food"
+  },
+  {
+    "id": "erdbeere",
+    "word": "Erdbeere",
+    "article": "die",
+    "plural": "Erdbeeren",
+    "translation": "strawberry",
+    "category": "food"
+  },
+  {
+    "id": "gurke",
+    "word": "Gurke",
+    "article": "die",
+    "plural": "Gurken",
+    "translation": "cucumber",
+    "category": "food"
+  },
+  {
+    "id": "wurst",
+    "word": "Wurst",
+    "article": "die",
+    "plural": "Würste",
+    "translation": "sausage",
+    "category": "food"
+  },
+  {
+    "id": "pizza",
+    "word": "Pizza",
+    "article": "die",
+    "plural": "Pizzen",
+    "translation": "pizza",
+    "category": "food"
+  },
+  {
+    "id": "brot",
+    "word": "Brot",
+    "article": "das",
+    "plural": "Brote",
+    "translation": "bread",
+    "category": "food"
+  },
+  {
+    "id": "broetchen",
+    "word": "Brötchen",
+    "article": "das",
+    "plural": "Brötchen",
+    "translation": "bread roll",
+    "category": "food"
+  },
+  {
+    "id": "ei",
+    "word": "Ei",
+    "article": "das",
+    "plural": "Eier",
+    "translation": "egg",
+    "category": "food"
+  },
+  {
+    "id": "gemuese",
+    "word": "Gemüse",
+    "article": "das",
+    "plural": "Gemüse",
+    "translation": "vegetables",
+    "category": "food"
+  },
+  {
+    "id": "obst",
+    "word": "Obst",
+    "article": "das",
+    "plural": "",
+    "translation": "fruit",
+    "category": "food"
+  },
+  {
+    "id": "fleisch",
+    "word": "Fleisch",
+    "article": "das",
+    "plural": "",
+    "translation": "meat",
+    "category": "food"
+  },
+  {
+    "id": "haehnchen",
+    "word": "Hähnchen",
+    "article": "das",
+    "plural": "Hähnchen",
+    "translation": "chicken (meat)",
+    "category": "food"
+  },
+  {
+    "id": "wasser",
+    "word": "Wasser",
+    "article": "das",
+    "plural": "Wässer",
+    "translation": "water",
+    "category": "food"
+  },
+  {
+    "id": "bier",
+    "word": "Bier",
+    "article": "das",
+    "plural": "Biere",
+    "translation": "beer",
+    "category": "food"
+  },
+  {
+    "id": "salz",
+    "word": "Salz",
+    "article": "das",
+    "plural": "",
+    "translation": "salt",
+    "category": "food"
+  },
+  {
+    "id": "oel",
+    "word": "Öl",
+    "article": "das",
+    "plural": "Öle",
+    "translation": "oil",
+    "category": "food"
+  },
+  {
+    "id": "eis",
+    "word": "Eis",
+    "article": "das",
+    "plural": "",
+    "translation": "ice cream / ice",
+    "category": "food"
+  },
+  {
+    "id": "fruehstueck",
+    "word": "Frühstück",
+    "article": "das",
+    "plural": "Frühstücke",
+    "translation": "breakfast",
+    "category": "food"
+  },
+  {
+    "id": "abendessen",
+    "word": "Abendessen",
+    "article": "das",
+    "plural": "Abendessen",
+    "translation": "dinner / supper",
+    "category": "food"
+  },
+  {
+    "id": "stift",
+    "word": "Stift",
+    "article": "der",
+    "plural": "Stifte",
+    "translation": "pen",
+    "category": "school"
+  },
+  {
+    "id": "bleistift",
+    "word": "Bleistift",
+    "article": "der",
+    "plural": "Bleistifte",
+    "translation": "pencil",
+    "category": "school"
+  },
+  {
+    "id": "radiergummi",
+    "word": "Radiergummi",
+    "article": "der",
+    "plural": "Radiergummis",
+    "translation": "eraser",
+    "category": "school"
+  },
+  {
+    "id": "rucksack",
+    "word": "Rucksack",
+    "article": "der",
+    "plural": "Rucksäcke",
+    "translation": "backpack",
+    "category": "school"
+  },
+  {
+    "id": "lehrer",
+    "word": "Lehrer",
+    "article": "der",
+    "plural": "Lehrer",
+    "translation": "male teacher",
+    "category": "school"
+  },
+  {
+    "id": "schueler",
+    "word": "Schüler",
+    "article": "der",
+    "plural": "Schüler",
+    "translation": "male student",
+    "category": "school"
+  },
+  {
+    "id": "student",
+    "word": "Student",
+    "article": "der",
+    "plural": "Studenten",
+    "translation": "university student",
+    "category": "school"
+  },
+  {
+    "id": "kurs",
+    "word": "Kurs",
+    "article": "der",
+    "plural": "Kurse",
+    "translation": "course / class",
+    "category": "school"
+  },
+  {
+    "id": "beruf",
+    "word": "Beruf",
+    "article": "der",
+    "plural": "Berufe",
+    "translation": "profession / job",
+    "category": "school"
+  },
+  {
+    "id": "text",
+    "word": "Text",
+    "article": "der",
+    "plural": "Texte",
+    "translation": "text",
+    "category": "school"
+  },
+  {
+    "id": "fehler",
+    "word": "Fehler",
+    "article": "der",
+    "plural": "Fehler",
+    "translation": "mistake / error",
+    "category": "school"
+  },
+  {
+    "id": "schule",
+    "word": "Schule",
+    "article": "die",
+    "plural": "Schulen",
+    "translation": "school",
+    "category": "school"
+  },
+  {
+    "id": "universitaet",
+    "word": "Universität",
+    "article": "die",
+    "plural": "Universitäten",
+    "translation": "university",
+    "category": "school"
+  },
+  {
+    "id": "tafel",
+    "word": "Tafel",
+    "article": "die",
+    "plural": "Tafeln",
+    "translation": "blackboard",
+    "category": "school"
+  },
+  {
+    "id": "klasse",
+    "word": "Klasse",
+    "article": "die",
+    "plural": "Klassen",
+    "translation": "class / classroom",
+    "category": "school"
+  },
+  {
+    "id": "pruefung",
+    "word": "Prüfung",
+    "article": "die",
+    "plural": "Prüfungen",
+    "translation": "exam / test",
+    "category": "school"
+  },
+  {
+    "id": "hausaufgabe",
+    "word": "Hausaufgabe",
+    "article": "die",
+    "plural": "Hausaufgaben",
+    "translation": "homework",
+    "category": "school"
+  },
+  {
+    "id": "frage",
+    "word": "Frage",
+    "article": "die",
+    "plural": "Fragen",
+    "translation": "question",
+    "category": "school"
+  },
+  {
+    "id": "antwort",
+    "word": "Antwort",
+    "article": "die",
+    "plural": "Antworten",
+    "translation": "answer",
+    "category": "school"
+  },
+  {
+    "id": "lehrerin",
+    "word": "Lehrerin",
+    "article": "die",
+    "plural": "Lehrerinnen",
+    "translation": "female teacher",
+    "category": "school"
+  },
+  {
+    "id": "pause",
+    "word": "Pause",
+    "article": "die",
+    "plural": "Pausen",
+    "translation": "break / pause",
+    "category": "school"
+  },
+  {
+    "id": "sprache",
+    "word": "Sprache",
+    "article": "die",
+    "plural": "Sprachen",
+    "translation": "language",
+    "category": "school"
+  },
+  {
+    "id": "arbeit",
+    "word": "Arbeit",
+    "article": "die",
+    "plural": "Arbeiten",
+    "translation": "work / job",
+    "category": "school"
+  },
+  {
+    "id": "buch",
+    "word": "Buch",
+    "article": "das",
+    "plural": "Bücher",
+    "translation": "book",
+    "category": "school"
+  },
+  {
+    "id": "heft",
+    "word": "Heft",
+    "article": "das",
+    "plural": "Hefte",
+    "translation": "exercise book / notebook",
+    "category": "school"
+  },
+  {
+    "id": "lineal",
+    "word": "Lineal",
+    "article": "das",
+    "plural": "Lineale",
+    "translation": "ruler",
+    "category": "school"
+  },
+  {
+    "id": "woerterbuch",
+    "word": "Wörterbuch",
+    "article": "das",
+    "plural": "Wörterbücher",
+    "translation": "dictionary",
+    "category": "school"
+  },
+  {
+    "id": "fach",
+    "word": "Fach",
+    "article": "das",
+    "plural": "Fächer",
+    "translation": "school subject",
+    "category": "school"
+  },
+  {
+    "id": "papier",
+    "word": "Papier",
+    "article": "das",
+    "plural": "Papiere",
+    "translation": "paper",
+    "category": "school"
+  },
+  {
+    "id": "wort",
+    "word": "Wort",
+    "article": "das",
+    "plural": "Wörter",
+    "translation": "word",
+    "category": "school"
+  },
+  {
+    "id": "beispiel",
+    "word": "Beispiel",
+    "article": "das",
+    "plural": "Beispiele",
+    "translation": "example",
+    "category": "school"
+  },
+  {
+    "id": "zeugnis",
+    "word": "Zeugnis",
+    "article": "das",
+    "plural": "Zeugnisse",
+    "translation": "report card / certificate",
+    "category": "school"
+  },
+  {
+    "id": "mann",
+    "word": "Mann",
+    "article": "der",
+    "plural": "Männer",
+    "translation": "man / husband",
+    "category": "people"
+  },
+  {
+    "id": "vater",
+    "word": "Vater",
+    "article": "der",
+    "plural": "Väter",
+    "translation": "father",
+    "category": "people"
+  },
+  {
+    "id": "mutter",
+    "word": "Mutter",
+    "article": "die",
+    "plural": "Mütter",
+    "translation": "mother",
+    "category": "people"
+  },
+  {
+    "id": "sohn",
+    "word": "Sohn",
+    "article": "der",
+    "plural": "Söhne",
+    "translation": "son",
+    "category": "people"
+  },
+  {
+    "id": "bruder",
+    "word": "Bruder",
+    "article": "der",
+    "plural": "Brüder",
+    "translation": "brother",
+    "category": "people"
+  },
+  {
+    "id": "freund",
+    "word": "Freund",
+    "article": "der",
+    "plural": "Freunde",
+    "translation": "male friend / boyfriend",
+    "category": "people"
+  },
+  {
+    "id": "opa",
+    "word": "Opa",
+    "article": "der",
+    "plural": "Opas",
+    "translation": "grandpa",
+    "category": "people"
+  },
+  {
+    "id": "onkel",
+    "word": "Onkel",
+    "article": "der",
+    "plural": "Onkel",
+    "translation": "uncle",
+    "category": "people"
+  },
+  {
+    "id": "arzt",
+    "word": "Arzt",
+    "article": "der",
+    "plural": "Ärzte",
+    "translation": "male doctor",
+    "category": "people"
+  },
+  {
+    "id": "nachbar",
+    "word": "Nachbar",
+    "article": "der",
+    "plural": "Nachbarn",
+    "translation": "neighbor",
+    "category": "people"
+  },
+  {
+    "id": "kollege",
+    "word": "Kollege",
+    "article": "der",
+    "plural": "Kollegen",
+    "translation": "colleague (male)",
+    "category": "people"
+  },
+  {
+    "id": "frau",
+    "word": "Frau",
+    "article": "die",
+    "plural": "Frauen",
+    "translation": "woman / wife / Ms.",
+    "category": "people"
+  },
+  {
+    "id": "tochter",
+    "word": "Tochter",
+    "article": "die",
+    "plural": "Töchter",
+    "translation": "daughter",
+    "category": "people"
+  },
+  {
+    "id": "schwester",
+    "word": "Schwester",
+    "article": "die",
+    "plural": "Schwestern",
+    "translation": "sister",
+    "category": "people"
+  },
+  {
+    "id": "freundin",
+    "word": "Freundin",
+    "article": "die",
+    "plural": "Freundinnen",
+    "translation": "female friend / girlfriend",
+    "category": "people"
+  },
+  {
+    "id": "oma",
+    "word": "Oma",
+    "article": "die",
+    "plural": "Omas",
+    "translation": "grandma",
+    "category": "people"
+  },
+  {
+    "id": "tante",
+    "word": "Tante",
+    "article": "die",
+    "plural": "Tanten",
+    "translation": "aunt",
+    "category": "people"
+  },
+  {
+    "id": "aerztin",
+    "word": "Ärztin",
+    "article": "die",
+    "plural": "Ärztinnen",
+    "translation": "female doctor",
+    "category": "people"
+  },
+  {
+    "id": "familie",
+    "word": "Familie",
+    "article": "die",
+    "plural": "Familien",
+    "translation": "family",
+    "category": "people"
+  },
+  {
+    "id": "person",
+    "word": "Person",
+    "article": "die",
+    "plural": "Personen",
+    "translation": "person",
+    "category": "people"
+  },
+  {
+    "id": "kind",
+    "word": "Kind",
+    "article": "das",
+    "plural": "Kinder",
+    "translation": "child",
+    "category": "people"
+  },
+  {
+    "id": "baby",
+    "word": "Baby",
+    "article": "das",
+    "plural": "Babys",
+    "translation": "baby",
+    "category": "people"
+  },
+  {
+    "id": "maedchen",
+    "word": "Mädchen",
+    "article": "das",
+    "plural": "Mädchen",
+    "translation": "girl",
+    "category": "people"
+  },
+  {
+    "id": "paar",
+    "word": "Paar",
+    "article": "das",
+    "plural": "Paare",
+    "translation": "couple / pair",
+    "category": "people"
+  },
+  {
+    "id": "bus",
+    "word": "Bus",
+    "article": "der",
+    "plural": "Busse",
+    "translation": "bus",
+    "category": "transport"
+  },
+  {
+    "id": "zug",
+    "word": "Zug",
+    "article": "der",
+    "plural": "Züge",
+    "translation": "train",
+    "category": "transport"
+  },
+  {
+    "id": "flughafen",
+    "word": "Flughafen",
+    "article": "der",
+    "plural": "Flughäfen",
+    "translation": "airport",
+    "category": "transport"
+  },
+  {
+    "id": "bahnhof",
+    "word": "Bahnhof",
+    "article": "der",
+    "plural": "Bahnhöfe",
+    "translation": "train station",
+    "category": "transport"
+  },
+  {
+    "id": "bahnsteig",
+    "word": "Bahnsteig",
+    "article": "der",
+    "plural": "Bahnsteige",
+    "translation": "platform",
+    "category": "transport"
+  },
+  {
+    "id": "urlaub",
+    "word": "Urlaub",
+    "article": "der",
+    "plural": "Urlaube",
+    "translation": "vacation / holiday",
+    "category": "transport"
+  },
+  {
+    "id": "koffer",
+    "word": "Koffer",
+    "article": "der",
+    "plural": "Koffer",
+    "translation": "suitcase",
+    "category": "transport"
+  },
+  {
+    "id": "pass",
+    "word": "Pass",
+    "article": "der",
+    "plural": "Pässe",
+    "translation": "passport",
+    "category": "transport"
+  },
+  {
+    "id": "strassenbahn",
+    "word": "Straßenbahn",
+    "article": "die",
+    "plural": "Straßenbahnen",
+    "translation": "tram / streetcar",
+    "category": "transport"
+  },
+  {
+    "id": "ubahn",
+    "word": "U-Bahn",
+    "article": "die",
+    "plural": "U-Bahnen",
+    "translation": "subway / metro",
+    "category": "transport"
+  },
+  {
+    "id": "fahrt",
+    "word": "Fahrt",
+    "article": "die",
+    "plural": "Fahrten",
+    "translation": "journey / trip / ride",
+    "category": "transport"
+  },
+  {
+    "id": "reise",
+    "word": "Reise",
+    "article": "die",
+    "plural": "Reisen",
+    "translation": "trip / travel",
+    "category": "transport"
+  },
+  {
+    "id": "haltestelle",
+    "word": "Haltestelle",
+    "article": "die",
+    "plural": "Haltestellen",
+    "translation": "bus/tram stop",
+    "category": "transport"
+  },
+  {
+    "id": "fahrkarte",
+    "word": "Fahrkarte",
+    "article": "die",
+    "plural": "Fahrkarten",
+    "translation": "ticket",
+    "category": "transport"
+  },
+  {
+    "id": "ampel",
+    "word": "Ampel",
+    "article": "die",
+    "plural": "Ampeln",
+    "translation": "traffic light",
+    "category": "transport"
+  },
+  {
+    "id": "auto",
+    "word": "Auto",
+    "article": "das",
+    "plural": "Autos",
+    "translation": "car",
+    "category": "transport"
+  },
+  {
+    "id": "flugzeug",
+    "word": "Flugzeug",
+    "article": "das",
+    "plural": "Flugzeuge",
+    "translation": "airplane",
+    "category": "transport"
+  },
+  {
+    "id": "fahrrad",
+    "word": "Fahrrad",
+    "article": "das",
+    "plural": "Fahrräder",
+    "translation": "bicycle",
+    "category": "transport"
+  },
+  {
+    "id": "schiff",
+    "word": "Schiff",
+    "article": "das",
+    "plural": "Schiffe",
+    "translation": "ship / boat",
+    "category": "transport"
+  },
+  {
+    "id": "motorrad",
+    "word": "Motorrad",
+    "article": "das",
+    "plural": "Motorräder",
+    "translation": "motorcycle",
+    "category": "transport"
+  },
+  {
+    "id": "taxi",
+    "word": "Taxi",
+    "article": "das",
+    "plural": "Taxis",
+    "translation": "taxi / cab",
+    "category": "transport"
+  },
+  {
+    "id": "ticket",
+    "word": "Ticket",
+    "article": "das",
+    "plural": "Tickets",
+    "translation": "ticket",
+    "category": "transport"
+  },
+  {
+    "id": "gleis",
+    "word": "Gleis",
+    "article": "das",
+    "plural": "Gleise",
+    "translation": "track / railway platform",
+    "category": "transport"
+  },
+  {
+    "id": "pullover",
+    "word": "Pullover",
+    "article": "der",
+    "plural": "Pullover",
+    "translation": "sweater / pullover",
+    "category": "clothing"
+  },
+  {
+    "id": "mantel",
+    "word": "Mantel",
+    "article": "der",
+    "plural": "Mäntel",
+    "translation": "coat",
+    "category": "clothing"
+  },
+  {
+    "id": "schuh",
+    "word": "Schuh",
+    "article": "der",
+    "plural": "Schuhe",
+    "translation": "shoe",
+    "category": "clothing"
+  },
+  {
+    "id": "stiefel",
+    "word": "Stiefel",
+    "article": "der",
+    "plural": "Stiefel",
+    "translation": "boot",
+    "category": "clothing"
+  },
+  {
+    "id": "hut",
+    "word": "Hut",
+    "article": "der",
+    "plural": "Hüte",
+    "translation": "hat",
+    "category": "clothing"
+  },
+  {
+    "id": "anzug",
+    "word": "Anzug",
+    "article": "der",
+    "plural": "Anzüge",
+    "translation": "suit",
+    "category": "clothing"
+  },
+  {
+    "id": "guertel",
+    "word": "Gürtel",
+    "article": "der",
+    "plural": "Gürtel",
+    "translation": "belt",
+    "category": "clothing"
+  },
+  {
+    "id": "rock",
+    "word": "Rock",
+    "article": "der",
+    "plural": "Röcke",
+    "translation": "skirt",
+    "category": "clothing"
+  },
+  {
+    "id": "regenschirm",
+    "word": "Regenschirm",
+    "article": "der",
+    "plural": "Regenschirme",
+    "translation": "umbrella",
+    "category": "clothing"
+  },
+  {
+    "id": "hose",
+    "word": "Hose",
+    "article": "die",
+    "plural": "Hosen",
+    "translation": "pants / trousers",
+    "category": "clothing"
+  },
+  {
+    "id": "jacke",
+    "word": "Jacke",
+    "article": "die",
+    "plural": "Jacken",
+    "translation": "jacket",
+    "category": "clothing"
+  },
+  {
+    "id": "muetze",
+    "word": "Mütze",
+    "article": "die",
+    "plural": "Mützen",
+    "translation": "beanie / cap",
+    "category": "clothing"
+  },
+  {
+    "id": "brille",
+    "word": "Brille",
+    "article": "die",
+    "plural": "Brillen",
+    "translation": "glasses / eyeglasses",
+    "category": "clothing"
+  },
+  {
+    "id": "tasche",
+    "word": "Tasche",
+    "article": "die",
+    "plural": "Taschen",
+    "translation": "bag / handbag",
+    "category": "clothing"
+  },
+  {
+    "id": "sonnenbrille",
+    "word": "Sonnenbrille",
+    "article": "die",
+    "plural": "Sonnenbrillen",
+    "translation": "sunglasses",
+    "category": "clothing"
+  },
+  {
+    "id": "socke",
+    "word": "Socke",
+    "article": "die",
+    "plural": "Socken",
+    "translation": "sock",
+    "category": "clothing"
+  },
+  {
+    "id": "tshirt",
+    "word": "T-Shirt",
+    "article": "das",
+    "plural": "T-Shirts",
+    "translation": "T-shirt",
+    "category": "clothing"
+  },
+  {
+    "id": "hemd",
+    "word": "Hemd",
+    "article": "das",
+    "plural": "Hemden",
+    "translation": "button-down shirt",
+    "category": "clothing"
+  },
+  {
+    "id": "kleid",
+    "word": "Kleid",
+    "article": "das",
+    "plural": "Kleider",
+    "translation": "dress",
+    "category": "clothing"
+  },
+  {
+    "id": "tuch",
+    "word": "Tuch",
+    "article": "das",
+    "plural": "Tücher",
+    "translation": "scarf / cloth",
+    "category": "clothing"
+  },
+  {
+    "id": "kopf",
+    "word": "Kopf",
+    "article": "der",
+    "plural": "Köpfe",
+    "translation": "head",
+    "category": "body"
+  },
+  {
+    "id": "arm",
+    "word": "Arm",
+    "article": "der",
+    "plural": "Arme",
+    "translation": "arm",
+    "category": "body"
+  },
+  {
+    "id": "fuss",
+    "word": "Fuß",
+    "article": "der",
+    "plural": "Füße",
+    "translation": "foot",
+    "category": "body"
+  },
+  {
+    "id": "finger",
+    "word": "Finger",
+    "article": "der",
+    "plural": "Finger",
+    "translation": "finger",
+    "category": "body"
+  },
+  {
+    "id": "mund",
+    "word": "Mund",
+    "article": "der",
+    "plural": "Münder",
+    "translation": "mouth",
+    "category": "body"
+  },
+  {
+    "id": "zahn",
+    "word": "Zahn",
+    "article": "der",
+    "plural": "Zähne",
+    "translation": "tooth",
+    "category": "body"
+  },
+  {
+    "id": "bauch",
+    "word": "Bauch",
+    "article": "der",
+    "plural": "Bäuche",
+    "translation": "belly / stomach",
+    "category": "body"
+  },
+  {
+    "id": "ruecken",
+    "word": "Rücken",
+    "article": "der",
+    "plural": "Rücken",
+    "translation": "back",
+    "category": "body"
+  },
+  {
+    "id": "hals",
+    "word": "Hals",
+    "article": "der",
+    "plural": "Hälse",
+    "translation": "neck / throat",
+    "category": "body"
+  },
+  {
+    "id": "koerper",
+    "word": "Körper",
+    "article": "der",
+    "plural": "Körper",
+    "translation": "body",
+    "category": "body"
+  },
+  {
+    "id": "hand",
+    "word": "Hand",
+    "article": "die",
+    "plural": "Hände",
+    "translation": "hand",
+    "category": "body"
+  },
+  {
+    "id": "nase",
+    "word": "Nase",
+    "article": "die",
+    "plural": "Nasen",
+    "translation": "nose",
+    "category": "body"
+  },
+  {
+    "id": "schulter",
+    "word": "Schulter",
+    "article": "die",
+    "plural": "Schultern",
+    "translation": "shoulder",
+    "category": "body"
+  },
+  {
+    "id": "brust",
+    "word": "Brust",
+    "article": "die",
+    "plural": "Brüste",
+    "translation": "chest / breast",
+    "category": "body"
+  },
+  {
+    "id": "gesundheit",
+    "word": "Gesundheit",
+    "article": "die",
+    "plural": "",
+    "translation": "health / bless you",
+    "category": "body"
+  },
+  {
+    "id": "medizin",
+    "word": "Medizin",
+    "article": "die",
+    "plural": "Medizinen",
+    "translation": "medicine",
+    "category": "body"
+  },
+  {
+    "id": "apotheke",
+    "word": "Apotheke",
+    "article": "die",
+    "plural": "Apotheken",
+    "translation": "pharmacy",
+    "category": "body"
+  },
+  {
+    "id": "auge",
+    "word": "Auge",
+    "article": "das",
+    "plural": "Augen",
+    "translation": "eye",
+    "category": "body"
+  },
+  {
+    "id": "ohr",
+    "word": "Ohr",
+    "article": "das",
+    "plural": "Ohren",
+    "translation": "ear",
+    "category": "body"
+  },
+  {
+    "id": "bein",
+    "word": "Bein",
+    "article": "das",
+    "plural": "Beine",
+    "translation": "leg",
+    "category": "body"
+  },
+  {
+    "id": "haar",
+    "word": "Haar",
+    "article": "das",
+    "plural": "Haare",
+    "translation": "hair",
+    "category": "body"
+  },
+  {
+    "id": "gesicht",
+    "word": "Gesicht",
+    "article": "das",
+    "plural": "Gesichter",
+    "translation": "face",
+    "category": "body"
+  },
+  {
+    "id": "herz",
+    "word": "Herz",
+    "article": "das",
+    "plural": "Herzen",
+    "translation": "heart",
+    "category": "body"
+  },
+  {
+    "id": "krankenhaus",
+    "word": "Krankenhaus",
+    "article": "das",
+    "plural": "Krankenhäuser",
+    "translation": "hospital",
+    "category": "body"
+  },
+  {
+    "id": "medikament",
+    "word": "Medikament",
+    "article": "das",
+    "plural": "Medikamente",
+    "translation": "medication / pill",
+    "category": "body"
+  },
+  {
+    "id": "park",
+    "word": "Park",
+    "article": "der",
+    "plural": "Parks",
+    "translation": "park",
+    "category": "city"
+  },
+  {
+    "id": "markt",
+    "word": "Markt",
+    "article": "der",
+    "plural": "Märkte",
+    "translation": "market",
+    "category": "city"
+  },
+  {
+    "id": "supermarkt",
+    "word": "Supermarkt",
+    "article": "der",
+    "plural": "Supermärkte",
+    "translation": "supermarket",
+    "category": "city"
+  },
+  {
+    "id": "platz",
+    "word": "Platz",
+    "article": "der",
+    "plural": "Plätze",
+    "translation": "square / place / seat",
+    "category": "city"
+  },
+  {
+    "id": "laden",
+    "word": "Laden",
+    "article": "der",
+    "plural": "Läden",
+    "translation": "shop / store",
+    "category": "city"
+  },
+  {
+    "id": "eingang",
+    "word": "Eingang",
+    "article": "der",
+    "plural": "Eingänge",
+    "translation": "entrance",
+    "category": "city"
+  },
+  {
+    "id": "ausgang",
+    "word": "Ausgang",
+    "article": "der",
+    "plural": "Ausgänge",
+    "translation": "exit",
+    "category": "city"
+  },
+  {
+    "id": "stadt",
+    "word": "Stadt",
+    "article": "die",
+    "plural": "Städte",
+    "translation": "city / town",
+    "category": "city"
+  },
+  {
+    "id": "strasse",
+    "word": "Straße",
+    "article": "die",
+    "plural": "Straßen",
+    "translation": "street / road",
+    "category": "city"
+  },
+  {
+    "id": "bank",
+    "word": "Bank",
+    "article": "die",
+    "plural": "Banken",
+    "translation": "bank (money)",
+    "category": "city"
+  },
+  {
+    "id": "post",
+    "word": "Post",
+    "article": "die",
+    "plural": "",
+    "translation": "post office / mail",
+    "category": "city"
+  },
+  {
+    "id": "kirche",
+    "word": "Kirche",
+    "article": "die",
+    "plural": "Kirchen",
+    "translation": "church",
+    "category": "city"
+  },
+  {
+    "id": "baeckerei",
+    "word": "Bäckerei",
+    "article": "die",
+    "plural": "Bäckereien",
+    "translation": "bakery",
+    "category": "city"
+  },
+  {
+    "id": "bibliothek",
+    "word": "Bibliothek",
+    "article": "die",
+    "plural": "Bibliotheken",
+    "translation": "library",
+    "category": "city"
+  },
+  {
+    "id": "hotel",
+    "word": "Hotel",
+    "article": "das",
+    "plural": "Hotels",
+    "translation": "hotel",
+    "category": "city"
+  },
+  {
+    "id": "restaurant",
+    "word": "Restaurant",
+    "article": "das",
+    "plural": "Restaurants",
+    "translation": "restaurant",
+    "category": "city"
+  },
+  {
+    "id": "cafe",
+    "word": "Café",
+    "article": "das",
+    "plural": "Cafés",
+    "translation": "cafe / coffee shop",
+    "category": "city"
+  },
+  {
+    "id": "kino",
+    "word": "Kino",
+    "article": "das",
+    "plural": "Kinos",
+    "translation": "cinema / movie theater",
+    "category": "city"
+  },
+  {
+    "id": "museum",
+    "word": "Museum",
+    "article": "das",
+    "plural": "Museen",
+    "translation": "museum",
+    "category": "city"
+  },
+  {
+    "id": "theater",
+    "word": "Theater",
+    "article": "das",
+    "plural": "Theater",
+    "translation": "theater",
+    "category": "city"
+  },
+  {
+    "id": "geschaeft",
+    "word": "Geschäft",
+    "article": "das",
+    "plural": "Geschäfte",
+    "translation": "shop / business",
+    "category": "city"
+  },
+  {
+    "id": "zentrum",
+    "word": "Zentrum",
+    "article": "das",
+    "plural": "Zentren",
+    "translation": "center / downtown",
+    "category": "city"
+  },
+  {
+    "id": "berg",
+    "word": "Berg",
+    "article": "der",
+    "plural": "Berge",
+    "translation": "mountain",
+    "category": "nature"
+  },
+  {
+    "id": "baum",
+    "word": "Baum",
+    "article": "der",
+    "plural": "Bäume",
+    "translation": "tree",
+    "category": "nature"
+  },
+  {
+    "id": "stein",
+    "word": "Stein",
+    "article": "der",
+    "plural": "Steine",
+    "translation": "stone / rock",
+    "category": "nature"
+  },
+  {
+    "id": "see",
+    "word": "See",
+    "article": "der",
+    "plural": "Seen",
+    "translation": "lake",
+    "category": "nature"
+  },
+  {
+    "id": "fluss",
+    "word": "Fluss",
+    "article": "der",
+    "plural": "Flüsse",
+    "translation": "river",
+    "category": "nature"
+  },
+  {
+    "id": "wald",
+    "word": "Wald",
+    "article": "der",
+    "plural": "Wälder",
+    "translation": "forest / woods",
+    "category": "nature"
+  },
+  {
+    "id": "himmel",
+    "word": "Himmel",
+    "article": "der",
+    "plural": "",
+    "translation": "sky / heaven",
+    "category": "nature"
+  },
+  {
+    "id": "mond",
+    "word": "Mond",
+    "article": "der",
+    "plural": "Monde",
+    "translation": "moon",
+    "category": "nature"
+  },
+  {
+    "id": "regen",
+    "word": "Regen",
+    "article": "der",
+    "plural": "",
+    "translation": "rain",
+    "category": "nature"
+  },
+  {
+    "id": "schnee",
+    "word": "Schnee",
+    "article": "der",
+    "plural": "",
+    "translation": "snow",
+    "category": "nature"
+  },
+  {
+    "id": "wind",
+    "word": "Wind",
+    "article": "der",
+    "plural": "Winde",
+    "translation": "wind",
+    "category": "nature"
+  },
+  {
+    "id": "hund",
+    "word": "Hund",
+    "article": "der",
+    "plural": "Hunde",
+    "translation": "dog",
+    "category": "nature"
+  },
+  {
+    "id": "vogel",
+    "word": "Vogel",
+    "article": "der",
+    "plural": "Vögel",
+    "translation": "bird",
+    "category": "nature"
+  },
+  {
+    "id": "sonne",
+    "word": "Sonne",
+    "article": "die",
+    "plural": "Sonnen",
+    "translation": "sun",
+    "category": "nature"
+  },
+  {
+    "id": "pflanze",
+    "word": "Pflanze",
+    "article": "die",
+    "plural": "Pflanzen",
+    "translation": "plant",
+    "category": "nature"
+  },
+  {
+    "id": "blume",
+    "word": "Blume",
+    "article": "die",
+    "plural": "Blumen",
+    "translation": "flower",
+    "category": "nature"
+  },
+  {
+    "id": "wiese",
+    "word": "Wiese",
+    "article": "die",
+    "plural": "Wiesen",
+    "translation": "meadow / lawn",
+    "category": "nature"
+  },
+  {
+    "id": "wolke",
+    "word": "Wolke",
+    "article": "die",
+    "plural": "Wolken",
+    "translation": "cloud",
+    "category": "nature"
+  },
+  {
+    "id": "luft",
+    "word": "Luft",
+    "article": "die",
+    "plural": "",
+    "translation": "air",
+    "category": "nature"
+  },
+  {
+    "id": "katze",
+    "word": "Katze",
+    "article": "die",
+    "plural": "Katzen",
+    "translation": "cat",
+    "category": "nature"
+  },
+  {
+    "id": "kuh",
+    "word": "Kuh",
+    "article": "die",
+    "plural": "Kühe",
+    "translation": "cow",
+    "category": "nature"
+  },
+  {
+    "id": "welt",
+    "word": "Welt",
+    "article": "die",
+    "plural": "Welten",
+    "translation": "world",
+    "category": "nature"
+  },
+  {
+    "id": "blatt",
+    "word": "Blatt",
+    "article": "das",
+    "plural": "Blätter",
+    "translation": "leaf / sheet",
+    "category": "nature"
+  },
+  {
+    "id": "meer",
+    "word": "Meer",
+    "article": "das",
+    "plural": "Meere",
+    "translation": "sea / ocean",
+    "category": "nature"
+  },
+  {
+    "id": "wetter",
+    "word": "Wetter",
+    "article": "das",
+    "plural": "",
+    "translation": "weather",
+    "category": "nature"
+  },
+  {
+    "id": "tier",
+    "word": "Tier",
+    "article": "das",
+    "plural": "Tiere",
+    "translation": "animal",
+    "category": "nature"
+  },
+  {
+    "id": "gras",
+    "word": "Gras",
+    "article": "das",
+    "plural": "Gräser",
+    "translation": "grass",
+    "category": "nature"
+  },
+  {
+    "id": "pferd",
+    "word": "Pferd",
+    "article": "das",
+    "plural": "Pferde",
+    "translation": "horse",
+    "category": "nature"
+  },
+  {
+    "id": "feuer",
+    "word": "Feuer",
+    "article": "das",
+    "plural": "Feuer",
+    "translation": "fire",
+    "category": "nature"
+  },
+  {
+    "id": "tag",
+    "word": "Tag",
+    "article": "der",
+    "plural": "Tage",
+    "translation": "day",
+    "category": "time"
+  },
+  {
+    "id": "monat",
+    "word": "Monat",
+    "article": "der",
+    "plural": "Monate",
+    "translation": "month",
+    "category": "time"
+  },
+  {
+    "id": "morgen",
+    "word": "Morgen",
+    "article": "der",
+    "plural": "Morgen",
+    "translation": "morning",
+    "category": "time"
+  },
+  {
+    "id": "abend",
+    "word": "Abend",
+    "article": "der",
+    "plural": "Abende",
+    "translation": "evening",
+    "category": "time"
+  },
+  {
+    "id": "mittag",
+    "word": "Mittag",
+    "article": "der",
+    "plural": "Mittage",
+    "translation": "midday / noon",
+    "category": "time"
+  },
+  {
+    "id": "sommer",
+    "word": "Sommer",
+    "article": "der",
+    "plural": "Sommer",
+    "translation": "summer",
+    "category": "time"
+  },
+  {
+    "id": "winter",
+    "word": "Winter",
+    "article": "der",
+    "plural": "Winter",
+    "translation": "winter",
+    "category": "time"
+  },
+  {
+    "id": "fruehling",
+    "word": "Frühling",
+    "article": "der",
+    "plural": "Frühlinge",
+    "translation": "spring (season)",
+    "category": "time"
+  },
+  {
+    "id": "herbst",
+    "word": "Herbst",
+    "article": "der",
+    "plural": "Herbste",
+    "translation": "autumn / fall",
+    "category": "time"
+  },
+  {
+    "id": "moment",
+    "word": "Moment",
+    "article": "der",
+    "plural": "Momente",
+    "translation": "moment",
+    "category": "time"
+  },
+  {
+    "id": "woche",
+    "word": "Woche",
+    "article": "die",
+    "plural": "Wochen",
+    "translation": "week",
+    "category": "time"
+  },
+  {
+    "id": "stunde",
+    "word": "Stunde",
+    "article": "die",
+    "plural": "Stunden",
+    "translation": "hour",
+    "category": "time"
+  },
+  {
+    "id": "minute",
+    "word": "Minute",
+    "article": "die",
+    "plural": "Minuten",
+    "translation": "minute",
+    "category": "time"
+  },
+  {
+    "id": "sekunde",
+    "word": "Sekunde",
+    "article": "die",
+    "plural": "Sekunden",
+    "translation": "second (time)",
+    "category": "time"
+  },
+  {
+    "id": "nacht",
+    "word": "Nacht",
+    "article": "die",
+    "plural": "Nächte",
+    "translation": "night",
+    "category": "time"
+  },
+  {
+    "id": "zeit",
+    "word": "Zeit",
+    "article": "die",
+    "plural": "Zeiten",
+    "translation": "time",
+    "category": "time"
+  },
+  {
+    "id": "jahreszeit",
+    "word": "Jahreszeit",
+    "article": "die",
+    "plural": "Jahreszeiten",
+    "translation": "season",
+    "category": "time"
+  },
+  {
+    "id": "jahr",
+    "word": "Jahr",
+    "article": "das",
+    "plural": "Jahre",
+    "translation": "year",
+    "category": "time"
+  },
+  {
+    "id": "datum",
+    "word": "Datum",
+    "article": "das",
+    "plural": "Daten",
+    "translation": "date (calendar)",
+    "category": "time"
+  },
+  {
+    "id": "wochenende",
+    "word": "Wochenende",
+    "article": "das",
+    "plural": "Wochenenden",
+    "translation": "weekend",
+    "category": "time"
+  },
+  {
+    "id": "computer",
+    "word": "Computer",
+    "article": "der",
+    "plural": "Computer",
+    "translation": "computer",
+    "category": "technology"
+  },
+  {
+    "id": "bildschirm",
+    "word": "Bildschirm",
+    "article": "der",
+    "plural": "Bildschirme",
+    "translation": "screen / monitor",
+    "category": "technology"
+  },
+  {
+    "id": "drucker",
+    "word": "Drucker",
+    "article": "der",
+    "plural": "Drucker",
+    "translation": "printer",
+    "category": "technology"
+  },
+  {
+    "id": "fernseher",
+    "word": "Fernseher",
+    "article": "der",
+    "plural": "Fernseher",
+    "translation": "television set",
+    "category": "technology"
+  },
+  {
+    "id": "laptop",
+    "word": "Laptop",
+    "article": "der",
+    "plural": "Laptops",
+    "translation": "laptop",
+    "category": "technology"
+  },
+  {
+    "id": "tastatur",
+    "word": "Tastatur",
+    "article": "die",
+    "plural": "Tastaturen",
+    "translation": "keyboard",
+    "category": "technology"
+  },
+  {
+    "id": "maus",
+    "word": "Maus",
+    "article": "die",
+    "plural": "Mäuse",
+    "translation": "mouse (computer/animal)",
+    "category": "technology"
+  },
+  {
+    "id": "kamera",
+    "word": "Kamera",
+    "article": "die",
+    "plural": "Kameras",
+    "translation": "camera",
+    "category": "technology"
+  },
+  {
+    "id": "nachricht",
+    "word": "Nachricht",
+    "article": "die",
+    "plural": "Nachrichten",
+    "translation": "message / news",
+    "category": "technology"
+  },
+  {
+    "id": "email",
+    "word": "E-Mail",
+    "article": "die",
+    "plural": "E-Mails",
+    "translation": "e-mail",
+    "category": "technology"
+  },
+  {
+    "id": "webseite",
+    "word": "Webseite",
+    "article": "die",
+    "plural": "Webseiten",
+    "translation": "website / webpage",
+    "category": "technology"
+  },
+  {
+    "id": "handy",
+    "word": "Handy",
+    "article": "das",
+    "plural": "Handys",
+    "translation": "mobile phone",
+    "category": "technology"
+  },
+  {
+    "id": "internet",
+    "word": "Internet",
+    "article": "das",
+    "plural": "",
+    "translation": "internet",
+    "category": "technology"
+  },
+  {
+    "id": "programm",
+    "word": "Programm",
+    "article": "das",
+    "plural": "Programme",
+    "translation": "program / software",
+    "category": "technology"
+  },
+  {
+    "id": "netzwerk",
+    "word": "Netzwerk",
+    "article": "das",
+    "plural": "Netzwerke",
+    "translation": "network",
+    "category": "technology"
+  },
+  {
+    "id": "radio",
+    "word": "Radio",
+    "article": "das",
+    "plural": "Radios",
+    "translation": "radio",
+    "category": "technology"
+  },
+  {
+    "id": "tablet",
+    "word": "Tablet",
+    "article": "das",
+    "plural": "Tablets",
+    "translation": "tablet computer",
+    "category": "technology"
+  },
+  {
+    "id": "passwort",
+    "word": "Passwort",
+    "article": "das",
+    "plural": "Passwörter",
+    "translation": "password",
+    "category": "technology"
+  },
+  {
+    "id": "name",
+    "word": "Name",
+    "article": "der",
+    "plural": "Namen",
+    "translation": "name",
+    "category": "people"
+  },
+  {
+    "id": "alter",
+    "word": "Alter",
+    "article": "das",
+    "plural": "",
+    "translation": "age",
+    "category": "people"
+  },
+  {
+    "id": "geburtstag",
+    "word": "Geburtstag",
+    "article": "der",
+    "plural": "Geburtstage",
+    "translation": "birthday",
+    "category": "people"
+  },
+  {
+    "id": "adresse",
+    "word": "Adresse",
+    "article": "die",
+    "plural": "Adressen",
+    "translation": "address",
+    "category": "people"
+  },
+  {
+    "id": "telefonnummer",
+    "word": "Telefonnummer",
+    "article": "die",
+    "plural": "Telefonnummern",
+    "translation": "phone number",
+    "category": "people"
+  },
+  {
+    "id": "junge",
+    "word": "Junge",
+    "article": "der",
+    "plural": "Jungen",
+    "translation": "boy",
+    "category": "people"
+  },
+  {
+    "id": "herr",
+    "word": "Herr",
+    "article": "der",
+    "plural": "Herren",
+    "translation": "Mr. / gentleman",
+    "category": "people"
+  },
+  {
+    "id": "dame",
+    "word": "Dame",
+    "article": "die",
+    "plural": "Damen",
+    "translation": "lady",
+    "category": "people"
+  },
+  {
+    "id": "gast",
+    "word": "Gast",
+    "article": "der",
+    "plural": "Gäste",
+    "translation": "guest",
+    "category": "people"
+  },
+  {
+    "id": "enkel",
+    "word": "Enkel",
+    "article": "der",
+    "plural": "Enkel",
+    "translation": "grandson",
+    "category": "people"
+  },
+  {
+    "id": "enkelin",
+    "word": "Enkelin",
+    "article": "die",
+    "plural": "Enkelinnen",
+    "translation": "granddaughter",
+    "category": "people"
+  },
+  {
+    "id": "cousin",
+    "word": "Cousin",
+    "article": "der",
+    "plural": "Cousins",
+    "translation": "cousin (male)",
+    "category": "people"
+  },
+  {
+    "id": "cousine",
+    "word": "Cousine",
+    "article": "die",
+    "plural": "Cousinen",
+    "translation": "cousin (female)",
+    "category": "people"
+  },
+  {
+    "id": "verkaeufer",
+    "word": "Verkäufer",
+    "article": "der",
+    "plural": "Verkäufer",
+    "translation": "salesperson (male)",
+    "category": "people"
+  },
+  {
+    "id": "verkaeuferin",
+    "word": "Verkäuferin",
+    "article": "die",
+    "plural": "Verkäuferinnen",
+    "translation": "salesperson (female)",
+    "category": "people"
+  },
+  {
+    "id": "polizist",
+    "word": "Polizist",
+    "article": "der",
+    "plural": "Polizisten",
+    "translation": "police officer (male)",
+    "category": "people"
+  },
+  {
+    "id": "polizistin",
+    "word": "Polizistin",
+    "article": "die",
+    "plural": "Polizistinnen",
+    "translation": "police officer (female)",
+    "category": "people"
+  },
+  {
+    "id": "koch",
+    "word": "Koch",
+    "article": "der",
+    "plural": "Köche",
+    "translation": "cook / chef (male)",
+    "category": "people"
+  },
+  {
+    "id": "kochin",
+    "word": "Köchin",
+    "article": "die",
+    "plural": "Köchinnen",
+    "translation": "cook / chef (female)",
+    "category": "people"
+  },
+  {
+    "id": "baecker",
+    "word": "Bäcker",
+    "article": "der",
+    "plural": "Bäcker",
+    "translation": "baker (male)",
+    "category": "people"
+  },
+  {
+    "id": "baeckerin",
+    "word": "Bäckerin",
+    "article": "die",
+    "plural": "Bäckerinnen",
+    "translation": "baker (female)",
+    "category": "people"
+  },
+  {
+    "id": "kellner",
+    "word": "Kellner",
+    "article": "der",
+    "plural": "Kellner",
+    "translation": "waiter",
+    "category": "people"
+  },
+  {
+    "id": "kellnerin",
+    "word": "Kellnerin",
+    "article": "die",
+    "plural": "Kellnerinnen",
+    "translation": "waitress",
+    "category": "people"
+  },
+  {
+    "id": "handtuch",
+    "word": "Handtuch",
+    "article": "das",
+    "plural": "Handtücher",
+    "translation": "towel",
+    "category": "home"
+  },
+  {
+    "id": "vorhang",
+    "word": "Vorhang",
+    "article": "der",
+    "plural": "Vorhänge",
+    "translation": "curtain",
+    "category": "home"
+  },
+  {
+    "id": "gardine",
+    "word": "Gardine",
+    "article": "die",
+    "plural": "Gardinen",
+    "translation": "curtain / drape",
+    "category": "home"
+  },
+  {
+    "id": "boden",
+    "word": "Boden",
+    "article": "der",
+    "plural": "Böden",
+    "translation": "floor / ground",
+    "category": "home"
+  },
+  {
+    "id": "dach",
+    "word": "Dach",
+    "article": "das",
+    "plural": "Dächer",
+    "translation": "roof",
+    "category": "home"
+  },
+  {
+    "id": "keller",
+    "word": "Keller",
+    "article": "der",
+    "plural": "Keller",
+    "translation": "basement / cellar",
+    "category": "home"
+  },
+  {
+    "id": "aufzug",
+    "word": "Aufzug",
+    "article": "der",
+    "plural": "Aufzüge",
+    "translation": "elevator / lift",
+    "category": "home"
+  },
+  {
+    "id": "staubsauger",
+    "word": "Staubsauger",
+    "article": "der",
+    "plural": "Staubsauger",
+    "translation": "vacuum cleaner",
+    "category": "home"
+  },
+  {
+    "id": "herd",
+    "word": "Herd",
+    "article": "der",
+    "plural": "Herde",
+    "translation": "stove / cooker",
+    "category": "home"
+  },
+  {
+    "id": "couch",
+    "word": "Couch",
+    "article": "die",
+    "plural": "Couches",
+    "translation": "couch / sofa",
+    "category": "home"
+  },
+  {
+    "id": "waschbecken",
+    "word": "Waschbecken",
+    "article": "das",
+    "plural": "Waschbecken",
+    "translation": "sink / washbasin",
+    "category": "home"
+  },
+  {
+    "id": "steckdose",
+    "word": "Steckdose",
+    "article": "die",
+    "plural": "Steckdosen",
+    "translation": "power socket / outlet",
+    "category": "home"
+  },
+  {
+    "id": "mittagessen",
+    "word": "Mittagessen",
+    "article": "das",
+    "plural": "Mittagessen",
+    "translation": "lunch",
+    "category": "food"
+  },
+  {
+    "id": "mahlzeit",
+    "word": "Mahlzeit",
+    "article": "die",
+    "plural": "Mahlzeiten",
+    "translation": "meal",
+    "category": "food"
+  },
+  {
+    "id": "hunger",
+    "word": "Hunger",
+    "article": "der",
+    "plural": "",
+    "translation": "hunger",
+    "category": "food"
+  },
+  {
+    "id": "durst",
+    "word": "Durst",
+    "article": "der",
+    "plural": "",
+    "translation": "thirst",
+    "category": "food"
+  },
+  {
+    "id": "nudel",
+    "word": "Nudel",
+    "article": "die",
+    "plural": "Nudeln",
+    "translation": "pasta / noodle",
+    "category": "food"
+  },
+  {
+    "id": "limonade",
+    "word": "Limonade",
+    "article": "die",
+    "plural": "Limonaden",
+    "translation": "lemonade / soft drink",
+    "category": "food"
+  },
+  {
+    "id": "menu",
+    "word": "Menü",
+    "article": "das",
+    "plural": "Menüs",
+    "translation": "menu",
+    "category": "food"
+  },
+  {
+    "id": "rechnung",
+    "word": "Rechnung",
+    "article": "die",
+    "plural": "Rechnungen",
+    "translation": "bill / invoice",
+    "category": "food"
+  },
+  {
+    "id": "snack",
+    "word": "Snack",
+    "article": "der",
+    "plural": "Snacks",
+    "translation": "snack",
+    "category": "food"
+  },
+  {
+    "id": "honig",
+    "word": "Honig",
+    "article": "der",
+    "plural": "",
+    "translation": "honey",
+    "category": "food"
+  },
+  {
+    "id": "marmelade",
+    "word": "Marmelade",
+    "article": "die",
+    "plural": "Marmeladen",
+    "translation": "jam",
+    "category": "food"
+  },
+  {
+    "id": "nuss",
+    "word": "Nuss",
+    "article": "die",
+    "plural": "Nüsse",
+    "translation": "nut",
+    "category": "food"
+  },
+  {
+    "id": "zitrone",
+    "word": "Zitrone",
+    "article": "die",
+    "plural": "Zitronen",
+    "translation": "lemon",
+    "category": "food"
+  },
+  {
+    "id": "traube",
+    "word": "Traube",
+    "article": "die",
+    "plural": "Trauben",
+    "translation": "grape",
+    "category": "food"
+  },
+  {
+    "id": "geld",
+    "word": "Geld",
+    "article": "das",
+    "plural": "",
+    "translation": "money",
+    "category": "shopping"
+  },
+  {
+    "id": "preis",
+    "word": "Preis",
+    "article": "der",
+    "plural": "Preise",
+    "translation": "price",
+    "category": "shopping"
+  },
+  {
+    "id": "geschenk",
+    "word": "Geschenk",
+    "article": "das",
+    "plural": "Geschenke",
+    "translation": "gift / present",
+    "category": "shopping"
+  },
+  {
+    "id": "kasse",
+    "word": "Kasse",
+    "article": "die",
+    "plural": "Kassen",
+    "translation": "cash register / checkout",
+    "category": "shopping"
+  },
+  {
+    "id": "einkauf",
+    "word": "Einkauf",
+    "article": "der",
+    "plural": "Einkäufe",
+    "translation": "purchase / shopping trip",
+    "category": "shopping"
+  },
+  {
+    "id": "quittung",
+    "word": "Quittung",
+    "article": "die",
+    "plural": "Quittungen",
+    "translation": "receipt",
+    "category": "shopping"
+  },
+  {
+    "id": "rabatt",
+    "word": "Rabatt",
+    "article": "der",
+    "plural": "Rabatte",
+    "translation": "discount",
+    "category": "shopping"
+  },
+  {
+    "id": "muenze",
+    "word": "Münze",
+    "article": "die",
+    "plural": "Münzen",
+    "translation": "coin",
+    "category": "shopping"
+  },
+  {
+    "id": "tuete",
+    "word": "Tüte",
+    "article": "die",
+    "plural": "Tüten",
+    "translation": "bag (shopping)",
+    "category": "shopping"
+  },
+  {
+    "id": "kunde",
+    "word": "Kunde",
+    "article": "der",
+    "plural": "Kunden",
+    "translation": "customer (male)",
+    "category": "shopping"
+  },
+  {
+    "id": "kundin",
+    "word": "Kundin",
+    "article": "die",
+    "plural": "Kundinnen",
+    "translation": "customer (female)",
+    "category": "shopping"
+  },
+  {
+    "id": "schmerz",
+    "word": "Schmerz",
+    "article": "der",
+    "plural": "Schmerzen",
+    "translation": "pain",
+    "category": "health"
+  },
+  {
+    "id": "erkaeltung",
+    "word": "Erkältung",
+    "article": "die",
+    "plural": "Erkältungen",
+    "translation": "cold (illness)",
+    "category": "health"
+  },
+  {
+    "id": "husten",
+    "word": "Husten",
+    "article": "der",
+    "plural": "",
+    "translation": "cough",
+    "category": "health"
+  },
+  {
+    "id": "fieber",
+    "word": "Fieber",
+    "article": "das",
+    "plural": "",
+    "translation": "fever",
+    "category": "health"
+  },
+  {
+    "id": "tablette",
+    "word": "Tablette",
+    "article": "die",
+    "plural": "Tabletten",
+    "translation": "tablet / pill",
+    "category": "health"
+  },
+  {
+    "id": "termin",
+    "word": "Termin",
+    "article": "der",
+    "plural": "Termine",
+    "translation": "appointment",
+    "category": "health"
+  },
+  {
+    "id": "sport",
+    "word": "Sport",
+    "article": "der",
+    "plural": "",
+    "translation": "sport",
+    "category": "hobbies"
+  },
+  {
+    "id": "hobby",
+    "word": "Hobby",
+    "article": "das",
+    "plural": "Hobbys",
+    "translation": "hobby",
+    "category": "hobbies"
+  },
+  {
+    "id": "fussball",
+    "word": "Fußball",
+    "article": "der",
+    "plural": "Fußbälle",
+    "translation": "soccer / football",
+    "category": "hobbies"
+  },
+  {
+    "id": "musik",
+    "word": "Musik",
+    "article": "die",
+    "plural": "",
+    "translation": "music",
+    "category": "hobbies"
+  },
+  {
+    "id": "film",
+    "word": "Film",
+    "article": "der",
+    "plural": "Filme",
+    "translation": "film / movie",
+    "category": "hobbies"
+  },
+  {
+    "id": "spiel",
+    "word": "Spiel",
+    "article": "das",
+    "plural": "Spiele",
+    "translation": "game / play",
+    "category": "hobbies"
+  },
+  {
+    "id": "party",
+    "word": "Party",
+    "article": "die",
+    "plural": "Partys",
+    "translation": "party",
+    "category": "hobbies"
+  },
+  {
+    "id": "tanz",
+    "word": "Tanz",
+    "article": "der",
+    "plural": "Tänze",
+    "translation": "dance",
+    "category": "hobbies"
+  },
+  {
+    "id": "konzert",
+    "word": "Konzert",
+    "article": "das",
+    "plural": "Konzerte",
+    "translation": "concert",
+    "category": "hobbies"
+  },
+  {
+    "id": "freizeit",
+    "word": "Freizeit",
+    "article": "die",
+    "plural": "",
+    "translation": "free time / leisure",
+    "category": "hobbies"
+  },
+  {
+    "id": "verein",
+    "word": "Verein",
+    "article": "der",
+    "plural": "Vereine",
+    "translation": "club / association",
+    "category": "hobbies"
+  },
+  {
+    "id": "buero",
+    "word": "Büro",
+    "article": "das",
+    "plural": "Büros",
+    "translation": "office",
+    "category": "work"
+  },
+  {
+    "id": "chef",
+    "word": "Chef",
+    "article": "der",
+    "plural": "Chefs",
+    "translation": "boss (male)",
+    "category": "work"
+  },
+  {
+    "id": "chefin",
+    "word": "Chefin",
+    "article": "die",
+    "plural": "Chefinnen",
+    "translation": "boss (female)",
+    "category": "work"
+  },
+  {
+    "id": "firma",
+    "word": "Firma",
+    "article": "die",
+    "plural": "Firmen",
+    "translation": "company / firm",
+    "category": "work"
+  },
+  {
+    "id": "gehalt",
+    "word": "Gehalt",
+    "article": "das",
+    "plural": "Gehälter",
+    "translation": "salary",
+    "category": "work"
+  },
+  {
+    "id": "stelle",
+    "word": "Stelle",
+    "article": "die",
+    "plural": "Stellen",
+    "translation": "job position",
+    "category": "work"
+  },
+  {
+    "id": "projekt",
+    "word": "Projekt",
+    "article": "das",
+    "plural": "Projekte",
+    "translation": "project",
+    "category": "work"
+  },
+  {
+    "id": "aufgabe",
+    "word": "Aufgabe",
+    "article": "die",
+    "plural": "Aufgaben",
+    "translation": "task / assignment",
+    "category": "work"
+  },
+  {
+    "id": "besprechung",
+    "word": "Besprechung",
+    "article": "die",
+    "plural": "Besprechungen",
+    "translation": "meeting",
+    "category": "work"
+  },
+  {
+    "id": "vertrag",
+    "word": "Vertrag",
+    "article": "der",
+    "plural": "Verträge",
+    "translation": "contract",
+    "category": "work"
+  },
+  {
+    "id": "schicht",
+    "word": "Schicht",
+    "article": "die",
+    "plural": "Schichten",
+    "translation": "shift (work)",
+    "category": "work"
+  },
+  {
+    "id": "land",
+    "word": "Land",
+    "article": "das",
+    "plural": "Länder",
+    "translation": "country / land",
+    "category": "city"
+  },
+  {
+    "id": "dorf",
+    "word": "Dorf",
+    "article": "das",
+    "plural": "Dörfer",
+    "translation": "village",
+    "category": "city"
+  },
+  {
+    "id": "insel",
+    "word": "Insel",
+    "article": "die",
+    "plural": "Inseln",
+    "translation": "island",
+    "category": "city"
+  },
+  {
+    "id": "bruecke",
+    "word": "Brücke",
+    "article": "die",
+    "plural": "Brücken",
+    "translation": "bridge",
+    "category": "city"
+  },
+  {
+    "id": "turm",
+    "word": "Turm",
+    "article": "der",
+    "plural": "Türme",
+    "translation": "tower",
+    "category": "city"
+  },
+  {
+    "id": "gebaeude",
+    "word": "Gebäude",
+    "article": "das",
+    "plural": "Gebäude",
+    "translation": "building",
+    "category": "city"
+  },
+  {
+    "id": "polizei",
+    "word": "Polizei",
+    "article": "die",
+    "plural": "",
+    "translation": "police",
+    "category": "city"
+  },
+  {
+    "id": "feuerwehr",
+    "word": "Feuerwehr",
+    "article": "die",
+    "plural": "",
+    "translation": "fire department",
+    "category": "city"
+  },
+  {
+    "id": "weg",
+    "word": "Weg",
+    "article": "der",
+    "plural": "Wege",
+    "translation": "way / path",
+    "category": "transport"
+  },
+  {
+    "id": "ecke",
+    "word": "Ecke",
+    "article": "die",
+    "plural": "Ecken",
+    "translation": "corner",
+    "category": "transport"
+  },
+  {
+    "id": "kreuzung",
+    "word": "Kreuzung",
+    "article": "die",
+    "plural": "Kreuzungen",
+    "translation": "intersection / crossroads",
+    "category": "transport"
+  },
+  {
+    "id": "verkehr",
+    "word": "Verkehr",
+    "article": "der",
+    "plural": "",
+    "translation": "traffic",
+    "category": "transport"
+  },
+  {
+    "id": "tankstelle",
+    "word": "Tankstelle",
+    "article": "die",
+    "plural": "Tankstellen",
+    "translation": "gas station",
+    "category": "transport"
+  },
+  {
+    "id": "benzin",
+    "word": "Benzin",
+    "article": "das",
+    "plural": "",
+    "translation": "gasoline / petrol",
+    "category": "transport"
+  },
+  {
+    "id": "fuehrerschein",
+    "word": "Führerschein",
+    "article": "der",
+    "plural": "Führerscheine",
+    "translation": "driver's license",
+    "category": "transport"
+  },
+  {
+    "id": "autobahn",
+    "word": "Autobahn",
+    "article": "die",
+    "plural": "Autobahnen",
+    "translation": "highway / motorway",
+    "category": "transport"
+  },
+  {
+    "id": "stau",
+    "word": "Stau",
+    "article": "der",
+    "plural": "Staus",
+    "translation": "traffic jam",
+    "category": "transport"
+  },
+  {
+    "id": "fahrer",
+    "word": "Fahrer",
+    "article": "der",
+    "plural": "Fahrer",
+    "translation": "driver (male)",
+    "category": "transport"
+  },
+  {
+    "id": "fahrerin",
+    "word": "Fahrerin",
+    "article": "die",
+    "plural": "Fahrerinnen",
+    "translation": "driver (female)",
+    "category": "transport"
+  },
+  {
+    "id": "richtung",
+    "word": "Richtung",
+    "article": "die",
+    "plural": "Richtungen",
+    "translation": "direction",
+    "category": "transport"
+  },
+  {
+    "id": "schmetterling",
+    "word": "Schmetterling",
+    "article": "der",
+    "plural": "Schmetterlinge",
+    "translation": "butterfly",
+    "category": "nature"
+  },
+  {
+    "id": "schwein",
+    "word": "Schwein",
+    "article": "das",
+    "plural": "Schweine",
+    "translation": "pig",
+    "category": "nature"
+  },
+  {
+    "id": "hase",
+    "word": "Hase",
+    "article": "der",
+    "plural": "Hasen",
+    "translation": "rabbit / hare",
+    "category": "nature"
+  },
+  {
+    "id": "schaf",
+    "word": "Schaf",
+    "article": "das",
+    "plural": "Schafe",
+    "translation": "sheep",
+    "category": "nature"
+  },
+  {
+    "id": "baer",
+    "word": "Bär",
+    "article": "der",
+    "plural": "Bären",
+    "translation": "bear",
+    "category": "nature"
+  },
+  {
+    "id": "loewe",
+    "word": "Löwe",
+    "article": "der",
+    "plural": "Löwen",
+    "translation": "lion",
+    "category": "nature"
+  },
+  {
+    "id": "elefant",
+    "word": "Elefant",
+    "article": "der",
+    "plural": "Elefanten",
+    "translation": "elephant",
+    "category": "nature"
+  },
+  {
+    "id": "ente",
+    "word": "Ente",
+    "article": "die",
+    "plural": "Enten",
+    "translation": "duck",
+    "category": "nature"
+  },
+  {
+    "id": "huhn",
+    "word": "Huhn",
+    "article": "das",
+    "plural": "Hühner",
+    "translation": "chicken (animal)",
+    "category": "nature"
+  },
+  {
+    "id": "frosch",
+    "word": "Frosch",
+    "article": "der",
+    "plural": "Frösche",
+    "translation": "frog",
+    "category": "nature"
+  },
+  {
+    "id": "donner",
+    "word": "Donner",
+    "article": "der",
+    "plural": "",
+    "translation": "thunder",
+    "category": "nature"
+  },
+  {
+    "id": "blitz",
+    "word": "Blitz",
+    "article": "der",
+    "plural": "Blitze",
+    "translation": "lightning / flash",
+    "category": "nature"
+  },
+  {
+    "id": "temperatur",
+    "word": "Temperatur",
+    "article": "die",
+    "plural": "Temperaturen",
+    "translation": "temperature",
+    "category": "nature"
+  },
+  {
+    "id": "grad",
+    "word": "Grad",
+    "article": "der",
+    "plural": "Grad",
+    "translation": "degree",
+    "category": "nature"
+  },
+  {
+    "id": "nebel",
+    "word": "Nebel",
+    "article": "der",
+    "plural": "",
+    "translation": "fog / mist",
+    "category": "nature"
+  },
+  {
+    "id": "hitze",
+    "word": "Hitze",
+    "article": "die",
+    "plural": "",
+    "translation": "heat",
+    "category": "nature"
+  },
+  {
+    "id": "kalender",
+    "word": "Kalender",
+    "article": "der",
+    "plural": "Kalender",
+    "translation": "calendar",
+    "category": "time"
+  },
+  {
+    "id": "feiertag",
+    "word": "Feiertag",
+    "article": "der",
+    "plural": "Feiertage",
+    "translation": "public holiday",
+    "category": "time"
+  },
+  {
+    "id": "anruf",
+    "word": "Anruf",
+    "article": "der",
+    "plural": "Anrufe",
+    "translation": "phone call",
+    "category": "technology"
+  },
+  {
+    "id": "foto",
+    "word": "Foto",
+    "article": "das",
+    "plural": "Fotos",
+    "translation": "photo",
+    "category": "technology"
+  },
+  {
+    "id": "karte",
+    "word": "Karte",
+    "article": "die",
+    "plural": "Karten",
+    "translation": "card / map",
+    "category": "technology"
+  },
+  {
+    "id": "akku",
+    "word": "Akku",
+    "article": "der",
+    "plural": "Akkus",
+    "translation": "battery (rechargeable)",
+    "category": "technology"
+  },
+  {
+    "id": "ladegeraet",
+    "word": "Ladegerät",
+    "article": "das",
+    "plural": "Ladegeräte",
+    "translation": "charger",
+    "category": "technology"
+  },
+  {
+    "id": "stecker",
+    "word": "Stecker",
+    "article": "der",
+    "plural": "Stecker",
+    "translation": "plug",
+    "category": "technology"
+  },
+  {
+    "id": "kabel",
+    "word": "Kabel",
+    "article": "das",
+    "plural": "Kabel",
+    "translation": "cable",
+    "category": "technology"
+  },
+  {
+    "id": "schal",
+    "word": "Schal",
+    "article": "der",
+    "plural": "Schals",
+    "translation": "scarf",
+    "category": "clothing"
+  },
+  {
+    "id": "handschuh",
+    "word": "Handschuh",
+    "article": "der",
+    "plural": "Handschuhe",
+    "translation": "glove",
+    "category": "clothing"
+  },
+  {
+    "id": "kleidung",
+    "word": "Kleidung",
+    "article": "die",
+    "plural": "",
+    "translation": "clothing",
+    "category": "clothing"
+  },
+  {
+    "id": "schluesselbund",
+    "word": "Schlüsselbund",
+    "article": "der",
+    "plural": "Schlüsselbunde",
+    "translation": "key ring",
+    "category": "home"
+  },
+  {
+    "id": "problem",
+    "word": "Problem",
+    "article": "das",
+    "plural": "Probleme",
+    "translation": "problem",
+    "category": "school"
+  },
+  {
+    "id": "idee",
+    "word": "Idee",
+    "article": "die",
+    "plural": "Ideen",
+    "translation": "idea",
+    "category": "school"
+  },
+  {
+    "id": "plan",
+    "word": "Plan",
+    "article": "der",
+    "plural": "Pläne",
+    "translation": "plan",
+    "category": "school"
+  },
+  {
+    "id": "information",
+    "word": "Information",
+    "article": "die",
+    "plural": "Informationen",
+    "translation": "information",
+    "category": "school"
+  },
+  {
+    "id": "nummer",
+    "word": "Nummer",
+    "article": "die",
+    "plural": "Nummern",
+    "translation": "number",
+    "category": "school"
+  }
+]
