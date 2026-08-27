@@ -10,6 +10,14 @@
       name="description"
       content="Artikel Trainer – German noun article & vocabulary practice with spaced repetition"
     />
+    <meta
+      property="og:image"
+      content="https://raw.githubusercontent.com/zmercury/artikel-lerner/main/banner.jpg"
+    />
+
+    <meta property="og:image:type" content="image/jpeg" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
     <title>Artikel Trainer</title>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -69,10 +77,16 @@
               </p>
 
               <div class="hero-actions">
-                <button class="btn btn-hero" id="btn-start-practice" onclick="openPracticeModal()">
+                <button
+                  class="btn btn-hero"
+                  id="btn-start-practice"
+                  onclick="openPracticeModal()"
+                >
                   <div class="hero-btn-content">
                     <span class="hero-btn-title">▶ Start Practice</span>
-                    <span class="hero-btn-mode-tag" id="hero-active-mode-tag">Article Mode · All Decks</span>
+                    <span class="hero-btn-mode-tag" id="hero-active-mode-tag"
+                      >Article Mode · All Decks</span
+                    >
                   </div>
                 </button>
                 <button
@@ -132,9 +146,7 @@
           <div class="section-header" style="margin-top: 2.25rem">
             <div>
               <h2 class="section-title">📂 Vocabulary Decks</h2>
-              <div class="section-hint">
-                Tap a deck to practice that topic
-              </div>
+              <div class="section-hint">Tap a deck to practice that topic</div>
             </div>
           </div>
           <div class="category-pills" id="category-grid"></div>
@@ -154,7 +166,11 @@
               >
                 ←
               </button>
-              <button class="mode-label-btn" onclick="openPracticeModal()" title="Change study mode or topic">
+              <button
+                class="mode-label-btn"
+                onclick="openPracticeModal()"
+                title="Change study mode or topic"
+              >
                 <span id="mode-label">Article Mode</span>
                 <span class="mode-label-caret">▾ Change</span>
               </button>
@@ -369,9 +385,11 @@
               <strong style="color: var(--text)">1</strong> → DER &nbsp;|&nbsp;
               <strong style="color: var(--text)">2</strong> → DIE &nbsp;|&nbsp;
               <strong style="color: var(--text)">3</strong> → DAS &nbsp;|&nbsp;
-              <strong style="color: var(--text)">S</strong> → Skip / show answer &nbsp;|&nbsp;
-              <strong style="color: var(--text)">P</strong> → Listen &nbsp;|&nbsp;
-              <strong style="color: var(--text)">Enter</strong> → Check answer, then next card &nbsp;|&nbsp;
+              <strong style="color: var(--text)">S</strong> → Skip / show answer
+              &nbsp;|&nbsp; <strong style="color: var(--text)">P</strong> →
+              Listen &nbsp;|&nbsp;
+              <strong style="color: var(--text)">Enter</strong> → Check answer,
+              then next card &nbsp;|&nbsp;
               <strong style="color: var(--text)">Space</strong> → Next card
             </div>
           </div>
@@ -417,25 +435,53 @@
       <div class="modal modal-wide">
         <div class="modal-header-row">
           <div>
-            <div class="modal-title" style="margin-bottom: 0.2rem">🎯 Choose What to Practice</div>
-            <div class="modal-subtitle">Pick a study mode and vocabulary topic to begin</div>
+            <div class="modal-title" style="margin-bottom: 0.2rem">
+              🎯 Choose What to Practice
+            </div>
+            <div class="modal-subtitle">
+              Pick a study mode and vocabulary topic to begin
+            </div>
           </div>
-          <button class="icon-btn" onclick="closeModal('practice-modal')" title="Close">✕</button>
+          <button
+            class="icon-btn"
+            onclick="closeModal('practice-modal')"
+            title="Close"
+          >
+            ✕
+          </button>
         </div>
         <div class="modal-body" style="margin-bottom: 1.25rem">
           <div class="modal-section-title">1. Study Mode</div>
           <div class="modal-mode-grid" id="modal-mode-grid"></div>
 
-          <div class="modal-section-title" style="margin-top: 1.25rem">2. Vocabulary Topic / Deck</div>
+          <div class="modal-section-title" style="margin-top: 1.25rem">
+            2. Vocabulary Topic / Deck
+          </div>
           <div class="modal-deck-selector">
-            <select class="filter-select" id="modal-practice-category" style="width: 100%; font-size: 0.95rem; padding: 0.75rem 1rem;">
+            <select
+              class="filter-select"
+              id="modal-practice-category"
+              style="width: 100%; font-size: 0.95rem; padding: 0.75rem 1rem"
+            >
               <option value="all">📁 All Categories (Full Vocabulary)</option>
             </select>
           </div>
         </div>
-        <div class="modal-actions" style="justify-content: space-between; align-items: center">
-          <button class="btn btn-secondary" onclick="closeModal('practice-modal')">Cancel</button>
-          <button class="btn btn-primary btn-start-modal" id="btn-modal-start" onclick="confirmPracticeModal()">
+        <div
+          class="modal-actions"
+          style="justify-content: space-between; align-items: center"
+        >
+          <button
+            class="btn btn-secondary"
+            onclick="closeModal('practice-modal')"
+          >
+            Cancel
+          </button>
+          <button
+            class="btn btn-primary btn-start-modal"
+            id="btn-modal-start"
+            onclick="confirmPracticeModal()"
+          >
             <span id="modal-start-label">▶ Start Practice (Article Mode)</span>
           </button>
         </div>
