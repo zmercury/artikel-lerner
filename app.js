@@ -18285,6 +18285,7 @@ let sessionStats    = { correct: 0, wrong: 0, total: 0 };
 let currentCard     = null;    // { word, mode, answered }
 let lastWordId      = null;    // avoid immediate repeats
 let selectedArticle = null; // for article+word mode pill selection
+let modalSelectedMode = 'article';
 
 async function loadExtendedVocabulary() {
   try {
@@ -18684,7 +18685,18 @@ const CAT_ICONS = {
 function practiceCategory(cat) {
   settings.practiceCategory = cat;
   saveLS(LS_KEY_SETTINGS, settings);
+  updateHeroModeLabel();
   startMode(settings.activeMode || 'article');
+}
+
+function updateHeroModeLabel() {
+  const mode = MODES.find(m => m.id === settings.activeMode) || MODES[0];
+  const cat = settings.practiceCategory || 'all';
+  const catText = cat === 'all' ? 'All Decks' : (cat.charAt(0).toUpperCase() + cat.slice(1));
+  const tagEl = document.getElementById('hero-active-mode-tag');
+  if (tagEl) {
+    tagEl.textContent = `${mode.name} · ${catText}`;
+  }
 }
 
 function renderDashboard() {
@@ -18715,6 +18727,8 @@ function renderDashboard() {
   if (elWeak) elWeak.textContent = weak;
   if (elAcc) elAcc.textContent = overallAcc + '%';
   if (elStreak) elStreak.textContent = streakData.count;
+
+  updateHeroModeLabel();
 
   // Categories
   const cats = {};
@@ -18758,13 +18772,91 @@ function renderDashboard() {
 }
 
 /* ============================================================
-   PRACTICE VIEW
+   PRACTICE VIEW & SETUP MODAL
    ============================================================ */
+function openPracticeModal(modeId) {
+  modalSelectedMode = modeId || settings.activeMode || 'article';
+  
+  // Populate categories in modal
+  const cats = [...new Set(vocabulary.map(w => w.category))].sort();
+  const catSel = document.getElementById('modal-practice-category');
+  if (catSel) {
+    catSel.innerHTML = '<option value="all">📁 All Categories (Full Vocabulary)</option>' +
+      cats.map(c => {
+        const icon = CAT_ICONS[c] || '📂';
+        const count = vocabulary.filter(w => w.category === c).length;
+        return `<option value="${c}">${icon} ${c.charAt(0).toUpperCase() + c.slice(1)} (${count} words)</option>`;
+      }).join('');
+    catSel.value = settings.practiceCategory || 'all';
+  }
+
+  renderModalModes();
+  openModal('practice-modal');
+}
+
+function renderModalModes() {
+  const grid = document.getElementById('modal-mode-grid');
+  if (!grid) return;
+  grid.innerHTML = '';
+
+  const now = Date.now();
+  const activeVocab = vocabulary.filter(w => progress[w.id] && !progress[w.id].archived);
+  const weakCount = activeVocab.filter(w => progress[w.id].level === 'weak' || (progress[w.id].attempts > 0 && progress[w.id].accuracy < 60)).length;
+  const dueCount = activeVocab.filter(w => progress[w.id].nextReview && progress[w.id].nextReview <= now).length;
+  const pluralCount = activeVocab.filter(w => w.plural && w.plural.trim() !== '').length;
+
+  MODES.forEach(m => {
+    let badgeText = '';
+    if (m.id === 'article' || m.id === 'article_word') badgeText = `${activeVocab.length} words`;
+    else if (m.id === 'plural') badgeText = `${pluralCount} nouns`;
+    else if (m.id === 'weak') badgeText = `${weakCount} weak`;
+    else if (m.id === 'review') badgeText = `${dueCount} due`;
+    else if (m.id === 'mixed') badgeText = 'Random mix';
+
+    const isSelected = modalSelectedMode === m.id;
+    const card = document.createElement('div');
+    card.className = `modal-mode-card ${isSelected ? 'selected' : ''}`;
+    card.innerHTML = `
+      <div class="modal-mode-header">
+        <div class="modal-mode-name"><span>${m.icon}</span> <span>${m.name}</span></div>
+        <span class="modal-mode-badge">${badgeText}</span>
+      </div>
+      <div class="modal-mode-desc">${m.desc}</div>`;
+    card.addEventListener('click', () => selectModalMode(m.id));
+    grid.appendChild(card);
+  });
+
+  const curMode = MODES.find(m => m.id === modalSelectedMode);
+  const startLbl = document.getElementById('modal-start-label');
+  if (startLbl && curMode) {
+    startLbl.textContent = `▶ Start ${curMode.name}`;
+  }
+}
+
+function selectModalMode(modeId) {
+  modalSelectedMode = modeId;
+  renderModalModes();
+}
+
+function confirmPracticeModal() {
+  const catSel = document.getElementById('modal-practice-category');
+  if (catSel) {
+    settings.practiceCategory = catSel.value;
+  }
+  settings.activeMode = modalSelectedMode || 'article';
+  saveLS(LS_KEY_SETTINGS, settings);
+  closeModal('practice-modal');
+  updateHeroModeLabel();
+  renderModeCards();
+  startMode(settings.activeMode);
+}
+
 function startMode(modeId) {
   settings.activeMode = modeId;
   saveLS(LS_KEY_SETTINGS, settings);
   sessionStats = { correct: 0, wrong: 0, total: 0 };
   selectedArticle = null;
+  updateHeroModeLabel();
   showView('view-practice');
   updateModeLabel();
   loadNextCard();
@@ -18773,7 +18865,7 @@ function startMode(modeId) {
 function updateModeLabel() {
   const mode = MODES.find(m => m.id === settings.activeMode);
   const el = document.getElementById('mode-label');
-  if (el) el.textContent = mode ? mode.name : '';
+  if (el) el.textContent = mode ? mode.name : 'Article Mode';
 }
 
 function updateSessionStats() {
@@ -18835,7 +18927,10 @@ function renderNoWords() {
         <div class="empty-state-icon">✅</div>
         <div class="card-question" style="font-size:1.5rem;margin-bottom:0.5rem;">${title}</div>
         <div class="card-sub" style="margin-bottom:1.5rem;">${desc}</div>
-        ${showSwitchBtn ? `<button class="btn btn-primary" onclick="startMode('article')">Practice All Words →</button>` : ''}
+        <div style="display:flex;gap:0.75rem;justify-content:center;flex-wrap:wrap;">
+          <button class="btn btn-secondary" onclick="openPracticeModal()">Choose Another Mode 🎯</button>
+          ${showSwitchBtn ? `<button class="btn btn-primary" onclick="startMode('article')">Practice All Words →</button>` : ''}
+        </div>
       </div>`;
   }
 
@@ -19480,6 +19575,7 @@ async function boot() {
   renderModeCards();
   renderVocabView();
   renderSettings();
+  updateHeroModeLabel();
 
   showView('view-dashboard');
 }
@@ -19500,7 +19596,7 @@ function toggleTheme() {
 }
 
 /* ============================================================
-   MODE CARDS
+   MODE CARDS (Dashboard Grid)
    ============================================================ */
 function renderModeCards() {
   const grid = document.getElementById('mode-cards-grid');
@@ -19548,25 +19644,28 @@ function renderModeCards() {
 /* ============================================================
    GLOBAL EXPORTS
    ============================================================ */
-window.submitArticle     = submitArticle;
-window.submitPlural      = submitPlural;
-window.submitArticleWord = submitArticleWord;
-window.selectArticlePill = selectArticlePill;
-window.loadNextCard      = loadNextCard;
-window.skipCard          = skipCard;
-window.openWordDetail    = openWordDetail;
-window.toggleArchive     = toggleArchive;
-window.resetWordProgress = resetWordProgress;
-window.showView          = showView;
-window.closeModal        = closeModal;
-window.closeAllModals    = closeAllModals;
-window.toggleTheme       = toggleTheme;
-window.startMode         = startMode;
-window.exportProgress    = exportProgress;
-window.practiceCategory  = practiceCategory;
-window.speakGerman       = speakGerman;
-window.speakCurrentCard  = speakCurrentCard;
-window.speakSentence     = speakSentence;
+window.submitArticle       = submitArticle;
+window.submitPlural        = submitPlural;
+window.submitArticleWord   = submitArticleWord;
+window.selectArticlePill   = selectArticlePill;
+window.loadNextCard        = loadNextCard;
+window.skipCard            = skipCard;
+window.openWordDetail      = openWordDetail;
+window.toggleArchive       = toggleArchive;
+window.resetWordProgress   = resetWordProgress;
+window.showView            = showView;
+window.closeModal          = closeModal;
+window.closeAllModals      = closeAllModals;
+window.toggleTheme         = toggleTheme;
+window.startMode           = startMode;
+window.exportProgress      = exportProgress;
+window.practiceCategory    = practiceCategory;
+window.speakGerman         = speakGerman;
+window.speakCurrentCard    = speakCurrentCard;
+window.speakSentence       = speakSentence;
+window.openPracticeModal   = openPracticeModal;
+window.selectModalMode     = selectModalMode;
+window.confirmPracticeModal= confirmPracticeModal;
 
 /* ============================================================
    DOM READY
@@ -19577,9 +19676,12 @@ document.addEventListener('DOMContentLoaded', () => {
   $$('.nav-btn, .mobile-nav-btn').forEach(btn => {
     btn.addEventListener('click', () => {
       const view = btn.dataset.view;
-      if (view === 'view-practice' && (!currentCard || !document.getElementById('view-practice').classList.contains('active'))) {
-        startMode(settings.activeMode || 'article');
-        return;
+      if (view === 'view-practice') {
+        const isPracticeActive = document.getElementById('view-practice').classList.contains('active');
+        if (!isPracticeActive || !currentCard) {
+          openPracticeModal();
+          return;
+        }
       }
       showView(view);
     });
@@ -19625,6 +19727,7 @@ document.addEventListener('DOMContentLoaded', () => {
     setCat.addEventListener('change', e => {
       settings.practiceCategory = e.target.value;
       saveLS(LS_KEY_SETTINGS, settings);
+      updateHeroModeLabel();
     });
   }
 
@@ -19696,11 +19799,6 @@ document.addEventListener('DOMContentLoaded', () => {
       if (e.target === bd) closeAllModals();
     });
   });
-
-  const btnStart = document.getElementById('btn-start-practice');
-  if (btnStart) {
-    btnStart.addEventListener('click', () => startMode(settings.activeMode));
-  }
 
   const btnBack = document.getElementById('btn-back-to-dash');
   if (btnBack) {

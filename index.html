@@ -69,14 +69,18 @@
               </p>
 
               <div class="hero-actions">
-                <button class="btn btn-hero" id="btn-start-practice">
-                  <span>▶ Start Practice</span>
+                <button class="btn btn-hero" id="btn-start-practice" onclick="openPracticeModal()">
+                  <div class="hero-btn-content">
+                    <span class="hero-btn-title">▶ Start Practice</span>
+                    <span class="hero-btn-mode-tag" id="hero-active-mode-tag">Article Mode · All Decks</span>
+                  </div>
                 </button>
                 <button
                   class="btn btn-secondary btn-hero-sub"
-                  onclick="startMode('mixed')"
+                  onclick="openPracticeModal()"
+                  title="Choose what to practice"
                 >
-                  <span>🎲 Quick Mixed</span>
+                  <span>🎯 Choose Mode</span>
                 </button>
               </div>
             </div>
@@ -150,7 +154,10 @@
               >
                 ←
               </button>
-              <span class="mode-label" id="mode-label">Article Mode</span>
+              <button class="mode-label-btn" onclick="openPracticeModal()" title="Change study mode or topic">
+                <span id="mode-label">Article Mode</span>
+                <span class="mode-label-caret">▾ Change</span>
+              </button>
               <div class="session-stats">
                 <span class="session-stat"
                   >✅ <strong id="session-correct">0</strong></span
@@ -404,6 +411,36 @@
     <!-- /app-shell -->
 
     <!-- ============ MODALS ============ -->
+
+    <!-- Practice Mode & Category Setup Modal -->
+    <div class="modal-backdrop" id="practice-modal">
+      <div class="modal modal-wide">
+        <div class="modal-header-row">
+          <div>
+            <div class="modal-title" style="margin-bottom: 0.2rem">🎯 Choose What to Practice</div>
+            <div class="modal-subtitle">Pick a study mode and vocabulary topic to begin</div>
+          </div>
+          <button class="icon-btn" onclick="closeModal('practice-modal')" title="Close">✕</button>
+        </div>
+        <div class="modal-body" style="margin-bottom: 1.25rem">
+          <div class="modal-section-title">1. Study Mode</div>
+          <div class="modal-mode-grid" id="modal-mode-grid"></div>
+
+          <div class="modal-section-title" style="margin-top: 1.25rem">2. Vocabulary Topic / Deck</div>
+          <div class="modal-deck-selector">
+            <select class="filter-select" id="modal-practice-category" style="width: 100%; font-size: 0.95rem; padding: 0.75rem 1rem;">
+              <option value="all">📁 All Categories (Full Vocabulary)</option>
+            </select>
+          </div>
+        </div>
+        <div class="modal-actions" style="justify-content: space-between; align-items: center">
+          <button class="btn btn-secondary" onclick="closeModal('practice-modal')">Cancel</button>
+          <button class="btn btn-primary btn-start-modal" id="btn-modal-start" onclick="confirmPracticeModal()">
+            <span id="modal-start-label">▶ Start Practice (Article Mode)</span>
+          </button>
+        </div>
+      </div>
+    </div>
 
     <!-- Word Detail Modal -->
     <div class="modal-backdrop" id="word-detail-modal">
