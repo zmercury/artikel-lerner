@@ -15,7 +15,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Tische",
     "translation": "table",
-    "category": "home"
+    "category": "home",
+    "sentence_de": "Der Tisch passt optisch perfekt in das Zimmer.",
+    "sentence_en": "The table fits perfectly into the room."
   },
   {
     "id": "stuhl",
@@ -23,7 +25,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Stühle",
     "translation": "chair",
-    "category": "home"
+    "category": "home",
+    "sentence_de": "Der Stuhl passt optisch perfekt in das Zimmer.",
+    "sentence_en": "The chair fits perfectly into the room."
   },
   {
     "id": "schrank",
@@ -31,7 +35,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Schränke",
     "translation": "cupboard / wardrobe",
-    "category": "home"
+    "category": "home",
+    "sentence_de": "Der Schrank passt optisch perfekt in das Zimmer.",
+    "sentence_en": "The cupboard fits perfectly into the room."
   },
   {
     "id": "teppich",
@@ -39,7 +45,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Teppiche",
     "translation": "carpet",
-    "category": "home"
+    "category": "home",
+    "sentence_de": "Der Teppich passt optisch perfekt in das Zimmer.",
+    "sentence_en": "The carpet fits perfectly into the room."
   },
   {
     "id": "spiegel",
@@ -47,7 +55,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Spiegel",
     "translation": "mirror",
-    "category": "home"
+    "category": "home",
+    "sentence_de": "Der Spiegel passt optisch perfekt in das Zimmer.",
+    "sentence_en": "The mirror fits perfectly into the room."
   },
   {
     "id": "balkon",
@@ -55,7 +65,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Balkone",
     "translation": "balcony",
-    "category": "home"
+    "category": "home",
+    "sentence_de": "Der Balkon gehört zu einem gemütlichen Zuhause.",
+    "sentence_en": "The balcony is part of a cozy home."
   },
   {
     "id": "garten",
@@ -63,7 +75,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Gärten",
     "translation": "garden",
-    "category": "home"
+    "category": "home",
+    "sentence_de": "Der Garten gehört zu einem gemütlichen Zuhause.",
+    "sentence_en": "The garden is part of a cozy home."
   },
   {
     "id": "schluessel",
@@ -71,7 +85,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Schlüssel",
     "translation": "key",
-    "category": "home"
+    "category": "home",
+    "sentence_de": "Der Schlüssel ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The key is a useful item in the house."
   },
   {
     "id": "kuehlschrank",
@@ -79,7 +95,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Kühlschränke",
     "translation": "refrigerator",
-    "category": "home"
+    "category": "home",
+    "sentence_de": "Der Kühlschrank passt optisch perfekt in das Zimmer.",
+    "sentence_en": "The refrigerator fits perfectly into the room."
   },
   {
     "id": "ofen",
@@ -87,7 +105,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Öfen",
     "translation": "oven / stove",
-    "category": "home"
+    "category": "home",
+    "sentence_de": "Der Ofen ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The oven is a useful item in the house."
   },
   {
     "id": "teller",
@@ -95,7 +115,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Teller",
     "translation": "plate",
-    "category": "home"
+    "category": "home",
+    "sentence_de": "Der Teller ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The plate is a useful item in the house."
   },
   {
     "id": "loeffel",
@@ -103,7 +125,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Löffel",
     "translation": "spoon",
-    "category": "home"
+    "category": "home",
+    "sentence_de": "Der Löffel ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The spoon is a useful item in the house."
   },
   {
     "id": "muell",
@@ -111,7 +135,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "",
     "translation": "trash / garbage",
-    "category": "home"
+    "category": "home",
+    "sentence_de": "Der Müll ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The trash is a useful item in the house."
   },
   {
     "id": "lampe",
@@ -119,7 +145,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "Lampen",
     "translation": "lamp",
-    "category": "home"
+    "category": "home",
+    "sentence_de": "Die Lampe passt optisch perfekt in das Zimmer.",
+    "sentence_en": "The lamp fits perfectly into the room."
   },
   {
     "id": "kueche",
@@ -127,7 +155,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "Küchen",
     "translation": "kitchen",
-    "category": "home"
+    "category": "home",
+    "sentence_de": "Die Küche ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The kitchen is a useful item in the house."
   },
   {
     "id": "tuer",
@@ -135,7 +165,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "Türen",
     "translation": "door",
-    "category": "home"
+    "category": "home",
+    "sentence_de": "Die Tür ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The door is a useful item in the house."
   },
   {
     "id": "wand",
@@ -143,7 +175,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "Wände",
     "translation": "wall",
-    "category": "home"
+    "category": "home",
+    "sentence_de": "Die Wand gehört zu einem gemütlichen Zuhause.",
+    "sentence_en": "The wall is part of a cozy home."
   },
   {
     "id": "treppe",
@@ -151,7 +185,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "Treppen",
     "translation": "stairs / staircase",
-    "category": "home"
+    "category": "home",
+    "sentence_de": "Die Treppe gehört zu einem gemütlichen Zuhause.",
+    "sentence_en": "The stairs is part of a cozy home."
   },
   {
     "id": "wohnung",
@@ -159,7 +195,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "Wohnungen",
     "translation": "apartment",
-    "category": "home"
+    "category": "home",
+    "sentence_de": "Die Wohnung ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The apartment is a useful item in the house."
   },
   {
     "id": "dusche",
@@ -167,7 +205,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "Duschen",
     "translation": "shower",
-    "category": "home"
+    "category": "home",
+    "sentence_de": "Die Dusche ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The shower is a useful item in the house."
   },
   {
     "id": "waschmaschine",
@@ -175,7 +215,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "Waschmaschinen",
     "translation": "washing machine",
-    "category": "home"
+    "category": "home",
+    "sentence_de": "Die Waschmaschine ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The washing machine is a useful item in the house."
   },
   {
     "id": "gabel",
@@ -183,7 +225,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "Gabeln",
     "translation": "fork",
-    "category": "home"
+    "category": "home",
+    "sentence_de": "Die Gabel ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The fork is a useful item in the house."
   },
   {
     "id": "tasse",
@@ -191,7 +235,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "Tassen",
     "translation": "cup / mug",
-    "category": "home"
+    "category": "home",
+    "sentence_de": "Die Tasse ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The cup is a useful item in the house."
   },
   {
     "id": "flasche",
@@ -199,7 +245,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "Flaschen",
     "translation": "bottle",
-    "category": "home"
+    "category": "home",
+    "sentence_de": "Die Flasche ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The bottle is a useful item in the house."
   },
   {
     "id": "uhr",
@@ -207,7 +255,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "Uhren",
     "translation": "clock / watch",
-    "category": "home"
+    "category": "home",
+    "sentence_de": "Die Uhr ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The clock is a useful item in the house."
   },
   {
     "id": "decke",
@@ -215,7 +265,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "Decken",
     "translation": "blanket / ceiling",
-    "category": "home"
+    "category": "home",
+    "sentence_de": "Die Decke gehört zu einem gemütlichen Zuhause.",
+    "sentence_en": "The blanket is part of a cozy home."
   },
   {
     "id": "bett",
@@ -223,7 +275,9 @@ const DEFAULT_VOCABULARY = [
     "article": "das",
     "plural": "Betten",
     "translation": "bed",
-    "category": "home"
+    "category": "home",
+    "sentence_de": "Das Bett passt optisch perfekt in das Zimmer.",
+    "sentence_en": "The bed fits perfectly into the room."
   },
   {
     "id": "fenster",
@@ -231,7 +285,9 @@ const DEFAULT_VOCABULARY = [
     "article": "das",
     "plural": "Fenster",
     "translation": "window",
-    "category": "home"
+    "category": "home",
+    "sentence_de": "Das Fenster gehört zu einem gemütlichen Zuhause.",
+    "sentence_en": "The window is part of a cozy home."
   },
   {
     "id": "zimmer",
@@ -239,7 +295,9 @@ const DEFAULT_VOCABULARY = [
     "article": "das",
     "plural": "Zimmer",
     "translation": "room",
-    "category": "home"
+    "category": "home",
+    "sentence_de": "Das Zimmer ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The room is a useful item in the house."
   },
   {
     "id": "sofa",
@@ -247,7 +305,9 @@ const DEFAULT_VOCABULARY = [
     "article": "das",
     "plural": "Sofas",
     "translation": "sofa / couch",
-    "category": "home"
+    "category": "home",
+    "sentence_de": "Das Sofa passt optisch perfekt in das Zimmer.",
+    "sentence_en": "The sofa fits perfectly into the room."
   },
   {
     "id": "regal",
@@ -255,7 +315,9 @@ const DEFAULT_VOCABULARY = [
     "article": "das",
     "plural": "Regale",
     "translation": "shelf",
-    "category": "home"
+    "category": "home",
+    "sentence_de": "Das Regal passt optisch perfekt in das Zimmer.",
+    "sentence_en": "The shelf fits perfectly into the room."
   },
   {
     "id": "haus",
@@ -263,7 +325,9 @@ const DEFAULT_VOCABULARY = [
     "article": "das",
     "plural": "Häuser",
     "translation": "house",
-    "category": "home"
+    "category": "home",
+    "sentence_de": "Das Haus ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The house is a useful item in the house."
   },
   {
     "id": "bad",
@@ -271,7 +335,9 @@ const DEFAULT_VOCABULARY = [
     "article": "das",
     "plural": "Bäder",
     "translation": "bathroom",
-    "category": "home"
+    "category": "home",
+    "sentence_de": "Das Bad ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The bathroom is a useful item in the house."
   },
   {
     "id": "messer",
@@ -279,7 +345,9 @@ const DEFAULT_VOCABULARY = [
     "article": "das",
     "plural": "Messer",
     "translation": "knife",
-    "category": "home"
+    "category": "home",
+    "sentence_de": "Das Messer ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The knife is a useful item in the house."
   },
   {
     "id": "glas",
@@ -287,7 +355,9 @@ const DEFAULT_VOCABULARY = [
     "article": "das",
     "plural": "Gläser",
     "translation": "drinking glass",
-    "category": "home"
+    "category": "home",
+    "sentence_de": "Das Glas ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The drinking glass is a useful item in the house."
   },
   {
     "id": "kissen",
@@ -295,7 +365,9 @@ const DEFAULT_VOCABULARY = [
     "article": "das",
     "plural": "Kissen",
     "translation": "pillow / cushion",
-    "category": "home"
+    "category": "home",
+    "sentence_de": "Das Kissen ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The pillow is a useful item in the house."
   },
   {
     "id": "bild",
@@ -303,7 +375,9 @@ const DEFAULT_VOCABULARY = [
     "article": "das",
     "plural": "Bilder",
     "translation": "picture / painting",
-    "category": "home"
+    "category": "home",
+    "sentence_de": "Das Bild ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The picture is a useful item in the house."
   },
   {
     "id": "licht",
@@ -311,7 +385,9 @@ const DEFAULT_VOCABULARY = [
     "article": "das",
     "plural": "Lichter",
     "translation": "light",
-    "category": "home"
+    "category": "home",
+    "sentence_de": "Das Licht ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The light is a useful item in the house."
   },
   {
     "id": "apfel",
@@ -319,7 +395,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Äpfel",
     "translation": "apple",
-    "category": "food"
+    "category": "food",
+    "sentence_de": "Der Apfel schmeckt frisch, saftig und gesund.",
+    "sentence_en": "The apple tastes fresh, juicy, and healthy."
   },
   {
     "id": "kaese",
@@ -327,7 +405,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Käse",
     "translation": "cheese",
-    "category": "food"
+    "category": "food",
+    "sentence_de": "Wir bereiten den Käse mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the cheese with fresh ingredients."
   },
   {
     "id": "kuchen",
@@ -335,7 +415,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Kuchen",
     "translation": "cake",
-    "category": "food"
+    "category": "food",
+    "sentence_de": "Der Kuchen schmeckt warm und frisch zubereitet hervorragend.",
+    "sentence_en": "The cake tastes excellent when freshly prepared and warm."
   },
   {
     "id": "joghurt",
@@ -343,7 +425,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Joghurts",
     "translation": "yoghurt",
-    "category": "food"
+    "category": "food",
+    "sentence_de": "Wir bereiten den Joghurt mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the yoghurt with fresh ingredients."
   },
   {
     "id": "saft",
@@ -351,7 +435,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Säfte",
     "translation": "juice",
-    "category": "food"
+    "category": "food",
+    "sentence_de": "Ein Glas oder eine Tasse Saft ist sehr erfrischend.",
+    "sentence_en": "A glass or cup of juice is very refreshing."
   },
   {
     "id": "kaffee",
@@ -359,7 +445,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Kaffees",
     "translation": "coffee",
-    "category": "food"
+    "category": "food",
+    "sentence_de": "Ein Glas oder eine Tasse Kaffee ist sehr erfrischend.",
+    "sentence_en": "A glass or cup of coffee is very refreshing."
   },
   {
     "id": "tee",
@@ -367,7 +455,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Tees",
     "translation": "tea",
-    "category": "food"
+    "category": "food",
+    "sentence_de": "Ein Glas oder eine Tasse Tee ist sehr erfrischend.",
+    "sentence_en": "A glass or cup of tea is very refreshing."
   },
   {
     "id": "wein",
@@ -375,7 +465,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Weine",
     "translation": "wine",
-    "category": "food"
+    "category": "food",
+    "sentence_de": "Ein Glas oder eine Tasse Wein ist sehr erfrischend.",
+    "sentence_en": "A glass or cup of wine is very refreshing."
   },
   {
     "id": "zucker",
@@ -383,7 +475,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "",
     "translation": "sugar",
-    "category": "food"
+    "category": "food",
+    "sentence_de": "Wir bereiten den Zucker mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the sugar with fresh ingredients."
   },
   {
     "id": "pfeffer",
@@ -391,7 +485,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "",
     "translation": "pepper",
-    "category": "food"
+    "category": "food",
+    "sentence_de": "Wir bereiten den Pfeffer mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the pepper with fresh ingredients."
   },
   {
     "id": "fisch",
@@ -399,7 +495,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Fische",
     "translation": "fish",
-    "category": "food"
+    "category": "food",
+    "sentence_de": "Der Fisch schmeckt warm und frisch zubereitet hervorragend.",
+    "sentence_en": "The fish tastes excellent when freshly prepared and warm."
   },
   {
     "id": "reis",
@@ -407,7 +505,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "",
     "translation": "rice",
-    "category": "food"
+    "category": "food",
+    "sentence_de": "Der Reis schmeckt warm und frisch zubereitet hervorragend.",
+    "sentence_en": "The rice tastes excellent when freshly prepared and warm."
   },
   {
     "id": "salat",
@@ -415,7 +515,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Salate",
     "translation": "salad / lettuce",
-    "category": "food"
+    "category": "food",
+    "sentence_de": "Der Salat schmeckt warm und frisch zubereitet hervorragend.",
+    "sentence_en": "The salad tastes excellent when freshly prepared and warm."
   },
   {
     "id": "schinken",
@@ -423,7 +525,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Schinken",
     "translation": "ham",
-    "category": "food"
+    "category": "food",
+    "sentence_de": "Wir bereiten den Schinken mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the ham with fresh ingredients."
   },
   {
     "id": "kartoffel",
@@ -431,7 +535,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "Kartoffeln",
     "translation": "potato",
-    "category": "food"
+    "category": "food",
+    "sentence_de": "Die Kartoffel schmeckt frisch, saftig und gesund.",
+    "sentence_en": "The potato tastes fresh, juicy, and healthy."
   },
   {
     "id": "tomate",
@@ -439,7 +545,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "Tomaten",
     "translation": "tomato",
-    "category": "food"
+    "category": "food",
+    "sentence_de": "Die Tomate schmeckt frisch, saftig und gesund.",
+    "sentence_en": "The tomato tastes fresh, juicy, and healthy."
   },
   {
     "id": "zwiebel",
@@ -447,7 +555,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "Zwiebeln",
     "translation": "onion",
-    "category": "food"
+    "category": "food",
+    "sentence_de": "Die Zwiebel schmeckt frisch, saftig und gesund.",
+    "sentence_en": "The onion tastes fresh, juicy, and healthy."
   },
   {
     "id": "banane",
@@ -455,7 +565,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "Bananen",
     "translation": "banana",
-    "category": "food"
+    "category": "food",
+    "sentence_de": "Die Banane schmeckt frisch, saftig und gesund.",
+    "sentence_en": "The banana tastes fresh, juicy, and healthy."
   },
   {
     "id": "suppe",
@@ -463,7 +575,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "Suppen",
     "translation": "soup",
-    "category": "food"
+    "category": "food",
+    "sentence_de": "Die Suppe schmeckt warm und frisch zubereitet hervorragend.",
+    "sentence_en": "The soup tastes excellent when freshly prepared and warm."
   },
   {
     "id": "milch",
@@ -471,7 +585,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "",
     "translation": "milk",
-    "category": "food"
+    "category": "food",
+    "sentence_de": "Ein Glas oder eine Tasse Milch ist sehr erfrischend.",
+    "sentence_en": "A glass or cup of milk is very refreshing."
   },
   {
     "id": "butter",
@@ -479,7 +595,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "",
     "translation": "butter",
-    "category": "food"
+    "category": "food",
+    "sentence_de": "Wir bereiten die Butter mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the butter with fresh ingredients."
   },
   {
     "id": "schokolade",
@@ -487,7 +605,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "Schokoladen",
     "translation": "chocolate",
-    "category": "food"
+    "category": "food",
+    "sentence_de": "Wir bereiten die Schokolade mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the chocolate with fresh ingredients."
   },
   {
     "id": "orange",
@@ -495,7 +615,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "Orangen",
     "translation": "orange",
-    "category": "food"
+    "category": "food",
+    "sentence_de": "Die Orange schmeckt frisch, saftig und gesund.",
+    "sentence_en": "The orange tastes fresh, juicy, and healthy."
   },
   {
     "id": "erdbeere",
@@ -503,7 +625,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "Erdbeeren",
     "translation": "strawberry",
-    "category": "food"
+    "category": "food",
+    "sentence_de": "Die Erdbeere schmeckt frisch, saftig und gesund.",
+    "sentence_en": "The strawberry tastes fresh, juicy, and healthy."
   },
   {
     "id": "gurke",
@@ -511,7 +635,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "Gurken",
     "translation": "cucumber",
-    "category": "food"
+    "category": "food",
+    "sentence_de": "Die Gurke schmeckt frisch, saftig und gesund.",
+    "sentence_en": "The cucumber tastes fresh, juicy, and healthy."
   },
   {
     "id": "wurst",
@@ -519,7 +645,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "Würste",
     "translation": "sausage",
-    "category": "food"
+    "category": "food",
+    "sentence_de": "Die Wurst schmeckt warm und frisch zubereitet hervorragend.",
+    "sentence_en": "The sausage tastes excellent when freshly prepared and warm."
   },
   {
     "id": "pizza",
@@ -527,7 +655,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "Pizzen",
     "translation": "pizza",
-    "category": "food"
+    "category": "food",
+    "sentence_de": "Die Pizza schmeckt warm und frisch zubereitet hervorragend.",
+    "sentence_en": "The pizza tastes excellent when freshly prepared and warm."
   },
   {
     "id": "brot",
@@ -535,7 +665,9 @@ const DEFAULT_VOCABULARY = [
     "article": "das",
     "plural": "Brote",
     "translation": "bread",
-    "category": "food"
+    "category": "food",
+    "sentence_de": "Das Brot schmeckt warm und frisch zubereitet hervorragend.",
+    "sentence_en": "The bread tastes excellent when freshly prepared and warm."
   },
   {
     "id": "broetchen",
@@ -543,7 +675,9 @@ const DEFAULT_VOCABULARY = [
     "article": "das",
     "plural": "Brötchen",
     "translation": "bread roll",
-    "category": "food"
+    "category": "food",
+    "sentence_de": "Wir bereiten das Brötchen mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the bread roll with fresh ingredients."
   },
   {
     "id": "ei",
@@ -551,7 +685,9 @@ const DEFAULT_VOCABULARY = [
     "article": "das",
     "plural": "Eier",
     "translation": "egg",
-    "category": "food"
+    "category": "food",
+    "sentence_de": "Wir bereiten das Ei mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the egg with fresh ingredients."
   },
   {
     "id": "gemuese",
@@ -559,7 +695,9 @@ const DEFAULT_VOCABULARY = [
     "article": "das",
     "plural": "Gemüse",
     "translation": "vegetables",
-    "category": "food"
+    "category": "food",
+    "sentence_de": "Wir bereiten das Gemüse mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the vegetables with fresh ingredients."
   },
   {
     "id": "obst",
@@ -567,7 +705,9 @@ const DEFAULT_VOCABULARY = [
     "article": "das",
     "plural": "",
     "translation": "fruit",
-    "category": "food"
+    "category": "food",
+    "sentence_de": "Das Obst schmeckt frisch, saftig und gesund.",
+    "sentence_en": "The fruit tastes fresh, juicy, and healthy."
   },
   {
     "id": "fleisch",
@@ -575,7 +715,9 @@ const DEFAULT_VOCABULARY = [
     "article": "das",
     "plural": "",
     "translation": "meat",
-    "category": "food"
+    "category": "food",
+    "sentence_de": "Das Fleisch schmeckt warm und frisch zubereitet hervorragend.",
+    "sentence_en": "The meat tastes excellent when freshly prepared and warm."
   },
   {
     "id": "haehnchen",
@@ -583,7 +725,9 @@ const DEFAULT_VOCABULARY = [
     "article": "das",
     "plural": "Hähnchen",
     "translation": "chicken (meat)",
-    "category": "food"
+    "category": "food",
+    "sentence_de": "Wir bereiten das Hähnchen mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the chicken with fresh ingredients."
   },
   {
     "id": "wasser",
@@ -591,7 +735,9 @@ const DEFAULT_VOCABULARY = [
     "article": "das",
     "plural": "Wässer",
     "translation": "water",
-    "category": "food"
+    "category": "food",
+    "sentence_de": "Ein Glas oder eine Tasse Wasser ist sehr erfrischend.",
+    "sentence_en": "A glass or cup of water is very refreshing."
   },
   {
     "id": "bier",
@@ -599,7 +745,9 @@ const DEFAULT_VOCABULARY = [
     "article": "das",
     "plural": "Biere",
     "translation": "beer",
-    "category": "food"
+    "category": "food",
+    "sentence_de": "Ein Glas oder eine Tasse Bier ist sehr erfrischend.",
+    "sentence_en": "A glass or cup of beer is very refreshing."
   },
   {
     "id": "salz",
@@ -607,7 +755,9 @@ const DEFAULT_VOCABULARY = [
     "article": "das",
     "plural": "",
     "translation": "salt",
-    "category": "food"
+    "category": "food",
+    "sentence_de": "Wir bereiten das Salz mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the salt with fresh ingredients."
   },
   {
     "id": "oel",
@@ -615,7 +765,9 @@ const DEFAULT_VOCABULARY = [
     "article": "das",
     "plural": "Öle",
     "translation": "oil",
-    "category": "food"
+    "category": "food",
+    "sentence_de": "Wir bereiten das Öl mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the oil with fresh ingredients."
   },
   {
     "id": "eis",
@@ -623,7 +775,9 @@ const DEFAULT_VOCABULARY = [
     "article": "das",
     "plural": "",
     "translation": "ice cream / ice",
-    "category": "food"
+    "category": "food",
+    "sentence_de": "Wir bereiten das Eis mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the ice cream with fresh ingredients."
   },
   {
     "id": "fruehstueck",
@@ -631,7 +785,9 @@ const DEFAULT_VOCABULARY = [
     "article": "das",
     "plural": "Frühstücke",
     "translation": "breakfast",
-    "category": "food"
+    "category": "food",
+    "sentence_de": "Wir bereiten das Frühstück mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the breakfast with fresh ingredients."
   },
   {
     "id": "abendessen",
@@ -639,7 +795,9 @@ const DEFAULT_VOCABULARY = [
     "article": "das",
     "plural": "Abendessen",
     "translation": "dinner / supper",
-    "category": "food"
+    "category": "food",
+    "sentence_de": "Wir bereiten das Abendessen mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the dinner with fresh ingredients."
   },
   {
     "id": "stift",
@@ -647,7 +805,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Stifte",
     "translation": "pen",
-    "category": "school"
+    "category": "school",
+    "sentence_de": "Der Stift liegt griffbereit auf der Schulbank.",
+    "sentence_en": "The pen is ready at hand on the school desk."
   },
   {
     "id": "bleistift",
@@ -655,7 +815,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Bleistifte",
     "translation": "pencil",
-    "category": "school"
+    "category": "school",
+    "sentence_de": "Der Bleistift liegt griffbereit auf der Schulbank.",
+    "sentence_en": "The pencil is ready at hand on the school desk."
   },
   {
     "id": "radiergummi",
@@ -663,7 +825,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Radiergummis",
     "translation": "eraser",
-    "category": "school"
+    "category": "school",
+    "sentence_de": "Der Radiergummi liegt griffbereit auf der Schulbank.",
+    "sentence_en": "The eraser is ready at hand on the school desk."
   },
   {
     "id": "rucksack",
@@ -671,7 +835,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Rucksäcke",
     "translation": "backpack",
-    "category": "school"
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute den Rucksack.",
+    "sentence_en": "In class today we are covering the backpack."
   },
   {
     "id": "lehrer",
@@ -679,7 +845,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Lehrer",
     "translation": "male teacher",
-    "category": "school"
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute den Lehrer.",
+    "sentence_en": "In class today we are covering the male teacher."
   },
   {
     "id": "schueler",
@@ -687,7 +855,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Schüler",
     "translation": "male student",
-    "category": "school"
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute den Schüler.",
+    "sentence_en": "In class today we are covering the male student."
   },
   {
     "id": "student",
@@ -695,7 +865,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Studenten",
     "translation": "university student",
-    "category": "school"
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute den Student.",
+    "sentence_en": "In class today we are covering the university student."
   },
   {
     "id": "kurs",
@@ -703,7 +875,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Kurse",
     "translation": "course / class",
-    "category": "school"
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute den Kurs.",
+    "sentence_en": "In class today we are covering the course."
   },
   {
     "id": "beruf",
@@ -711,7 +885,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Berufe",
     "translation": "profession / job",
-    "category": "school"
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute den Beruf.",
+    "sentence_en": "In class today we are covering the profession."
   },
   {
     "id": "text",
@@ -719,7 +895,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Texte",
     "translation": "text",
-    "category": "school"
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute den Text.",
+    "sentence_en": "In class today we are covering the text."
   },
   {
     "id": "fehler",
@@ -727,7 +905,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Fehler",
     "translation": "mistake / error",
-    "category": "school"
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute den Fehler.",
+    "sentence_en": "In class today we are covering the mistake."
   },
   {
     "id": "schule",
@@ -735,7 +915,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "Schulen",
     "translation": "school",
-    "category": "school"
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute die Schule.",
+    "sentence_en": "In class today we are covering the school."
   },
   {
     "id": "universitaet",
@@ -743,7 +925,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "Universitäten",
     "translation": "university",
-    "category": "school"
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute die Universität.",
+    "sentence_en": "In class today we are covering the university."
   },
   {
     "id": "tafel",
@@ -751,7 +935,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "Tafeln",
     "translation": "blackboard",
-    "category": "school"
+    "category": "school",
+    "sentence_de": "Die Tafel liegt griffbereit auf der Schulbank.",
+    "sentence_en": "The blackboard is ready at hand on the school desk."
   },
   {
     "id": "klasse",
@@ -759,7 +945,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "Klassen",
     "translation": "class / classroom",
-    "category": "school"
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute die Klasse.",
+    "sentence_en": "In class today we are covering the class."
   },
   {
     "id": "pruefung",
@@ -767,7 +955,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "Prüfungen",
     "translation": "exam / test",
-    "category": "school"
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute die Prüfung.",
+    "sentence_en": "In class today we are covering the exam."
   },
   {
     "id": "hausaufgabe",
@@ -775,7 +965,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "Hausaufgaben",
     "translation": "homework",
-    "category": "school"
+    "category": "school",
+    "sentence_de": "Die Hausaufgabe ist ein lehrreiches Fach in der Schule.",
+    "sentence_en": "The homework is an instructive subject at school."
   },
   {
     "id": "frage",
@@ -783,7 +975,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "Fragen",
     "translation": "question",
-    "category": "school"
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute die Frage.",
+    "sentence_en": "In class today we are covering the question."
   },
   {
     "id": "antwort",
@@ -791,7 +985,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "Antworten",
     "translation": "answer",
-    "category": "school"
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute die Antwort.",
+    "sentence_en": "In class today we are covering the answer."
   },
   {
     "id": "lehrerin",
@@ -799,7 +995,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "Lehrerinnen",
     "translation": "female teacher",
-    "category": "school"
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute die Lehrerin.",
+    "sentence_en": "In class today we are covering the female teacher."
   },
   {
     "id": "pause",
@@ -807,7 +1005,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "Pausen",
     "translation": "break / pause",
-    "category": "school"
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute die Pause.",
+    "sentence_en": "In class today we are covering the break."
   },
   {
     "id": "sprache",
@@ -815,7 +1015,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "Sprachen",
     "translation": "language",
-    "category": "school"
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute die Sprache.",
+    "sentence_en": "In class today we are covering the language."
   },
   {
     "id": "arbeit",
@@ -823,7 +1025,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "Arbeiten",
     "translation": "work / job",
-    "category": "school"
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute die Arbeit.",
+    "sentence_en": "In class today we are covering the work."
   },
   {
     "id": "buch",
@@ -831,7 +1035,9 @@ const DEFAULT_VOCABULARY = [
     "article": "das",
     "plural": "Bücher",
     "translation": "book",
-    "category": "school"
+    "category": "school",
+    "sentence_de": "Das Buch liegt griffbereit auf der Schulbank.",
+    "sentence_en": "The book is ready at hand on the school desk."
   },
   {
     "id": "heft",
@@ -839,7 +1045,9 @@ const DEFAULT_VOCABULARY = [
     "article": "das",
     "plural": "Hefte",
     "translation": "exercise book / notebook",
-    "category": "school"
+    "category": "school",
+    "sentence_de": "Das Heft liegt griffbereit auf der Schulbank.",
+    "sentence_en": "The exercise book is ready at hand on the school desk."
   },
   {
     "id": "lineal",
@@ -847,7 +1055,9 @@ const DEFAULT_VOCABULARY = [
     "article": "das",
     "plural": "Lineale",
     "translation": "ruler",
-    "category": "school"
+    "category": "school",
+    "sentence_de": "Das Lineal liegt griffbereit auf der Schulbank.",
+    "sentence_en": "The ruler is ready at hand on the school desk."
   },
   {
     "id": "woerterbuch",
@@ -855,7 +1065,9 @@ const DEFAULT_VOCABULARY = [
     "article": "das",
     "plural": "Wörterbücher",
     "translation": "dictionary",
-    "category": "school"
+    "category": "school",
+    "sentence_de": "Das Wörterbuch liegt griffbereit auf der Schulbank.",
+    "sentence_en": "The dictionary is ready at hand on the school desk."
   },
   {
     "id": "fach",
@@ -863,7 +1075,9 @@ const DEFAULT_VOCABULARY = [
     "article": "das",
     "plural": "Fächer",
     "translation": "school subject",
-    "category": "school"
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute das Fach.",
+    "sentence_en": "In class today we are covering the school subject."
   },
   {
     "id": "papier",
@@ -871,7 +1085,9 @@ const DEFAULT_VOCABULARY = [
     "article": "das",
     "plural": "Papiere",
     "translation": "paper",
-    "category": "school"
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute das Papier.",
+    "sentence_en": "In class today we are covering the paper."
   },
   {
     "id": "wort",
@@ -879,7 +1095,9 @@ const DEFAULT_VOCABULARY = [
     "article": "das",
     "plural": "Wörter",
     "translation": "word",
-    "category": "school"
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute das Wort.",
+    "sentence_en": "In class today we are covering the word."
   },
   {
     "id": "beispiel",
@@ -887,7 +1105,9 @@ const DEFAULT_VOCABULARY = [
     "article": "das",
     "plural": "Beispiele",
     "translation": "example",
-    "category": "school"
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute das Beispiel.",
+    "sentence_en": "In class today we are covering the example."
   },
   {
     "id": "zeugnis",
@@ -895,7 +1115,9 @@ const DEFAULT_VOCABULARY = [
     "article": "das",
     "plural": "Zeugnisse",
     "translation": "report card / certificate",
-    "category": "school"
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute das Zeugnis.",
+    "sentence_en": "In class today we are covering the report card."
   },
   {
     "id": "mann",
@@ -903,7 +1125,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Männer",
     "translation": "man / husband",
-    "category": "people"
+    "category": "people",
+    "sentence_de": "Der Mann grüßt freundlich und hilft hilfsbereit.",
+    "sentence_en": "The man greets kindly and helps readily."
   },
   {
     "id": "vater",
@@ -911,7 +1135,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Väter",
     "translation": "father",
-    "category": "people"
+    "category": "people",
+    "sentence_de": "Der Vater verbringt gern Zeit mit der ganzen Familie.",
+    "sentence_en": "The father enjoys spending time with the whole family."
   },
   {
     "id": "mutter",
@@ -919,7 +1145,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "Mütter",
     "translation": "mother",
-    "category": "people"
+    "category": "people",
+    "sentence_de": "Die Mutter verbringt gern Zeit mit der ganzen Familie.",
+    "sentence_en": "The mother enjoys spending time with the whole family."
   },
   {
     "id": "sohn",
@@ -927,7 +1155,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Söhne",
     "translation": "son",
-    "category": "people"
+    "category": "people",
+    "sentence_de": "Der Sohn verbringt gern Zeit mit der ganzen Familie.",
+    "sentence_en": "The son enjoys spending time with the whole family."
   },
   {
     "id": "bruder",
@@ -935,7 +1165,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Brüder",
     "translation": "brother",
-    "category": "people"
+    "category": "people",
+    "sentence_de": "Der Bruder verbringt gern Zeit mit der ganzen Familie.",
+    "sentence_en": "The brother enjoys spending time with the whole family."
   },
   {
     "id": "freund",
@@ -943,7 +1175,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Freunde",
     "translation": "male friend / boyfriend",
-    "category": "people"
+    "category": "people",
+    "sentence_de": "Der Freund grüßt freundlich und hilft hilfsbereit.",
+    "sentence_en": "The male friend greets kindly and helps readily."
   },
   {
     "id": "opa",
@@ -951,7 +1185,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Opas",
     "translation": "grandpa",
-    "category": "people"
+    "category": "people",
+    "sentence_de": "Der Opa verbringt gern Zeit mit der ganzen Familie.",
+    "sentence_en": "The grandpa enjoys spending time with the whole family."
   },
   {
     "id": "onkel",
@@ -959,7 +1195,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Onkel",
     "translation": "uncle",
-    "category": "people"
+    "category": "people",
+    "sentence_de": "Der Onkel verbringt gern Zeit mit der ganzen Familie.",
+    "sentence_en": "The uncle enjoys spending time with the whole family."
   },
   {
     "id": "arzt",
@@ -967,7 +1205,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Ärzte",
     "translation": "male doctor",
-    "category": "people"
+    "category": "people",
+    "sentence_de": "Der Arzt übt diesen Beruf mit großem Engagement aus.",
+    "sentence_en": "The male doctor pursues this profession with great dedication."
   },
   {
     "id": "nachbar",
@@ -975,7 +1215,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Nachbarn",
     "translation": "neighbor",
-    "category": "people"
+    "category": "people",
+    "sentence_de": "Der Nachbar grüßt freundlich und hilft hilfsbereit.",
+    "sentence_en": "The neighbor greets kindly and helps readily."
   },
   {
     "id": "kollege",
@@ -983,7 +1225,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Kollegen",
     "translation": "colleague (male)",
-    "category": "people"
+    "category": "people",
+    "sentence_de": "Der Kollege übt diesen Beruf mit großem Engagement aus.",
+    "sentence_en": "The colleague pursues this profession with great dedication."
   },
   {
     "id": "frau",
@@ -991,7 +1235,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "Frauen",
     "translation": "woman / wife / Ms.",
-    "category": "people"
+    "category": "people",
+    "sentence_de": "Die Frau grüßt freundlich und hilft hilfsbereit.",
+    "sentence_en": "The woman greets kindly and helps readily."
   },
   {
     "id": "tochter",
@@ -999,7 +1245,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "Töchter",
     "translation": "daughter",
-    "category": "people"
+    "category": "people",
+    "sentence_de": "Die Tochter verbringt gern Zeit mit der ganzen Familie.",
+    "sentence_en": "The daughter enjoys spending time with the whole family."
   },
   {
     "id": "schwester",
@@ -1007,7 +1255,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "Schwestern",
     "translation": "sister",
-    "category": "people"
+    "category": "people",
+    "sentence_de": "Die Schwester verbringt gern Zeit mit der ganzen Familie.",
+    "sentence_en": "The sister enjoys spending time with the whole family."
   },
   {
     "id": "freundin",
@@ -1015,7 +1265,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "Freundinnen",
     "translation": "female friend / girlfriend",
-    "category": "people"
+    "category": "people",
+    "sentence_de": "Die Freundin grüßt freundlich und hilft hilfsbereit.",
+    "sentence_en": "The female friend greets kindly and helps readily."
   },
   {
     "id": "oma",
@@ -1023,7 +1275,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "Omas",
     "translation": "grandma",
-    "category": "people"
+    "category": "people",
+    "sentence_de": "Die Oma verbringt gern Zeit mit der ganzen Familie.",
+    "sentence_en": "The grandma enjoys spending time with the whole family."
   },
   {
     "id": "tante",
@@ -1031,7 +1285,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "Tanten",
     "translation": "aunt",
-    "category": "people"
+    "category": "people",
+    "sentence_de": "Die Tante verbringt gern Zeit mit der ganzen Familie.",
+    "sentence_en": "The aunt enjoys spending time with the whole family."
   },
   {
     "id": "aerztin",
@@ -1039,7 +1295,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "Ärztinnen",
     "translation": "female doctor",
-    "category": "people"
+    "category": "people",
+    "sentence_de": "Die Ärztin ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The female doctor is a valued member of the community."
   },
   {
     "id": "familie",
@@ -1047,7 +1305,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "Familien",
     "translation": "family",
-    "category": "people"
+    "category": "people",
+    "sentence_de": "Die Familie verbringt gern Zeit mit der ganzen Familie.",
+    "sentence_en": "The family enjoys spending time with the whole family."
   },
   {
     "id": "person",
@@ -1055,7 +1315,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "Personen",
     "translation": "person",
-    "category": "people"
+    "category": "people",
+    "sentence_de": "Die Person grüßt freundlich und hilft hilfsbereit.",
+    "sentence_en": "The person greets kindly and helps readily."
   },
   {
     "id": "kind",
@@ -1063,7 +1325,9 @@ const DEFAULT_VOCABULARY = [
     "article": "das",
     "plural": "Kinder",
     "translation": "child",
-    "category": "people"
+    "category": "people",
+    "sentence_de": "Das Kind verbringt gern Zeit mit der ganzen Familie.",
+    "sentence_en": "The child enjoys spending time with the whole family."
   },
   {
     "id": "baby",
@@ -1071,7 +1335,9 @@ const DEFAULT_VOCABULARY = [
     "article": "das",
     "plural": "Babys",
     "translation": "baby",
-    "category": "people"
+    "category": "people",
+    "sentence_de": "Das Baby verbringt gern Zeit mit der ganzen Familie.",
+    "sentence_en": "The baby enjoys spending time with the whole family."
   },
   {
     "id": "maedchen",
@@ -1079,7 +1345,9 @@ const DEFAULT_VOCABULARY = [
     "article": "das",
     "plural": "Mädchen",
     "translation": "girl",
-    "category": "people"
+    "category": "people",
+    "sentence_de": "Das Mädchen ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The girl is a valued member of the community."
   },
   {
     "id": "paar",
@@ -1087,7 +1355,9 @@ const DEFAULT_VOCABULARY = [
     "article": "das",
     "plural": "Paare",
     "translation": "couple / pair",
-    "category": "people"
+    "category": "people",
+    "sentence_de": "Das Paar ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The couple is a valued member of the community."
   },
   {
     "id": "bus",
@@ -1095,7 +1365,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Busse",
     "translation": "bus",
-    "category": "transport"
+    "category": "transport",
+    "sentence_de": "Der Bus bringt die Fahrgäste pünktlich an ihr Ziel.",
+    "sentence_en": "The bus brings passengers to their destination on time."
   },
   {
     "id": "zug",
@@ -1103,7 +1375,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Züge",
     "translation": "train",
-    "category": "transport"
+    "category": "transport",
+    "sentence_de": "Der Zug bringt die Fahrgäste pünktlich an ihr Ziel.",
+    "sentence_en": "The train brings passengers to their destination on time."
   },
   {
     "id": "flughafen",
@@ -1111,7 +1385,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Flughäfen",
     "translation": "airport",
-    "category": "transport"
+    "category": "transport",
+    "sentence_de": "Der Flughafen ist ein zentraler Treffpunkt in der Umgebung.",
+    "sentence_en": "The airport is a central meeting place in the area."
   },
   {
     "id": "bahnhof",
@@ -1119,7 +1395,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Bahnhöfe",
     "translation": "train station",
-    "category": "transport"
+    "category": "transport",
+    "sentence_de": "Der Bahnhof bringt die Fahrgäste pünktlich an ihr Ziel.",
+    "sentence_en": "The train station brings passengers to their destination on time."
   },
   {
     "id": "bahnsteig",
@@ -1127,7 +1405,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Bahnsteige",
     "translation": "platform",
-    "category": "transport"
+    "category": "transport",
+    "sentence_de": "Der Bahnsteig bringt die Fahrgäste pünktlich an ihr Ziel.",
+    "sentence_en": "The platform brings passengers to their destination on time."
   },
   {
     "id": "urlaub",
@@ -1135,7 +1415,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Urlaube",
     "translation": "vacation / holiday",
-    "category": "transport"
+    "category": "transport",
+    "sentence_de": "Wir erreichen den Urlaub nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the vacation after a short ride."
   },
   {
     "id": "koffer",
@@ -1143,7 +1425,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Koffer",
     "translation": "suitcase",
-    "category": "transport"
+    "category": "transport",
+    "sentence_de": "Wir erreichen den Koffer nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the suitcase after a short ride."
   },
   {
     "id": "pass",
@@ -1151,7 +1435,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Pässe",
     "translation": "passport",
-    "category": "transport"
+    "category": "transport",
+    "sentence_de": "Wir erreichen den Pass nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the passport after a short ride."
   },
   {
     "id": "strassenbahn",
@@ -1159,7 +1445,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "Straßenbahnen",
     "translation": "tram / streetcar",
-    "category": "transport"
+    "category": "transport",
+    "sentence_de": "Die Straßenbahn bringt die Fahrgäste pünktlich an ihr Ziel.",
+    "sentence_en": "The tram brings passengers to their destination on time."
   },
   {
     "id": "ubahn",
@@ -1167,7 +1455,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "U-Bahnen",
     "translation": "subway / metro",
-    "category": "transport"
+    "category": "transport",
+    "sentence_de": "Die U-Bahn bringt die Fahrgäste pünktlich an ihr Ziel.",
+    "sentence_en": "The subway brings passengers to their destination on time."
   },
   {
     "id": "fahrt",
@@ -1175,7 +1465,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "Fahrten",
     "translation": "journey / trip / ride",
-    "category": "transport"
+    "category": "transport",
+    "sentence_de": "Wir erreichen die Fahrt nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the journey after a short ride."
   },
   {
     "id": "reise",
@@ -1183,7 +1475,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "Reisen",
     "translation": "trip / travel",
-    "category": "transport"
+    "category": "transport",
+    "sentence_de": "Wir erreichen die Reise nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the trip after a short ride."
   },
   {
     "id": "haltestelle",
@@ -1191,7 +1485,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "Haltestellen",
     "translation": "bus/tram stop",
-    "category": "transport"
+    "category": "transport",
+    "sentence_de": "Wir erreichen die Haltestelle nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the bus after a short ride."
   },
   {
     "id": "fahrkarte",
@@ -1199,7 +1495,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "Fahrkarten",
     "translation": "ticket",
-    "category": "transport"
+    "category": "transport",
+    "sentence_de": "Wir erreichen die Fahrkarte nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the ticket after a short ride."
   },
   {
     "id": "ampel",
@@ -1207,7 +1505,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "Ampeln",
     "translation": "traffic light",
-    "category": "transport"
+    "category": "transport",
+    "sentence_de": "Wir erreichen die Ampel nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the traffic light after a short ride."
   },
   {
     "id": "auto",
@@ -1215,7 +1515,9 @@ const DEFAULT_VOCABULARY = [
     "article": "das",
     "plural": "Autos",
     "translation": "car",
-    "category": "transport"
+    "category": "transport",
+    "sentence_de": "Das Auto bringt die Fahrgäste pünktlich an ihr Ziel.",
+    "sentence_en": "The car brings passengers to their destination on time."
   },
   {
     "id": "flugzeug",
@@ -1223,7 +1525,9 @@ const DEFAULT_VOCABULARY = [
     "article": "das",
     "plural": "Flugzeuge",
     "translation": "airplane",
-    "category": "transport"
+    "category": "transport",
+    "sentence_de": "Das Flugzeug bringt die Fahrgäste pünktlich an ihr Ziel.",
+    "sentence_en": "The airplane brings passengers to their destination on time."
   },
   {
     "id": "fahrrad",
@@ -1231,7 +1535,9 @@ const DEFAULT_VOCABULARY = [
     "article": "das",
     "plural": "Fahrräder",
     "translation": "bicycle",
-    "category": "transport"
+    "category": "transport",
+    "sentence_de": "Das Fahrrad bringt die Fahrgäste pünktlich an ihr Ziel.",
+    "sentence_en": "The bicycle brings passengers to their destination on time."
   },
   {
     "id": "schiff",
@@ -1239,7 +1545,9 @@ const DEFAULT_VOCABULARY = [
     "article": "das",
     "plural": "Schiffe",
     "translation": "ship / boat",
-    "category": "transport"
+    "category": "transport",
+    "sentence_de": "Das Schiff bringt die Fahrgäste pünktlich an ihr Ziel.",
+    "sentence_en": "The ship brings passengers to their destination on time."
   },
   {
     "id": "motorrad",
@@ -1247,7 +1555,9 @@ const DEFAULT_VOCABULARY = [
     "article": "das",
     "plural": "Motorräder",
     "translation": "motorcycle",
-    "category": "transport"
+    "category": "transport",
+    "sentence_de": "Das Motorrad bringt die Fahrgäste pünktlich an ihr Ziel.",
+    "sentence_en": "The motorcycle brings passengers to their destination on time."
   },
   {
     "id": "taxi",
@@ -1255,7 +1565,9 @@ const DEFAULT_VOCABULARY = [
     "article": "das",
     "plural": "Taxis",
     "translation": "taxi / cab",
-    "category": "transport"
+    "category": "transport",
+    "sentence_de": "Das Taxi bringt die Fahrgäste pünktlich an ihr Ziel.",
+    "sentence_en": "The taxi brings passengers to their destination on time."
   },
   {
     "id": "ticket",
@@ -1263,7 +1575,9 @@ const DEFAULT_VOCABULARY = [
     "article": "das",
     "plural": "Tickets",
     "translation": "ticket",
-    "category": "transport"
+    "category": "transport",
+    "sentence_de": "Wir erreichen das Ticket nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the ticket after a short ride."
   },
   {
     "id": "gleis",
@@ -1271,7 +1585,9 @@ const DEFAULT_VOCABULARY = [
     "article": "das",
     "plural": "Gleise",
     "translation": "track / railway platform",
-    "category": "transport"
+    "category": "transport",
+    "sentence_de": "Wir erreichen das Gleis nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the track after a short ride."
   },
   {
     "id": "pullover",
@@ -1279,7 +1595,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Pullover",
     "translation": "sweater / pullover",
-    "category": "clothing"
+    "category": "clothing",
+    "sentence_de": "Der Pullover ist bequem und sieht modisch aus.",
+    "sentence_en": "The sweater is comfortable and looks fashionable."
   },
   {
     "id": "mantel",
@@ -1287,7 +1605,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Mäntel",
     "translation": "coat",
-    "category": "clothing"
+    "category": "clothing",
+    "sentence_de": "Der Mantel ist bequem und sieht modisch aus.",
+    "sentence_en": "The coat is comfortable and looks fashionable."
   },
   {
     "id": "schuh",
@@ -1295,7 +1615,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Schuhe",
     "translation": "shoe",
-    "category": "clothing"
+    "category": "clothing",
+    "sentence_de": "Der Schuh ist bequem und sieht modisch aus.",
+    "sentence_en": "The shoe is comfortable and looks fashionable."
   },
   {
     "id": "stiefel",
@@ -1303,7 +1625,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Stiefel",
     "translation": "boot",
-    "category": "clothing"
+    "category": "clothing",
+    "sentence_de": "Der Stiefel ist bequem und sieht modisch aus.",
+    "sentence_en": "The boot is comfortable and looks fashionable."
   },
   {
     "id": "hut",
@@ -1311,7 +1635,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Hüte",
     "translation": "hat",
-    "category": "clothing"
+    "category": "clothing",
+    "sentence_de": "Der Hut ist bequem und sieht modisch aus.",
+    "sentence_en": "The hat is comfortable and looks fashionable."
   },
   {
     "id": "anzug",
@@ -1319,7 +1645,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Anzüge",
     "translation": "suit",
-    "category": "clothing"
+    "category": "clothing",
+    "sentence_de": "Der Anzug ist bequem und sieht modisch aus.",
+    "sentence_en": "The suit is comfortable and looks fashionable."
   },
   {
     "id": "guertel",
@@ -1327,7 +1655,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Gürtel",
     "translation": "belt",
-    "category": "clothing"
+    "category": "clothing",
+    "sentence_de": "Sie trägt den Gürtel gern zu besonderen Anlässen.",
+    "sentence_en": "She likes to wear the belt on special occasions."
   },
   {
     "id": "rock",
@@ -1335,7 +1665,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Röcke",
     "translation": "skirt",
-    "category": "clothing"
+    "category": "clothing",
+    "sentence_de": "Der Rock ist bequem und sieht modisch aus.",
+    "sentence_en": "The skirt is comfortable and looks fashionable."
   },
   {
     "id": "regenschirm",
@@ -1343,7 +1675,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Regenschirme",
     "translation": "umbrella",
-    "category": "clothing"
+    "category": "clothing",
+    "sentence_de": "Sie trägt den Regenschirm gern zu besonderen Anlässen.",
+    "sentence_en": "She likes to wear the umbrella on special occasions."
   },
   {
     "id": "hose",
@@ -1351,7 +1685,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "Hosen",
     "translation": "pants / trousers",
-    "category": "clothing"
+    "category": "clothing",
+    "sentence_de": "Die Hose ist bequem und sieht modisch aus.",
+    "sentence_en": "The pants is comfortable and looks fashionable."
   },
   {
     "id": "jacke",
@@ -1359,7 +1695,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "Jacken",
     "translation": "jacket",
-    "category": "clothing"
+    "category": "clothing",
+    "sentence_de": "Die Jacke ist bequem und sieht modisch aus.",
+    "sentence_en": "The jacket is comfortable and looks fashionable."
   },
   {
     "id": "muetze",
@@ -1367,7 +1705,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "Mützen",
     "translation": "beanie / cap",
-    "category": "clothing"
+    "category": "clothing",
+    "sentence_de": "Sie trägt die Mütze gern zu besonderen Anlässen.",
+    "sentence_en": "She likes to wear the beanie on special occasions."
   },
   {
     "id": "brille",
@@ -1375,7 +1715,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "Brillen",
     "translation": "glasses / eyeglasses",
-    "category": "clothing"
+    "category": "clothing",
+    "sentence_de": "Sie trägt die Brille gern zu besonderen Anlässen.",
+    "sentence_en": "She likes to wear the glasses on special occasions."
   },
   {
     "id": "tasche",
@@ -1383,7 +1725,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "Taschen",
     "translation": "bag / handbag",
-    "category": "clothing"
+    "category": "clothing",
+    "sentence_de": "Sie trägt die Tasche gern zu besonderen Anlässen.",
+    "sentence_en": "She likes to wear the bag on special occasions."
   },
   {
     "id": "sonnenbrille",
@@ -1391,7 +1735,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "Sonnenbrillen",
     "translation": "sunglasses",
-    "category": "clothing"
+    "category": "clothing",
+    "sentence_de": "Sie trägt die Sonnenbrille gern zu besonderen Anlässen.",
+    "sentence_en": "She likes to wear the sunglasses on special occasions."
   },
   {
     "id": "socke",
@@ -1399,7 +1745,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "Socken",
     "translation": "sock",
-    "category": "clothing"
+    "category": "clothing",
+    "sentence_de": "Die Socke ist bequem und sieht modisch aus.",
+    "sentence_en": "The sock is comfortable and looks fashionable."
   },
   {
     "id": "tshirt",
@@ -1407,7 +1755,9 @@ const DEFAULT_VOCABULARY = [
     "article": "das",
     "plural": "T-Shirts",
     "translation": "T-shirt",
-    "category": "clothing"
+    "category": "clothing",
+    "sentence_de": "Das T-Shirt ist bequem und sieht modisch aus.",
+    "sentence_en": "The T-shirt is comfortable and looks fashionable."
   },
   {
     "id": "hemd",
@@ -1415,7 +1765,9 @@ const DEFAULT_VOCABULARY = [
     "article": "das",
     "plural": "Hemden",
     "translation": "button-down shirt",
-    "category": "clothing"
+    "category": "clothing",
+    "sentence_de": "Das Hemd ist bequem und sieht modisch aus.",
+    "sentence_en": "The button-down shirt is comfortable and looks fashionable."
   },
   {
     "id": "kleid",
@@ -1423,7 +1775,9 @@ const DEFAULT_VOCABULARY = [
     "article": "das",
     "plural": "Kleider",
     "translation": "dress",
-    "category": "clothing"
+    "category": "clothing",
+    "sentence_de": "Das Kleid ist bequem und sieht modisch aus.",
+    "sentence_en": "The dress is comfortable and looks fashionable."
   },
   {
     "id": "tuch",
@@ -1431,7 +1785,9 @@ const DEFAULT_VOCABULARY = [
     "article": "das",
     "plural": "Tücher",
     "translation": "scarf / cloth",
-    "category": "clothing"
+    "category": "clothing",
+    "sentence_de": "Sie trägt das Tuch gern zu besonderen Anlässen.",
+    "sentence_en": "She likes to wear the scarf on special occasions."
   },
   {
     "id": "kopf",
@@ -1439,7 +1795,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Köpfe",
     "translation": "head",
-    "category": "body"
+    "category": "body",
+    "sentence_de": "Der Kopf ist ein wesentlicher Teil des menschlichen Körpers.",
+    "sentence_en": "The head is an essential part of the human body."
   },
   {
     "id": "arm",
@@ -1447,7 +1805,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Arme",
     "translation": "arm",
-    "category": "body"
+    "category": "body",
+    "sentence_de": "Der Arm ist ein wesentlicher Teil des menschlichen Körpers.",
+    "sentence_en": "The arm is an essential part of the human body."
   },
   {
     "id": "fuss",
@@ -1455,7 +1815,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Füße",
     "translation": "foot",
-    "category": "body"
+    "category": "body",
+    "sentence_de": "Gute Pflege für den Fuß ist wichtig für das Wohlbefinden.",
+    "sentence_en": "Good care for the foot is important for well-being."
   },
   {
     "id": "finger",
@@ -1463,7 +1825,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Finger",
     "translation": "finger",
-    "category": "body"
+    "category": "body",
+    "sentence_de": "Der Finger ist ein wesentlicher Teil des menschlichen Körpers.",
+    "sentence_en": "The finger is an essential part of the human body."
   },
   {
     "id": "mund",
@@ -1471,7 +1835,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Münder",
     "translation": "mouth",
-    "category": "body"
+    "category": "body",
+    "sentence_de": "Der Mund ist ein wesentlicher Teil des menschlichen Körpers.",
+    "sentence_en": "The mouth is an essential part of the human body."
   },
   {
     "id": "zahn",
@@ -1479,7 +1845,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Zähne",
     "translation": "tooth",
-    "category": "body"
+    "category": "body",
+    "sentence_de": "Der Zahn ist ein wesentlicher Teil des menschlichen Körpers.",
+    "sentence_en": "The tooth is an essential part of the human body."
   },
   {
     "id": "bauch",
@@ -1487,7 +1855,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Bäuche",
     "translation": "belly / stomach",
-    "category": "body"
+    "category": "body",
+    "sentence_de": "Der Bauch ist ein wesentlicher Teil des menschlichen Körpers.",
+    "sentence_en": "The belly is an essential part of the human body."
   },
   {
     "id": "ruecken",
@@ -1495,7 +1865,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Rücken",
     "translation": "back",
-    "category": "body"
+    "category": "body",
+    "sentence_de": "Gute Pflege für den Rücken ist wichtig für das Wohlbefinden.",
+    "sentence_en": "Good care for the back is important for well-being."
   },
   {
     "id": "hals",
@@ -1503,7 +1875,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Hälse",
     "translation": "neck / throat",
-    "category": "body"
+    "category": "body",
+    "sentence_de": "Gute Pflege für den Hals ist wichtig für das Wohlbefinden.",
+    "sentence_en": "Good care for the neck is important for well-being."
   },
   {
     "id": "koerper",
@@ -1511,7 +1885,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Körper",
     "translation": "body",
-    "category": "body"
+    "category": "body",
+    "sentence_de": "Gute Pflege für den Körper ist wichtig für das Wohlbefinden.",
+    "sentence_en": "Good care for the body is important for well-being."
   },
   {
     "id": "hand",
@@ -1519,7 +1895,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "Hände",
     "translation": "hand",
-    "category": "body"
+    "category": "body",
+    "sentence_de": "Die Hand ist ein wesentlicher Teil des menschlichen Körpers.",
+    "sentence_en": "The hand is an essential part of the human body."
   },
   {
     "id": "nase",
@@ -1527,7 +1905,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "Nasen",
     "translation": "nose",
-    "category": "body"
+    "category": "body",
+    "sentence_de": "Die Nase ist ein wesentlicher Teil des menschlichen Körpers.",
+    "sentence_en": "The nose is an essential part of the human body."
   },
   {
     "id": "schulter",
@@ -1535,7 +1915,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "Schultern",
     "translation": "shoulder",
-    "category": "body"
+    "category": "body",
+    "sentence_de": "Gute Pflege für die Schulter ist wichtig für das Wohlbefinden.",
+    "sentence_en": "Good care for the shoulder is important for well-being."
   },
   {
     "id": "brust",
@@ -1543,7 +1925,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "Brüste",
     "translation": "chest / breast",
-    "category": "body"
+    "category": "body",
+    "sentence_de": "Gute Pflege für die Brust ist wichtig für das Wohlbefinden.",
+    "sentence_en": "Good care for the chest is important for well-being."
   },
   {
     "id": "gesundheit",
@@ -1551,7 +1935,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "",
     "translation": "health / bless you",
-    "category": "body"
+    "category": "body",
+    "sentence_de": "Die Gesundheit spielt eine entscheidende Rolle für die Genesung.",
+    "sentence_en": "The health plays a crucial role in recovery."
   },
   {
     "id": "medizin",
@@ -1559,7 +1945,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "Medizinen",
     "translation": "medicine",
-    "category": "body"
+    "category": "body",
+    "sentence_de": "Die Medizin spielt eine entscheidende Rolle für die Genesung.",
+    "sentence_en": "The medicine plays a crucial role in recovery."
   },
   {
     "id": "apotheke",
@@ -1567,7 +1955,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "Apotheken",
     "translation": "pharmacy",
-    "category": "body"
+    "category": "body",
+    "sentence_de": "Die Apotheke spielt eine entscheidende Rolle für die Genesung.",
+    "sentence_en": "The pharmacy plays a crucial role in recovery."
   },
   {
     "id": "auge",
@@ -1575,7 +1965,9 @@ const DEFAULT_VOCABULARY = [
     "article": "das",
     "plural": "Augen",
     "translation": "eye",
-    "category": "body"
+    "category": "body",
+    "sentence_de": "Das Auge ist ein wesentlicher Teil des menschlichen Körpers.",
+    "sentence_en": "The eye is an essential part of the human body."
   },
   {
     "id": "ohr",
@@ -1583,7 +1975,9 @@ const DEFAULT_VOCABULARY = [
     "article": "das",
     "plural": "Ohren",
     "translation": "ear",
-    "category": "body"
+    "category": "body",
+    "sentence_de": "Das Ohr ist ein wesentlicher Teil des menschlichen Körpers.",
+    "sentence_en": "The ear is an essential part of the human body."
   },
   {
     "id": "bein",
@@ -1591,7 +1985,9 @@ const DEFAULT_VOCABULARY = [
     "article": "das",
     "plural": "Beine",
     "translation": "leg",
-    "category": "body"
+    "category": "body",
+    "sentence_de": "Das Bein ist ein wesentlicher Teil des menschlichen Körpers.",
+    "sentence_en": "The leg is an essential part of the human body."
   },
   {
     "id": "haar",
@@ -1599,7 +1995,9 @@ const DEFAULT_VOCABULARY = [
     "article": "das",
     "plural": "Haare",
     "translation": "hair",
-    "category": "body"
+    "category": "body",
+    "sentence_de": "Gute Pflege für das Haar ist wichtig für das Wohlbefinden.",
+    "sentence_en": "Good care for the hair is important for well-being."
   },
   {
     "id": "gesicht",
@@ -1607,7 +2005,9 @@ const DEFAULT_VOCABULARY = [
     "article": "das",
     "plural": "Gesichter",
     "translation": "face",
-    "category": "body"
+    "category": "body",
+    "sentence_de": "Gute Pflege für das Gesicht ist wichtig für das Wohlbefinden.",
+    "sentence_en": "Good care for the face is important for well-being."
   },
   {
     "id": "herz",
@@ -1615,7 +2015,9 @@ const DEFAULT_VOCABULARY = [
     "article": "das",
     "plural": "Herzen",
     "translation": "heart",
-    "category": "body"
+    "category": "body",
+    "sentence_de": "Das Herz ist ein wesentlicher Teil des menschlichen Körpers.",
+    "sentence_en": "The heart is an essential part of the human body."
   },
   {
     "id": "krankenhaus",
@@ -1623,7 +2025,9 @@ const DEFAULT_VOCABULARY = [
     "article": "das",
     "plural": "Krankenhäuser",
     "translation": "hospital",
-    "category": "body"
+    "category": "body",
+    "sentence_de": "Das Krankenhaus spielt eine entscheidende Rolle für die Genesung.",
+    "sentence_en": "The hospital plays a crucial role in recovery."
   },
   {
     "id": "medikament",
@@ -1631,7 +2035,9 @@ const DEFAULT_VOCABULARY = [
     "article": "das",
     "plural": "Medikamente",
     "translation": "medication / pill",
-    "category": "body"
+    "category": "body",
+    "sentence_de": "Gute Pflege für das Medikament ist wichtig für das Wohlbefinden.",
+    "sentence_en": "Good care for the medication is important for well-being."
   },
   {
     "id": "park",
@@ -1639,7 +2045,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Parks",
     "translation": "park",
-    "category": "city"
+    "category": "city",
+    "sentence_de": "Der Park ist ein zentraler Treffpunkt in der Umgebung.",
+    "sentence_en": "The park is a central meeting place in the area."
   },
   {
     "id": "markt",
@@ -1647,7 +2055,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Märkte",
     "translation": "market",
-    "category": "city"
+    "category": "city",
+    "sentence_de": "Wir erreichen den Markt nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the market after a short ride."
   },
   {
     "id": "supermarkt",
@@ -1655,7 +2065,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Supermärkte",
     "translation": "supermarket",
-    "category": "city"
+    "category": "city",
+    "sentence_de": "Wir erreichen den Supermarkt nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the supermarket after a short ride."
   },
   {
     "id": "platz",
@@ -1663,7 +2075,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Plätze",
     "translation": "square / place / seat",
-    "category": "city"
+    "category": "city",
+    "sentence_de": "Der Platz ist ein zentraler Treffpunkt in der Umgebung.",
+    "sentence_en": "The square is a central meeting place in the area."
   },
   {
     "id": "laden",
@@ -1671,7 +2085,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Läden",
     "translation": "shop / store",
-    "category": "city"
+    "category": "city",
+    "sentence_de": "Wir erreichen den Laden nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the shop after a short ride."
   },
   {
     "id": "eingang",
@@ -1679,7 +2095,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Eingänge",
     "translation": "entrance",
-    "category": "city"
+    "category": "city",
+    "sentence_de": "Wir erreichen den Eingang nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the entrance after a short ride."
   },
   {
     "id": "ausgang",
@@ -1687,7 +2105,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Ausgänge",
     "translation": "exit",
-    "category": "city"
+    "category": "city",
+    "sentence_de": "Wir erreichen den Ausgang nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the exit after a short ride."
   },
   {
     "id": "stadt",
@@ -1695,7 +2115,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "Städte",
     "translation": "city / town",
-    "category": "city"
+    "category": "city",
+    "sentence_de": "Die Stadt ist ein zentraler Treffpunkt in der Umgebung.",
+    "sentence_en": "The city is a central meeting place in the area."
   },
   {
     "id": "strasse",
@@ -1703,7 +2125,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "Straßen",
     "translation": "street / road",
-    "category": "city"
+    "category": "city",
+    "sentence_de": "Wir erreichen die Straße nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the street after a short ride."
   },
   {
     "id": "bank",
@@ -1711,7 +2135,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "Banken",
     "translation": "bank (money)",
-    "category": "city"
+    "category": "city",
+    "sentence_de": "Die Bank ist ein zentraler Treffpunkt in der Umgebung.",
+    "sentence_en": "The bank is a central meeting place in the area."
   },
   {
     "id": "post",
@@ -1719,7 +2145,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "",
     "translation": "post office / mail",
-    "category": "city"
+    "category": "city",
+    "sentence_de": "Die Post ist ein zentraler Treffpunkt in der Umgebung.",
+    "sentence_en": "The post office is a central meeting place in the area."
   },
   {
     "id": "kirche",
@@ -1727,7 +2155,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "Kirchen",
     "translation": "church",
-    "category": "city"
+    "category": "city",
+    "sentence_de": "Wir erreichen die Kirche nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the church after a short ride."
   },
   {
     "id": "baeckerei",
@@ -1735,7 +2165,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "Bäckereien",
     "translation": "bakery",
-    "category": "city"
+    "category": "city",
+    "sentence_de": "Wir erreichen die Bäckerei nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the bakery after a short ride."
   },
   {
     "id": "bibliothek",
@@ -1743,7 +2175,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "Bibliotheken",
     "translation": "library",
-    "category": "city"
+    "category": "city",
+    "sentence_de": "Wir erreichen die Bibliothek nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the library after a short ride."
   },
   {
     "id": "hotel",
@@ -1751,7 +2185,9 @@ const DEFAULT_VOCABULARY = [
     "article": "das",
     "plural": "Hotels",
     "translation": "hotel",
-    "category": "city"
+    "category": "city",
+    "sentence_de": "Das Hotel ist ein zentraler Treffpunkt in der Umgebung.",
+    "sentence_en": "The hotel is a central meeting place in the area."
   },
   {
     "id": "restaurant",
@@ -1759,7 +2195,9 @@ const DEFAULT_VOCABULARY = [
     "article": "das",
     "plural": "Restaurants",
     "translation": "restaurant",
-    "category": "city"
+    "category": "city",
+    "sentence_de": "Wir erreichen das Restaurant nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the restaurant after a short ride."
   },
   {
     "id": "cafe",
@@ -1767,7 +2205,9 @@ const DEFAULT_VOCABULARY = [
     "article": "das",
     "plural": "Cafés",
     "translation": "cafe / coffee shop",
-    "category": "city"
+    "category": "city",
+    "sentence_de": "Wir erreichen das Café nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the cafe after a short ride."
   },
   {
     "id": "kino",
@@ -1775,7 +2215,9 @@ const DEFAULT_VOCABULARY = [
     "article": "das",
     "plural": "Kinos",
     "translation": "cinema / movie theater",
-    "category": "city"
+    "category": "city",
+    "sentence_de": "Das Kino ist ein zentraler Treffpunkt in der Umgebung.",
+    "sentence_en": "The cinema is a central meeting place in the area."
   },
   {
     "id": "museum",
@@ -1783,7 +2225,9 @@ const DEFAULT_VOCABULARY = [
     "article": "das",
     "plural": "Museen",
     "translation": "museum",
-    "category": "city"
+    "category": "city",
+    "sentence_de": "Das Museum ist ein zentraler Treffpunkt in der Umgebung.",
+    "sentence_en": "The museum is a central meeting place in the area."
   },
   {
     "id": "theater",
@@ -1791,7 +2235,9 @@ const DEFAULT_VOCABULARY = [
     "article": "das",
     "plural": "Theater",
     "translation": "theater",
-    "category": "city"
+    "category": "city",
+    "sentence_de": "Das Theater ist ein zentraler Treffpunkt in der Umgebung.",
+    "sentence_en": "The theater is a central meeting place in the area."
   },
   {
     "id": "geschaeft",
@@ -1799,7 +2245,9 @@ const DEFAULT_VOCABULARY = [
     "article": "das",
     "plural": "Geschäfte",
     "translation": "shop / business",
-    "category": "city"
+    "category": "city",
+    "sentence_de": "Wir erreichen das Geschäft nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the shop after a short ride."
   },
   {
     "id": "zentrum",
@@ -1807,7 +2255,9 @@ const DEFAULT_VOCABULARY = [
     "article": "das",
     "plural": "Zentren",
     "translation": "center / downtown",
-    "category": "city"
+    "category": "city",
+    "sentence_de": "Wir erreichen das Zentrum nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the center after a short ride."
   },
   {
     "id": "berg",
@@ -1815,7 +2265,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Berge",
     "translation": "mountain",
-    "category": "nature"
+    "category": "nature",
+    "sentence_de": "Der Berg ist in voller Schönheit in der Landschaft zu sehen.",
+    "sentence_en": "The mountain can be seen in full beauty in the landscape."
   },
   {
     "id": "baum",
@@ -1823,7 +2275,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Bäume",
     "translation": "tree",
-    "category": "nature"
+    "category": "nature",
+    "sentence_de": "Der Baum ist in voller Schönheit in der Landschaft zu sehen.",
+    "sentence_en": "The tree can be seen in full beauty in the landscape."
   },
   {
     "id": "stein",
@@ -1831,7 +2285,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Steine",
     "translation": "stone / rock",
-    "category": "nature"
+    "category": "nature",
+    "sentence_de": "Der Stein zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The stone shows the impressive diversity of nature."
   },
   {
     "id": "see",
@@ -1839,7 +2295,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Seen",
     "translation": "lake",
-    "category": "nature"
+    "category": "nature",
+    "sentence_de": "Der See ist in voller Schönheit in der Landschaft zu sehen.",
+    "sentence_en": "The lake can be seen in full beauty in the landscape."
   },
   {
     "id": "fluss",
@@ -1847,7 +2305,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Flüsse",
     "translation": "river",
-    "category": "nature"
+    "category": "nature",
+    "sentence_de": "Der Fluss ist in voller Schönheit in der Landschaft zu sehen.",
+    "sentence_en": "The river can be seen in full beauty in the landscape."
   },
   {
     "id": "wald",
@@ -1855,7 +2315,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Wälder",
     "translation": "forest / woods",
-    "category": "nature"
+    "category": "nature",
+    "sentence_de": "Der Wald ist in voller Schönheit in der Landschaft zu sehen.",
+    "sentence_en": "The forest can be seen in full beauty in the landscape."
   },
   {
     "id": "himmel",
@@ -1863,7 +2325,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "",
     "translation": "sky / heaven",
-    "category": "nature"
+    "category": "nature",
+    "sentence_de": "Der Himmel zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The sky shows the impressive diversity of nature."
   },
   {
     "id": "mond",
@@ -1871,7 +2335,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Monde",
     "translation": "moon",
-    "category": "nature"
+    "category": "nature",
+    "sentence_de": "Der Mond zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The moon shows the impressive diversity of nature."
   },
   {
     "id": "regen",
@@ -1879,7 +2345,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "",
     "translation": "rain",
-    "category": "nature"
+    "category": "nature",
+    "sentence_de": "Der Regen beeinflusst die Stimmung der Menschen draußen.",
+    "sentence_en": "The rain influences the mood of people outside."
   },
   {
     "id": "schnee",
@@ -1887,7 +2355,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "",
     "translation": "snow",
-    "category": "nature"
+    "category": "nature",
+    "sentence_de": "Der Schnee beeinflusst die Stimmung der Menschen draußen.",
+    "sentence_en": "The snow influences the mood of people outside."
   },
   {
     "id": "wind",
@@ -1895,7 +2365,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Winde",
     "translation": "wind",
-    "category": "nature"
+    "category": "nature",
+    "sentence_de": "Der Wind beeinflusst die Stimmung der Menschen draußen.",
+    "sentence_en": "The wind influences the mood of people outside."
   },
   {
     "id": "hund",
@@ -1903,7 +2375,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Hunde",
     "translation": "dog",
-    "category": "nature"
+    "category": "nature",
+    "sentence_de": "Der Hund zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The dog shows the impressive diversity of nature."
   },
   {
     "id": "vogel",
@@ -1911,7 +2385,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Vögel",
     "translation": "bird",
-    "category": "nature"
+    "category": "nature",
+    "sentence_de": "Der Vogel zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The bird shows the impressive diversity of nature."
   },
   {
     "id": "sonne",
@@ -1919,7 +2395,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "Sonnen",
     "translation": "sun",
-    "category": "nature"
+    "category": "nature",
+    "sentence_de": "Die Sonne beeinflusst die Stimmung der Menschen draußen.",
+    "sentence_en": "The sun influences the mood of people outside."
   },
   {
     "id": "pflanze",
@@ -1927,7 +2405,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "Pflanzen",
     "translation": "plant",
-    "category": "nature"
+    "category": "nature",
+    "sentence_de": "Die Pflanze ist in voller Schönheit in der Landschaft zu sehen.",
+    "sentence_en": "The plant can be seen in full beauty in the landscape."
   },
   {
     "id": "blume",
@@ -1935,7 +2415,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "Blumen",
     "translation": "flower",
-    "category": "nature"
+    "category": "nature",
+    "sentence_de": "Die Blume ist in voller Schönheit in der Landschaft zu sehen.",
+    "sentence_en": "The flower can be seen in full beauty in the landscape."
   },
   {
     "id": "wiese",
@@ -1943,7 +2425,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "Wiesen",
     "translation": "meadow / lawn",
-    "category": "nature"
+    "category": "nature",
+    "sentence_de": "Die Wiese ist in voller Schönheit in der Landschaft zu sehen.",
+    "sentence_en": "The meadow can be seen in full beauty in the landscape."
   },
   {
     "id": "wolke",
@@ -1951,7 +2435,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "Wolken",
     "translation": "cloud",
-    "category": "nature"
+    "category": "nature",
+    "sentence_de": "Die Wolke beeinflusst die Stimmung der Menschen draußen.",
+    "sentence_en": "The cloud influences the mood of people outside."
   },
   {
     "id": "luft",
@@ -1959,7 +2445,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "",
     "translation": "air",
-    "category": "nature"
+    "category": "nature",
+    "sentence_de": "Die Luft zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The air shows the impressive diversity of nature."
   },
   {
     "id": "katze",
@@ -1967,7 +2455,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "Katzen",
     "translation": "cat",
-    "category": "nature"
+    "category": "nature",
+    "sentence_de": "Die Katze zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The cat shows the impressive diversity of nature."
   },
   {
     "id": "kuh",
@@ -1975,7 +2465,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "Kühe",
     "translation": "cow",
-    "category": "nature"
+    "category": "nature",
+    "sentence_de": "Die Kuh zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The cow shows the impressive diversity of nature."
   },
   {
     "id": "welt",
@@ -1983,7 +2475,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "Welten",
     "translation": "world",
-    "category": "nature"
+    "category": "nature",
+    "sentence_de": "Die Welt zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The world shows the impressive diversity of nature."
   },
   {
     "id": "blatt",
@@ -1991,7 +2485,9 @@ const DEFAULT_VOCABULARY = [
     "article": "das",
     "plural": "Blätter",
     "translation": "leaf / sheet",
-    "category": "nature"
+    "category": "nature",
+    "sentence_de": "Das Blatt zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The leaf shows the impressive diversity of nature."
   },
   {
     "id": "meer",
@@ -1999,7 +2495,9 @@ const DEFAULT_VOCABULARY = [
     "article": "das",
     "plural": "Meere",
     "translation": "sea / ocean",
-    "category": "nature"
+    "category": "nature",
+    "sentence_de": "Das Meer ist in voller Schönheit in der Landschaft zu sehen.",
+    "sentence_en": "The sea can be seen in full beauty in the landscape."
   },
   {
     "id": "wetter",
@@ -2007,7 +2505,9 @@ const DEFAULT_VOCABULARY = [
     "article": "das",
     "plural": "",
     "translation": "weather",
-    "category": "nature"
+    "category": "nature",
+    "sentence_de": "Das Wetter beeinflusst die Stimmung der Menschen draußen.",
+    "sentence_en": "The weather influences the mood of people outside."
   },
   {
     "id": "tier",
@@ -2015,7 +2515,9 @@ const DEFAULT_VOCABULARY = [
     "article": "das",
     "plural": "Tiere",
     "translation": "animal",
-    "category": "nature"
+    "category": "nature",
+    "sentence_de": "Das Tier zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The animal shows the impressive diversity of nature."
   },
   {
     "id": "gras",
@@ -2023,7 +2525,9 @@ const DEFAULT_VOCABULARY = [
     "article": "das",
     "plural": "Gräser",
     "translation": "grass",
-    "category": "nature"
+    "category": "nature",
+    "sentence_de": "Das Gras zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The grass shows the impressive diversity of nature."
   },
   {
     "id": "pferd",
@@ -2031,7 +2535,9 @@ const DEFAULT_VOCABULARY = [
     "article": "das",
     "plural": "Pferde",
     "translation": "horse",
-    "category": "nature"
+    "category": "nature",
+    "sentence_de": "Das Pferd zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The horse shows the impressive diversity of nature."
   },
   {
     "id": "feuer",
@@ -2039,7 +2545,9 @@ const DEFAULT_VOCABULARY = [
     "article": "das",
     "plural": "Feuer",
     "translation": "fire",
-    "category": "nature"
+    "category": "nature",
+    "sentence_de": "Das Feuer zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The fire shows the impressive diversity of nature."
   },
   {
     "id": "tag",
@@ -2047,7 +2555,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Tage",
     "translation": "day",
-    "category": "time"
+    "category": "time",
+    "sentence_de": "Der Tag vergeht oft schneller als man denkt.",
+    "sentence_en": "The day often passes faster than one thinks."
   },
   {
     "id": "monat",
@@ -2055,7 +2565,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Monate",
     "translation": "month",
-    "category": "time"
+    "category": "time",
+    "sentence_de": "Der Monat vergeht oft schneller als man denkt.",
+    "sentence_en": "The month often passes faster than one thinks."
   },
   {
     "id": "morgen",
@@ -2063,7 +2575,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Morgen",
     "translation": "morning",
-    "category": "time"
+    "category": "time",
+    "sentence_de": "Der Morgen vergeht oft schneller als man denkt.",
+    "sentence_en": "The morning often passes faster than one thinks."
   },
   {
     "id": "abend",
@@ -2071,7 +2585,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Abende",
     "translation": "evening",
-    "category": "time"
+    "category": "time",
+    "sentence_de": "Der Abend vergeht oft schneller als man denkt.",
+    "sentence_en": "The evening often passes faster than one thinks."
   },
   {
     "id": "mittag",
@@ -2079,7 +2595,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Mittage",
     "translation": "midday / noon",
-    "category": "time"
+    "category": "time",
+    "sentence_de": "Der Mittag vergeht oft schneller als man denkt.",
+    "sentence_en": "The midday often passes faster than one thinks."
   },
   {
     "id": "sommer",
@@ -2087,7 +2605,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Sommer",
     "translation": "summer",
-    "category": "time"
+    "category": "time",
+    "sentence_de": "Der Sommer vergeht oft schneller als man denkt.",
+    "sentence_en": "The summer often passes faster than one thinks."
   },
   {
     "id": "winter",
@@ -2095,7 +2615,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Winter",
     "translation": "winter",
-    "category": "time"
+    "category": "time",
+    "sentence_de": "Der Winter vergeht oft schneller als man denkt.",
+    "sentence_en": "The winter often passes faster than one thinks."
   },
   {
     "id": "fruehling",
@@ -2103,7 +2625,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Frühlinge",
     "translation": "spring (season)",
-    "category": "time"
+    "category": "time",
+    "sentence_de": "Der Frühling ist ein wichtiger Zeitpunkt im Kalender.",
+    "sentence_en": "The spring is an important point in time on the calendar."
   },
   {
     "id": "herbst",
@@ -2111,7 +2635,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Herbste",
     "translation": "autumn / fall",
-    "category": "time"
+    "category": "time",
+    "sentence_de": "Der Herbst vergeht oft schneller als man denkt.",
+    "sentence_en": "The autumn often passes faster than one thinks."
   },
   {
     "id": "moment",
@@ -2119,7 +2645,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Momente",
     "translation": "moment",
-    "category": "time"
+    "category": "time",
+    "sentence_de": "Der Moment ist ein wichtiger Zeitpunkt im Kalender.",
+    "sentence_en": "The moment is an important point in time on the calendar."
   },
   {
     "id": "woche",
@@ -2127,7 +2655,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "Wochen",
     "translation": "week",
-    "category": "time"
+    "category": "time",
+    "sentence_de": "Die Woche vergeht oft schneller als man denkt.",
+    "sentence_en": "The week often passes faster than one thinks."
   },
   {
     "id": "stunde",
@@ -2135,7 +2665,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "Stunden",
     "translation": "hour",
-    "category": "time"
+    "category": "time",
+    "sentence_de": "Die Stunde vergeht oft schneller als man denkt.",
+    "sentence_en": "The hour often passes faster than one thinks."
   },
   {
     "id": "minute",
@@ -2143,7 +2675,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "Minuten",
     "translation": "minute",
-    "category": "time"
+    "category": "time",
+    "sentence_de": "Die Minute vergeht oft schneller als man denkt.",
+    "sentence_en": "The minute often passes faster than one thinks."
   },
   {
     "id": "sekunde",
@@ -2151,7 +2685,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "Sekunden",
     "translation": "second (time)",
-    "category": "time"
+    "category": "time",
+    "sentence_de": "Die Sekunde vergeht oft schneller als man denkt.",
+    "sentence_en": "The second often passes faster than one thinks."
   },
   {
     "id": "nacht",
@@ -2159,7 +2695,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "Nächte",
     "translation": "night",
-    "category": "time"
+    "category": "time",
+    "sentence_de": "Die Nacht vergeht oft schneller als man denkt.",
+    "sentence_en": "The night often passes faster than one thinks."
   },
   {
     "id": "zeit",
@@ -2167,7 +2705,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "Zeiten",
     "translation": "time",
-    "category": "time"
+    "category": "time",
+    "sentence_de": "Die Zeit ist ein wichtiger Zeitpunkt im Kalender.",
+    "sentence_en": "The time is an important point in time on the calendar."
   },
   {
     "id": "jahreszeit",
@@ -2175,7 +2715,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "Jahreszeiten",
     "translation": "season",
-    "category": "time"
+    "category": "time",
+    "sentence_de": "Die Jahreszeit vergeht oft schneller als man denkt.",
+    "sentence_en": "The season often passes faster than one thinks."
   },
   {
     "id": "jahr",
@@ -2183,7 +2725,9 @@ const DEFAULT_VOCABULARY = [
     "article": "das",
     "plural": "Jahre",
     "translation": "year",
-    "category": "time"
+    "category": "time",
+    "sentence_de": "Das Jahr vergeht oft schneller als man denkt.",
+    "sentence_en": "The year often passes faster than one thinks."
   },
   {
     "id": "datum",
@@ -2191,7 +2735,9 @@ const DEFAULT_VOCABULARY = [
     "article": "das",
     "plural": "Daten",
     "translation": "date (calendar)",
-    "category": "time"
+    "category": "time",
+    "sentence_de": "Das Datum ist ein wichtiger Zeitpunkt im Kalender.",
+    "sentence_en": "The date is an important point in time on the calendar."
   },
   {
     "id": "wochenende",
@@ -2199,7 +2745,9 @@ const DEFAULT_VOCABULARY = [
     "article": "das",
     "plural": "Wochenenden",
     "translation": "weekend",
-    "category": "time"
+    "category": "time",
+    "sentence_de": "Das Wochenende vergeht oft schneller als man denkt.",
+    "sentence_en": "The weekend often passes faster than one thinks."
   },
   {
     "id": "computer",
@@ -2207,7 +2755,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Computer",
     "translation": "computer",
-    "category": "technology"
+    "category": "technology",
+    "sentence_de": "Der Computer erleichtert die tägliche digitale Arbeit.",
+    "sentence_en": "The computer facilitates daily digital work."
   },
   {
     "id": "bildschirm",
@@ -2215,7 +2765,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Bildschirme",
     "translation": "screen / monitor",
-    "category": "technology"
+    "category": "technology",
+    "sentence_de": "Der Bildschirm erleichtert die tägliche digitale Arbeit.",
+    "sentence_en": "The screen facilitates daily digital work."
   },
   {
     "id": "drucker",
@@ -2223,7 +2775,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Drucker",
     "translation": "printer",
-    "category": "technology"
+    "category": "technology",
+    "sentence_de": "Der Drucker erleichtert die tägliche digitale Arbeit.",
+    "sentence_en": "The printer facilitates daily digital work."
   },
   {
     "id": "fernseher",
@@ -2231,7 +2785,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Fernseher",
     "translation": "television set",
-    "category": "technology"
+    "category": "technology",
+    "sentence_de": "Der Fernseher ist ein nützliches Werkzeug in der modernen Praxis.",
+    "sentence_en": "The television set is a useful tool in modern practice."
   },
   {
     "id": "laptop",
@@ -2239,7 +2795,9 @@ const DEFAULT_VOCABULARY = [
     "article": "der",
     "plural": "Laptops",
     "translation": "laptop",
-    "category": "technology"
+    "category": "technology",
+    "sentence_de": "Der Laptop erleichtert die tägliche digitale Arbeit.",
+    "sentence_en": "The laptop facilitates daily digital work."
   },
   {
     "id": "tastatur",
@@ -2247,7 +2805,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "Tastaturen",
     "translation": "keyboard",
-    "category": "technology"
+    "category": "technology",
+    "sentence_de": "Die Tastatur erleichtert die tägliche digitale Arbeit.",
+    "sentence_en": "The keyboard facilitates daily digital work."
   },
   {
     "id": "maus",
@@ -2255,7 +2815,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "Mäuse",
     "translation": "mouse (computer/animal)",
-    "category": "technology"
+    "category": "technology",
+    "sentence_de": "Die Maus erleichtert die tägliche digitale Arbeit.",
+    "sentence_en": "The mouse (computer facilitates daily digital work."
   },
   {
     "id": "kamera",
@@ -2263,7 +2825,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "Kameras",
     "translation": "camera",
-    "category": "technology"
+    "category": "technology",
+    "sentence_de": "Die Kamera erleichtert die tägliche digitale Arbeit.",
+    "sentence_en": "The camera facilitates daily digital work."
   },
   {
     "id": "nachricht",
@@ -2271,7 +2835,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "Nachrichten",
     "translation": "message / news",
-    "category": "technology"
+    "category": "technology",
+    "sentence_de": "Die Nachricht ist ein nützliches Werkzeug in der modernen Praxis.",
+    "sentence_en": "The message is a useful tool in modern practice."
   },
   {
     "id": "email",
@@ -2279,7 +2845,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "E-Mails",
     "translation": "e-mail",
-    "category": "technology"
+    "category": "technology",
+    "sentence_de": "Die E-Mail ist ein nützliches Werkzeug in der modernen Praxis.",
+    "sentence_en": "The e-mail is a useful tool in modern practice."
   },
   {
     "id": "webseite",
@@ -2287,7 +2855,9 @@ const DEFAULT_VOCABULARY = [
     "article": "die",
     "plural": "Webseiten",
     "translation": "website / webpage",
-    "category": "technology"
+    "category": "technology",
+    "sentence_de": "Die Webseite ist ein nützliches Werkzeug in der modernen Praxis.",
+    "sentence_en": "The website is a useful tool in modern practice."
   },
   {
     "id": "handy",
@@ -2295,7 +2865,9 @@ const DEFAULT_VOCABULARY = [
     "article": "das",
     "plural": "Handys",
     "translation": "mobile phone",
-    "category": "technology"
+    "category": "technology",
+    "sentence_de": "Das Handy erleichtert die tägliche digitale Arbeit.",
+    "sentence_en": "The mobile phone facilitates daily digital work."
   },
   {
     "id": "internet",
@@ -2303,7 +2875,9 @@ const DEFAULT_VOCABULARY = [
     "article": "das",
     "plural": "",
     "translation": "internet",
-    "category": "technology"
+    "category": "technology",
+    "sentence_de": "Das Internet erleichtert die tägliche digitale Arbeit.",
+    "sentence_en": "The internet facilitates daily digital work."
   },
   {
     "id": "programm",
@@ -2311,7 +2885,9 @@ const DEFAULT_VOCABULARY = [
     "article": "das",
     "plural": "Programme",
     "translation": "program / software",
-    "category": "technology"
+    "category": "technology",
+    "sentence_de": "Das Programm ist ein nützliches Werkzeug in der modernen Praxis.",
+    "sentence_en": "The program is a useful tool in modern practice."
   },
   {
     "id": "netzwerk",
@@ -2319,7 +2895,9 @@ const DEFAULT_VOCABULARY = [
     "article": "das",
     "plural": "Netzwerke",
     "translation": "network",
-    "category": "technology"
+    "category": "technology",
+    "sentence_de": "Das Netzwerk ist ein nützliches Werkzeug in der modernen Praxis.",
+    "sentence_en": "The network is a useful tool in modern practice."
   },
   {
     "id": "radio",
@@ -2327,7 +2905,9 @@ const DEFAULT_VOCABULARY = [
     "article": "das",
     "plural": "Radios",
     "translation": "radio",
-    "category": "technology"
+    "category": "technology",
+    "sentence_de": "Das Radio ist ein nützliches Werkzeug in der modernen Praxis.",
+    "sentence_en": "The radio is a useful tool in modern practice."
   },
   {
     "id": "tablet",
@@ -2335,7 +2915,9 @@ const DEFAULT_VOCABULARY = [
     "article": "das",
     "plural": "Tablets",
     "translation": "tablet computer",
-    "category": "technology"
+    "category": "technology",
+    "sentence_de": "Das Tablet ist ein nützliches Werkzeug in der modernen Praxis.",
+    "sentence_en": "The tablet computer is a useful tool in modern practice."
   },
   {
     "id": "passwort",
@@ -2343,31 +2925,15321 @@ const DEFAULT_VOCABULARY = [
     "article": "das",
     "plural": "Passwörter",
     "translation": "password",
-    "category": "technology"
+    "category": "technology",
+    "sentence_de": "Das Passwort ist ein nützliches Werkzeug in der modernen Praxis.",
+    "sentence_en": "The password is a useful tool in modern practice."
+  },
+  {
+    "id": "name",
+    "word": "Name",
+    "article": "der",
+    "plural": "Namen",
+    "translation": "name",
+    "category": "people",
+    "sentence_de": "Der Name ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The name is a valued member of the community."
+  },
+  {
+    "id": "alter",
+    "word": "Alter",
+    "article": "das",
+    "plural": "",
+    "translation": "age",
+    "category": "people",
+    "sentence_de": "Das Alter ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The age is a valued member of the community."
+  },
+  {
+    "id": "geburtstag",
+    "word": "Geburtstag",
+    "article": "der",
+    "plural": "Geburtstage",
+    "translation": "birthday",
+    "category": "people",
+    "sentence_de": "Der Geburtstag ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The birthday is a valued member of the community."
+  },
+  {
+    "id": "adresse",
+    "word": "Adresse",
+    "article": "die",
+    "plural": "Adressen",
+    "translation": "address",
+    "category": "people",
+    "sentence_de": "Die Adresse ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The address is a valued member of the community."
+  },
+  {
+    "id": "telefonnummer",
+    "word": "Telefonnummer",
+    "article": "die",
+    "plural": "Telefonnummern",
+    "translation": "phone number",
+    "category": "people",
+    "sentence_de": "Die Telefonnummer ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The phone number is a valued member of the community."
+  },
+  {
+    "id": "junge",
+    "word": "Junge",
+    "article": "der",
+    "plural": "Jungen",
+    "translation": "boy",
+    "category": "people",
+    "sentence_de": "Der Junge grüßt freundlich und hilft hilfsbereit.",
+    "sentence_en": "The boy greets kindly and helps readily."
+  },
+  {
+    "id": "herr",
+    "word": "Herr",
+    "article": "der",
+    "plural": "Herren",
+    "translation": "Mr. / gentleman",
+    "category": "people",
+    "sentence_de": "Der Herr ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The Mr. is a valued member of the community."
+  },
+  {
+    "id": "dame",
+    "word": "Dame",
+    "article": "die",
+    "plural": "Damen",
+    "translation": "lady",
+    "category": "people",
+    "sentence_de": "Die Dame ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The lady is a valued member of the community."
+  },
+  {
+    "id": "gast",
+    "word": "Gast",
+    "article": "der",
+    "plural": "Gäste",
+    "translation": "guest",
+    "category": "people",
+    "sentence_de": "Der Gast grüßt freundlich und hilft hilfsbereit.",
+    "sentence_en": "The guest greets kindly and helps readily."
+  },
+  {
+    "id": "enkel",
+    "word": "Enkel",
+    "article": "der",
+    "plural": "Enkel",
+    "translation": "grandson",
+    "category": "people",
+    "sentence_de": "Der Enkel ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The grandson is a valued member of the community."
+  },
+  {
+    "id": "enkelin",
+    "word": "Enkelin",
+    "article": "die",
+    "plural": "Enkelinnen",
+    "translation": "granddaughter",
+    "category": "people",
+    "sentence_de": "Die Enkelin ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The granddaughter is a valued member of the community."
+  },
+  {
+    "id": "cousin",
+    "word": "Cousin",
+    "article": "der",
+    "plural": "Cousins",
+    "translation": "cousin (male)",
+    "category": "people",
+    "sentence_de": "Der Cousin ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The cousin is a valued member of the community."
+  },
+  {
+    "id": "cousine",
+    "word": "Cousine",
+    "article": "die",
+    "plural": "Cousinen",
+    "translation": "cousin (female)",
+    "category": "people",
+    "sentence_de": "Die Cousine ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The cousin is a valued member of the community."
+  },
+  {
+    "id": "verkaeufer",
+    "word": "Verkäufer",
+    "article": "der",
+    "plural": "Verkäufer",
+    "translation": "salesperson (male)",
+    "category": "people",
+    "sentence_de": "Der Verkäufer ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The salesperson is a valued member of the community."
+  },
+  {
+    "id": "verkaeuferin",
+    "word": "Verkäuferin",
+    "article": "die",
+    "plural": "Verkäuferinnen",
+    "translation": "salesperson (female)",
+    "category": "people",
+    "sentence_de": "Die Verkäuferin ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The salesperson is a valued member of the community."
+  },
+  {
+    "id": "polizist",
+    "word": "Polizist",
+    "article": "der",
+    "plural": "Polizisten",
+    "translation": "police officer (male)",
+    "category": "people",
+    "sentence_de": "Der Polizist übt diesen Beruf mit großem Engagement aus.",
+    "sentence_en": "The police officer pursues this profession with great dedication."
+  },
+  {
+    "id": "polizistin",
+    "word": "Polizistin",
+    "article": "die",
+    "plural": "Polizistinnen",
+    "translation": "police officer (female)",
+    "category": "people",
+    "sentence_de": "Die Polizistin übt diesen Beruf mit großem Engagement aus.",
+    "sentence_en": "The police officer pursues this profession with great dedication."
+  },
+  {
+    "id": "koch",
+    "word": "Koch",
+    "article": "der",
+    "plural": "Köche",
+    "translation": "cook / chef (male)",
+    "category": "people",
+    "sentence_de": "Der Koch übt diesen Beruf mit großem Engagement aus.",
+    "sentence_en": "The cook pursues this profession with great dedication."
+  },
+  {
+    "id": "kochin",
+    "word": "Köchin",
+    "article": "die",
+    "plural": "Köchinnen",
+    "translation": "cook / chef (female)",
+    "category": "people",
+    "sentence_de": "Die Köchin ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The cook is a valued member of the community."
+  },
+  {
+    "id": "baecker",
+    "word": "Bäcker",
+    "article": "der",
+    "plural": "Bäcker",
+    "translation": "baker (male)",
+    "category": "people",
+    "sentence_de": "Der Bäcker ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The baker is a valued member of the community."
+  },
+  {
+    "id": "baeckerin",
+    "word": "Bäckerin",
+    "article": "die",
+    "plural": "Bäckerinnen",
+    "translation": "baker (female)",
+    "category": "people",
+    "sentence_de": "Die Bäckerin ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The baker is a valued member of the community."
+  },
+  {
+    "id": "kellner",
+    "word": "Kellner",
+    "article": "der",
+    "plural": "Kellner",
+    "translation": "waiter",
+    "category": "people",
+    "sentence_de": "Der Kellner ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The waiter is a valued member of the community."
+  },
+  {
+    "id": "kellnerin",
+    "word": "Kellnerin",
+    "article": "die",
+    "plural": "Kellnerinnen",
+    "translation": "waitress",
+    "category": "people",
+    "sentence_de": "Die Kellnerin ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The waitress is a valued member of the community."
+  },
+  {
+    "id": "handtuch",
+    "word": "Handtuch",
+    "article": "das",
+    "plural": "Handtücher",
+    "translation": "towel",
+    "category": "home",
+    "sentence_de": "Das Handtuch ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The towel is a useful item in the house."
+  },
+  {
+    "id": "vorhang",
+    "word": "Vorhang",
+    "article": "der",
+    "plural": "Vorhänge",
+    "translation": "curtain",
+    "category": "home",
+    "sentence_de": "Der Vorhang ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The curtain is a useful item in the house."
+  },
+  {
+    "id": "gardine",
+    "word": "Gardine",
+    "article": "die",
+    "plural": "Gardinen",
+    "translation": "curtain / drape",
+    "category": "home",
+    "sentence_de": "Die Gardine ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The curtain is a useful item in the house."
+  },
+  {
+    "id": "boden",
+    "word": "Boden",
+    "article": "der",
+    "plural": "Böden",
+    "translation": "floor / ground",
+    "category": "home",
+    "sentence_de": "Der Boden gehört zu einem gemütlichen Zuhause.",
+    "sentence_en": "The floor is part of a cozy home."
+  },
+  {
+    "id": "dach",
+    "word": "Dach",
+    "article": "das",
+    "plural": "Dächer",
+    "translation": "roof",
+    "category": "home",
+    "sentence_de": "Das Dach gehört zu einem gemütlichen Zuhause.",
+    "sentence_en": "The roof is part of a cozy home."
+  },
+  {
+    "id": "keller",
+    "word": "Keller",
+    "article": "der",
+    "plural": "Keller",
+    "translation": "basement / cellar",
+    "category": "home",
+    "sentence_de": "Der Keller gehört zu einem gemütlichen Zuhause.",
+    "sentence_en": "The basement is part of a cozy home."
+  },
+  {
+    "id": "aufzug",
+    "word": "Aufzug",
+    "article": "der",
+    "plural": "Aufzüge",
+    "translation": "elevator / lift",
+    "category": "home",
+    "sentence_de": "Der Aufzug ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The elevator is a useful item in the house."
+  },
+  {
+    "id": "staubsauger",
+    "word": "Staubsauger",
+    "article": "der",
+    "plural": "Staubsauger",
+    "translation": "vacuum cleaner",
+    "category": "home",
+    "sentence_de": "Der Staubsauger ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The vacuum cleaner is a useful item in the house."
+  },
+  {
+    "id": "herd",
+    "word": "Herd",
+    "article": "der",
+    "plural": "Herde",
+    "translation": "stove / cooker",
+    "category": "home",
+    "sentence_de": "Der Herd ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The stove is a useful item in the house."
+  },
+  {
+    "id": "couch",
+    "word": "Couch",
+    "article": "die",
+    "plural": "Couches",
+    "translation": "couch / sofa",
+    "category": "home",
+    "sentence_de": "Die Couch ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The couch is a useful item in the house."
+  },
+  {
+    "id": "waschbecken",
+    "word": "Waschbecken",
+    "article": "das",
+    "plural": "Waschbecken",
+    "translation": "sink / washbasin",
+    "category": "home",
+    "sentence_de": "Das Waschbecken ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The sink is a useful item in the house."
+  },
+  {
+    "id": "steckdose",
+    "word": "Steckdose",
+    "article": "die",
+    "plural": "Steckdosen",
+    "translation": "power socket / outlet",
+    "category": "home",
+    "sentence_de": "Die Steckdose ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The power socket is a useful item in the house."
+  },
+  {
+    "id": "mittagessen",
+    "word": "Mittagessen",
+    "article": "das",
+    "plural": "Mittagessen",
+    "translation": "lunch",
+    "category": "food",
+    "sentence_de": "Wir bereiten das Mittagessen mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the lunch with fresh ingredients."
+  },
+  {
+    "id": "mahlzeit",
+    "word": "Mahlzeit",
+    "article": "die",
+    "plural": "Mahlzeiten",
+    "translation": "meal",
+    "category": "food",
+    "sentence_de": "Wir bereiten die Mahlzeit mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the meal with fresh ingredients."
+  },
+  {
+    "id": "hunger",
+    "word": "Hunger",
+    "article": "der",
+    "plural": "",
+    "translation": "hunger",
+    "category": "food",
+    "sentence_de": "Wir bereiten den Hunger mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the hunger with fresh ingredients."
+  },
+  {
+    "id": "durst",
+    "word": "Durst",
+    "article": "der",
+    "plural": "",
+    "translation": "thirst",
+    "category": "food",
+    "sentence_de": "Wir bereiten den Durst mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the thirst with fresh ingredients."
+  },
+  {
+    "id": "nudel",
+    "word": "Nudel",
+    "article": "die",
+    "plural": "Nudeln",
+    "translation": "pasta / noodle",
+    "category": "food",
+    "sentence_de": "Wir bereiten die Nudel mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the pasta with fresh ingredients."
+  },
+  {
+    "id": "limonade",
+    "word": "Limonade",
+    "article": "die",
+    "plural": "Limonaden",
+    "translation": "lemonade / soft drink",
+    "category": "food",
+    "sentence_de": "Ein Glas oder eine Tasse Limonade ist sehr erfrischend.",
+    "sentence_en": "A glass or cup of lemonade is very refreshing."
+  },
+  {
+    "id": "menu",
+    "word": "Menü",
+    "article": "das",
+    "plural": "Menüs",
+    "translation": "menu",
+    "category": "food",
+    "sentence_de": "Wir bereiten das Menü mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the menu with fresh ingredients."
+  },
+  {
+    "id": "rechnung",
+    "word": "Rechnung",
+    "article": "die",
+    "plural": "Rechnungen",
+    "translation": "bill / invoice",
+    "category": "food",
+    "sentence_de": "Wir bereiten die Rechnung mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the bill with fresh ingredients."
+  },
+  {
+    "id": "snack",
+    "word": "Snack",
+    "article": "der",
+    "plural": "Snacks",
+    "translation": "snack",
+    "category": "food",
+    "sentence_de": "Wir bereiten den Snack mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the snack with fresh ingredients."
+  },
+  {
+    "id": "honig",
+    "word": "Honig",
+    "article": "der",
+    "plural": "",
+    "translation": "honey",
+    "category": "food",
+    "sentence_de": "Wir bereiten den Honig mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the honey with fresh ingredients."
+  },
+  {
+    "id": "marmelade",
+    "word": "Marmelade",
+    "article": "die",
+    "plural": "Marmeladen",
+    "translation": "jam",
+    "category": "food",
+    "sentence_de": "Wir bereiten die Marmelade mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the jam with fresh ingredients."
+  },
+  {
+    "id": "nuss",
+    "word": "Nuss",
+    "article": "die",
+    "plural": "Nüsse",
+    "translation": "nut",
+    "category": "food",
+    "sentence_de": "Wir bereiten die Nuss mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the nut with fresh ingredients."
+  },
+  {
+    "id": "zitrone",
+    "word": "Zitrone",
+    "article": "die",
+    "plural": "Zitronen",
+    "translation": "lemon",
+    "category": "food",
+    "sentence_de": "Wir bereiten die Zitrone mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the lemon with fresh ingredients."
+  },
+  {
+    "id": "traube",
+    "word": "Traube",
+    "article": "die",
+    "plural": "Trauben",
+    "translation": "grape",
+    "category": "food",
+    "sentence_de": "Wir bereiten die Traube mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the grape with fresh ingredients."
+  },
+  {
+    "id": "geld",
+    "word": "Geld",
+    "article": "das",
+    "plural": "",
+    "translation": "money",
+    "category": "shopping",
+    "sentence_de": "Das Geld spielt beim Einkaufen und Wirtschaften eine Rolle.",
+    "sentence_en": "The money plays a role in shopping and business."
+  },
+  {
+    "id": "preis",
+    "word": "Preis",
+    "article": "der",
+    "plural": "Preise",
+    "translation": "price",
+    "category": "shopping",
+    "sentence_de": "Der Preis spielt beim Einkaufen und Wirtschaften eine Rolle.",
+    "sentence_en": "The price plays a role in shopping and business."
+  },
+  {
+    "id": "geschenk",
+    "word": "Geschenk",
+    "article": "das",
+    "plural": "Geschenke",
+    "translation": "gift / present",
+    "category": "shopping",
+    "sentence_de": "Das Geschenk spielt beim Einkaufen und Wirtschaften eine Rolle.",
+    "sentence_en": "The gift plays a role in shopping and business."
+  },
+  {
+    "id": "kasse",
+    "word": "Kasse",
+    "article": "die",
+    "plural": "Kassen",
+    "translation": "cash register / checkout",
+    "category": "shopping",
+    "sentence_de": "Die Kasse spielt beim Einkaufen und Wirtschaften eine Rolle.",
+    "sentence_en": "The cash register plays a role in shopping and business."
+  },
+  {
+    "id": "einkauf",
+    "word": "Einkauf",
+    "article": "der",
+    "plural": "Einkäufe",
+    "translation": "purchase / shopping trip",
+    "category": "shopping",
+    "sentence_de": "Der Einkauf spielt beim Einkaufen und Wirtschaften eine Rolle.",
+    "sentence_en": "The purchase plays a role in shopping and business."
+  },
+  {
+    "id": "quittung",
+    "word": "Quittung",
+    "article": "die",
+    "plural": "Quittungen",
+    "translation": "receipt",
+    "category": "shopping",
+    "sentence_de": "Die Quittung spielt beim Einkaufen und Wirtschaften eine Rolle.",
+    "sentence_en": "The receipt plays a role in shopping and business."
+  },
+  {
+    "id": "rabatt",
+    "word": "Rabatt",
+    "article": "der",
+    "plural": "Rabatte",
+    "translation": "discount",
+    "category": "shopping",
+    "sentence_de": "Der Rabatt spielt beim Einkaufen und Wirtschaften eine Rolle.",
+    "sentence_en": "The discount plays a role in shopping and business."
+  },
+  {
+    "id": "muenze",
+    "word": "Münze",
+    "article": "die",
+    "plural": "Münzen",
+    "translation": "coin",
+    "category": "shopping",
+    "sentence_de": "Die Münze spielt beim Einkaufen und Wirtschaften eine Rolle.",
+    "sentence_en": "The coin plays a role in shopping and business."
+  },
+  {
+    "id": "tuete",
+    "word": "Tüte",
+    "article": "die",
+    "plural": "Tüten",
+    "translation": "bag (shopping)",
+    "category": "shopping",
+    "sentence_de": "Die Tüte spielt beim Einkaufen und Wirtschaften eine Rolle.",
+    "sentence_en": "The bag plays a role in shopping and business."
+  },
+  {
+    "id": "kunde",
+    "word": "Kunde",
+    "article": "der",
+    "plural": "Kunden",
+    "translation": "customer (male)",
+    "category": "shopping",
+    "sentence_de": "Der Kunde spielt beim Einkaufen und Wirtschaften eine Rolle.",
+    "sentence_en": "The customer plays a role in shopping and business."
+  },
+  {
+    "id": "kundin",
+    "word": "Kundin",
+    "article": "die",
+    "plural": "Kundinnen",
+    "translation": "customer (female)",
+    "category": "shopping",
+    "sentence_de": "Die Kundin spielt beim Einkaufen und Wirtschaften eine Rolle.",
+    "sentence_en": "The customer plays a role in shopping and business."
+  },
+  {
+    "id": "schmerz",
+    "word": "Schmerz",
+    "article": "der",
+    "plural": "Schmerzen",
+    "translation": "pain",
+    "category": "health",
+    "sentence_de": "Der Schmerz spielt eine entscheidende Rolle für die Genesung.",
+    "sentence_en": "The pain plays a crucial role in recovery."
+  },
+  {
+    "id": "erkaeltung",
+    "word": "Erkältung",
+    "article": "die",
+    "plural": "Erkältungen",
+    "translation": "cold (illness)",
+    "category": "health",
+    "sentence_de": "Gute Pflege für die Erkältung ist wichtig für das Wohlbefinden.",
+    "sentence_en": "Good care for the cold is important for well-being."
+  },
+  {
+    "id": "husten",
+    "word": "Husten",
+    "article": "der",
+    "plural": "",
+    "translation": "cough",
+    "category": "health",
+    "sentence_de": "Gute Pflege für den Husten ist wichtig für das Wohlbefinden.",
+    "sentence_en": "Good care for the cough is important for well-being."
+  },
+  {
+    "id": "fieber",
+    "word": "Fieber",
+    "article": "das",
+    "plural": "",
+    "translation": "fever",
+    "category": "health",
+    "sentence_de": "Das Fieber spielt eine entscheidende Rolle für die Genesung.",
+    "sentence_en": "The fever plays a crucial role in recovery."
+  },
+  {
+    "id": "tablette",
+    "word": "Tablette",
+    "article": "die",
+    "plural": "Tabletten",
+    "translation": "tablet / pill",
+    "category": "health",
+    "sentence_de": "Gute Pflege für die Tablette ist wichtig für das Wohlbefinden.",
+    "sentence_en": "Good care for the tablet is important for well-being."
+  },
+  {
+    "id": "termin",
+    "word": "Termin",
+    "article": "der",
+    "plural": "Termine",
+    "translation": "appointment",
+    "category": "health",
+    "sentence_de": "Gute Pflege für den Termin ist wichtig für das Wohlbefinden.",
+    "sentence_en": "Good care for the appointment is important for well-being."
+  },
+  {
+    "id": "sport",
+    "word": "Sport",
+    "article": "der",
+    "plural": "",
+    "translation": "sport",
+    "category": "hobbies",
+    "sentence_de": "Der Sport fördert Fitness, Teamgeist und Begeisterung.",
+    "sentence_en": "The sport promotes fitness, team spirit, and enthusiasm."
+  },
+  {
+    "id": "hobby",
+    "word": "Hobby",
+    "article": "das",
+    "plural": "Hobbys",
+    "translation": "hobby",
+    "category": "hobbies",
+    "sentence_de": "Das Hobby bereitet in der Freizeit großen Spaß.",
+    "sentence_en": "The hobby brings great joy during leisure time."
+  },
+  {
+    "id": "fussball",
+    "word": "Fußball",
+    "article": "der",
+    "plural": "Fußbälle",
+    "translation": "soccer / football",
+    "category": "hobbies",
+    "sentence_de": "Der Fußball fördert Fitness, Teamgeist und Begeisterung.",
+    "sentence_en": "The soccer promotes fitness, team spirit, and enthusiasm."
+  },
+  {
+    "id": "musik",
+    "word": "Musik",
+    "article": "die",
+    "plural": "",
+    "translation": "music",
+    "category": "hobbies",
+    "sentence_de": "Die Musik bereitet in der Freizeit großen Spaß.",
+    "sentence_en": "The music brings great joy during leisure time."
+  },
+  {
+    "id": "film",
+    "word": "Film",
+    "article": "der",
+    "plural": "Filme",
+    "translation": "film / movie",
+    "category": "hobbies",
+    "sentence_de": "Der Film bereitet in der Freizeit großen Spaß.",
+    "sentence_en": "The film brings great joy during leisure time."
+  },
+  {
+    "id": "spiel",
+    "word": "Spiel",
+    "article": "das",
+    "plural": "Spiele",
+    "translation": "game / play",
+    "category": "hobbies",
+    "sentence_de": "Das Spiel fördert Fitness, Teamgeist und Begeisterung.",
+    "sentence_en": "The game promotes fitness, team spirit, and enthusiasm."
+  },
+  {
+    "id": "party",
+    "word": "Party",
+    "article": "die",
+    "plural": "Partys",
+    "translation": "party",
+    "category": "hobbies",
+    "sentence_de": "Die Party bereitet in der Freizeit großen Spaß.",
+    "sentence_en": "The party brings great joy during leisure time."
+  },
+  {
+    "id": "tanz",
+    "word": "Tanz",
+    "article": "der",
+    "plural": "Tänze",
+    "translation": "dance",
+    "category": "hobbies",
+    "sentence_de": "Der Tanz bereitet in der Freizeit großen Spaß.",
+    "sentence_en": "The dance brings great joy during leisure time."
+  },
+  {
+    "id": "konzert",
+    "word": "Konzert",
+    "article": "das",
+    "plural": "Konzerte",
+    "translation": "concert",
+    "category": "hobbies",
+    "sentence_de": "Das Konzert erzeugt wunderschöne und harmonische Klänge.",
+    "sentence_en": "The concert produces beautiful and harmonious sounds."
+  },
+  {
+    "id": "freizeit",
+    "word": "Freizeit",
+    "article": "die",
+    "plural": "",
+    "translation": "free time / leisure",
+    "category": "hobbies",
+    "sentence_de": "Die Freizeit bereitet in der Freizeit großen Spaß.",
+    "sentence_en": "The free time brings great joy during leisure time."
+  },
+  {
+    "id": "verein",
+    "word": "Verein",
+    "article": "der",
+    "plural": "Vereine",
+    "translation": "club / association",
+    "category": "hobbies",
+    "sentence_de": "Der Verein bereitet in der Freizeit großen Spaß.",
+    "sentence_en": "The club brings great joy during leisure time."
+  },
+  {
+    "id": "buero",
+    "word": "Büro",
+    "article": "das",
+    "plural": "Büros",
+    "translation": "office",
+    "category": "work",
+    "sentence_de": "Das Büro ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The office is an important term in the German language."
+  },
+  {
+    "id": "chef",
+    "word": "Chef",
+    "article": "der",
+    "plural": "Chefs",
+    "translation": "boss (male)",
+    "category": "work",
+    "sentence_de": "Der Chef ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The boss is an important term in the German language."
+  },
+  {
+    "id": "chefin",
+    "word": "Chefin",
+    "article": "die",
+    "plural": "Chefinnen",
+    "translation": "boss (female)",
+    "category": "work",
+    "sentence_de": "Die Chefin ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The boss is an important term in the German language."
+  },
+  {
+    "id": "firma",
+    "word": "Firma",
+    "article": "die",
+    "plural": "Firmen",
+    "translation": "company / firm",
+    "category": "work",
+    "sentence_de": "Die Firma ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The company is an important term in the German language."
+  },
+  {
+    "id": "gehalt",
+    "word": "Gehalt",
+    "article": "das",
+    "plural": "Gehälter",
+    "translation": "salary",
+    "category": "work",
+    "sentence_de": "Das Gehalt ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The salary is an important term in the German language."
+  },
+  {
+    "id": "stelle",
+    "word": "Stelle",
+    "article": "die",
+    "plural": "Stellen",
+    "translation": "job position",
+    "category": "work",
+    "sentence_de": "Die Stelle ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The job position is an important term in the German language."
+  },
+  {
+    "id": "projekt",
+    "word": "Projekt",
+    "article": "das",
+    "plural": "Projekte",
+    "translation": "project",
+    "category": "work",
+    "sentence_de": "Das Projekt ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The project is an important term in the German language."
+  },
+  {
+    "id": "aufgabe",
+    "word": "Aufgabe",
+    "article": "die",
+    "plural": "Aufgaben",
+    "translation": "task / assignment",
+    "category": "work",
+    "sentence_de": "Die Aufgabe ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The task is an important term in the German language."
+  },
+  {
+    "id": "besprechung",
+    "word": "Besprechung",
+    "article": "die",
+    "plural": "Besprechungen",
+    "translation": "meeting",
+    "category": "work",
+    "sentence_de": "Die Besprechung ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The meeting is an important term in the German language."
+  },
+  {
+    "id": "vertrag",
+    "word": "Vertrag",
+    "article": "der",
+    "plural": "Verträge",
+    "translation": "contract",
+    "category": "work",
+    "sentence_de": "Der Vertrag ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The contract is an important term in the German language."
+  },
+  {
+    "id": "schicht",
+    "word": "Schicht",
+    "article": "die",
+    "plural": "Schichten",
+    "translation": "shift (work)",
+    "category": "work",
+    "sentence_de": "Die Schicht ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The shift is an important term in the German language."
+  },
+  {
+    "id": "land",
+    "word": "Land",
+    "article": "das",
+    "plural": "Länder",
+    "translation": "country / land",
+    "category": "city",
+    "sentence_de": "Wir erreichen das Land nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the country after a short ride."
+  },
+  {
+    "id": "dorf",
+    "word": "Dorf",
+    "article": "das",
+    "plural": "Dörfer",
+    "translation": "village",
+    "category": "city",
+    "sentence_de": "Wir erreichen das Dorf nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the village after a short ride."
+  },
+  {
+    "id": "insel",
+    "word": "Insel",
+    "article": "die",
+    "plural": "Inseln",
+    "translation": "island",
+    "category": "city",
+    "sentence_de": "Wir erreichen die Insel nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the island after a short ride."
+  },
+  {
+    "id": "bruecke",
+    "word": "Brücke",
+    "article": "die",
+    "plural": "Brücken",
+    "translation": "bridge",
+    "category": "city",
+    "sentence_de": "Wir erreichen die Brücke nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the bridge after a short ride."
+  },
+  {
+    "id": "turm",
+    "word": "Turm",
+    "article": "der",
+    "plural": "Türme",
+    "translation": "tower",
+    "category": "city",
+    "sentence_de": "Wir erreichen den Turm nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the tower after a short ride."
+  },
+  {
+    "id": "gebaeude",
+    "word": "Gebäude",
+    "article": "das",
+    "plural": "Gebäude",
+    "translation": "building",
+    "category": "city",
+    "sentence_de": "Wir erreichen das Gebäude nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the building after a short ride."
+  },
+  {
+    "id": "polizei",
+    "word": "Polizei",
+    "article": "die",
+    "plural": "",
+    "translation": "police",
+    "category": "city",
+    "sentence_de": "Wir erreichen die Polizei nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the police after a short ride."
+  },
+  {
+    "id": "feuerwehr",
+    "word": "Feuerwehr",
+    "article": "die",
+    "plural": "",
+    "translation": "fire department",
+    "category": "city",
+    "sentence_de": "Wir erreichen die Feuerwehr nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the fire department after a short ride."
+  },
+  {
+    "id": "weg",
+    "word": "Weg",
+    "article": "der",
+    "plural": "Wege",
+    "translation": "way / path",
+    "category": "transport",
+    "sentence_de": "Wir erreichen den Weg nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the way after a short ride."
+  },
+  {
+    "id": "ecke",
+    "word": "Ecke",
+    "article": "die",
+    "plural": "Ecken",
+    "translation": "corner",
+    "category": "transport",
+    "sentence_de": "Wir erreichen die Ecke nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the corner after a short ride."
+  },
+  {
+    "id": "kreuzung",
+    "word": "Kreuzung",
+    "article": "die",
+    "plural": "Kreuzungen",
+    "translation": "intersection / crossroads",
+    "category": "transport",
+    "sentence_de": "Wir erreichen die Kreuzung nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the intersection after a short ride."
+  },
+  {
+    "id": "verkehr",
+    "word": "Verkehr",
+    "article": "der",
+    "plural": "",
+    "translation": "traffic",
+    "category": "transport",
+    "sentence_de": "Wir erreichen den Verkehr nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the traffic after a short ride."
+  },
+  {
+    "id": "tankstelle",
+    "word": "Tankstelle",
+    "article": "die",
+    "plural": "Tankstellen",
+    "translation": "gas station",
+    "category": "transport",
+    "sentence_de": "Wir erreichen die Tankstelle nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the gas station after a short ride."
+  },
+  {
+    "id": "benzin",
+    "word": "Benzin",
+    "article": "das",
+    "plural": "",
+    "translation": "gasoline / petrol",
+    "category": "transport",
+    "sentence_de": "Wir erreichen das Benzin nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the gasoline after a short ride."
+  },
+  {
+    "id": "fuehrerschein",
+    "word": "Führerschein",
+    "article": "der",
+    "plural": "Führerscheine",
+    "translation": "driver's license",
+    "category": "transport",
+    "sentence_de": "Wir erreichen den Führerschein nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the driver's license after a short ride."
+  },
+  {
+    "id": "autobahn",
+    "word": "Autobahn",
+    "article": "die",
+    "plural": "Autobahnen",
+    "translation": "highway / motorway",
+    "category": "transport",
+    "sentence_de": "Die Autobahn bringt die Fahrgäste pünktlich an ihr Ziel.",
+    "sentence_en": "The highway brings passengers to their destination on time."
+  },
+  {
+    "id": "stau",
+    "word": "Stau",
+    "article": "der",
+    "plural": "Staus",
+    "translation": "traffic jam",
+    "category": "transport",
+    "sentence_de": "Wir erreichen den Stau nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the traffic jam after a short ride."
+  },
+  {
+    "id": "fahrer",
+    "word": "Fahrer",
+    "article": "der",
+    "plural": "Fahrer",
+    "translation": "driver (male)",
+    "category": "transport",
+    "sentence_de": "Wir erreichen den Fahrer nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the driver after a short ride."
+  },
+  {
+    "id": "fahrerin",
+    "word": "Fahrerin",
+    "article": "die",
+    "plural": "Fahrerinnen",
+    "translation": "driver (female)",
+    "category": "transport",
+    "sentence_de": "Wir erreichen die Fahrerin nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the driver after a short ride."
+  },
+  {
+    "id": "richtung",
+    "word": "Richtung",
+    "article": "die",
+    "plural": "Richtungen",
+    "translation": "direction",
+    "category": "transport",
+    "sentence_de": "Wir erreichen die Richtung nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the direction after a short ride."
+  },
+  {
+    "id": "schmetterling",
+    "word": "Schmetterling",
+    "article": "der",
+    "plural": "Schmetterlinge",
+    "translation": "butterfly",
+    "category": "nature",
+    "sentence_de": "Der Schmetterling zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The butterfly shows the impressive diversity of nature."
+  },
+  {
+    "id": "schwein",
+    "word": "Schwein",
+    "article": "das",
+    "plural": "Schweine",
+    "translation": "pig",
+    "category": "nature",
+    "sentence_de": "Das Schwein zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The pig shows the impressive diversity of nature."
+  },
+  {
+    "id": "hase",
+    "word": "Hase",
+    "article": "der",
+    "plural": "Hasen",
+    "translation": "rabbit / hare",
+    "category": "nature",
+    "sentence_de": "Der Hase zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The rabbit shows the impressive diversity of nature."
+  },
+  {
+    "id": "schaf",
+    "word": "Schaf",
+    "article": "das",
+    "plural": "Schafe",
+    "translation": "sheep",
+    "category": "nature",
+    "sentence_de": "Das Schaf zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The sheep shows the impressive diversity of nature."
+  },
+  {
+    "id": "baer",
+    "word": "Bär",
+    "article": "der",
+    "plural": "Bären",
+    "translation": "bear",
+    "category": "nature",
+    "sentence_de": "Der Bär zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The bear shows the impressive diversity of nature."
+  },
+  {
+    "id": "loewe",
+    "word": "Löwe",
+    "article": "der",
+    "plural": "Löwen",
+    "translation": "lion",
+    "category": "nature",
+    "sentence_de": "Der Löwe zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The lion shows the impressive diversity of nature."
+  },
+  {
+    "id": "elefant",
+    "word": "Elefant",
+    "article": "der",
+    "plural": "Elefanten",
+    "translation": "elephant",
+    "category": "nature",
+    "sentence_de": "Der Elefant zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The elephant shows the impressive diversity of nature."
+  },
+  {
+    "id": "ente",
+    "word": "Ente",
+    "article": "die",
+    "plural": "Enten",
+    "translation": "duck",
+    "category": "nature",
+    "sentence_de": "Die Ente zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The duck shows the impressive diversity of nature."
+  },
+  {
+    "id": "huhn",
+    "word": "Huhn",
+    "article": "das",
+    "plural": "Hühner",
+    "translation": "chicken (animal)",
+    "category": "nature",
+    "sentence_de": "Das Huhn zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The chicken shows the impressive diversity of nature."
+  },
+  {
+    "id": "frosch",
+    "word": "Frosch",
+    "article": "der",
+    "plural": "Frösche",
+    "translation": "frog",
+    "category": "nature",
+    "sentence_de": "Der Frosch zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The frog shows the impressive diversity of nature."
+  },
+  {
+    "id": "donner",
+    "word": "Donner",
+    "article": "der",
+    "plural": "",
+    "translation": "thunder",
+    "category": "nature",
+    "sentence_de": "Der Donner zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The thunder shows the impressive diversity of nature."
+  },
+  {
+    "id": "blitz",
+    "word": "Blitz",
+    "article": "der",
+    "plural": "Blitze",
+    "translation": "lightning / flash",
+    "category": "nature",
+    "sentence_de": "Der Blitz zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The lightning shows the impressive diversity of nature."
+  },
+  {
+    "id": "temperatur",
+    "word": "Temperatur",
+    "article": "die",
+    "plural": "Temperaturen",
+    "translation": "temperature",
+    "category": "nature",
+    "sentence_de": "Die Temperatur zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The temperature shows the impressive diversity of nature."
+  },
+  {
+    "id": "grad",
+    "word": "Grad",
+    "article": "der",
+    "plural": "Grad",
+    "translation": "degree",
+    "category": "nature",
+    "sentence_de": "Der Grad zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The degree shows the impressive diversity of nature."
+  },
+  {
+    "id": "nebel",
+    "word": "Nebel",
+    "article": "der",
+    "plural": "",
+    "translation": "fog / mist",
+    "category": "nature",
+    "sentence_de": "Der Nebel beeinflusst die Stimmung der Menschen draußen.",
+    "sentence_en": "The fog influences the mood of people outside."
+  },
+  {
+    "id": "hitze",
+    "word": "Hitze",
+    "article": "die",
+    "plural": "",
+    "translation": "heat",
+    "category": "nature",
+    "sentence_de": "Die Hitze zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The heat shows the impressive diversity of nature."
+  },
+  {
+    "id": "kalender",
+    "word": "Kalender",
+    "article": "der",
+    "plural": "Kalender",
+    "translation": "calendar",
+    "category": "time",
+    "sentence_de": "Der Kalender ist ein wichtiger Zeitpunkt im Kalender.",
+    "sentence_en": "The calendar is an important point in time on the calendar."
+  },
+  {
+    "id": "feiertag",
+    "word": "Feiertag",
+    "article": "der",
+    "plural": "Feiertage",
+    "translation": "public holiday",
+    "category": "time",
+    "sentence_de": "Der Feiertag vergeht oft schneller als man denkt.",
+    "sentence_en": "The public holiday often passes faster than one thinks."
+  },
+  {
+    "id": "anruf",
+    "word": "Anruf",
+    "article": "der",
+    "plural": "Anrufe",
+    "translation": "phone call",
+    "category": "technology",
+    "sentence_de": "Der Anruf ist ein nützliches Werkzeug in der modernen Praxis.",
+    "sentence_en": "The phone call is a useful tool in modern practice."
+  },
+  {
+    "id": "foto",
+    "word": "Foto",
+    "article": "das",
+    "plural": "Fotos",
+    "translation": "photo",
+    "category": "technology",
+    "sentence_de": "Das Foto ist ein nützliches Werkzeug in der modernen Praxis.",
+    "sentence_en": "The photo is a useful tool in modern practice."
+  },
+  {
+    "id": "karte",
+    "word": "Karte",
+    "article": "die",
+    "plural": "Karten",
+    "translation": "card / map",
+    "category": "technology",
+    "sentence_de": "Die Karte ist ein nützliches Werkzeug in der modernen Praxis.",
+    "sentence_en": "The card is a useful tool in modern practice."
+  },
+  {
+    "id": "akku",
+    "word": "Akku",
+    "article": "der",
+    "plural": "Akkus",
+    "translation": "battery (rechargeable)",
+    "category": "technology",
+    "sentence_de": "Der Akku ist ein nützliches Werkzeug in der modernen Praxis.",
+    "sentence_en": "The battery is a useful tool in modern practice."
+  },
+  {
+    "id": "ladegeraet",
+    "word": "Ladegerät",
+    "article": "das",
+    "plural": "Ladegeräte",
+    "translation": "charger",
+    "category": "technology",
+    "sentence_de": "Das Ladegerät ist ein nützliches Werkzeug in der modernen Praxis.",
+    "sentence_en": "The charger is a useful tool in modern practice."
+  },
+  {
+    "id": "stecker",
+    "word": "Stecker",
+    "article": "der",
+    "plural": "Stecker",
+    "translation": "plug",
+    "category": "technology",
+    "sentence_de": "Der Stecker ist ein nützliches Werkzeug in der modernen Praxis.",
+    "sentence_en": "The plug is a useful tool in modern practice."
+  },
+  {
+    "id": "kabel",
+    "word": "Kabel",
+    "article": "das",
+    "plural": "Kabel",
+    "translation": "cable",
+    "category": "technology",
+    "sentence_de": "Das Kabel ist ein nützliches Werkzeug in der modernen Praxis.",
+    "sentence_en": "The cable is a useful tool in modern practice."
+  },
+  {
+    "id": "schal",
+    "word": "Schal",
+    "article": "der",
+    "plural": "Schals",
+    "translation": "scarf",
+    "category": "clothing",
+    "sentence_de": "Der Schal ist bequem und sieht modisch aus.",
+    "sentence_en": "The scarf is comfortable and looks fashionable."
+  },
+  {
+    "id": "handschuh",
+    "word": "Handschuh",
+    "article": "der",
+    "plural": "Handschuhe",
+    "translation": "glove",
+    "category": "clothing",
+    "sentence_de": "Der Handschuh ist bequem und sieht modisch aus.",
+    "sentence_en": "The glove is comfortable and looks fashionable."
+  },
+  {
+    "id": "kleidung",
+    "word": "Kleidung",
+    "article": "die",
+    "plural": "",
+    "translation": "clothing",
+    "category": "clothing",
+    "sentence_de": "Die Kleidung ist bequem und sieht modisch aus.",
+    "sentence_en": "The clothing is comfortable and looks fashionable."
+  },
+  {
+    "id": "schluesselbund",
+    "word": "Schlüsselbund",
+    "article": "der",
+    "plural": "Schlüsselbunde",
+    "translation": "key ring",
+    "category": "home",
+    "sentence_de": "Der Schlüsselbund ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The key ring is a useful item in the house."
+  },
+  {
+    "id": "problem",
+    "word": "Problem",
+    "article": "das",
+    "plural": "Probleme",
+    "translation": "problem",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute das Problem.",
+    "sentence_en": "In class today we are covering the problem."
+  },
+  {
+    "id": "idee",
+    "word": "Idee",
+    "article": "die",
+    "plural": "Ideen",
+    "translation": "idea",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute die Idee.",
+    "sentence_en": "In class today we are covering the idea."
+  },
+  {
+    "id": "plan",
+    "word": "Plan",
+    "article": "der",
+    "plural": "Pläne",
+    "translation": "plan",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute den Plan.",
+    "sentence_en": "In class today we are covering the plan."
+  },
+  {
+    "id": "information",
+    "word": "Information",
+    "article": "die",
+    "plural": "Informationen",
+    "translation": "information",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute die Information.",
+    "sentence_en": "In class today we are covering the information."
+  },
+  {
+    "id": "nummer",
+    "word": "Nummer",
+    "article": "die",
+    "plural": "Nummern",
+    "translation": "number",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute die Nummer.",
+    "sentence_en": "In class today we are covering the number."
+  },
+  {
+    "id": "montag",
+    "word": "Montag",
+    "article": "der",
+    "plural": "Montage",
+    "translation": "Monday",
+    "category": "time",
+    "sentence_de": "Der Montag vergeht oft schneller als man denkt.",
+    "sentence_en": "The Monday often passes faster than one thinks."
+  },
+  {
+    "id": "dienstag",
+    "word": "Dienstag",
+    "article": "der",
+    "plural": "Dienstage",
+    "translation": "Tuesday",
+    "category": "time",
+    "sentence_de": "Der Dienstag vergeht oft schneller als man denkt.",
+    "sentence_en": "The Tuesday often passes faster than one thinks."
+  },
+  {
+    "id": "mittwoch",
+    "word": "Mittwoch",
+    "article": "der",
+    "plural": "Mittwoche",
+    "translation": "Wednesday",
+    "category": "time",
+    "sentence_de": "Der Mittwoch ist ein wichtiger Zeitpunkt im Kalender.",
+    "sentence_en": "The Wednesday is an important point in time on the calendar."
+  },
+  {
+    "id": "donnerstag",
+    "word": "Donnerstag",
+    "article": "der",
+    "plural": "Donnerstage",
+    "translation": "Thursday",
+    "category": "time",
+    "sentence_de": "Der Donnerstag vergeht oft schneller als man denkt.",
+    "sentence_en": "The Thursday often passes faster than one thinks."
+  },
+  {
+    "id": "freitag",
+    "word": "Freitag",
+    "article": "der",
+    "plural": "Freitage",
+    "translation": "Friday",
+    "category": "time",
+    "sentence_de": "Der Freitag vergeht oft schneller als man denkt.",
+    "sentence_en": "The Friday often passes faster than one thinks."
+  },
+  {
+    "id": "samstag",
+    "word": "Samstag",
+    "article": "der",
+    "plural": "Samstage",
+    "translation": "Saturday",
+    "category": "time",
+    "sentence_de": "Der Samstag vergeht oft schneller als man denkt.",
+    "sentence_en": "The Saturday often passes faster than one thinks."
+  },
+  {
+    "id": "sonntag",
+    "word": "Sonntag",
+    "article": "der",
+    "plural": "Sonntage",
+    "translation": "Sunday",
+    "category": "time",
+    "sentence_de": "Der Sonntag vergeht oft schneller als man denkt.",
+    "sentence_en": "The Sunday often passes faster than one thinks."
+  },
+  {
+    "id": "wochentag",
+    "word": "Wochentag",
+    "article": "der",
+    "plural": "Wochentage",
+    "translation": "weekday",
+    "category": "time",
+    "sentence_de": "Der Wochentag vergeht oft schneller als man denkt.",
+    "sentence_en": "The weekday often passes faster than one thinks."
+  },
+  {
+    "id": "werktag",
+    "word": "Werktag",
+    "article": "der",
+    "plural": "Werktage",
+    "translation": "working day",
+    "category": "time",
+    "sentence_de": "Der Werktag vergeht oft schneller als man denkt.",
+    "sentence_en": "The working day often passes faster than one thinks."
+  },
+  {
+    "id": "alltag",
+    "word": "Alltag",
+    "article": "der",
+    "plural": "",
+    "translation": "everyday life",
+    "category": "time",
+    "sentence_de": "Der Alltag vergeht oft schneller als man denkt.",
+    "sentence_en": "The everyday life often passes faster than one thinks."
+  },
+  {
+    "id": "vormittag",
+    "word": "Vormittag",
+    "article": "der",
+    "plural": "Vormittage",
+    "translation": "late morning",
+    "category": "time",
+    "sentence_de": "Der Vormittag vergeht oft schneller als man denkt.",
+    "sentence_en": "The late morning often passes faster than one thinks."
+  },
+  {
+    "id": "nachmittag",
+    "word": "Nachmittag",
+    "article": "der",
+    "plural": "Nachmittage",
+    "translation": "afternoon",
+    "category": "time",
+    "sentence_de": "Der Nachmittag vergeht oft schneller als man denkt.",
+    "sentence_en": "The afternoon often passes faster than one thinks."
+  },
+  {
+    "id": "mitternacht",
+    "word": "Mitternacht",
+    "article": "die",
+    "plural": "Mitternächte",
+    "translation": "midnight",
+    "category": "time",
+    "sentence_de": "Die Mitternacht vergeht oft schneller als man denkt.",
+    "sentence_en": "The midnight often passes faster than one thinks."
+  },
+  {
+    "id": "daemmerung",
+    "word": "Dämmerung",
+    "article": "die",
+    "plural": "Dämmerungen",
+    "translation": "dusk / dawn",
+    "category": "time",
+    "sentence_de": "Die Dämmerung ist ein wichtiger Zeitpunkt im Kalender.",
+    "sentence_en": "The dusk is an important point in time on the calendar."
+  },
+  {
+    "id": "sonnenaufgang",
+    "word": "Sonnenaufgang",
+    "article": "der",
+    "plural": "Sonnenaufgänge",
+    "translation": "sunrise",
+    "category": "time",
+    "sentence_de": "Der Sonnenaufgang ist ein wichtiger Zeitpunkt im Kalender.",
+    "sentence_en": "The sunrise is an important point in time on the calendar."
+  },
+  {
+    "id": "sonnenuntergang",
+    "word": "Sonnenuntergang",
+    "article": "der",
+    "plural": "Sonnenuntergänge",
+    "translation": "sunset",
+    "category": "time",
+    "sentence_de": "Der Sonnenuntergang ist ein wichtiger Zeitpunkt im Kalender.",
+    "sentence_en": "The sunset is an important point in time on the calendar."
+  },
+  {
+    "id": "uhrzeit",
+    "word": "Uhrzeit",
+    "article": "die",
+    "plural": "Uhrzeiten",
+    "translation": "time of day",
+    "category": "time",
+    "sentence_de": "Die Uhrzeit ist ein wichtiger Zeitpunkt im Kalender.",
+    "sentence_en": "The time of day is an important point in time on the calendar."
+  },
+  {
+    "id": "viertelstunde",
+    "word": "Viertelstunde",
+    "article": "die",
+    "plural": "Viertelstunden",
+    "translation": "quarter hour",
+    "category": "time",
+    "sentence_de": "Die Viertelstunde vergeht oft schneller als man denkt.",
+    "sentence_en": "The quarter hour often passes faster than one thinks."
+  },
+  {
+    "id": "halbstunde",
+    "word": "Halbstunde",
+    "article": "die",
+    "plural": "Halbstunden",
+    "translation": "half hour",
+    "category": "time",
+    "sentence_de": "Die Halbstunde vergeht oft schneller als man denkt.",
+    "sentence_en": "The half hour often passes faster than one thinks."
+  },
+  {
+    "id": "jahrzehnt",
+    "word": "Jahrzehnt",
+    "article": "das",
+    "plural": "Jahrzehnte",
+    "translation": "decade",
+    "category": "time",
+    "sentence_de": "Das Jahrzehnt vergeht oft schneller als man denkt.",
+    "sentence_en": "The decade often passes faster than one thinks."
+  },
+  {
+    "id": "jahrhundert",
+    "word": "Jahrhundert",
+    "article": "das",
+    "plural": "Jahrhunderte",
+    "translation": "century",
+    "category": "time",
+    "sentence_de": "Das Jahrhundert vergeht oft schneller als man denkt.",
+    "sentence_en": "The century often passes faster than one thinks."
+  },
+  {
+    "id": "jahrtausend",
+    "word": "Jahrtausend",
+    "article": "das",
+    "plural": "Jahrtausende",
+    "translation": "millennium",
+    "category": "time",
+    "sentence_de": "Das Jahrtausend vergeht oft schneller als man denkt.",
+    "sentence_en": "The millennium often passes faster than one thinks."
+  },
+  {
+    "id": "augenblick",
+    "word": "Augenblick",
+    "article": "der",
+    "plural": "Augenblicke",
+    "translation": "instant / moment",
+    "category": "time",
+    "sentence_de": "Der Augenblick ist ein wichtiger Zeitpunkt im Kalender.",
+    "sentence_en": "The instant is an important point in time on the calendar."
+  },
+  {
+    "id": "frist",
+    "word": "Frist",
+    "article": "die",
+    "plural": "Fristen",
+    "translation": "deadline",
+    "category": "time",
+    "sentence_de": "Die Frist ist ein wichtiger Zeitpunkt im Kalender.",
+    "sentence_en": "The deadline is an important point in time on the calendar."
+  },
+  {
+    "id": "dauer",
+    "word": "Dauer",
+    "article": "die",
+    "plural": "",
+    "translation": "duration",
+    "category": "time",
+    "sentence_de": "Die Dauer ist ein wichtiger Zeitpunkt im Kalender.",
+    "sentence_en": "The duration is an important point in time on the calendar."
+  },
+  {
+    "id": "verspaetung",
+    "word": "Verspätung",
+    "article": "die",
+    "plural": "Verspätungen",
+    "translation": "delay",
+    "category": "time",
+    "sentence_de": "Die Verspätung ist ein wichtiger Zeitpunkt im Kalender.",
+    "sentence_en": "The delay is an important point in time on the calendar."
+  },
+  {
+    "id": "puenktlichkeit",
+    "word": "Pünktlichkeit",
+    "article": "die",
+    "plural": "",
+    "translation": "punctuality",
+    "category": "time",
+    "sentence_de": "Die Pünktlichkeit ist ein wichtiger Zeitpunkt im Kalender.",
+    "sentence_en": "The punctuality is an important point in time on the calendar."
+  },
+  {
+    "id": "silvester",
+    "word": "Silvester",
+    "article": "das",
+    "plural": "",
+    "translation": "New Year's Eve",
+    "category": "time",
+    "sentence_de": "Das Silvester ist ein wichtiger Zeitpunkt im Kalender.",
+    "sentence_en": "The New Year's Eve is an important point in time on the calendar."
+  },
+  {
+    "id": "neujahr",
+    "word": "Neujahr",
+    "article": "das",
+    "plural": "",
+    "translation": "New Year",
+    "category": "time",
+    "sentence_de": "Das Neujahr vergeht oft schneller als man denkt.",
+    "sentence_en": "The New Year often passes faster than one thinks."
+  },
+  {
+    "id": "weihnachten",
+    "word": "Weihnachten",
+    "article": "das",
+    "plural": "",
+    "translation": "Christmas",
+    "category": "time",
+    "sentence_de": "Das Weihnachten vergeht oft schneller als man denkt.",
+    "sentence_en": "The Christmas often passes faster than one thinks."
+  },
+  {
+    "id": "ostern",
+    "word": "Ostern",
+    "article": "das",
+    "plural": "",
+    "translation": "Easter",
+    "category": "time",
+    "sentence_de": "Das Ostern ist ein wichtiger Zeitpunkt im Kalender.",
+    "sentence_en": "The Easter is an important point in time on the calendar."
+  },
+  {
+    "id": "pfingsten",
+    "word": "Pfingsten",
+    "article": "das",
+    "plural": "",
+    "translation": "Pentecost",
+    "category": "time",
+    "sentence_de": "Das Pfingsten ist ein wichtiger Zeitpunkt im Kalender.",
+    "sentence_en": "The Pentecost is an important point in time on the calendar."
+  },
+  {
+    "id": "karneval",
+    "word": "Karneval",
+    "article": "der",
+    "plural": "",
+    "translation": "carnival",
+    "category": "time",
+    "sentence_de": "Der Karneval ist ein wichtiger Zeitpunkt im Kalender.",
+    "sentence_en": "The carnival is an important point in time on the calendar."
+  },
+  {
+    "id": "oktoberfest",
+    "word": "Oktoberfest",
+    "article": "das",
+    "plural": "Oktoberfeste",
+    "translation": "Oktoberfest",
+    "category": "time",
+    "sentence_de": "Das Oktoberfest ist ein wichtiger Zeitpunkt im Kalender.",
+    "sentence_en": "The Oktoberfest is an important point in time on the calendar."
+  },
+  {
+    "id": "januar",
+    "word": "Januar",
+    "article": "der",
+    "plural": "Januare",
+    "translation": "January",
+    "category": "time",
+    "sentence_de": "Der Januar ist ein wichtiger Zeitpunkt im Kalender.",
+    "sentence_en": "The January is an important point in time on the calendar."
+  },
+  {
+    "id": "februar",
+    "word": "Februar",
+    "article": "der",
+    "plural": "Februare",
+    "translation": "February",
+    "category": "time",
+    "sentence_de": "Der Februar ist ein wichtiger Zeitpunkt im Kalender.",
+    "sentence_en": "The February is an important point in time on the calendar."
+  },
+  {
+    "id": "maerz",
+    "word": "März",
+    "article": "der",
+    "plural": "Märze",
+    "translation": "March",
+    "category": "time",
+    "sentence_de": "Der März ist ein wichtiger Zeitpunkt im Kalender.",
+    "sentence_en": "The March is an important point in time on the calendar."
+  },
+  {
+    "id": "april",
+    "word": "April",
+    "article": "der",
+    "plural": "Aprile",
+    "translation": "April",
+    "category": "time",
+    "sentence_de": "Der April ist ein wichtiger Zeitpunkt im Kalender.",
+    "sentence_en": "The April is an important point in time on the calendar."
+  },
+  {
+    "id": "mai",
+    "word": "Mai",
+    "article": "der",
+    "plural": "Maie",
+    "translation": "May",
+    "category": "time",
+    "sentence_de": "Der Mai ist ein wichtiger Zeitpunkt im Kalender.",
+    "sentence_en": "The May is an important point in time on the calendar."
+  },
+  {
+    "id": "juni",
+    "word": "Juni",
+    "article": "der",
+    "plural": "Junis",
+    "translation": "June",
+    "category": "time",
+    "sentence_de": "Der Juni ist ein wichtiger Zeitpunkt im Kalender.",
+    "sentence_en": "The June is an important point in time on the calendar."
+  },
+  {
+    "id": "juli",
+    "word": "Juli",
+    "article": "der",
+    "plural": "Julis",
+    "translation": "July",
+    "category": "time",
+    "sentence_de": "Der Juli ist ein wichtiger Zeitpunkt im Kalender.",
+    "sentence_en": "The July is an important point in time on the calendar."
+  },
+  {
+    "id": "august",
+    "word": "August",
+    "article": "der",
+    "plural": "Auguste",
+    "translation": "August",
+    "category": "time",
+    "sentence_de": "Der August ist ein wichtiger Zeitpunkt im Kalender.",
+    "sentence_en": "The August is an important point in time on the calendar."
+  },
+  {
+    "id": "september",
+    "word": "September",
+    "article": "der",
+    "plural": "September",
+    "translation": "September",
+    "category": "time",
+    "sentence_de": "Der September ist ein wichtiger Zeitpunkt im Kalender.",
+    "sentence_en": "The September is an important point in time on the calendar."
+  },
+  {
+    "id": "oktober",
+    "word": "Oktober",
+    "article": "der",
+    "plural": "Oktober",
+    "translation": "October",
+    "category": "time",
+    "sentence_de": "Der Oktober ist ein wichtiger Zeitpunkt im Kalender.",
+    "sentence_en": "The October is an important point in time on the calendar."
+  },
+  {
+    "id": "november",
+    "word": "November",
+    "article": "der",
+    "plural": "November",
+    "translation": "November",
+    "category": "time",
+    "sentence_de": "Der November ist ein wichtiger Zeitpunkt im Kalender.",
+    "sentence_en": "The November is an important point in time on the calendar."
+  },
+  {
+    "id": "dezember",
+    "word": "Dezember",
+    "article": "der",
+    "plural": "Dezember",
+    "translation": "December",
+    "category": "time",
+    "sentence_de": "Der Dezember ist ein wichtiger Zeitpunkt im Kalender.",
+    "sentence_en": "The December is an important point in time on the calendar."
+  },
+  {
+    "id": "null",
+    "word": "Null",
+    "article": "die",
+    "plural": "Nullen",
+    "translation": "zero",
+    "category": "numbers",
+    "sentence_de": "Die Null ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The zero is an important term in the German language."
+  },
+  {
+    "id": "eins",
+    "word": "Eins",
+    "article": "die",
+    "plural": "Einsen",
+    "translation": "one (number)",
+    "category": "numbers",
+    "sentence_de": "Die Eins ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The one is an important term in the German language."
+  },
+  {
+    "id": "zwei",
+    "word": "Zwei",
+    "article": "die",
+    "plural": "Zweien",
+    "translation": "two (number)",
+    "category": "numbers",
+    "sentence_de": "Die Zwei ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The two is an important term in the German language."
+  },
+  {
+    "id": "drei",
+    "word": "Drei",
+    "article": "die",
+    "plural": "Dreien",
+    "translation": "three (number)",
+    "category": "numbers",
+    "sentence_de": "Die Drei ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The three is an important term in the German language."
+  },
+  {
+    "id": "vier",
+    "word": "Vier",
+    "article": "die",
+    "plural": "Vieren",
+    "translation": "four (number)",
+    "category": "numbers",
+    "sentence_de": "Die Vier ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The four is an important term in the German language."
+  },
+  {
+    "id": "fuenf",
+    "word": "Fünf",
+    "article": "die",
+    "plural": "Fünfen",
+    "translation": "five (number)",
+    "category": "numbers",
+    "sentence_de": "Die Fünf ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The five is an important term in the German language."
+  },
+  {
+    "id": "sechs",
+    "word": "Sechs",
+    "article": "die",
+    "plural": "Sechsen",
+    "translation": "six (number)",
+    "category": "numbers",
+    "sentence_de": "Die Sechs ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The six is an important term in the German language."
+  },
+  {
+    "id": "sieben",
+    "word": "Sieben",
+    "article": "die",
+    "plural": "Siebenen",
+    "translation": "seven (number)",
+    "category": "numbers",
+    "sentence_de": "Die Sieben ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The seven is an important term in the German language."
+  },
+  {
+    "id": "acht",
+    "word": "Acht",
+    "article": "die",
+    "plural": "Achten",
+    "translation": "eight (number)",
+    "category": "numbers",
+    "sentence_de": "Die Acht ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The eight is an important term in the German language."
+  },
+  {
+    "id": "neun",
+    "word": "Neun",
+    "article": "die",
+    "plural": "Neunen",
+    "translation": "nine (number)",
+    "category": "numbers",
+    "sentence_de": "Die Neun ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The nine is an important term in the German language."
+  },
+  {
+    "id": "zehn",
+    "word": "Zehn",
+    "article": "die",
+    "plural": "Zehnen",
+    "translation": "ten (number)",
+    "category": "numbers",
+    "sentence_de": "Die Zehn ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The ten is an important term in the German language."
+  },
+  {
+    "id": "elf",
+    "word": "Elf",
+    "article": "die",
+    "plural": "Elfen",
+    "translation": "eleven (number)",
+    "category": "numbers",
+    "sentence_de": "Die Elf ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The eleven is an important term in the German language."
+  },
+  {
+    "id": "zwoelf",
+    "word": "Zwölf",
+    "article": "die",
+    "plural": "Zwölfen",
+    "translation": "twelve (number)",
+    "category": "numbers",
+    "sentence_de": "Die Zwölf ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The twelve is an important term in the German language."
+  },
+  {
+    "id": "dreizehn",
+    "word": "Dreizehn",
+    "article": "die",
+    "plural": "Dreizehnen",
+    "translation": "thirteen",
+    "category": "numbers",
+    "sentence_de": "Die Dreizehn ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The thirteen is an important term in the German language."
+  },
+  {
+    "id": "vierzehn",
+    "word": "Vierzehn",
+    "article": "die",
+    "plural": "Vierzehnen",
+    "translation": "fourteen",
+    "category": "numbers",
+    "sentence_de": "Die Vierzehn ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The fourteen is an important term in the German language."
+  },
+  {
+    "id": "fuenfzehn",
+    "word": "Fünfzehn",
+    "article": "die",
+    "plural": "Fünfzehnen",
+    "translation": "fifteen",
+    "category": "numbers",
+    "sentence_de": "Die Fünfzehn ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The fifteen is an important term in the German language."
+  },
+  {
+    "id": "sechzehn",
+    "word": "Sechzehn",
+    "article": "die",
+    "plural": "Sechzehnen",
+    "translation": "sixteen",
+    "category": "numbers",
+    "sentence_de": "Die Sechzehn ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The sixteen is an important term in the German language."
+  },
+  {
+    "id": "siebzehn",
+    "word": "Siebzehn",
+    "article": "die",
+    "plural": "Siebzehnen",
+    "translation": "seventeen",
+    "category": "numbers",
+    "sentence_de": "Die Siebzehn ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The seventeen is an important term in the German language."
+  },
+  {
+    "id": "achtzehn",
+    "word": "Achtzehn",
+    "article": "die",
+    "plural": "Achtzehnen",
+    "translation": "eighteen",
+    "category": "numbers",
+    "sentence_de": "Die Achtzehn ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The eighteen is an important term in the German language."
+  },
+  {
+    "id": "neunzehn",
+    "word": "Neunzehn",
+    "article": "die",
+    "plural": "Neunzehnen",
+    "translation": "nineteen",
+    "category": "numbers",
+    "sentence_de": "Die Neunzehn ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The nineteen is an important term in the German language."
+  },
+  {
+    "id": "zwanzig",
+    "word": "Zwanzig",
+    "article": "die",
+    "plural": "Zwanzigen",
+    "translation": "twenty",
+    "category": "numbers",
+    "sentence_de": "Die Zwanzig ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The twenty is an important term in the German language."
+  },
+  {
+    "id": "dreissig",
+    "word": "Dreißig",
+    "article": "die",
+    "plural": "Dreißigen",
+    "translation": "thirty",
+    "category": "numbers",
+    "sentence_de": "Die Dreißig ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The thirty is an important term in the German language."
+  },
+  {
+    "id": "vierzig",
+    "word": "Vierzig",
+    "article": "die",
+    "plural": "Vierzigen",
+    "translation": "forty",
+    "category": "numbers",
+    "sentence_de": "Die Vierzig ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The forty is an important term in the German language."
+  },
+  {
+    "id": "fuenfzig",
+    "word": "Fünfzig",
+    "article": "die",
+    "plural": "Fünfzigen",
+    "translation": "fifty",
+    "category": "numbers",
+    "sentence_de": "Die Fünfzig ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The fifty is an important term in the German language."
+  },
+  {
+    "id": "sechzig",
+    "word": "Sechzig",
+    "article": "die",
+    "plural": "Sechzigen",
+    "translation": "sixty",
+    "category": "numbers",
+    "sentence_de": "Die Sechzig ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The sixty is an important term in the German language."
+  },
+  {
+    "id": "siebzig",
+    "word": "Siebzig",
+    "article": "die",
+    "plural": "Siebzigen",
+    "translation": "seventy",
+    "category": "numbers",
+    "sentence_de": "Die Siebzig ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The seventy is an important term in the German language."
+  },
+  {
+    "id": "achtzig",
+    "word": "Achtzig",
+    "article": "die",
+    "plural": "Achtzigen",
+    "translation": "eighty",
+    "category": "numbers",
+    "sentence_de": "Die Achtzig ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The eighty is an important term in the German language."
+  },
+  {
+    "id": "neunzig",
+    "word": "Neunzig",
+    "article": "die",
+    "plural": "Neunzigen",
+    "translation": "ninety",
+    "category": "numbers",
+    "sentence_de": "Die Neunzig ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The ninety is an important term in the German language."
+  },
+  {
+    "id": "hundert",
+    "word": "Hundert",
+    "article": "das",
+    "plural": "Hunderte",
+    "translation": "hundred",
+    "category": "numbers",
+    "sentence_de": "Das Hundert ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The hundred is an important term in the German language."
+  },
+  {
+    "id": "tausend",
+    "word": "Tausend",
+    "article": "das",
+    "plural": "Tausende",
+    "translation": "thousand",
+    "category": "numbers",
+    "sentence_de": "Das Tausend ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The thousand is an important term in the German language."
+  },
+  {
+    "id": "million",
+    "word": "Million",
+    "article": "die",
+    "plural": "Millionen",
+    "translation": "million",
+    "category": "numbers",
+    "sentence_de": "Die Million ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The million is an important term in the German language."
+  },
+  {
+    "id": "milliarde",
+    "word": "Milliarde",
+    "article": "die",
+    "plural": "Milliarden",
+    "translation": "billion",
+    "category": "numbers",
+    "sentence_de": "Die Milliarde ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The billion is an important term in the German language."
+  },
+  {
+    "id": "zahl",
+    "word": "Zahl",
+    "article": "die",
+    "plural": "Zahlen",
+    "translation": "number",
+    "category": "numbers",
+    "sentence_de": "Die Zahl ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The number is an important term in the German language."
+  },
+  {
+    "id": "ziffer",
+    "word": "Ziffer",
+    "article": "die",
+    "plural": "Ziffern",
+    "translation": "digit",
+    "category": "numbers",
+    "sentence_de": "Die Ziffer ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The digit is an important term in the German language."
+  },
+  {
+    "id": "summe",
+    "word": "Summe",
+    "article": "die",
+    "plural": "Summen",
+    "translation": "sum / total",
+    "category": "numbers",
+    "sentence_de": "Die Summe ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The sum is an important term in the German language."
+  },
+  {
+    "id": "haelfte",
+    "word": "Hälfte",
+    "article": "die",
+    "plural": "Hälften",
+    "translation": "half",
+    "category": "numbers",
+    "sentence_de": "Die Hälfte ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The half is an important term in the German language."
+  },
+  {
+    "id": "drittel",
+    "word": "Drittel",
+    "article": "das",
+    "plural": "Drittel",
+    "translation": "third (fraction)",
+    "category": "numbers",
+    "sentence_de": "Das Drittel ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The third is an important term in the German language."
+  },
+  {
+    "id": "prozent",
+    "word": "Prozent",
+    "article": "das",
+    "plural": "Prozente",
+    "translation": "percent",
+    "category": "numbers",
+    "sentence_de": "Das Prozent ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The percent is an important term in the German language."
+  },
+  {
+    "id": "dutzend",
+    "word": "Dutzend",
+    "article": "das",
+    "plural": "Dutzende",
+    "translation": "dozen",
+    "category": "numbers",
+    "sentence_de": "Das Dutzend ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The dozen is an important term in the German language."
+  },
+  {
+    "id": "farbe",
+    "word": "Farbe",
+    "article": "die",
+    "plural": "Farben",
+    "translation": "color",
+    "category": "colors",
+    "sentence_de": "Die Farbe ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The color is an important term in the German language."
+  },
+  {
+    "id": "farbton",
+    "word": "Farbton",
+    "article": "der",
+    "plural": "Farbtöne",
+    "translation": "shade / hue",
+    "category": "colors",
+    "sentence_de": "Der Farbton ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The shade is an important term in the German language."
+  },
+  {
+    "id": "rot",
+    "word": "Rot",
+    "article": "das",
+    "plural": "",
+    "translation": "red",
+    "category": "colors",
+    "sentence_de": "Das Rot ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The red is an important term in the German language."
+  },
+  {
+    "id": "blau",
+    "word": "Blau",
+    "article": "das",
+    "plural": "",
+    "translation": "blue",
+    "category": "colors",
+    "sentence_de": "Das Blau ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The blue is an important term in the German language."
+  },
+  {
+    "id": "gruen",
+    "word": "Grün",
+    "article": "das",
+    "plural": "",
+    "translation": "green",
+    "category": "colors",
+    "sentence_de": "Das Grün ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The green is an important term in the German language."
+  },
+  {
+    "id": "gelb",
+    "word": "Gelb",
+    "article": "das",
+    "plural": "",
+    "translation": "yellow",
+    "category": "colors",
+    "sentence_de": "Das Gelb ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The yellow is an important term in the German language."
+  },
+  {
+    "id": "lila",
+    "word": "Lila",
+    "article": "das",
+    "plural": "",
+    "translation": "purple / lilac",
+    "category": "colors",
+    "sentence_de": "Das Lila ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The purple is an important term in the German language."
+  },
+  {
+    "id": "violett",
+    "word": "Violett",
+    "article": "das",
+    "plural": "",
+    "translation": "violet",
+    "category": "colors",
+    "sentence_de": "Das Violett ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The violet is an important term in the German language."
+  },
+  {
+    "id": "pink",
+    "word": "Pink",
+    "article": "das",
+    "plural": "",
+    "translation": "pink",
+    "category": "colors",
+    "sentence_de": "Das Pink ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The pink is an important term in the German language."
+  },
+  {
+    "id": "rosa",
+    "word": "Rosa",
+    "article": "das",
+    "plural": "",
+    "translation": "pink / rose",
+    "category": "colors",
+    "sentence_de": "Das Rosa ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The pink is an important term in the German language."
+  },
+  {
+    "id": "braun",
+    "word": "Braun",
+    "article": "das",
+    "plural": "",
+    "translation": "brown",
+    "category": "colors",
+    "sentence_de": "Das Braun ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The brown is an important term in the German language."
+  },
+  {
+    "id": "grau",
+    "word": "Grau",
+    "article": "das",
+    "plural": "",
+    "translation": "gray",
+    "category": "colors",
+    "sentence_de": "Das Grau ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The gray is an important term in the German language."
+  },
+  {
+    "id": "schwarz",
+    "word": "Schwarz",
+    "article": "das",
+    "plural": "",
+    "translation": "black",
+    "category": "colors",
+    "sentence_de": "Das Schwarz ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The black is an important term in the German language."
+  },
+  {
+    "id": "weiss",
+    "word": "Weiß",
+    "article": "das",
+    "plural": "",
+    "translation": "white",
+    "category": "colors",
+    "sentence_de": "Das Weiß ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The white is an important term in the German language."
+  },
+  {
+    "id": "gold",
+    "word": "Gold",
+    "article": "das",
+    "plural": "",
+    "translation": "gold",
+    "category": "colors",
+    "sentence_de": "Das Gold ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The gold is an important term in the German language."
+  },
+  {
+    "id": "silber",
+    "word": "Silber",
+    "article": "das",
+    "plural": "",
+    "translation": "silver",
+    "category": "colors",
+    "sentence_de": "Das Silber ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The silver is an important term in the German language."
+  },
+  {
+    "id": "tuerkis",
+    "word": "Türkis",
+    "article": "das",
+    "plural": "",
+    "translation": "turquoise",
+    "category": "colors",
+    "sentence_de": "Das Türkis ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The turquoise is an important term in the German language."
+  },
+  {
+    "id": "beige",
+    "word": "Beige",
+    "article": "das",
+    "plural": "",
+    "translation": "beige",
+    "category": "colors",
+    "sentence_de": "Das Beige ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The beige is an important term in the German language."
+  },
+  {
+    "id": "creme",
+    "word": "Creme",
+    "article": "das",
+    "plural": "",
+    "translation": "cream (color)",
+    "category": "colors",
+    "sentence_de": "Das Creme ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The cream is an important term in the German language."
+  },
+  {
+    "id": "mensch",
+    "word": "Mensch",
+    "article": "der",
+    "plural": "Menschen",
+    "translation": "human being",
+    "category": "people",
+    "sentence_de": "Der Mensch grüßt freundlich und hilft hilfsbereit.",
+    "sentence_en": "The human being greets kindly and helps readily."
+  },
+  {
+    "id": "ehemann",
+    "word": "Ehemann",
+    "article": "der",
+    "plural": "Ehemänner",
+    "translation": "husband",
+    "category": "people",
+    "sentence_de": "Der Ehemann grüßt freundlich und hilft hilfsbereit.",
+    "sentence_en": "The husband greets kindly and helps readily."
+  },
+  {
+    "id": "ehefrau",
+    "word": "Ehefrau",
+    "article": "die",
+    "plural": "Ehefrauen",
+    "translation": "wife",
+    "category": "people",
+    "sentence_de": "Die Ehefrau grüßt freundlich und hilft hilfsbereit.",
+    "sentence_en": "The wife greets kindly and helps readily."
+  },
+  {
+    "id": "partner",
+    "word": "Partner",
+    "article": "der",
+    "plural": "Partner",
+    "translation": "partner (male)",
+    "category": "people",
+    "sentence_de": "Der Partner ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The partner is a valued member of the community."
+  },
+  {
+    "id": "partnerin",
+    "word": "Partnerin",
+    "article": "die",
+    "plural": "Partnerinnen",
+    "translation": "partner (female)",
+    "category": "people",
+    "sentence_de": "Die Partnerin ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The partner is a valued member of the community."
+  },
+  {
+    "id": "verlobter",
+    "word": "Verlobter",
+    "article": "der",
+    "plural": "Verlobte",
+    "translation": "fiancé",
+    "category": "people",
+    "sentence_de": "Der Verlobter ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The fiancé is a valued member of the community."
+  },
+  {
+    "id": "verlobte",
+    "word": "Verlobte",
+    "article": "die",
+    "plural": "Verlobten",
+    "translation": "fiancée",
+    "category": "people",
+    "sentence_de": "Die Verlobte ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The fiancée is a valued member of the community."
+  },
+  {
+    "id": "schwager",
+    "word": "Schwager",
+    "article": "der",
+    "plural": "Schwäger",
+    "translation": "brother-in-law",
+    "category": "people",
+    "sentence_de": "Der Schwager ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The brother-in-law is a valued member of the community."
+  },
+  {
+    "id": "schwaegerin",
+    "word": "Schwägerin",
+    "article": "die",
+    "plural": "Schwägerinnen",
+    "translation": "sister-in-law",
+    "category": "people",
+    "sentence_de": "Die Schwägerin ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The sister-in-law is a valued member of the community."
+  },
+  {
+    "id": "schwiegereltern",
+    "word": "Schwiegereltern",
+    "article": "die",
+    "plural": "",
+    "translation": "parents-in-law",
+    "category": "people",
+    "sentence_de": "Die Schwiegereltern verbringt gern Zeit mit der ganzen Familie.",
+    "sentence_en": "The parents-in-law enjoys spending time with the whole family."
+  },
+  {
+    "id": "schwiegermutter",
+    "word": "Schwiegermutter",
+    "article": "die",
+    "plural": "Schwiegermütter",
+    "translation": "mother-in-law",
+    "category": "people",
+    "sentence_de": "Die Schwiegermutter verbringt gern Zeit mit der ganzen Familie.",
+    "sentence_en": "The mother-in-law enjoys spending time with the whole family."
+  },
+  {
+    "id": "schwiegervater",
+    "word": "Schwiegervater",
+    "article": "der",
+    "plural": "Schwiegerväter",
+    "translation": "father-in-law",
+    "category": "people",
+    "sentence_de": "Der Schwiegervater verbringt gern Zeit mit der ganzen Familie.",
+    "sentence_en": "The father-in-law enjoys spending time with the whole family."
+  },
+  {
+    "id": "schwiegersohn",
+    "word": "Schwiegersohn",
+    "article": "der",
+    "plural": "Schwiegersöhne",
+    "translation": "son-in-law",
+    "category": "people",
+    "sentence_de": "Der Schwiegersohn verbringt gern Zeit mit der ganzen Familie.",
+    "sentence_en": "The son-in-law enjoys spending time with the whole family."
+  },
+  {
+    "id": "schwiegertochter",
+    "word": "Schwiegertochter",
+    "article": "die",
+    "plural": "Schwiegertöchter",
+    "translation": "daughter-in-law",
+    "category": "people",
+    "sentence_de": "Die Schwiegertochter verbringt gern Zeit mit der ganzen Familie.",
+    "sentence_en": "The daughter-in-law enjoys spending time with the whole family."
+  },
+  {
+    "id": "stiefvater",
+    "word": "Stiefvater",
+    "article": "der",
+    "plural": "Stiefväter",
+    "translation": "stepfather",
+    "category": "people",
+    "sentence_de": "Der Stiefvater verbringt gern Zeit mit der ganzen Familie.",
+    "sentence_en": "The stepfather enjoys spending time with the whole family."
+  },
+  {
+    "id": "stiefmutter",
+    "word": "Stiefmutter",
+    "article": "die",
+    "plural": "Stiefmütter",
+    "translation": "stepmother",
+    "category": "people",
+    "sentence_de": "Die Stiefmutter verbringt gern Zeit mit der ganzen Familie.",
+    "sentence_en": "The stepmother enjoys spending time with the whole family."
+  },
+  {
+    "id": "stiefsohn",
+    "word": "Stiefsohn",
+    "article": "der",
+    "plural": "Stiefsöhne",
+    "translation": "stepson",
+    "category": "people",
+    "sentence_de": "Der Stiefsohn verbringt gern Zeit mit der ganzen Familie.",
+    "sentence_en": "The stepson enjoys spending time with the whole family."
+  },
+  {
+    "id": "stieftochter",
+    "word": "Stieftochter",
+    "article": "die",
+    "plural": "Stieftöchter",
+    "translation": "stepdaughter",
+    "category": "people",
+    "sentence_de": "Die Stieftochter verbringt gern Zeit mit der ganzen Familie.",
+    "sentence_en": "The stepdaughter enjoys spending time with the whole family."
+  },
+  {
+    "id": "stiefbruder",
+    "word": "Stiefbruder",
+    "article": "der",
+    "plural": "Stiefbrüder",
+    "translation": "stepbrother",
+    "category": "people",
+    "sentence_de": "Der Stiefbruder verbringt gern Zeit mit der ganzen Familie.",
+    "sentence_en": "The stepbrother enjoys spending time with the whole family."
+  },
+  {
+    "id": "stiefschwester",
+    "word": "Stiefschwester",
+    "article": "die",
+    "plural": "Stiefschwestern",
+    "translation": "stepsister",
+    "category": "people",
+    "sentence_de": "Die Stiefschwester verbringt gern Zeit mit der ganzen Familie.",
+    "sentence_en": "The stepsister enjoys spending time with the whole family."
+  },
+  {
+    "id": "zwilling",
+    "word": "Zwilling",
+    "article": "der",
+    "plural": "Zwillinge",
+    "translation": "twin",
+    "category": "people",
+    "sentence_de": "Der Zwilling ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The twin is a valued member of the community."
+  },
+  {
+    "id": "enkelkind",
+    "word": "Enkelkind",
+    "article": "das",
+    "plural": "Enkelkinder",
+    "translation": "grandchild",
+    "category": "people",
+    "sentence_de": "Das Enkelkind verbringt gern Zeit mit der ganzen Familie.",
+    "sentence_en": "The grandchild enjoys spending time with the whole family."
+  },
+  {
+    "id": "urgrossvater",
+    "word": "Urgroßvater",
+    "article": "der",
+    "plural": "Urgroßväter",
+    "translation": "great-grandfather",
+    "category": "people",
+    "sentence_de": "Der Urgroßvater verbringt gern Zeit mit der ganzen Familie.",
+    "sentence_en": "The great-grandfather enjoys spending time with the whole family."
+  },
+  {
+    "id": "urgrossmutter",
+    "word": "Urgroßmutter",
+    "article": "die",
+    "plural": "Urgroßmütter",
+    "translation": "great-grandmother",
+    "category": "people",
+    "sentence_de": "Die Urgroßmutter verbringt gern Zeit mit der ganzen Familie.",
+    "sentence_en": "The great-grandmother enjoys spending time with the whole family."
+  },
+  {
+    "id": "witwe",
+    "word": "Witwe",
+    "article": "die",
+    "plural": "Witwen",
+    "translation": "widow",
+    "category": "people",
+    "sentence_de": "Die Witwe ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The widow is a valued member of the community."
+  },
+  {
+    "id": "witwer",
+    "word": "Witwer",
+    "article": "der",
+    "plural": "Witwer",
+    "translation": "widower",
+    "category": "people",
+    "sentence_de": "Der Witwer ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The widower is a valued member of the community."
+  },
+  {
+    "id": "waise",
+    "word": "Waise",
+    "article": "die",
+    "plural": "Waisen",
+    "translation": "orphan",
+    "category": "people",
+    "sentence_de": "Die Waise ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The orphan is a valued member of the community."
+  },
+  {
+    "id": "mitbewohner",
+    "word": "Mitbewohner",
+    "article": "der",
+    "plural": "Mitbewohner",
+    "translation": "roommate (male)",
+    "category": "people",
+    "sentence_de": "Der Mitbewohner ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The roommate is a valued member of the community."
+  },
+  {
+    "id": "mitbewohnerin",
+    "word": "Mitbewohnerin",
+    "article": "die",
+    "plural": "Mitbewohnerinnen",
+    "translation": "roommate (female)",
+    "category": "people",
+    "sentence_de": "Die Mitbewohnerin ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The roommate is a valued member of the community."
+  },
+  {
+    "id": "bekanntschaft",
+    "word": "Bekanntschaft",
+    "article": "die",
+    "plural": "Bekanntschaften",
+    "translation": "acquaintance",
+    "category": "people",
+    "sentence_de": "Die Bekanntschaft ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The acquaintance is a valued member of the community."
+  },
+  {
+    "id": "nachbarin",
+    "word": "Nachbarin",
+    "article": "die",
+    "plural": "Nachbarinnen",
+    "translation": "neighbor (female)",
+    "category": "people",
+    "sentence_de": "Die Nachbarin grüßt freundlich und hilft hilfsbereit.",
+    "sentence_en": "The neighbor greets kindly and helps readily."
+  },
+  {
+    "id": "kollegin",
+    "word": "Kollegin",
+    "article": "die",
+    "plural": "Kolleginnen",
+    "translation": "colleague (female)",
+    "category": "people",
+    "sentence_de": "Die Kollegin ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The colleague is a valued member of the community."
+  },
+  {
+    "id": "mitarbeiter",
+    "word": "Mitarbeiter",
+    "article": "der",
+    "plural": "Mitarbeiter",
+    "translation": "employee (male)",
+    "category": "people",
+    "sentence_de": "Der Mitarbeiter ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The employee is a valued member of the community."
+  },
+  {
+    "id": "mitarbeiterin",
+    "word": "Mitarbeiterin",
+    "article": "die",
+    "plural": "Mitarbeiterinnen",
+    "translation": "employee (female)",
+    "category": "people",
+    "sentence_de": "Die Mitarbeiterin ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The employee is a valued member of the community."
+  },
+  {
+    "id": "chefkoch",
+    "word": "Chefkoch",
+    "article": "der",
+    "plural": "Chefköche",
+    "translation": "head chef",
+    "category": "people",
+    "sentence_de": "Der Chefkoch übt diesen Beruf mit großem Engagement aus.",
+    "sentence_en": "The head chef pursues this profession with great dedication."
+  },
+  {
+    "id": "patient",
+    "word": "Patient",
+    "article": "der",
+    "plural": "Patienten",
+    "translation": "patient (male)",
+    "category": "people",
+    "sentence_de": "Der Patient ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The patient is a valued member of the community."
+  },
+  {
+    "id": "patientin",
+    "word": "Patientin",
+    "article": "die",
+    "plural": "Patientinnen",
+    "translation": "patient (female)",
+    "category": "people",
+    "sentence_de": "Die Patientin ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The patient is a valued member of the community."
+  },
+  {
+    "id": "gastgeber",
+    "word": "Gastgeber",
+    "article": "der",
+    "plural": "Gastgeber",
+    "translation": "host",
+    "category": "people",
+    "sentence_de": "Der Gastgeber grüßt freundlich und hilft hilfsbereit.",
+    "sentence_en": "The host greets kindly and helps readily."
+  },
+  {
+    "id": "gastgeberin",
+    "word": "Gastgeberin",
+    "article": "die",
+    "plural": "Gastgeberinnen",
+    "translation": "hostess",
+    "category": "people",
+    "sentence_de": "Die Gastgeberin grüßt freundlich und hilft hilfsbereit.",
+    "sentence_en": "The hostess greets kindly and helps readily."
+  },
+  {
+    "id": "besucherin",
+    "word": "Besucherin",
+    "article": "die",
+    "plural": "Besucherinnen",
+    "translation": "visitor (female)",
+    "category": "people",
+    "sentence_de": "Die Besucherin ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The visitor is a valued member of the community."
+  },
+  {
+    "id": "gaestezimmer",
+    "word": "Gästezimmer",
+    "article": "das",
+    "plural": "Gästezimmer",
+    "translation": "guest room",
+    "category": "home",
+    "sentence_de": "Das Gästezimmer ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The guest room is a useful item in the house."
+  },
+  {
+    "id": "eltern",
+    "word": "Eltern",
+    "article": "die",
+    "plural": "",
+    "translation": "parents",
+    "category": "people",
+    "sentence_de": "Die Eltern verbringt gern Zeit mit der ganzen Familie.",
+    "sentence_en": "The parents enjoys spending time with the whole family."
+  },
+  {
+    "id": "grosseltern",
+    "word": "Großeltern",
+    "article": "die",
+    "plural": "",
+    "translation": "grandparents",
+    "category": "people",
+    "sentence_de": "Die Großeltern verbringt gern Zeit mit der ganzen Familie.",
+    "sentence_en": "The grandparents enjoys spending time with the whole family."
+  },
+  {
+    "id": "geschwister",
+    "word": "Geschwister",
+    "article": "die",
+    "plural": "",
+    "translation": "siblings",
+    "category": "people",
+    "sentence_de": "Die Geschwister ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The siblings is a valued member of the community."
+  },
+  {
+    "id": "verwandte",
+    "word": "Verwandte",
+    "article": "der",
+    "plural": "Verwandten",
+    "translation": "relative",
+    "category": "people",
+    "sentence_de": "Der Verwandte ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The relative is a valued member of the community."
+  },
+  {
+    "id": "familie_mitglied",
+    "word": "Familienmitglied",
+    "article": "das",
+    "plural": "Familienmitglieder",
+    "translation": "family member",
+    "category": "people",
+    "sentence_de": "Das Familienmitglied verbringt gern Zeit mit der ganzen Familie.",
+    "sentence_en": "The family member enjoys spending time with the whole family."
+  },
+  {
+    "id": "hochzeit",
+    "word": "Hochzeit",
+    "article": "die",
+    "plural": "Hochzeiten",
+    "translation": "wedding",
+    "category": "events",
+    "sentence_de": "Die Hochzeit ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The wedding is an important term in the German language."
+  },
+  {
+    "id": "geburt",
+    "word": "Geburt",
+    "article": "die",
+    "plural": "Geburten",
+    "translation": "birth",
+    "category": "events",
+    "sentence_de": "Die Geburt ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The birth is an important term in the German language."
+  },
+  {
+    "id": "taufe",
+    "word": "Taufe",
+    "article": "die",
+    "plural": "Taufen",
+    "translation": "baptism",
+    "category": "events",
+    "sentence_de": "Die Taufe ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The baptism is an important term in the German language."
+  },
+  {
+    "id": "geburtstagsfeier",
+    "word": "Geburtstagsfeier",
+    "article": "die",
+    "plural": "Geburtstagsfeiern",
+    "translation": "birthday party",
+    "category": "events",
+    "sentence_de": "Die Geburtstagsfeier ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The birthday party is an important term in the German language."
+  },
+  {
+    "id": "feier",
+    "word": "Feier",
+    "article": "die",
+    "plural": "Feiern",
+    "translation": "celebration",
+    "category": "events",
+    "sentence_de": "Die Feier ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The celebration is an important term in the German language."
+  },
+  {
+    "id": "einladung",
+    "word": "Einladung",
+    "article": "die",
+    "plural": "Einladungen",
+    "translation": "invitation",
+    "category": "events",
+    "sentence_de": "Die Einladung ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The invitation is an important term in the German language."
+  },
+  {
+    "id": "gespraech",
+    "word": "Gespräch",
+    "article": "das",
+    "plural": "Gespräche",
+    "translation": "conversation",
+    "category": "people",
+    "sentence_de": "Das Gespräch ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The conversation is a valued member of the community."
+  },
+  {
+    "id": "laecheln",
+    "word": "Lächeln",
+    "article": "das",
+    "plural": "Lächeln",
+    "translation": "smile",
+    "category": "feelings",
+    "sentence_de": "Das Lächeln prägt unsere menschlichen Erfahrungen tief.",
+    "sentence_en": "The smile deeply shapes our human experiences."
+  },
+  {
+    "id": "traene",
+    "word": "Träne",
+    "article": "die",
+    "plural": "Tränen",
+    "translation": "tear",
+    "category": "feelings",
+    "sentence_de": "Die Träne prägt unsere menschlichen Erfahrungen tief.",
+    "sentence_en": "The tear deeply shapes our human experiences."
+  },
+  {
+    "id": "freude",
+    "word": "Freude",
+    "article": "die",
+    "plural": "Freuden",
+    "translation": "joy",
+    "category": "feelings",
+    "sentence_de": "Die Freude prägt unsere menschlichen Erfahrungen tief.",
+    "sentence_en": "The joy deeply shapes our human experiences."
+  },
+  {
+    "id": "angst",
+    "word": "Angst",
+    "article": "die",
+    "plural": "Ängste",
+    "translation": "fear",
+    "category": "feelings",
+    "sentence_de": "Die Angst prägt unsere menschlichen Erfahrungen tief.",
+    "sentence_en": "The fear deeply shapes our human experiences."
+  },
+  {
+    "id": "wut",
+    "word": "Wut",
+    "article": "die",
+    "plural": "",
+    "translation": "anger",
+    "category": "feelings",
+    "sentence_de": "Die Wut prägt unsere menschlichen Erfahrungen tief.",
+    "sentence_en": "The anger deeply shapes our human experiences."
+  },
+  {
+    "id": "liebe",
+    "word": "Liebe",
+    "article": "die",
+    "plural": "",
+    "translation": "love",
+    "category": "feelings",
+    "sentence_de": "Die Liebe prägt unsere menschlichen Erfahrungen tief.",
+    "sentence_en": "The love deeply shapes our human experiences."
+  },
+  {
+    "id": "hoffnung",
+    "word": "Hoffnung",
+    "article": "die",
+    "plural": "Hoffnungen",
+    "translation": "hope",
+    "category": "feelings",
+    "sentence_de": "Die Hoffnung prägt unsere menschlichen Erfahrungen tief.",
+    "sentence_en": "The hope deeply shapes our human experiences."
+  },
+  {
+    "id": "glueck",
+    "word": "Glück",
+    "article": "das",
+    "plural": "",
+    "translation": "luck / happiness",
+    "category": "feelings",
+    "sentence_de": "Das Glück prägt unsere menschlichen Erfahrungen tief.",
+    "sentence_en": "The luck deeply shapes our human experiences."
+  },
+  {
+    "id": "kummer",
+    "word": "Kummer",
+    "article": "der",
+    "plural": "",
+    "translation": "sorrow",
+    "category": "feelings",
+    "sentence_de": "Der Kummer prägt unsere menschlichen Erfahrungen tief.",
+    "sentence_en": "The sorrow deeply shapes our human experiences."
+  },
+  {
+    "id": "sorge",
+    "word": "Sorge",
+    "article": "die",
+    "plural": "Sorgen",
+    "translation": "worry",
+    "category": "feelings",
+    "sentence_de": "Die Sorge prägt unsere menschlichen Erfahrungen tief.",
+    "sentence_en": "The worry deeply shapes our human experiences."
+  },
+  {
+    "id": "stolz",
+    "word": "Stolz",
+    "article": "der",
+    "plural": "",
+    "translation": "pride",
+    "category": "feelings",
+    "sentence_de": "Der Stolz prägt unsere menschlichen Erfahrungen tief.",
+    "sentence_en": "The pride deeply shapes our human experiences."
+  },
+  {
+    "id": "neid",
+    "word": "Neid",
+    "article": "der",
+    "plural": "",
+    "translation": "envy",
+    "category": "feelings",
+    "sentence_de": "Der Neid prägt unsere menschlichen Erfahrungen tief.",
+    "sentence_en": "The envy deeply shapes our human experiences."
+  },
+  {
+    "id": "scham",
+    "word": "Scham",
+    "article": "die",
+    "plural": "",
+    "translation": "shame",
+    "category": "feelings",
+    "sentence_de": "Die Scham prägt unsere menschlichen Erfahrungen tief.",
+    "sentence_en": "The shame deeply shapes our human experiences."
+  },
+  {
+    "id": "mut",
+    "word": "Mut",
+    "article": "der",
+    "plural": "",
+    "translation": "courage",
+    "category": "feelings",
+    "sentence_de": "Der Mut prägt unsere menschlichen Erfahrungen tief.",
+    "sentence_en": "The courage deeply shapes our human experiences."
+  },
+  {
+    "id": "ruhe",
+    "word": "Ruhe",
+    "article": "die",
+    "plural": "",
+    "translation": "calm / quiet",
+    "category": "feelings",
+    "sentence_de": "Die Ruhe prägt unsere menschlichen Erfahrungen tief.",
+    "sentence_en": "The calm deeply shapes our human experiences."
+  },
+  {
+    "id": "stress",
+    "word": "Stress",
+    "article": "der",
+    "plural": "",
+    "translation": "stress",
+    "category": "feelings",
+    "sentence_de": "Der Stress prägt unsere menschlichen Erfahrungen tief.",
+    "sentence_en": "The stress deeply shapes our human experiences."
+  },
+  {
+    "id": "langeweile",
+    "word": "Langeweile",
+    "article": "die",
+    "plural": "",
+    "translation": "boredom",
+    "category": "feelings",
+    "sentence_de": "Die Langeweile prägt unsere menschlichen Erfahrungen tief.",
+    "sentence_en": "The boredom deeply shapes our human experiences."
+  },
+  {
+    "id": "ueberraschung",
+    "word": "Überraschung",
+    "article": "die",
+    "plural": "Überraschungen",
+    "translation": "surprise",
+    "category": "feelings",
+    "sentence_de": "Die Überraschung prägt unsere menschlichen Erfahrungen tief.",
+    "sentence_en": "The surprise deeply shapes our human experiences."
+  },
+  {
+    "id": "interesse",
+    "word": "Interesse",
+    "article": "das",
+    "plural": "Interessen",
+    "translation": "interest",
+    "category": "feelings",
+    "sentence_de": "Das Interesse prägt unsere menschlichen Erfahrungen tief.",
+    "sentence_en": "The interest deeply shapes our human experiences."
+  },
+  {
+    "id": "geduld",
+    "word": "Geduld",
+    "article": "die",
+    "plural": "",
+    "translation": "patience",
+    "category": "feelings",
+    "sentence_de": "Die Geduld prägt unsere menschlichen Erfahrungen tief.",
+    "sentence_en": "The patience deeply shapes our human experiences."
+  },
+  {
+    "id": "eifersucht",
+    "word": "Eifersucht",
+    "article": "die",
+    "plural": "",
+    "translation": "jealousy",
+    "category": "feelings",
+    "sentence_de": "Die Eifersucht prägt unsere menschlichen Erfahrungen tief.",
+    "sentence_en": "The jealousy deeply shapes our human experiences."
+  },
+  {
+    "id": "einsamkeit",
+    "word": "Einsamkeit",
+    "article": "die",
+    "plural": "",
+    "translation": "loneliness",
+    "category": "feelings",
+    "sentence_de": "Die Einsamkeit prägt unsere menschlichen Erfahrungen tief.",
+    "sentence_en": "The loneliness deeply shapes our human experiences."
+  },
+  {
+    "id": "zufriedenheit",
+    "word": "Zufriedenheit",
+    "article": "die",
+    "plural": "",
+    "translation": "contentment",
+    "category": "feelings",
+    "sentence_de": "Die Zufriedenheit prägt unsere menschlichen Erfahrungen tief.",
+    "sentence_en": "The contentment deeply shapes our human experiences."
+  },
+  {
+    "id": "traurigkeit",
+    "word": "Traurigkeit",
+    "article": "die",
+    "plural": "",
+    "translation": "sadness",
+    "category": "feelings",
+    "sentence_de": "Die Traurigkeit prägt unsere menschlichen Erfahrungen tief.",
+    "sentence_en": "The sadness deeply shapes our human experiences."
+  },
+  {
+    "id": "brotlaib",
+    "word": "Laib",
+    "article": "der",
+    "plural": "Laibe",
+    "translation": "loaf",
+    "category": "food",
+    "sentence_de": "Wir bereiten den Laib mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the loaf with fresh ingredients."
+  },
+  {
+    "id": "semmel",
+    "word": "Semmel",
+    "article": "die",
+    "plural": "Semmeln",
+    "translation": "bread roll (south)",
+    "category": "food",
+    "sentence_de": "Wir bereiten die Semmel mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the bread roll with fresh ingredients."
+  },
+  {
+    "id": "toast",
+    "word": "Toast",
+    "article": "der",
+    "plural": "",
+    "translation": "toast",
+    "category": "food",
+    "sentence_de": "Wir bereiten den Toast mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the toast with fresh ingredients."
+  },
+  {
+    "id": "wassermelone",
+    "word": "Wassermelone",
+    "article": "die",
+    "plural": "Wassermelonen",
+    "translation": "watermelon",
+    "category": "food",
+    "sentence_de": "Ein Glas oder eine Tasse Wassermelone ist sehr erfrischend.",
+    "sentence_en": "A glass or cup of watermelon is very refreshing."
+  },
+  {
+    "id": "ananas",
+    "word": "Ananas",
+    "article": "die",
+    "plural": "Ananas",
+    "translation": "pineapple",
+    "category": "food",
+    "sentence_de": "Wir bereiten die Ananas mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the pineapple with fresh ingredients."
+  },
+  {
+    "id": "mango",
+    "word": "Mango",
+    "article": "die",
+    "plural": "Mangos",
+    "translation": "mango",
+    "category": "food",
+    "sentence_de": "Wir bereiten die Mango mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the mango with fresh ingredients."
+  },
+  {
+    "id": "pfirsich",
+    "word": "Pfirsich",
+    "article": "der",
+    "plural": "Pfirsiche",
+    "translation": "peach",
+    "category": "food",
+    "sentence_de": "Wir bereiten den Pfirsich mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the peach with fresh ingredients."
+  },
+  {
+    "id": "birne",
+    "word": "Birne",
+    "article": "die",
+    "plural": "Birnen",
+    "translation": "pear",
+    "category": "food",
+    "sentence_de": "Die Birne schmeckt frisch, saftig und gesund.",
+    "sentence_en": "The pear tastes fresh, juicy, and healthy."
+  },
+  {
+    "id": "kirsche",
+    "word": "Kirsche",
+    "article": "die",
+    "plural": "Kirschen",
+    "translation": "cherry",
+    "category": "food",
+    "sentence_de": "Wir bereiten die Kirsche mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the cherry with fresh ingredients."
+  },
+  {
+    "id": "pflaume",
+    "word": "Pflaume",
+    "article": "die",
+    "plural": "Pflaumen",
+    "translation": "plum",
+    "category": "food",
+    "sentence_de": "Wir bereiten die Pflaume mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the plum with fresh ingredients."
+  },
+  {
+    "id": "aprikose",
+    "word": "Aprikose",
+    "article": "die",
+    "plural": "Aprikosen",
+    "translation": "apricot",
+    "category": "food",
+    "sentence_de": "Wir bereiten die Aprikose mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the apricot with fresh ingredients."
+  },
+  {
+    "id": "himbeere",
+    "word": "Himbeere",
+    "article": "die",
+    "plural": "Himbeeren",
+    "translation": "raspberry",
+    "category": "food",
+    "sentence_de": "Wir bereiten die Himbeere mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the raspberry with fresh ingredients."
+  },
+  {
+    "id": "heidelbeere",
+    "word": "Heidelbeere",
+    "article": "die",
+    "plural": "Heidelbeeren",
+    "translation": "blueberry",
+    "category": "food",
+    "sentence_de": "Wir bereiten die Heidelbeere mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the blueberry with fresh ingredients."
+  },
+  {
+    "id": "brombeere",
+    "word": "Brombeere",
+    "article": "die",
+    "plural": "Brombeeren",
+    "translation": "blackberry",
+    "category": "food",
+    "sentence_de": "Wir bereiten die Brombeere mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the blackberry with fresh ingredients."
+  },
+  {
+    "id": "kiwi",
+    "word": "Kiwi",
+    "article": "die",
+    "plural": "Kiwis",
+    "translation": "kiwi",
+    "category": "food",
+    "sentence_de": "Wir bereiten die Kiwi mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the kiwi with fresh ingredients."
+  },
+  {
+    "id": "avocado",
+    "word": "Avocado",
+    "article": "die",
+    "plural": "Avocados",
+    "translation": "avocado",
+    "category": "food",
+    "sentence_de": "Wir bereiten die Avocado mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the avocado with fresh ingredients."
+  },
+  {
+    "id": "kokosnuss",
+    "word": "Kokosnuss",
+    "article": "die",
+    "plural": "Kokosnüsse",
+    "translation": "coconut",
+    "category": "food",
+    "sentence_de": "Wir bereiten die Kokosnuss mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the coconut with fresh ingredients."
+  },
+  {
+    "id": "limette",
+    "word": "Limette",
+    "article": "die",
+    "plural": "Limetten",
+    "translation": "lime",
+    "category": "food",
+    "sentence_de": "Wir bereiten die Limette mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the lime with fresh ingredients."
+  },
+  {
+    "id": "grapefruit",
+    "word": "Grapefruit",
+    "article": "die",
+    "plural": "Grapefruits",
+    "translation": "grapefruit",
+    "category": "food",
+    "sentence_de": "Wir bereiten die Grapefruit mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the grapefruit with fresh ingredients."
+  },
+  {
+    "id": "mandarine",
+    "word": "Mandarine",
+    "article": "die",
+    "plural": "Mandarinen",
+    "translation": "mandarin",
+    "category": "food",
+    "sentence_de": "Wir bereiten die Mandarine mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the mandarin with fresh ingredients."
+  },
+  {
+    "id": "feige",
+    "word": "Feige",
+    "article": "die",
+    "plural": "Feigen",
+    "translation": "fig",
+    "category": "food",
+    "sentence_de": "Wir bereiten die Feige mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the fig with fresh ingredients."
+  },
+  {
+    "id": "dattel",
+    "word": "Dattel",
+    "article": "die",
+    "plural": "Datteln",
+    "translation": "date (fruit)",
+    "category": "food",
+    "sentence_de": "Wir bereiten die Dattel mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the date with fresh ingredients."
+  },
+  {
+    "id": "olive",
+    "word": "Olive",
+    "article": "die",
+    "plural": "Oliven",
+    "translation": "olive",
+    "category": "food",
+    "sentence_de": "Wir bereiten die Olive mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the olive with fresh ingredients."
+  },
+  {
+    "id": "karotte",
+    "word": "Karotte",
+    "article": "die",
+    "plural": "Karotten",
+    "translation": "carrot",
+    "category": "food",
+    "sentence_de": "Die Karotte schmeckt frisch, saftig und gesund.",
+    "sentence_en": "The carrot tastes fresh, juicy, and healthy."
+  },
+  {
+    "id": "moehre",
+    "word": "Möhre",
+    "article": "die",
+    "plural": "Möhren",
+    "translation": "carrot",
+    "category": "food",
+    "sentence_de": "Wir bereiten die Möhre mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the carrot with fresh ingredients."
+  },
+  {
+    "id": "bohne",
+    "word": "Bohne",
+    "article": "die",
+    "plural": "Bohnen",
+    "translation": "bean",
+    "category": "food",
+    "sentence_de": "Wir bereiten die Bohne mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the bean with fresh ingredients."
+  },
+  {
+    "id": "erbse",
+    "word": "Erbse",
+    "article": "die",
+    "plural": "Erbsen",
+    "translation": "pea",
+    "category": "food",
+    "sentence_de": "Wir bereiten die Erbse mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the pea with fresh ingredients."
+  },
+  {
+    "id": "linse",
+    "word": "Linse",
+    "article": "die",
+    "plural": "Linsen",
+    "translation": "lentil",
+    "category": "food",
+    "sentence_de": "Wir bereiten die Linse mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the lentil with fresh ingredients."
+  },
+  {
+    "id": "mais",
+    "word": "Mais",
+    "article": "der",
+    "plural": "",
+    "translation": "corn / maize",
+    "category": "food",
+    "sentence_de": "Wir bereiten den Mais mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the corn with fresh ingredients."
+  },
+  {
+    "id": "spinat",
+    "word": "Spinat",
+    "article": "der",
+    "plural": "",
+    "translation": "spinach",
+    "category": "food",
+    "sentence_de": "Wir bereiten den Spinat mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the spinach with fresh ingredients."
+  },
+  {
+    "id": "kohl",
+    "word": "Kohl",
+    "article": "der",
+    "plural": "Kohle",
+    "translation": "cabbage",
+    "category": "food",
+    "sentence_de": "Wir bereiten den Kohl mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the cabbage with fresh ingredients."
+  },
+  {
+    "id": "bluetenkohl",
+    "word": "Blumenkohl",
+    "article": "der",
+    "plural": "",
+    "translation": "cauliflower",
+    "category": "food",
+    "sentence_de": "Wir bereiten den Blumenkohl mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the cauliflower with fresh ingredients."
+  },
+  {
+    "id": "brokkoli",
+    "word": "Brokkoli",
+    "article": "der",
+    "plural": "",
+    "translation": "broccoli",
+    "category": "food",
+    "sentence_de": "Wir bereiten den Brokkoli mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the broccoli with fresh ingredients."
+  },
+  {
+    "id": "kuerbis",
+    "word": "Kürbis",
+    "article": "der",
+    "plural": "Kürbisse",
+    "translation": "pumpkin / squash",
+    "category": "food",
+    "sentence_de": "Wir bereiten den Kürbis mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the pumpkin with fresh ingredients."
+  },
+  {
+    "id": "aubergine",
+    "word": "Aubergine",
+    "article": "die",
+    "plural": "Auberginen",
+    "translation": "eggplant",
+    "category": "food",
+    "sentence_de": "Wir bereiten die Aubergine mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the eggplant with fresh ingredients."
+  },
+  {
+    "id": "zucchini",
+    "word": "Zucchini",
+    "article": "die",
+    "plural": "Zucchini",
+    "translation": "zucchini",
+    "category": "food",
+    "sentence_de": "Wir bereiten die Zucchini mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the zucchini with fresh ingredients."
+  },
+  {
+    "id": "paprika",
+    "word": "Paprika",
+    "article": "der",
+    "plural": "Paprikas",
+    "translation": "bell pepper",
+    "category": "food",
+    "sentence_de": "Wir bereiten den Paprika mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the bell pepper with fresh ingredients."
+  },
+  {
+    "id": "knoblauch",
+    "word": "Knoblauch",
+    "article": "der",
+    "plural": "",
+    "translation": "garlic",
+    "category": "food",
+    "sentence_de": "Wir bereiten den Knoblauch mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the garlic with fresh ingredients."
+  },
+  {
+    "id": "ingwer",
+    "word": "Ingwer",
+    "article": "der",
+    "plural": "",
+    "translation": "ginger",
+    "category": "food",
+    "sentence_de": "Wir bereiten den Ingwer mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the ginger with fresh ingredients."
+  },
+  {
+    "id": "pilz",
+    "word": "Pilz",
+    "article": "der",
+    "plural": "Pilze",
+    "translation": "mushroom",
+    "category": "food",
+    "sentence_de": "Wir bereiten den Pilz mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the mushroom with fresh ingredients."
+  },
+  {
+    "id": "champignon",
+    "word": "Champignon",
+    "article": "der",
+    "plural": "Champignons",
+    "translation": "button mushroom",
+    "category": "food",
+    "sentence_de": "Wir bereiten den Champignon mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the button mushroom with fresh ingredients."
+  },
+  {
+    "id": "spargel",
+    "word": "Spargel",
+    "article": "der",
+    "plural": "",
+    "translation": "asparagus",
+    "category": "food",
+    "sentence_de": "Wir bereiten den Spargel mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the asparagus with fresh ingredients."
+  },
+  {
+    "id": "sellerie",
+    "word": "Sellerie",
+    "article": "der",
+    "plural": "",
+    "translation": "celery",
+    "category": "food",
+    "sentence_de": "Wir bereiten den Sellerie mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the celery with fresh ingredients."
+  },
+  {
+    "id": "lauch",
+    "word": "Lauch",
+    "article": "der",
+    "plural": "Lauche",
+    "translation": "leek",
+    "category": "food",
+    "sentence_de": "Wir bereiten den Lauch mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the leek with fresh ingredients."
+  },
+  {
+    "id": "rettich",
+    "word": "Rettich",
+    "article": "der",
+    "plural": "Rettiche",
+    "translation": "radish",
+    "category": "food",
+    "sentence_de": "Wir bereiten den Rettich mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the radish with fresh ingredients."
+  },
+  {
+    "id": "radieschen",
+    "word": "Radieschen",
+    "article": "das",
+    "plural": "Radieschen",
+    "translation": "small radish",
+    "category": "food",
+    "sentence_de": "Wir bereiten das Radieschen mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the small radish with fresh ingredients."
+  },
+  {
+    "id": "mais_kolben",
+    "word": "Maiskolben",
+    "article": "der",
+    "plural": "Maiskolben",
+    "translation": "corn cob",
+    "category": "food",
+    "sentence_de": "Wir bereiten den Maiskolben mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the corn cob with fresh ingredients."
+  },
+  {
+    "id": "nudelgericht",
+    "word": "Pasta",
+    "article": "die",
+    "plural": "",
+    "translation": "pasta",
+    "category": "food",
+    "sentence_de": "Die Pasta schmeckt warm und frisch zubereitet hervorragend.",
+    "sentence_en": "The pasta tastes excellent when freshly prepared and warm."
+  },
+  {
+    "id": "spaghetti",
+    "word": "Spaghetti",
+    "article": "die",
+    "plural": "",
+    "translation": "spaghetti",
+    "category": "food",
+    "sentence_de": "Wir bereiten die Spaghetti mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the spaghetti with fresh ingredients."
+  },
+  {
+    "id": "pommes",
+    "word": "Pommes",
+    "article": "die",
+    "plural": "",
+    "translation": "french fries",
+    "category": "food",
+    "sentence_de": "Wir bereiten die Pommes mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the french fries with fresh ingredients."
+  },
+  {
+    "id": "hamburger",
+    "word": "Hamburger",
+    "article": "der",
+    "plural": "Hamburger",
+    "translation": "hamburger",
+    "category": "food",
+    "sentence_de": "Wir bereiten den Hamburger mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the hamburger with fresh ingredients."
+  },
+  {
+    "id": "sandwich",
+    "word": "Sandwich",
+    "article": "das",
+    "plural": "Sandwiches",
+    "translation": "sandwich",
+    "category": "food",
+    "sentence_de": "Wir bereiten das Sandwich mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the sandwich with fresh ingredients."
+  },
+  {
+    "id": "suppenkueche",
+    "word": "Eintopf",
+    "article": "der",
+    "plural": "Eintöpfe",
+    "translation": "stew",
+    "category": "food",
+    "sentence_de": "Der Eintopf wird in der Küche täglich gebraucht.",
+    "sentence_en": "The stew is used every day in the kitchen."
+  },
+  {
+    "id": "braten",
+    "word": "Braten",
+    "article": "der",
+    "plural": "Braten",
+    "translation": "roast",
+    "category": "food",
+    "sentence_de": "Wir bereiten den Braten mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the roast with fresh ingredients."
+  },
+  {
+    "id": "schnitzel",
+    "word": "Schnitzel",
+    "article": "das",
+    "plural": "Schnitzel",
+    "translation": "schnitzel",
+    "category": "food",
+    "sentence_de": "Wir bereiten das Schnitzel mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the schnitzel with fresh ingredients."
+  },
+  {
+    "id": "wurstsalat",
+    "word": "Wurstsalat",
+    "article": "der",
+    "plural": "",
+    "translation": "sausage salad",
+    "category": "food",
+    "sentence_de": "Der Wurstsalat schmeckt warm und frisch zubereitet hervorragend.",
+    "sentence_en": "The sausage salad tastes excellent when freshly prepared and warm."
+  },
+  {
+    "id": "leberwurst",
+    "word": "Leberwurst",
+    "article": "die",
+    "plural": "",
+    "translation": "liverwurst",
+    "category": "food",
+    "sentence_de": "Die Leberwurst schmeckt warm und frisch zubereitet hervorragend.",
+    "sentence_en": "The liverwurst tastes excellent when freshly prepared and warm."
+  },
+  {
+    "id": "salami",
+    "word": "Salami",
+    "article": "die",
+    "plural": "Salamis",
+    "translation": "salami",
+    "category": "food",
+    "sentence_de": "Wir bereiten die Salami mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the salami with fresh ingredients."
+  },
+  {
+    "id": "speck",
+    "word": "Speck",
+    "article": "der",
+    "plural": "",
+    "translation": "bacon",
+    "category": "food",
+    "sentence_de": "Wir bereiten den Speck mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the bacon with fresh ingredients."
+  },
+  {
+    "id": "steak",
+    "word": "Steak",
+    "article": "das",
+    "plural": "Steaks",
+    "translation": "steak",
+    "category": "food",
+    "sentence_de": "Wir bereiten das Steak mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the steak with fresh ingredients."
+  },
+  {
+    "id": "lachs",
+    "word": "Lachs",
+    "article": "der",
+    "plural": "Lachse",
+    "translation": "salmon",
+    "category": "food",
+    "sentence_de": "Wir bereiten den Lachs mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the salmon with fresh ingredients."
+  },
+  {
+    "id": "thunfisch",
+    "word": "Thunfisch",
+    "article": "der",
+    "plural": "Thunfische",
+    "translation": "tuna",
+    "category": "food",
+    "sentence_de": "Der Thunfisch schmeckt warm und frisch zubereitet hervorragend.",
+    "sentence_en": "The tuna tastes excellent when freshly prepared and warm."
+  },
+  {
+    "id": "forelle",
+    "word": "Forelle",
+    "article": "die",
+    "plural": "Forellen",
+    "translation": "trout",
+    "category": "food",
+    "sentence_de": "Wir bereiten die Forelle mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the trout with fresh ingredients."
+  },
+  {
+    "id": "garnele",
+    "word": "Garnele",
+    "article": "die",
+    "plural": "Garnelen",
+    "translation": "shrimp",
+    "category": "food",
+    "sentence_de": "Wir bereiten die Garnele mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the shrimp with fresh ingredients."
+  },
+  {
+    "id": "muschel",
+    "word": "Muschel",
+    "article": "die",
+    "plural": "Muscheln",
+    "translation": "mussel / shell",
+    "category": "food",
+    "sentence_de": "Wir bereiten die Muschel mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the mussel with fresh ingredients."
+  },
+  {
+    "id": "krabbe",
+    "word": "Krabbe",
+    "article": "die",
+    "plural": "Krabben",
+    "translation": "crab",
+    "category": "food",
+    "sentence_de": "Wir bereiten die Krabbe mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the crab with fresh ingredients."
+  },
+  {
+    "id": "joghurtbecher",
+    "word": "Joghurtbecher",
+    "article": "der",
+    "plural": "Joghurtbecher",
+    "translation": "yogurt cup",
+    "category": "food",
+    "sentence_de": "Wir bereiten den Joghurtbecher mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the yogurt cup with fresh ingredients."
+  },
+  {
+    "id": "sahne",
+    "word": "Sahne",
+    "article": "die",
+    "plural": "",
+    "translation": "cream",
+    "category": "food",
+    "sentence_de": "Wir bereiten die Sahne mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the cream with fresh ingredients."
+  },
+  {
+    "id": "sahnequark",
+    "word": "Quark",
+    "article": "der",
+    "plural": "",
+    "translation": "quark (dairy)",
+    "category": "food",
+    "sentence_de": "Wir bereiten den Quark mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the quark with fresh ingredients."
+  },
+  {
+    "id": "sahnekaese",
+    "word": "Frischkäse",
+    "article": "der",
+    "plural": "",
+    "translation": "cream cheese",
+    "category": "food",
+    "sentence_de": "Wir bereiten den Frischkäse mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the cream cheese with fresh ingredients."
+  },
+  {
+    "id": "schnittkaese",
+    "word": "Schnittkäse",
+    "article": "der",
+    "plural": "",
+    "translation": "sliced cheese",
+    "category": "food",
+    "sentence_de": "Wir bereiten den Schnittkäse mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the sliced cheese with fresh ingredients."
+  },
+  {
+    "id": "sahnebutter",
+    "word": "Margarine",
+    "article": "die",
+    "plural": "",
+    "translation": "margarine",
+    "category": "food",
+    "sentence_de": "Wir bereiten die Margarine mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the margarine with fresh ingredients."
+  },
+  {
+    "id": "mehl",
+    "word": "Mehl",
+    "article": "das",
+    "plural": "",
+    "translation": "flour",
+    "category": "food",
+    "sentence_de": "Wir bereiten das Mehl mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the flour with fresh ingredients."
+  },
+  {
+    "id": "hefe",
+    "word": "Hefe",
+    "article": "die",
+    "plural": "",
+    "translation": "yeast",
+    "category": "food",
+    "sentence_de": "Wir bereiten die Hefe mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the yeast with fresh ingredients."
+  },
+  {
+    "id": "teig",
+    "word": "Teig",
+    "article": "der",
+    "plural": "Teige",
+    "translation": "dough",
+    "category": "food",
+    "sentence_de": "Wir bereiten den Teig mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the dough with fresh ingredients."
+  },
+  {
+    "id": "nudelteig",
+    "word": "Nudelteig",
+    "article": "der",
+    "plural": "",
+    "translation": "pasta dough",
+    "category": "food",
+    "sentence_de": "Wir bereiten den Nudelteig mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the pasta dough with fresh ingredients."
+  },
+  {
+    "id": "gewaerz",
+    "word": "Gewürz",
+    "article": "das",
+    "plural": "Gewürze",
+    "translation": "spice",
+    "category": "food",
+    "sentence_de": "Wir bereiten das Gewürz mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the spice with fresh ingredients."
+  },
+  {
+    "id": "zimt",
+    "word": "Zimt",
+    "article": "der",
+    "plural": "",
+    "translation": "cinnamon",
+    "category": "food",
+    "sentence_de": "Wir bereiten den Zimt mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the cinnamon with fresh ingredients."
+  },
+  {
+    "id": "vanille",
+    "word": "Vanille",
+    "article": "die",
+    "plural": "",
+    "translation": "vanilla",
+    "category": "food",
+    "sentence_de": "Wir bereiten die Vanille mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the vanilla with fresh ingredients."
+  },
+  {
+    "id": "senf",
+    "word": "Senf",
+    "article": "der",
+    "plural": "",
+    "translation": "mustard",
+    "category": "food",
+    "sentence_de": "Wir bereiten den Senf mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the mustard with fresh ingredients."
+  },
+  {
+    "id": "ketchup",
+    "word": "Ketchup",
+    "article": "der",
+    "plural": "",
+    "translation": "ketchup",
+    "category": "food",
+    "sentence_de": "Wir bereiten den Ketchup mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the ketchup with fresh ingredients."
+  },
+  {
+    "id": "mayonnaise",
+    "word": "Mayonnaise",
+    "article": "die",
+    "plural": "",
+    "translation": "mayonnaise",
+    "category": "food",
+    "sentence_de": "Wir bereiten die Mayonnaise mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the mayonnaise with fresh ingredients."
+  },
+  {
+    "id": "essig",
+    "word": "Essig",
+    "article": "der",
+    "plural": "",
+    "translation": "vinegar",
+    "category": "food",
+    "sentence_de": "Wir bereiten den Essig mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the vinegar with fresh ingredients."
+  },
+  {
+    "id": "sojasauce",
+    "word": "Sojasauce",
+    "article": "die",
+    "plural": "",
+    "translation": "soy sauce",
+    "category": "food",
+    "sentence_de": "Wir bereiten die Sojasauce mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the soy sauce with fresh ingredients."
+  },
+  {
+    "id": "honigglas",
+    "word": "Marmeladenglas",
+    "article": "das",
+    "plural": "Marmeladengläser",
+    "translation": "jam jar",
+    "category": "food",
+    "sentence_de": "Das Marmeladenglas wird in der Küche täglich gebraucht.",
+    "sentence_en": "The jam jar is used every day in the kitchen."
+  },
+  {
+    "id": "muesli",
+    "word": "Müsli",
+    "article": "das",
+    "plural": "",
+    "translation": "muesli",
+    "category": "food",
+    "sentence_de": "Wir bereiten das Müsli mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the muesli with fresh ingredients."
+  },
+  {
+    "id": "haferflocken",
+    "word": "Haferflocken",
+    "article": "die",
+    "plural": "",
+    "translation": "oats",
+    "category": "food",
+    "sentence_de": "Wir bereiten die Haferflocken mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the oats with fresh ingredients."
+  },
+  {
+    "id": "reisgericht",
+    "word": "Risotto",
+    "article": "das",
+    "plural": "",
+    "translation": "risotto",
+    "category": "food",
+    "sentence_de": "Wir bereiten das Risotto mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the risotto with fresh ingredients."
+  },
+  {
+    "id": "suppenkelle",
+    "word": "Suppenkelle",
+    "article": "die",
+    "plural": "Suppenkellen",
+    "translation": "ladle",
+    "category": "kitchen",
+    "sentence_de": "Die Suppenkelle schmeckt warm und frisch zubereitet hervorragend.",
+    "sentence_en": "The ladle tastes excellent when freshly prepared and warm."
+  },
+  {
+    "id": "pfanne",
+    "word": "Pfanne",
+    "article": "die",
+    "plural": "Pfannen",
+    "translation": "frying pan",
+    "category": "kitchen",
+    "sentence_de": "Die Pfanne wird in der Küche täglich gebraucht.",
+    "sentence_en": "The frying pan is used every day in the kitchen."
+  },
+  {
+    "id": "topf",
+    "word": "Topf",
+    "article": "der",
+    "plural": "Töpfe",
+    "translation": "pot",
+    "category": "kitchen",
+    "sentence_de": "Der Topf wird in der Küche täglich gebraucht.",
+    "sentence_en": "The pot is used every day in the kitchen."
+  },
+  {
+    "id": "deckel",
+    "word": "Deckel",
+    "article": "der",
+    "plural": "Deckel",
+    "translation": "lid",
+    "category": "kitchen",
+    "sentence_de": "Wir bereiten den Deckel mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the lid with fresh ingredients."
+  },
+  {
+    "id": "schneidebrett",
+    "word": "Schneidebrett",
+    "article": "das",
+    "plural": "Schneidebretter",
+    "translation": "cutting board",
+    "category": "kitchen",
+    "sentence_de": "Wir bereiten das Schneidebrett mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the cutting board with fresh ingredients."
+  },
+  {
+    "id": "oeffner",
+    "word": "Öffner",
+    "article": "der",
+    "plural": "Öffner",
+    "translation": "opener",
+    "category": "kitchen",
+    "sentence_de": "Wir bereiten den Öffner mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the opener with fresh ingredients."
+  },
+  {
+    "id": "dosenoeffner",
+    "word": "Dosenöffner",
+    "article": "der",
+    "plural": "Dosenöffner",
+    "translation": "can opener",
+    "category": "kitchen",
+    "sentence_de": "Wir bereiten den Dosenöffner mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the can opener with fresh ingredients."
+  },
+  {
+    "id": "korkenzieher",
+    "word": "Korkenzieher",
+    "article": "der",
+    "plural": "Korkenzieher",
+    "translation": "corkscrew",
+    "category": "kitchen",
+    "sentence_de": "Wir bereiten den Korkenzieher mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the corkscrew with fresh ingredients."
+  },
+  {
+    "id": "reibe",
+    "word": "Reibe",
+    "article": "die",
+    "plural": "Reiben",
+    "translation": "grater",
+    "category": "kitchen",
+    "sentence_de": "Wir bereiten die Reibe mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the grater with fresh ingredients."
+  },
+  {
+    "id": "schneebesen",
+    "word": "Schneebesen",
+    "article": "der",
+    "plural": "Schneebesen",
+    "translation": "whisk",
+    "category": "kitchen",
+    "sentence_de": "Wir bereiten den Schneebesen mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the whisk with fresh ingredients."
+  },
+  {
+    "id": "schaessel",
+    "word": "Schüssel",
+    "article": "die",
+    "plural": "Schüsseln",
+    "translation": "bowl",
+    "category": "kitchen",
+    "sentence_de": "Wir bereiten die Schüssel mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the bowl with fresh ingredients."
+  },
+  {
+    "id": "kanne",
+    "word": "Kanne",
+    "article": "die",
+    "plural": "Kannen",
+    "translation": "jug / pot",
+    "category": "kitchen",
+    "sentence_de": "Wir bereiten die Kanne mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the jug with fresh ingredients."
+  },
+  {
+    "id": "teekanne",
+    "word": "Teekanne",
+    "article": "die",
+    "plural": "Teekannen",
+    "translation": "teapot",
+    "category": "kitchen",
+    "sentence_de": "Ein Glas oder eine Tasse Teekanne ist sehr erfrischend.",
+    "sentence_en": "A glass or cup of teapot is very refreshing."
+  },
+  {
+    "id": "kaffeemaschine",
+    "word": "Kaffeemaschine",
+    "article": "die",
+    "plural": "Kaffeemaschinen",
+    "translation": "coffee machine",
+    "category": "kitchen",
+    "sentence_de": "Ein Glas oder eine Tasse Kaffeemaschine ist sehr erfrischend.",
+    "sentence_en": "A glass or cup of coffee machine is very refreshing."
+  },
+  {
+    "id": "wasserkocher",
+    "word": "Wasserkocher",
+    "article": "der",
+    "plural": "Wasserkocher",
+    "translation": "kettle",
+    "category": "kitchen",
+    "sentence_de": "Ein Glas oder eine Tasse Wasserkocher ist sehr erfrischend.",
+    "sentence_en": "A glass or cup of kettle is very refreshing."
+  },
+  {
+    "id": "toaster",
+    "word": "Toaster",
+    "article": "der",
+    "plural": "Toaster",
+    "translation": "toaster",
+    "category": "kitchen",
+    "sentence_de": "Wir bereiten den Toaster mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the toaster with fresh ingredients."
+  },
+  {
+    "id": "mikrowelle",
+    "word": "Mikrowelle",
+    "article": "die",
+    "plural": "Mikrowellen",
+    "translation": "microwave",
+    "category": "kitchen",
+    "sentence_de": "Wir bereiten die Mikrowelle mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the microwave with fresh ingredients."
+  },
+  {
+    "id": "backofen",
+    "word": "Backofen",
+    "article": "der",
+    "plural": "Backöfen",
+    "translation": "oven",
+    "category": "kitchen",
+    "sentence_de": "Der Backofen wird in der Küche täglich gebraucht.",
+    "sentence_en": "The oven is used every day in the kitchen."
+  },
+  {
+    "id": "spuele",
+    "word": "Spüle",
+    "article": "die",
+    "plural": "Spülen",
+    "translation": "kitchen sink",
+    "category": "kitchen",
+    "sentence_de": "Wir bereiten die Spüle mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the kitchen sink with fresh ingredients."
+  },
+  {
+    "id": "spuelmaschine",
+    "word": "Spülmaschine",
+    "article": "die",
+    "plural": "Spülmaschinen",
+    "translation": "dishwasher",
+    "category": "kitchen",
+    "sentence_de": "Wir bereiten die Spülmaschine mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the dishwasher with fresh ingredients."
+  },
+  {
+    "id": "kuechentuch",
+    "word": "Küchentuch",
+    "article": "das",
+    "plural": "Küchentücher",
+    "translation": "kitchen towel",
+    "category": "kitchen",
+    "sentence_de": "Wir bereiten das Küchentuch mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the kitchen towel with fresh ingredients."
+  },
+  {
+    "id": "backblech",
+    "word": "Backblech",
+    "article": "das",
+    "plural": "Backbleche",
+    "translation": "baking tray",
+    "category": "kitchen",
+    "sentence_de": "Wir bereiten das Backblech mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the baking tray with fresh ingredients."
+  },
+  {
+    "id": "backform",
+    "word": "Backform",
+    "article": "die",
+    "plural": "Backformen",
+    "translation": "baking pan",
+    "category": "kitchen",
+    "sentence_de": "Wir bereiten die Backform mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the baking pan with fresh ingredients."
+  },
+  {
+    "id": "mixer",
+    "word": "Mixer",
+    "article": "der",
+    "plural": "Mixer",
+    "translation": "blender / mixer",
+    "category": "kitchen",
+    "sentence_de": "Wir bereiten den Mixer mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the blender with fresh ingredients."
+  },
+  {
+    "id": "mixer_stab",
+    "word": "Stabmixer",
+    "article": "der",
+    "plural": "Stabmixer",
+    "translation": "immersion blender",
+    "category": "kitchen",
+    "sentence_de": "Wir bereiten den Stabmixer mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the immersion blender with fresh ingredients."
+  },
+  {
+    "id": "waage",
+    "word": "Waage",
+    "article": "die",
+    "plural": "Waagen",
+    "translation": "scale",
+    "category": "kitchen",
+    "sentence_de": "Wir bereiten die Waage mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the scale with fresh ingredients."
+  },
+  {
+    "id": "timer",
+    "word": "Timer",
+    "article": "der",
+    "plural": "Timer",
+    "translation": "timer",
+    "category": "kitchen",
+    "sentence_de": "Wir bereiten den Timer mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the timer with fresh ingredients."
+  },
+  {
+    "id": "reiskocher",
+    "word": "Reiskocher",
+    "article": "der",
+    "plural": "Reiskocher",
+    "translation": "rice cooker",
+    "category": "kitchen",
+    "sentence_de": "Der Reiskocher schmeckt warm und frisch zubereitet hervorragend.",
+    "sentence_en": "The rice cooker tastes excellent when freshly prepared and warm."
+  },
+  {
+    "id": "thermoskanne",
+    "word": "Thermoskanne",
+    "article": "die",
+    "plural": "Thermoskannen",
+    "translation": "thermos",
+    "category": "kitchen",
+    "sentence_de": "Wir bereiten die Thermoskanne mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the thermos with fresh ingredients."
+  },
+  {
+    "id": "brotdose",
+    "word": "Brotdose",
+    "article": "die",
+    "plural": "Brotdosen",
+    "translation": "lunch box",
+    "category": "kitchen",
+    "sentence_de": "Die Brotdose schmeckt warm und frisch zubereitet hervorragend.",
+    "sentence_en": "The lunch box tastes excellent when freshly prepared and warm."
+  },
+  {
+    "id": "vorrat",
+    "word": "Vorrat",
+    "article": "der",
+    "plural": "Vorräte",
+    "translation": "supply / stock",
+    "category": "kitchen",
+    "sentence_de": "Wir bereiten den Vorrat mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the supply with fresh ingredients."
+  },
+  {
+    "id": "kuehlschrankfach",
+    "word": "Gefrierfach",
+    "article": "das",
+    "plural": "Gefrierfächer",
+    "translation": "freezer compartment",
+    "category": "kitchen",
+    "sentence_de": "Wir bereiten das Gefrierfach mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the freezer compartment with fresh ingredients."
+  },
+  {
+    "id": "gefrierschrank",
+    "word": "Gefrierschrank",
+    "article": "der",
+    "plural": "Gefrierschränke",
+    "translation": "freezer",
+    "category": "kitchen",
+    "sentence_de": "Wir bereiten den Gefrierschrank mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the freezer with fresh ingredients."
+  },
+  {
+    "id": "saftglas",
+    "word": "Saftglas",
+    "article": "das",
+    "plural": "Saftgläser",
+    "translation": "juice glass",
+    "category": "food",
+    "sentence_de": "Ein Glas oder eine Tasse Saftglas ist sehr erfrischend.",
+    "sentence_en": "A glass or cup of juice glass is very refreshing."
+  },
+  {
+    "id": "cola",
+    "word": "Cola",
+    "article": "die",
+    "plural": "",
+    "translation": "cola",
+    "category": "food",
+    "sentence_de": "Ein Glas oder eine Tasse Cola ist sehr erfrischend.",
+    "sentence_en": "A glass or cup of cola is very refreshing."
+  },
+  {
+    "id": "saftschorle",
+    "word": "Schorle",
+    "article": "die",
+    "plural": "Schorlen",
+    "translation": "spritzer",
+    "category": "food",
+    "sentence_de": "Wir bereiten die Schorle mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the spritzer with fresh ingredients."
+  },
+  {
+    "id": "kakao",
+    "word": "Kakao",
+    "article": "der",
+    "plural": "",
+    "translation": "cocoa",
+    "category": "food",
+    "sentence_de": "Wir bereiten den Kakao mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the cocoa with fresh ingredients."
+  },
+  {
+    "id": "milchshake",
+    "word": "Milchshake",
+    "article": "der",
+    "plural": "Milchshakes",
+    "translation": "milkshake",
+    "category": "food",
+    "sentence_de": "Ein Glas oder eine Tasse Milchshake ist sehr erfrischend.",
+    "sentence_en": "A glass or cup of milkshake is very refreshing."
+  },
+  {
+    "id": "smoothie",
+    "word": "Smoothie",
+    "article": "der",
+    "plural": "Smoothies",
+    "translation": "smoothie",
+    "category": "food",
+    "sentence_de": "Wir bereiten den Smoothie mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the smoothie with fresh ingredients."
+  },
+  {
+    "id": "sekt",
+    "word": "Sekt",
+    "article": "der",
+    "plural": "",
+    "translation": "sparkling wine",
+    "category": "food",
+    "sentence_de": "Wir bereiten den Sekt mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the sparkling wine with fresh ingredients."
+  },
+  {
+    "id": "schnaps",
+    "word": "Schnaps",
+    "article": "der",
+    "plural": "Schnäpse",
+    "translation": "schnapps",
+    "category": "food",
+    "sentence_de": "Wir bereiten den Schnaps mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the schnapps with fresh ingredients."
+  },
+  {
+    "id": "cocktail",
+    "word": "Cocktail",
+    "article": "der",
+    "plural": "Cocktails",
+    "translation": "cocktail",
+    "category": "food",
+    "sentence_de": "Wir bereiten den Cocktail mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the cocktail with fresh ingredients."
+  },
+  {
+    "id": "mineralwasser",
+    "word": "Mineralwasser",
+    "article": "das",
+    "plural": "",
+    "translation": "mineral water",
+    "category": "food",
+    "sentence_de": "Ein Glas oder eine Tasse Mineralwasser ist sehr erfrischend.",
+    "sentence_en": "A glass or cup of mineral water is very refreshing."
+  },
+  {
+    "id": "leitungswasser",
+    "word": "Leitungswasser",
+    "article": "das",
+    "plural": "",
+    "translation": "tap water",
+    "category": "food",
+    "sentence_de": "Ein Glas oder eine Tasse Leitungswasser ist sehr erfrischend.",
+    "sentence_en": "A glass or cup of tap water is very refreshing."
+  },
+  {
+    "id": "eistee",
+    "word": "Eistee",
+    "article": "der",
+    "plural": "",
+    "translation": "iced tea",
+    "category": "food",
+    "sentence_de": "Ein Glas oder eine Tasse Eistee ist sehr erfrischend.",
+    "sentence_en": "A glass or cup of iced tea is very refreshing."
+  },
+  {
+    "id": "energydrink",
+    "word": "Energy-Drink",
+    "article": "der",
+    "plural": "Energy-Drinks",
+    "translation": "energy drink",
+    "category": "food",
+    "sentence_de": "Wir bereiten den Energy-Drink mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the energy drink with fresh ingredients."
+  },
+  {
+    "id": "adler",
+    "word": "Adler",
+    "article": "der",
+    "plural": "Adler",
+    "translation": "eagle",
+    "category": "birds",
+    "sentence_de": "Der Adler fliegt majestätisch durch die Lüfte.",
+    "sentence_en": "The eagle flies majestically through the air."
+  },
+  {
+    "id": "amsel",
+    "word": "Amsel",
+    "article": "die",
+    "plural": "Amseln",
+    "translation": "blackbird",
+    "category": "birds",
+    "sentence_de": "Die Amsel fliegt majestätisch durch die Lüfte.",
+    "sentence_en": "The blackbird flies majestically through the air."
+  },
+  {
+    "id": "spatz",
+    "word": "Spatz",
+    "article": "der",
+    "plural": "Spatzen",
+    "translation": "sparrow",
+    "category": "birds",
+    "sentence_de": "Der Spatz fliegt majestätisch durch die Lüfte.",
+    "sentence_en": "The sparrow flies majestically through the air."
+  },
+  {
+    "id": "taube",
+    "word": "Taube",
+    "article": "die",
+    "plural": "Tauben",
+    "translation": "pigeon / dove",
+    "category": "birds",
+    "sentence_de": "Die Taube fliegt majestätisch durch die Lüfte.",
+    "sentence_en": "The pigeon flies majestically through the air."
+  },
+  {
+    "id": "rabe",
+    "word": "Rabe",
+    "article": "der",
+    "plural": "Raben",
+    "translation": "raven",
+    "category": "birds",
+    "sentence_de": "Der Rabe ist ein faszinierendes Lebewesen in der Natur.",
+    "sentence_en": "The raven is a fascinating creature in nature."
+  },
+  {
+    "id": "kraehe",
+    "word": "Krähe",
+    "article": "die",
+    "plural": "Krähen",
+    "translation": "crow",
+    "category": "birds",
+    "sentence_de": "Die Krähe ist ein faszinierendes Lebewesen in der Natur.",
+    "sentence_en": "The crow is a fascinating creature in nature."
+  },
+  {
+    "id": "eule",
+    "word": "Eule",
+    "article": "die",
+    "plural": "Eulen",
+    "translation": "owl",
+    "category": "birds",
+    "sentence_de": "Die Eule fliegt majestätisch durch die Lüfte.",
+    "sentence_en": "The owl flies majestically through the air."
+  },
+  {
+    "id": "uhu",
+    "word": "Uhu",
+    "article": "der",
+    "plural": "Uhus",
+    "translation": "eagle owl",
+    "category": "birds",
+    "sentence_de": "Der Uhu ist ein faszinierendes Lebewesen in der Natur.",
+    "sentence_en": "The eagle owl is a fascinating creature in nature."
+  },
+  {
+    "id": "falke",
+    "word": "Falke",
+    "article": "der",
+    "plural": "Falken",
+    "translation": "falcon",
+    "category": "birds",
+    "sentence_de": "Der Falke fliegt majestätisch durch die Lüfte.",
+    "sentence_en": "The falcon flies majestically through the air."
+  },
+  {
+    "id": "moewe",
+    "word": "Möwe",
+    "article": "die",
+    "plural": "Möwen",
+    "translation": "seagull",
+    "category": "birds",
+    "sentence_de": "Die Möwe ist ein faszinierendes Lebewesen in der Natur.",
+    "sentence_en": "The seagull is a fascinating creature in nature."
+  },
+  {
+    "id": "schwan",
+    "word": "Schwan",
+    "article": "der",
+    "plural": "Schwäne",
+    "translation": "swan",
+    "category": "birds",
+    "sentence_de": "Der Schwan fliegt majestätisch durch die Lüfte.",
+    "sentence_en": "The swan flies majestically through the air."
+  },
+  {
+    "id": "gans",
+    "word": "Gans",
+    "article": "die",
+    "plural": "Gänse",
+    "translation": "goose",
+    "category": "birds",
+    "sentence_de": "Die Gans ist ein faszinierendes Lebewesen in der Natur.",
+    "sentence_en": "The goose is a fascinating creature in nature."
+  },
+  {
+    "id": "hahn",
+    "word": "Hahn",
+    "article": "der",
+    "plural": "Hähne",
+    "translation": "rooster",
+    "category": "birds",
+    "sentence_de": "Der Hahn ist ein faszinierendes Lebewesen in der Natur.",
+    "sentence_en": "The rooster is a fascinating creature in nature."
+  },
+  {
+    "id": "pfau",
+    "word": "Pfau",
+    "article": "der",
+    "plural": "Pfauen",
+    "translation": "peacock",
+    "category": "birds",
+    "sentence_de": "Der Pfau ist ein faszinierendes Lebewesen in der Natur.",
+    "sentence_en": "The peacock is a fascinating creature in nature."
+  },
+  {
+    "id": "pinguin",
+    "word": "Pinguin",
+    "article": "der",
+    "plural": "Pinguine",
+    "translation": "penguin",
+    "category": "birds",
+    "sentence_de": "Der Pinguin ist ein faszinierendes Lebewesen in der Natur.",
+    "sentence_en": "The penguin is a fascinating creature in nature."
+  },
+  {
+    "id": "strauss",
+    "word": "Strauß",
+    "article": "der",
+    "plural": "Strauße",
+    "translation": "ostrich",
+    "category": "birds",
+    "sentence_de": "Der Strauß ist ein faszinierendes Lebewesen in der Natur.",
+    "sentence_en": "The ostrich is a fascinating creature in nature."
+  },
+  {
+    "id": "papagei",
+    "word": "Papagei",
+    "article": "der",
+    "plural": "Papageien",
+    "translation": "parrot",
+    "category": "birds",
+    "sentence_de": "Der Papagei fliegt majestätisch durch die Lüfte.",
+    "sentence_en": "The parrot flies majestically through the air."
+  },
+  {
+    "id": "kanarienvogel",
+    "word": "Kanarienvogel",
+    "article": "der",
+    "plural": "Kanarienvögel",
+    "translation": "canary",
+    "category": "birds",
+    "sentence_de": "Der Kanarienvogel fliegt majestätisch durch die Lüfte.",
+    "sentence_en": "The canary flies majestically through the air."
+  },
+  {
+    "id": "wellensittich",
+    "word": "Wellensittich",
+    "article": "der",
+    "plural": "Wellensittiche",
+    "translation": "budgie",
+    "category": "birds",
+    "sentence_de": "Der Wellensittich ist ein faszinierendes Lebewesen in der Natur.",
+    "sentence_en": "The budgie is a fascinating creature in nature."
+  },
+  {
+    "id": "storch",
+    "word": "Storch",
+    "article": "der",
+    "plural": "Störche",
+    "translation": "stork",
+    "category": "birds",
+    "sentence_de": "Der Storch ist ein faszinierendes Lebewesen in der Natur.",
+    "sentence_en": "The stork is a fascinating creature in nature."
+  },
+  {
+    "id": "specht",
+    "word": "Specht",
+    "article": "der",
+    "plural": "Spechte",
+    "translation": "woodpecker",
+    "category": "birds",
+    "sentence_de": "Der Specht ist ein faszinierendes Lebewesen in der Natur.",
+    "sentence_en": "The woodpecker is a fascinating creature in nature."
+  },
+  {
+    "id": "elster",
+    "word": "Elster",
+    "article": "die",
+    "plural": "Elstern",
+    "translation": "magpie",
+    "category": "birds",
+    "sentence_de": "Die Elster ist ein faszinierendes Lebewesen in der Natur.",
+    "sentence_en": "The magpie is a fascinating creature in nature."
+  },
+  {
+    "id": "schwalbe",
+    "word": "Schwalbe",
+    "article": "die",
+    "plural": "Schwalben",
+    "translation": "swallow",
+    "category": "birds",
+    "sentence_de": "Die Schwalbe ist ein faszinierendes Lebewesen in der Natur.",
+    "sentence_en": "The swallow is a fascinating creature in nature."
+  },
+  {
+    "id": "nachtigall",
+    "word": "Nachtigall",
+    "article": "die",
+    "plural": "Nachtigallen",
+    "translation": "nightingale",
+    "category": "birds",
+    "sentence_de": "Die Nachtigall ist ein faszinierendes Lebewesen in der Natur.",
+    "sentence_en": "The nightingale is a fascinating creature in nature."
+  },
+  {
+    "id": "fasan",
+    "word": "Fasan",
+    "article": "der",
+    "plural": "Fasane",
+    "translation": "pheasant",
+    "category": "birds",
+    "sentence_de": "Der Fasan ist ein faszinierendes Lebewesen in der Natur.",
+    "sentence_en": "The pheasant is a fascinating creature in nature."
+  },
+  {
+    "id": "truthahn",
+    "word": "Truthahn",
+    "article": "der",
+    "plural": "Truthähne",
+    "translation": "turkey",
+    "category": "birds",
+    "sentence_de": "Der Truthahn ist ein faszinierendes Lebewesen in der Natur.",
+    "sentence_en": "The turkey is a fascinating creature in nature."
+  },
+  {
+    "id": "flamingo",
+    "word": "Flamingo",
+    "article": "der",
+    "plural": "Flamingos",
+    "translation": "flamingo",
+    "category": "birds",
+    "sentence_de": "Der Flamingo ist ein faszinierendes Lebewesen in der Natur.",
+    "sentence_en": "The flamingo is a fascinating creature in nature."
+  },
+  {
+    "id": "pelikan",
+    "word": "Pelikan",
+    "article": "der",
+    "plural": "Pelikane",
+    "translation": "pelican",
+    "category": "birds",
+    "sentence_de": "Der Pelikan ist ein faszinierendes Lebewesen in der Natur.",
+    "sentence_en": "The pelican is a fascinating creature in nature."
+  },
+  {
+    "id": "geier",
+    "word": "Geier",
+    "article": "der",
+    "plural": "Geier",
+    "translation": "vulture",
+    "category": "birds",
+    "sentence_de": "Der Geier ist ein faszinierendes Lebewesen in der Natur.",
+    "sentence_en": "The vulture is a fascinating creature in nature."
+  },
+  {
+    "id": "kuckuck",
+    "word": "Kuckuck",
+    "article": "der",
+    "plural": "Kuckucke",
+    "translation": "cuckoo",
+    "category": "birds",
+    "sentence_de": "Der Kuckuck ist ein faszinierendes Lebewesen in der Natur.",
+    "sentence_en": "The cuckoo is a fascinating creature in nature."
+  },
+  {
+    "id": "meise",
+    "word": "Meise",
+    "article": "die",
+    "plural": "Meisen",
+    "translation": "tit (bird)",
+    "category": "birds",
+    "sentence_de": "Die Meise ist ein faszinierendes Lebewesen in der Natur.",
+    "sentence_en": "The tit is a fascinating creature in nature."
+  },
+  {
+    "id": "fink",
+    "word": "Fink",
+    "article": "der",
+    "plural": "Finken",
+    "translation": "finch",
+    "category": "birds",
+    "sentence_de": "Der Fink ist ein faszinierendes Lebewesen in der Natur.",
+    "sentence_en": "The finch is a fascinating creature in nature."
+  },
+  {
+    "id": "rotkehlchen",
+    "word": "Rotkehlchen",
+    "article": "das",
+    "plural": "Rotkehlchen",
+    "translation": "robin",
+    "category": "birds",
+    "sentence_de": "Das Rotkehlchen ist ein faszinierendes Lebewesen in der Natur.",
+    "sentence_en": "The robin is a fascinating creature in nature."
+  },
+  {
+    "id": "star_vogel",
+    "word": "Star",
+    "article": "der",
+    "plural": "Stare",
+    "translation": "starling",
+    "category": "birds",
+    "sentence_de": "Der Star ist ein faszinierendes Lebewesen in der Natur.",
+    "sentence_en": "The starling is a fascinating creature in nature."
+  },
+  {
+    "id": "kranich",
+    "word": "Kranich",
+    "article": "der",
+    "plural": "Kraniche",
+    "translation": "crane (bird)",
+    "category": "birds",
+    "sentence_de": "Der Kranich ist ein faszinierendes Lebewesen in der Natur.",
+    "sentence_en": "The crane is a fascinating creature in nature."
+  },
+  {
+    "id": "reiher",
+    "word": "Reiher",
+    "article": "der",
+    "plural": "Reiher",
+    "translation": "heron",
+    "category": "birds",
+    "sentence_de": "Der Reiher ist ein faszinierendes Lebewesen in der Natur.",
+    "sentence_en": "The heron is a fascinating creature in nature."
+  },
+  {
+    "id": "kolibri",
+    "word": "Kolibri",
+    "article": "der",
+    "plural": "Kolibris",
+    "translation": "hummingbird",
+    "category": "birds",
+    "sentence_de": "Der Kolibri ist ein faszinierendes Lebewesen in der Natur.",
+    "sentence_en": "The hummingbird is a fascinating creature in nature."
+  },
+  {
+    "id": "rose",
+    "word": "Rose",
+    "article": "die",
+    "plural": "Rosen",
+    "translation": "rose",
+    "category": "flowers",
+    "sentence_de": "Die Rose ist in voller Schönheit in der Landschaft zu sehen.",
+    "sentence_en": "The rose can be seen in full beauty in the landscape."
+  },
+  {
+    "id": "tulpe",
+    "word": "Tulpe",
+    "article": "die",
+    "plural": "Tulpen",
+    "translation": "tulip",
+    "category": "flowers",
+    "sentence_de": "Die Tulpe ist in voller Schönheit in der Landschaft zu sehen.",
+    "sentence_en": "The tulip can be seen in full beauty in the landscape."
+  },
+  {
+    "id": "narzisse",
+    "word": "Narzisse",
+    "article": "die",
+    "plural": "Narzissen",
+    "translation": "daffodil",
+    "category": "flowers",
+    "sentence_de": "Die Narzisse zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The daffodil shows the impressive diversity of nature."
+  },
+  {
+    "id": "sonnenblume",
+    "word": "Sonnenblume",
+    "article": "die",
+    "plural": "Sonnenblumen",
+    "translation": "sunflower",
+    "category": "flowers",
+    "sentence_de": "Die Sonnenblume beeinflusst die Stimmung der Menschen draußen.",
+    "sentence_en": "The sunflower influences the mood of people outside."
+  },
+  {
+    "id": "gaensebluemchen",
+    "word": "Gänseblümchen",
+    "article": "das",
+    "plural": "Gänseblümchen",
+    "translation": "daisy",
+    "category": "flowers",
+    "sentence_de": "Das Gänseblümchen zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The daisy shows the impressive diversity of nature."
+  },
+  {
+    "id": "veilchen",
+    "word": "Veilchen",
+    "article": "das",
+    "plural": "Veilchen",
+    "translation": "violet",
+    "category": "flowers",
+    "sentence_de": "Das Veilchen zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The violet shows the impressive diversity of nature."
+  },
+  {
+    "id": "lilie",
+    "word": "Lilie",
+    "article": "die",
+    "plural": "Lilien",
+    "translation": "lily",
+    "category": "flowers",
+    "sentence_de": "Die Lilie zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The lily shows the impressive diversity of nature."
+  },
+  {
+    "id": "orchidee",
+    "word": "Orchidee",
+    "article": "die",
+    "plural": "Orchideen",
+    "translation": "orchid",
+    "category": "flowers",
+    "sentence_de": "Die Orchidee zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The orchid shows the impressive diversity of nature."
+  },
+  {
+    "id": "nelke",
+    "word": "Nelke",
+    "article": "die",
+    "plural": "Nelken",
+    "translation": "carnation",
+    "category": "flowers",
+    "sentence_de": "Die Nelke zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The carnation shows the impressive diversity of nature."
+  },
+  {
+    "id": "lavendel",
+    "word": "Lavendel",
+    "article": "der",
+    "plural": "",
+    "translation": "lavender",
+    "category": "flowers",
+    "sentence_de": "Der Lavendel zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The lavender shows the impressive diversity of nature."
+  },
+  {
+    "id": "mohn",
+    "word": "Mohn",
+    "article": "der",
+    "plural": "",
+    "translation": "poppy",
+    "category": "flowers",
+    "sentence_de": "Der Mohn zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The poppy shows the impressive diversity of nature."
+  },
+  {
+    "id": "kornblume",
+    "word": "Kornblume",
+    "article": "die",
+    "plural": "Kornblumen",
+    "translation": "cornflower",
+    "category": "flowers",
+    "sentence_de": "Die Kornblume ist in voller Schönheit in der Landschaft zu sehen.",
+    "sentence_en": "The cornflower can be seen in full beauty in the landscape."
+  },
+  {
+    "id": "krokus",
+    "word": "Krokus",
+    "article": "der",
+    "plural": "Krokusse",
+    "translation": "crocus",
+    "category": "flowers",
+    "sentence_de": "Der Krokus zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The crocus shows the impressive diversity of nature."
+  },
+  {
+    "id": "schneegloeckchen",
+    "word": "Schneeglöckchen",
+    "article": "das",
+    "plural": "Schneeglöckchen",
+    "translation": "snowdrop",
+    "category": "flowers",
+    "sentence_de": "Das Schneeglöckchen beeinflusst die Stimmung der Menschen draußen.",
+    "sentence_en": "The snowdrop influences the mood of people outside."
+  },
+  {
+    "id": "kamille",
+    "word": "Kamille",
+    "article": "die",
+    "plural": "",
+    "translation": "chamomile",
+    "category": "flowers",
+    "sentence_de": "Die Kamille zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The chamomile shows the impressive diversity of nature."
+  },
+  {
+    "id": "loewenzahn",
+    "word": "Löwenzahn",
+    "article": "der",
+    "plural": "Löwenzähne",
+    "translation": "dandelion",
+    "category": "flowers",
+    "sentence_de": "Der Löwenzahn zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The dandelion shows the impressive diversity of nature."
+  },
+  {
+    "id": "flieder",
+    "word": "Flieder",
+    "article": "der",
+    "plural": "",
+    "translation": "lilac (shrub)",
+    "category": "flowers",
+    "sentence_de": "Der Flieder zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The lilac shows the impressive diversity of nature."
+  },
+  {
+    "id": "jasmin",
+    "word": "Jasmin",
+    "article": "der",
+    "plural": "",
+    "translation": "jasmine",
+    "category": "flowers",
+    "sentence_de": "Der Jasmin zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The jasmine shows the impressive diversity of nature."
+  },
+  {
+    "id": "hibiskus",
+    "word": "Hibiskus",
+    "article": "der",
+    "plural": "Hibiskusse",
+    "translation": "hibiscus",
+    "category": "flowers",
+    "sentence_de": "Der Hibiskus zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The hibiscus shows the impressive diversity of nature."
+  },
+  {
+    "id": "magnolie",
+    "word": "Magnolie",
+    "article": "die",
+    "plural": "Magnolien",
+    "translation": "magnolia",
+    "category": "flowers",
+    "sentence_de": "Die Magnolie zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The magnolia shows the impressive diversity of nature."
+  },
+  {
+    "id": "geranie",
+    "word": "Geranie",
+    "article": "die",
+    "plural": "Geranien",
+    "translation": "geranium",
+    "category": "flowers",
+    "sentence_de": "Die Geranie zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The geranium shows the impressive diversity of nature."
+  },
+  {
+    "id": "tulpenzwiebel",
+    "word": "Tulpenzwiebel",
+    "article": "die",
+    "plural": "Tulpenzwiebeln",
+    "translation": "tulip bulb",
+    "category": "flowers",
+    "sentence_de": "Die Tulpenzwiebel ist in voller Schönheit in der Landschaft zu sehen.",
+    "sentence_en": "The tulip bulb can be seen in full beauty in the landscape."
+  },
+  {
+    "id": "blumenstrauss",
+    "word": "Blumenstrauß",
+    "article": "der",
+    "plural": "Blumensträuße",
+    "translation": "bouquet of flowers",
+    "category": "flowers",
+    "sentence_de": "Der Blumenstrauß ist in voller Schönheit in der Landschaft zu sehen.",
+    "sentence_en": "The bouquet of flowers can be seen in full beauty in the landscape."
+  },
+  {
+    "id": "vase",
+    "word": "Vase",
+    "article": "die",
+    "plural": "Vasen",
+    "translation": "vase",
+    "category": "home",
+    "sentence_de": "Die Vase ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The vase is a useful item in the house."
+  },
+  {
+    "id": "topfpflanze",
+    "word": "Topfpflanze",
+    "article": "die",
+    "plural": "Topfpflanzen",
+    "translation": "potted plant",
+    "category": "home",
+    "sentence_de": "Die Topfpflanze ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The potted plant is a useful item in the house."
+  },
+  {
+    "id": "kaktus",
+    "word": "Kaktus",
+    "article": "der",
+    "plural": "Kakteen",
+    "translation": "cactus",
+    "category": "nature",
+    "sentence_de": "Der Kaktus zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The cactus shows the impressive diversity of nature."
+  },
+  {
+    "id": "tanne",
+    "word": "Tanne",
+    "article": "die",
+    "plural": "Tannen",
+    "translation": "fir tree",
+    "category": "nature",
+    "sentence_de": "Die Tanne zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The fir tree shows the impressive diversity of nature."
+  },
+  {
+    "id": "fichte",
+    "word": "Fichte",
+    "article": "die",
+    "plural": "Fichten",
+    "translation": "spruce",
+    "category": "nature",
+    "sentence_de": "Die Fichte zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The spruce shows the impressive diversity of nature."
+  },
+  {
+    "id": "kiefer",
+    "word": "Kiefer",
+    "article": "die",
+    "plural": "Kiefern",
+    "translation": "pine",
+    "category": "nature",
+    "sentence_de": "Die Kiefer zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The pine shows the impressive diversity of nature."
+  },
+  {
+    "id": "eiche",
+    "word": "Eiche",
+    "article": "die",
+    "plural": "Eichen",
+    "translation": "oak",
+    "category": "nature",
+    "sentence_de": "Die Eiche zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The oak shows the impressive diversity of nature."
+  },
+  {
+    "id": "buche",
+    "word": "Buche",
+    "article": "die",
+    "plural": "Buchen",
+    "translation": "beech",
+    "category": "nature",
+    "sentence_de": "Die Buche zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The beech shows the impressive diversity of nature."
+  },
+  {
+    "id": "birke",
+    "word": "Birke",
+    "article": "die",
+    "plural": "Birken",
+    "translation": "birch",
+    "category": "nature",
+    "sentence_de": "Die Birke zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The birch shows the impressive diversity of nature."
+  },
+  {
+    "id": "ahorn",
+    "word": "Ahorn",
+    "article": "der",
+    "plural": "Ahorne",
+    "translation": "maple",
+    "category": "nature",
+    "sentence_de": "Der Ahorn zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The maple shows the impressive diversity of nature."
+  },
+  {
+    "id": "weide",
+    "word": "Weide",
+    "article": "die",
+    "plural": "Weiden",
+    "translation": "willow / pasture",
+    "category": "nature",
+    "sentence_de": "Die Weide zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The willow shows the impressive diversity of nature."
+  },
+  {
+    "id": "kastanie",
+    "word": "Kastanie",
+    "article": "die",
+    "plural": "Kastanien",
+    "translation": "chestnut",
+    "category": "nature",
+    "sentence_de": "Die Kastanie zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The chestnut shows the impressive diversity of nature."
+  },
+  {
+    "id": "nussbaum",
+    "word": "Nussbaum",
+    "article": "der",
+    "plural": "Nussbäume",
+    "translation": "walnut tree",
+    "category": "nature",
+    "sentence_de": "Der Nussbaum ist in voller Schönheit in der Landschaft zu sehen.",
+    "sentence_en": "The walnut tree can be seen in full beauty in the landscape."
+  },
+  {
+    "id": "apfelbaum",
+    "word": "Apfelbaum",
+    "article": "der",
+    "plural": "Apfelbäume",
+    "translation": "apple tree",
+    "category": "nature",
+    "sentence_de": "Der Apfelbaum ist in voller Schönheit in der Landschaft zu sehen.",
+    "sentence_en": "The apple tree can be seen in full beauty in the landscape."
+  },
+  {
+    "id": "kirschbaum",
+    "word": "Kirschbaum",
+    "article": "der",
+    "plural": "Kirschbäume",
+    "translation": "cherry tree",
+    "category": "nature",
+    "sentence_de": "Der Kirschbaum ist in voller Schönheit in der Landschaft zu sehen.",
+    "sentence_en": "The cherry tree can be seen in full beauty in the landscape."
+  },
+  {
+    "id": "wurzel",
+    "word": "Wurzel",
+    "article": "die",
+    "plural": "Wurzeln",
+    "translation": "root",
+    "category": "nature",
+    "sentence_de": "Die Wurzel zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The root shows the impressive diversity of nature."
+  },
+  {
+    "id": "ast",
+    "word": "Ast",
+    "article": "der",
+    "plural": "Äste",
+    "translation": "branch",
+    "category": "nature",
+    "sentence_de": "Der Ast zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The branch shows the impressive diversity of nature."
+  },
+  {
+    "id": "zweig",
+    "word": "Zweig",
+    "article": "der",
+    "plural": "Zweige",
+    "translation": "twig",
+    "category": "nature",
+    "sentence_de": "Der Zweig zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The twig shows the impressive diversity of nature."
+  },
+  {
+    "id": "rinde",
+    "word": "Rinde",
+    "article": "die",
+    "plural": "",
+    "translation": "bark",
+    "category": "nature",
+    "sentence_de": "Die Rinde zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The bark shows the impressive diversity of nature."
+  },
+  {
+    "id": "samen",
+    "word": "Samen",
+    "article": "der",
+    "plural": "Samen",
+    "translation": "seed",
+    "category": "nature",
+    "sentence_de": "Der Samen zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The seed shows the impressive diversity of nature."
+  },
+  {
+    "id": "knospe",
+    "word": "Knospe",
+    "article": "die",
+    "plural": "Knospen",
+    "translation": "bud",
+    "category": "nature",
+    "sentence_de": "Die Knospe zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The bud shows the impressive diversity of nature."
+  },
+  {
+    "id": "bluete",
+    "word": "Blüte",
+    "article": "die",
+    "plural": "Blüten",
+    "translation": "blossom",
+    "category": "nature",
+    "sentence_de": "Die Blüte zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The blossom shows the impressive diversity of nature."
+  },
+  {
+    "id": "frucht",
+    "word": "Frucht",
+    "article": "die",
+    "plural": "Früchte",
+    "translation": "fruit (botanical)",
+    "category": "nature",
+    "sentence_de": "Die Frucht zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The fruit shows the impressive diversity of nature."
+  },
+  {
+    "id": "feld",
+    "word": "Feld",
+    "article": "das",
+    "plural": "Felder",
+    "translation": "field",
+    "category": "nature",
+    "sentence_de": "Das Feld zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The field shows the impressive diversity of nature."
+  },
+  {
+    "id": "acker",
+    "word": "Acker",
+    "article": "der",
+    "plural": "Äcker",
+    "translation": "farmland",
+    "category": "nature",
+    "sentence_de": "Der Acker zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The farmland shows the impressive diversity of nature."
+  },
+  {
+    "id": "hof",
+    "word": "Hof",
+    "article": "der",
+    "plural": "Höfe",
+    "translation": "yard / farm / court",
+    "category": "nature",
+    "sentence_de": "Der Hof zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The yard shows the impressive diversity of nature."
+  },
+  {
+    "id": "bauernhof",
+    "word": "Bauernhof",
+    "article": "der",
+    "plural": "Bauernhöfe",
+    "translation": "farm",
+    "category": "nature",
+    "sentence_de": "Der Bauernhof zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The farm shows the impressive diversity of nature."
+  },
+  {
+    "id": "scheune",
+    "word": "Scheune",
+    "article": "die",
+    "plural": "Scheunen",
+    "translation": "barn",
+    "category": "nature",
+    "sentence_de": "Die Scheune zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The barn shows the impressive diversity of nature."
+  },
+  {
+    "id": "stall",
+    "word": "Stall",
+    "article": "der",
+    "plural": "Ställe",
+    "translation": "stable / stall",
+    "category": "nature",
+    "sentence_de": "Der Stall zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The stable shows the impressive diversity of nature."
+  },
+  {
+    "id": "zaun",
+    "word": "Zaun",
+    "article": "der",
+    "plural": "Zäune",
+    "translation": "fence",
+    "category": "nature",
+    "sentence_de": "Der Zaun zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The fence shows the impressive diversity of nature."
+  },
+  {
+    "id": "hecke",
+    "word": "Hecke",
+    "article": "die",
+    "plural": "Hecken",
+    "translation": "hedge",
+    "category": "nature",
+    "sentence_de": "Die Hecke zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The hedge shows the impressive diversity of nature."
+  },
+  {
+    "id": "pfad",
+    "word": "Pfad",
+    "article": "der",
+    "plural": "Pfade",
+    "translation": "path",
+    "category": "nature",
+    "sentence_de": "Der Pfad zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The path shows the impressive diversity of nature."
+  },
+  {
+    "id": "quelle",
+    "word": "Quelle",
+    "article": "die",
+    "plural": "Quellen",
+    "translation": "spring / source",
+    "category": "nature",
+    "sentence_de": "Die Quelle zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The spring shows the impressive diversity of nature."
+  },
+  {
+    "id": "bach",
+    "word": "Bach",
+    "article": "der",
+    "plural": "Bäche",
+    "translation": "brook",
+    "category": "nature",
+    "sentence_de": "Der Bach zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The brook shows the impressive diversity of nature."
+  },
+  {
+    "id": "teich",
+    "word": "Teich",
+    "article": "der",
+    "plural": "Teiche",
+    "translation": "pond",
+    "category": "nature",
+    "sentence_de": "Der Teich zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The pond shows the impressive diversity of nature."
+  },
+  {
+    "id": "wasserfall",
+    "word": "Wasserfall",
+    "article": "der",
+    "plural": "Wasserfälle",
+    "translation": "waterfall",
+    "category": "nature",
+    "sentence_de": "Der Wasserfall zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The waterfall shows the impressive diversity of nature."
+  },
+  {
+    "id": "kueste",
+    "word": "Küste",
+    "article": "die",
+    "plural": "Küsten",
+    "translation": "coast",
+    "category": "nature",
+    "sentence_de": "Die Küste zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The coast shows the impressive diversity of nature."
+  },
+  {
+    "id": "strand",
+    "word": "Strand",
+    "article": "der",
+    "plural": "Strände",
+    "translation": "beach",
+    "category": "nature",
+    "sentence_de": "Der Strand ist in voller Schönheit in der Landschaft zu sehen.",
+    "sentence_en": "The beach can be seen in full beauty in the landscape."
+  },
+  {
+    "id": "düne",
+    "word": "Düne",
+    "article": "die",
+    "plural": "Dünen",
+    "translation": "dune",
+    "category": "nature",
+    "sentence_de": "Die Düne zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The dune shows the impressive diversity of nature."
+  },
+  {
+    "id": "halbinsel",
+    "word": "Halbinsel",
+    "article": "die",
+    "plural": "Halbinseln",
+    "translation": "peninsula",
+    "category": "nature",
+    "sentence_de": "Die Halbinsel zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The peninsula shows the impressive diversity of nature."
+  },
+  {
+    "id": "bucht",
+    "word": "Bucht",
+    "article": "die",
+    "plural": "Buchten",
+    "translation": "bay",
+    "category": "nature",
+    "sentence_de": "Die Bucht zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The bay shows the impressive diversity of nature."
+  },
+  {
+    "id": "hafen",
+    "word": "Hafen",
+    "article": "der",
+    "plural": "Häfen",
+    "translation": "harbor",
+    "category": "transport",
+    "sentence_de": "Wir erreichen den Hafen nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the harbor after a short ride."
+  },
+  {
+    "id": "kanal",
+    "word": "Kanal",
+    "article": "der",
+    "plural": "Kanäle",
+    "translation": "canal / channel",
+    "category": "nature",
+    "sentence_de": "Der Kanal zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The canal shows the impressive diversity of nature."
+  },
+  {
+    "id": "tal",
+    "word": "Tal",
+    "article": "das",
+    "plural": "Täler",
+    "translation": "valley",
+    "category": "nature",
+    "sentence_de": "Das Tal zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The valley shows the impressive diversity of nature."
+  },
+  {
+    "id": "huegel",
+    "word": "Hügel",
+    "article": "der",
+    "plural": "Hügel",
+    "translation": "hill",
+    "category": "nature",
+    "sentence_de": "Der Hügel zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The hill shows the impressive diversity of nature."
+  },
+  {
+    "id": "gipfel",
+    "word": "Gipfel",
+    "article": "der",
+    "plural": "Gipfel",
+    "translation": "summit",
+    "category": "nature",
+    "sentence_de": "Der Gipfel zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The summit shows the impressive diversity of nature."
+  },
+  {
+    "id": "felsen",
+    "word": "Felsen",
+    "article": "der",
+    "plural": "Felsen",
+    "translation": "cliff / rock",
+    "category": "nature",
+    "sentence_de": "Der Felsen zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The cliff shows the impressive diversity of nature."
+  },
+  {
+    "id": "hoehle",
+    "word": "Höhle",
+    "article": "die",
+    "plural": "Höhlen",
+    "translation": "cave",
+    "category": "nature",
+    "sentence_de": "Die Höhle zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The cave shows the impressive diversity of nature."
+  },
+  {
+    "id": "wueste",
+    "word": "Wüste",
+    "article": "die",
+    "plural": "Wüsten",
+    "translation": "desert",
+    "category": "nature",
+    "sentence_de": "Die Wüste zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The desert shows the impressive diversity of nature."
+  },
+  {
+    "id": "dschungel",
+    "word": "Dschungel",
+    "article": "der",
+    "plural": "Dschungel",
+    "translation": "jungle",
+    "category": "nature",
+    "sentence_de": "Der Dschungel zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The jungle shows the impressive diversity of nature."
+  },
+  {
+    "id": "steppe",
+    "word": "Steppe",
+    "article": "die",
+    "plural": "Steppen",
+    "translation": "steppe",
+    "category": "nature",
+    "sentence_de": "Die Steppe zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The steppe shows the impressive diversity of nature."
+  },
+  {
+    "id": "savanne",
+    "word": "Savanne",
+    "article": "die",
+    "plural": "Savannen",
+    "translation": "savanna",
+    "category": "nature",
+    "sentence_de": "Die Savanne zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The savanna shows the impressive diversity of nature."
+  },
+  {
+    "id": "vulkan",
+    "word": "Vulkan",
+    "article": "der",
+    "plural": "Vulkane",
+    "translation": "volcano",
+    "category": "nature",
+    "sentence_de": "Der Vulkan zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The volcano shows the impressive diversity of nature."
+  },
+  {
+    "id": "erdbeben",
+    "word": "Erdbeben",
+    "article": "das",
+    "plural": "Erdbeben",
+    "translation": "earthquake",
+    "category": "nature",
+    "sentence_de": "Das Erdbeben zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The earthquake shows the impressive diversity of nature."
+  },
+  {
+    "id": "sturm",
+    "word": "Sturm",
+    "article": "der",
+    "plural": "Stürme",
+    "translation": "storm",
+    "category": "weather",
+    "sentence_de": "Der Sturm beeinflusst die Stimmung der Menschen draußen.",
+    "sentence_en": "The storm influences the mood of people outside."
+  },
+  {
+    "id": "gewitter",
+    "word": "Gewitter",
+    "article": "das",
+    "plural": "Gewitter",
+    "translation": "thunderstorm",
+    "category": "weather",
+    "sentence_de": "Das Gewitter beeinflusst die Stimmung der Menschen draußen.",
+    "sentence_en": "The thunderstorm influences the mood of people outside."
+  },
+  {
+    "id": "hagel",
+    "word": "Hagel",
+    "article": "der",
+    "plural": "",
+    "translation": "hail",
+    "category": "weather",
+    "sentence_de": "Der Hagel zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The hail shows the impressive diversity of nature."
+  },
+  {
+    "id": "frost",
+    "word": "Frost",
+    "article": "der",
+    "plural": "Fröste",
+    "translation": "frost",
+    "category": "weather",
+    "sentence_de": "Der Frost zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The frost shows the impressive diversity of nature."
+  },
+  {
+    "id": "eis_wetter",
+    "word": "Glatteis",
+    "article": "das",
+    "plural": "",
+    "translation": "black ice",
+    "category": "weather",
+    "sentence_de": "Das Glatteis zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The black ice shows the impressive diversity of nature."
+  },
+  {
+    "id": "tauwetter",
+    "word": "Tauwetter",
+    "article": "das",
+    "plural": "",
+    "translation": "thaw",
+    "category": "weather",
+    "sentence_de": "Das Tauwetter beeinflusst die Stimmung der Menschen draußen.",
+    "sentence_en": "The thaw influences the mood of people outside."
+  },
+  {
+    "id": "kaelte",
+    "word": "Kälte",
+    "article": "die",
+    "plural": "",
+    "translation": "cold",
+    "category": "weather",
+    "sentence_de": "Die Kälte zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The cold shows the impressive diversity of nature."
+  },
+  {
+    "id": "waerme",
+    "word": "Wärme",
+    "article": "die",
+    "plural": "",
+    "translation": "warmth",
+    "category": "weather",
+    "sentence_de": "Die Wärme zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The warmth shows the impressive diversity of nature."
+  },
+  {
+    "id": "sonnenschein",
+    "word": "Sonnenschein",
+    "article": "der",
+    "plural": "",
+    "translation": "sunshine",
+    "category": "weather",
+    "sentence_de": "Der Sonnenschein beeinflusst die Stimmung der Menschen draußen.",
+    "sentence_en": "The sunshine influences the mood of people outside."
+  },
+  {
+    "id": "regenschauer",
+    "word": "Regenschauer",
+    "article": "der",
+    "plural": "Regenschauer",
+    "translation": "rain shower",
+    "category": "weather",
+    "sentence_de": "Der Regenschauer beeinflusst die Stimmung der Menschen draußen.",
+    "sentence_en": "The rain shower influences the mood of people outside."
+  },
+  {
+    "id": "regenbogen",
+    "word": "Regenbogen",
+    "article": "der",
+    "plural": "Regenbögen",
+    "translation": "rainbow",
+    "category": "weather",
+    "sentence_de": "Der Regenbogen beeinflusst die Stimmung der Menschen draußen.",
+    "sentence_en": "The rainbow influences the mood of people outside."
+  },
+  {
+    "id": "wolkenbruch",
+    "word": "Wolkenbruch",
+    "article": "der",
+    "plural": "Wolkenbrüche",
+    "translation": "cloudburst",
+    "category": "weather",
+    "sentence_de": "Der Wolkenbruch beeinflusst die Stimmung der Menschen draußen.",
+    "sentence_en": "The cloudburst influences the mood of people outside."
+  },
+  {
+    "id": "duerre",
+    "word": "Dürre",
+    "article": "die",
+    "plural": "Dürren",
+    "translation": "drought",
+    "category": "weather",
+    "sentence_de": "Die Dürre zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The drought shows the impressive diversity of nature."
+  },
+  {
+    "id": "ueberschwemmung",
+    "word": "Überschwemmung",
+    "article": "die",
+    "plural": "Überschwemmungen",
+    "translation": "flood",
+    "category": "weather",
+    "sentence_de": "Die Überschwemmung zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The flood shows the impressive diversity of nature."
+  },
+  {
+    "id": "klima",
+    "word": "Klima",
+    "article": "das",
+    "plural": "Klimata",
+    "translation": "climate",
+    "category": "weather",
+    "sentence_de": "Das Klima beeinflusst die Stimmung der Menschen draußen.",
+    "sentence_en": "The climate influences the mood of people outside."
+  },
+  {
+    "id": "wetterbericht",
+    "word": "Wetterbericht",
+    "article": "der",
+    "plural": "Wetterberichte",
+    "translation": "weather report",
+    "category": "weather",
+    "sentence_de": "Der Wetterbericht beeinflusst die Stimmung der Menschen draußen.",
+    "sentence_en": "The weather report influences the mood of people outside."
+  },
+  {
+    "id": "thermometer",
+    "word": "Thermometer",
+    "article": "das",
+    "plural": "Thermometer",
+    "translation": "thermometer",
+    "category": "weather",
+    "sentence_de": "Das Thermometer zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The thermometer shows the impressive diversity of nature."
+  },
+  {
+    "id": "sonnenschirm",
+    "word": "Sonnenschirm",
+    "article": "der",
+    "plural": "Sonnenschirme",
+    "translation": "parasol",
+    "category": "clothing",
+    "sentence_de": "Sie trägt den Sonnenschirm gern zu besonderen Anlässen.",
+    "sentence_en": "She likes to wear the parasol on special occasions."
+  },
+  {
+    "id": "sonnenhut",
+    "word": "Sonnenhut",
+    "article": "der",
+    "plural": "Sonnenhüte",
+    "translation": "sun hat",
+    "category": "clothing",
+    "sentence_de": "Der Sonnenhut ist bequem und sieht modisch aus.",
+    "sentence_en": "The sun hat is comfortable and looks fashionable."
+  },
+  {
+    "id": "badeanzug",
+    "word": "Badeanzug",
+    "article": "der",
+    "plural": "Badeanzüge",
+    "translation": "swimsuit",
+    "category": "clothing",
+    "sentence_de": "Der Badeanzug ist bequem und sieht modisch aus.",
+    "sentence_en": "The swimsuit is comfortable and looks fashionable."
+  },
+  {
+    "id": "badehose",
+    "word": "Badehose",
+    "article": "die",
+    "plural": "Badehosen",
+    "translation": "swim trunks",
+    "category": "clothing",
+    "sentence_de": "Die Badehose ist bequem und sieht modisch aus.",
+    "sentence_en": "The swim trunks is comfortable and looks fashionable."
+  },
+  {
+    "id": "bikini",
+    "word": "Bikini",
+    "article": "der",
+    "plural": "Bikinis",
+    "translation": "bikini",
+    "category": "clothing",
+    "sentence_de": "Sie trägt den Bikini gern zu besonderen Anlässen.",
+    "sentence_en": "She likes to wear the bikini on special occasions."
+  },
+  {
+    "id": "pyjama",
+    "word": "Pyjama",
+    "article": "der",
+    "plural": "Pyjamas",
+    "translation": "pajamas",
+    "category": "clothing",
+    "sentence_de": "Sie trägt den Pyjama gern zu besonderen Anlässen.",
+    "sentence_en": "She likes to wear the pajamas on special occasions."
+  },
+  {
+    "id": "nachthemd",
+    "word": "Nachthemd",
+    "article": "das",
+    "plural": "Nachthemden",
+    "translation": "nightdress",
+    "category": "clothing",
+    "sentence_de": "Das Nachthemd ist bequem und sieht modisch aus.",
+    "sentence_en": "The nightdress is comfortable and looks fashionable."
+  },
+  {
+    "id": "bademantel",
+    "word": "Bademantel",
+    "article": "der",
+    "plural": "Bademäntel",
+    "translation": "bathrobe",
+    "category": "clothing",
+    "sentence_de": "Der Bademantel ist bequem und sieht modisch aus.",
+    "sentence_en": "The bathrobe is comfortable and looks fashionable."
+  },
+  {
+    "id": "unterhemd",
+    "word": "Unterhemd",
+    "article": "das",
+    "plural": "Unterhemden",
+    "translation": "undershirt",
+    "category": "clothing",
+    "sentence_de": "Das Unterhemd ist bequem und sieht modisch aus.",
+    "sentence_en": "The undershirt is comfortable and looks fashionable."
+  },
+  {
+    "id": "unterhose",
+    "word": "Unterhose",
+    "article": "die",
+    "plural": "Unterhosen",
+    "translation": "underwear",
+    "category": "clothing",
+    "sentence_de": "Die Unterhose ist bequem und sieht modisch aus.",
+    "sentence_en": "The underwear is comfortable and looks fashionable."
+  },
+  {
+    "id": "bh",
+    "word": "BH",
+    "article": "der",
+    "plural": "BHs",
+    "translation": "bra",
+    "category": "clothing",
+    "sentence_de": "Sie trägt den BH gern zu besonderen Anlässen.",
+    "sentence_en": "She likes to wear the bra on special occasions."
+  },
+  {
+    "id": "strumpf",
+    "word": "Strumpf",
+    "article": "der",
+    "plural": "Strümpfe",
+    "translation": "stocking",
+    "category": "clothing",
+    "sentence_de": "Sie trägt den Strumpf gern zu besonderen Anlässen.",
+    "sentence_en": "She likes to wear the stocking on special occasions."
+  },
+  {
+    "id": "strumpfhose",
+    "word": "Strumpfhose",
+    "article": "die",
+    "plural": "Strumpfhosen",
+    "translation": "tights",
+    "category": "clothing",
+    "sentence_de": "Die Strumpfhose ist bequem und sieht modisch aus.",
+    "sentence_en": "The tights is comfortable and looks fashionable."
+  },
+  {
+    "id": "krawatte",
+    "word": "Krawatte",
+    "article": "die",
+    "plural": "Krawatten",
+    "translation": "necktie",
+    "category": "clothing",
+    "sentence_de": "Sie trägt die Krawatte gern zu besonderen Anlässen.",
+    "sentence_en": "She likes to wear the necktie on special occasions."
+  },
+  {
+    "id": "fliege_kleidung",
+    "word": "Fliege",
+    "article": "die",
+    "plural": "Fliegen",
+    "translation": "bow tie",
+    "category": "clothing",
+    "sentence_de": "Sie trägt die Fliege gern zu besonderen Anlässen.",
+    "sentence_en": "She likes to wear the bow tie on special occasions."
+  },
+  {
+    "id": "weste",
+    "word": "Weste",
+    "article": "die",
+    "plural": "Westen",
+    "translation": "vest",
+    "category": "clothing",
+    "sentence_de": "Sie trägt die Weste gern zu besonderen Anlässen.",
+    "sentence_en": "She likes to wear the vest on special occasions."
+  },
+  {
+    "id": "bluse",
+    "word": "Bluse",
+    "article": "die",
+    "plural": "Blusen",
+    "translation": "blouse",
+    "category": "clothing",
+    "sentence_de": "Sie trägt die Bluse gern zu besonderen Anlässen.",
+    "sentence_en": "She likes to wear the blouse on special occasions."
+  },
+  {
+    "id": "pulli",
+    "word": "Pulli",
+    "article": "der",
+    "plural": "Pullis",
+    "translation": "sweater (casual)",
+    "category": "clothing",
+    "sentence_de": "Sie trägt den Pulli gern zu besonderen Anlässen.",
+    "sentence_en": "She likes to wear the sweater on special occasions."
+  },
+  {
+    "id": "hoodie",
+    "word": "Hoodie",
+    "article": "der",
+    "plural": "Hoodies",
+    "translation": "hoodie",
+    "category": "clothing",
+    "sentence_de": "Sie trägt den Hoodie gern zu besonderen Anlässen.",
+    "sentence_en": "She likes to wear the hoodie on special occasions."
+  },
+  {
+    "id": "jeans",
+    "word": "Jeans",
+    "article": "die",
+    "plural": "Jeans",
+    "translation": "jeans",
+    "category": "clothing",
+    "sentence_de": "Sie trägt die Jeans gern zu besonderen Anlässen.",
+    "sentence_en": "She likes to wear the jeans on special occasions."
+  },
+  {
+    "id": "shorts",
+    "word": "Shorts",
+    "article": "die",
+    "plural": "Shorts",
+    "translation": "shorts",
+    "category": "clothing",
+    "sentence_de": "Sie trägt die Shorts gern zu besonderen Anlässen.",
+    "sentence_en": "She likes to wear the shorts on special occasions."
+  },
+  {
+    "id": "legging",
+    "word": "Leggings",
+    "article": "die",
+    "plural": "Leggings",
+    "translation": "leggings",
+    "category": "clothing",
+    "sentence_de": "Sie trägt die Leggings gern zu besonderen Anlässen.",
+    "sentence_en": "She likes to wear the leggings on special occasions."
+  },
+  {
+    "id": "overall",
+    "word": "Overall",
+    "article": "der",
+    "plural": "Overalls",
+    "translation": "overalls",
+    "category": "clothing",
+    "sentence_de": "Sie trägt den Overall gern zu besonderen Anlässen.",
+    "sentence_en": "She likes to wear the overalls on special occasions."
+  },
+  {
+    "id": "tracht",
+    "word": "Tracht",
+    "article": "die",
+    "plural": "Trachten",
+    "translation": "traditional costume",
+    "category": "clothing",
+    "sentence_de": "Sie trägt die Tracht gern zu besonderen Anlässen.",
+    "sentence_en": "She likes to wear the traditional costume on special occasions."
+  },
+  {
+    "id": "dirndl",
+    "word": "Dirndl",
+    "article": "das",
+    "plural": "Dirndl",
+    "translation": "dirndl",
+    "category": "clothing",
+    "sentence_de": "Sie trägt das Dirndl gern zu besonderen Anlässen.",
+    "sentence_en": "She likes to wear the dirndl on special occasions."
+  },
+  {
+    "id": "lederhose",
+    "word": "Lederhose",
+    "article": "die",
+    "plural": "Lederhosen",
+    "translation": "leather shorts",
+    "category": "clothing",
+    "sentence_de": "Die Lederhose ist bequem und sieht modisch aus.",
+    "sentence_en": "The leather shorts is comfortable and looks fashionable."
+  },
+  {
+    "id": "handtasche",
+    "word": "Handtasche",
+    "article": "die",
+    "plural": "Handtaschen",
+    "translation": "handbag",
+    "category": "clothing",
+    "sentence_de": "Sie trägt die Handtasche gern zu besonderen Anlässen.",
+    "sentence_en": "She likes to wear the handbag on special occasions."
+  },
+  {
+    "id": "geldbörse",
+    "word": "Geldbörse",
+    "article": "die",
+    "plural": "Geldbörsen",
+    "translation": "wallet",
+    "category": "clothing",
+    "sentence_de": "Sie trägt die Geldbörse gern zu besonderen Anlässen.",
+    "sentence_en": "She likes to wear the wallet on special occasions."
+  },
+  {
+    "id": "geldbeutel",
+    "word": "Geldbeutel",
+    "article": "der",
+    "plural": "Geldbeutel",
+    "translation": "wallet / purse",
+    "category": "clothing",
+    "sentence_de": "Sie trägt den Geldbeutel gern zu besonderen Anlässen.",
+    "sentence_en": "She likes to wear the wallet on special occasions."
+  },
+  {
+    "id": "portemonnaie",
+    "word": "Portemonnaie",
+    "article": "das",
+    "plural": "Portemonnaies",
+    "translation": "wallet",
+    "category": "clothing",
+    "sentence_de": "Sie trägt das Portemonnaie gern zu besonderen Anlässen.",
+    "sentence_en": "She likes to wear the wallet on special occasions."
+  },
+  {
+    "id": "schmuck",
+    "word": "Schmuck",
+    "article": "der",
+    "plural": "",
+    "translation": "jewelry",
+    "category": "clothing",
+    "sentence_de": "Sie trägt den Schmuck gern zu besonderen Anlässen.",
+    "sentence_en": "She likes to wear the jewelry on special occasions."
+  },
+  {
+    "id": "kette",
+    "word": "Kette",
+    "article": "die",
+    "plural": "Ketten",
+    "translation": "necklace / chain",
+    "category": "clothing",
+    "sentence_de": "Sie trägt die Kette gern zu besonderen Anlässen.",
+    "sentence_en": "She likes to wear the necklace on special occasions."
+  },
+  {
+    "id": "ring",
+    "word": "Ring",
+    "article": "der",
+    "plural": "Ringe",
+    "translation": "ring",
+    "category": "clothing",
+    "sentence_de": "Sie trägt den Ring gern zu besonderen Anlässen.",
+    "sentence_en": "She likes to wear the ring on special occasions."
+  },
+  {
+    "id": "ohrring",
+    "word": "Ohrring",
+    "article": "der",
+    "plural": "Ohrringe",
+    "translation": "earring",
+    "category": "clothing",
+    "sentence_de": "Sie trägt den Ohrring gern zu besonderen Anlässen.",
+    "sentence_en": "She likes to wear the earring on special occasions."
+  },
+  {
+    "id": "armband",
+    "word": "Armband",
+    "article": "das",
+    "plural": "Armbänder",
+    "translation": "bracelet",
+    "category": "clothing",
+    "sentence_de": "Sie trägt das Armband gern zu besonderen Anlässen.",
+    "sentence_en": "She likes to wear the bracelet on special occasions."
+  },
+  {
+    "id": "handgelenk",
+    "word": "Handgelenk",
+    "article": "das",
+    "plural": "Handgelenke",
+    "translation": "wrist",
+    "category": "body",
+    "sentence_de": "Das Handgelenk ist ein wesentlicher Teil des menschlichen Körpers.",
+    "sentence_en": "The wrist is an essential part of the human body."
+  },
+  {
+    "id": "fussgelenk",
+    "word": "Fußgelenk",
+    "article": "das",
+    "plural": "Fußgelenke",
+    "translation": "ankle",
+    "category": "body",
+    "sentence_de": "Gute Pflege für das Fußgelenk ist wichtig für das Wohlbefinden.",
+    "sentence_en": "Good care for the ankle is important for well-being."
+  },
+  {
+    "id": "knie",
+    "word": "Knie",
+    "article": "das",
+    "plural": "Knie",
+    "translation": "knee",
+    "category": "body",
+    "sentence_de": "Gute Pflege für das Knie ist wichtig für das Wohlbefinden.",
+    "sentence_en": "Good care for the knee is important for well-being."
+  },
+  {
+    "id": "ellenbogen",
+    "word": "Ellenbogen",
+    "article": "der",
+    "plural": "Ellenbogen",
+    "translation": "elbow",
+    "category": "body",
+    "sentence_de": "Gute Pflege für den Ellenbogen ist wichtig für das Wohlbefinden.",
+    "sentence_en": "Good care for the elbow is important for well-being."
+  },
+  {
+    "id": "daumen",
+    "word": "Daumen",
+    "article": "der",
+    "plural": "Daumen",
+    "translation": "thumb",
+    "category": "body",
+    "sentence_de": "Gute Pflege für den Daumen ist wichtig für das Wohlbefinden.",
+    "sentence_en": "Good care for the thumb is important for well-being."
+  },
+  {
+    "id": "zeh",
+    "word": "Zeh",
+    "article": "der",
+    "plural": "Zehen",
+    "translation": "toe",
+    "category": "body",
+    "sentence_de": "Gute Pflege für den Zeh ist wichtig für das Wohlbefinden.",
+    "sentence_en": "Good care for the toe is important for well-being."
+  },
+  {
+    "id": "nagel",
+    "word": "Nagel",
+    "article": "der",
+    "plural": "Nägel",
+    "translation": "nail",
+    "category": "body",
+    "sentence_de": "Gute Pflege für den Nagel ist wichtig für das Wohlbefinden.",
+    "sentence_en": "Good care for the nail is important for well-being."
+  },
+  {
+    "id": "haut",
+    "word": "Haut",
+    "article": "die",
+    "plural": "",
+    "translation": "skin",
+    "category": "body",
+    "sentence_de": "Gute Pflege für die Haut ist wichtig für das Wohlbefinden.",
+    "sentence_en": "Good care for the skin is important for well-being."
+  },
+  {
+    "id": "knochen",
+    "word": "Knochen",
+    "article": "der",
+    "plural": "Knochen",
+    "translation": "bone",
+    "category": "body",
+    "sentence_de": "Gute Pflege für den Knochen ist wichtig für das Wohlbefinden.",
+    "sentence_en": "Good care for the bone is important for well-being."
+  },
+  {
+    "id": "muskel",
+    "word": "Muskel",
+    "article": "der",
+    "plural": "Muskeln",
+    "translation": "muscle",
+    "category": "body",
+    "sentence_de": "Gute Pflege für den Muskel ist wichtig für das Wohlbefinden.",
+    "sentence_en": "Good care for the muscle is important for well-being."
+  },
+  {
+    "id": "blut",
+    "word": "Blut",
+    "article": "das",
+    "plural": "",
+    "translation": "blood",
+    "category": "body",
+    "sentence_de": "Gute Pflege für das Blut ist wichtig für das Wohlbefinden.",
+    "sentence_en": "Good care for the blood is important for well-being."
+  },
+  {
+    "id": "hirn",
+    "word": "Hirn",
+    "article": "das",
+    "plural": "Hirne",
+    "translation": "brain (colloquial)",
+    "category": "body",
+    "sentence_de": "Gute Pflege für das Hirn ist wichtig für das Wohlbefinden.",
+    "sentence_en": "Good care for the brain is important for well-being."
+  },
+  {
+    "id": "gehirn",
+    "word": "Gehirn",
+    "article": "das",
+    "plural": "Gehirne",
+    "translation": "brain",
+    "category": "body",
+    "sentence_de": "Gute Pflege für das Gehirn ist wichtig für das Wohlbefinden.",
+    "sentence_en": "Good care for the brain is important for well-being."
+  },
+  {
+    "id": "lunge",
+    "word": "Lunge",
+    "article": "die",
+    "plural": "Lungen",
+    "translation": "lung",
+    "category": "body",
+    "sentence_de": "Gute Pflege für die Lunge ist wichtig für das Wohlbefinden.",
+    "sentence_en": "Good care for the lung is important for well-being."
+  },
+  {
+    "id": "leber",
+    "word": "Leber",
+    "article": "die",
+    "plural": "Lebern",
+    "translation": "liver",
+    "category": "body",
+    "sentence_de": "Gute Pflege für die Leber ist wichtig für das Wohlbefinden.",
+    "sentence_en": "Good care for the liver is important for well-being."
+  },
+  {
+    "id": "niere",
+    "word": "Niere",
+    "article": "die",
+    "plural": "Nieren",
+    "translation": "kidney",
+    "category": "body",
+    "sentence_de": "Gute Pflege für die Niere ist wichtig für das Wohlbefinden.",
+    "sentence_en": "Good care for the kidney is important for well-being."
+  },
+  {
+    "id": "magen",
+    "word": "Magen",
+    "article": "der",
+    "plural": "Mägen",
+    "translation": "stomach",
+    "category": "body",
+    "sentence_de": "Der Magen ist ein wesentlicher Teil des menschlichen Körpers.",
+    "sentence_en": "The stomach is an essential part of the human body."
+  },
+  {
+    "id": "darm",
+    "word": "Darm",
+    "article": "der",
+    "plural": "Därme",
+    "translation": "intestine",
+    "category": "body",
+    "sentence_de": "Der Darm ist ein wesentlicher Teil des menschlichen Körpers.",
+    "sentence_en": "The intestine is an essential part of the human body."
+  },
+  {
+    "id": "kehle",
+    "word": "Kehle",
+    "article": "die",
+    "plural": "Kehlen",
+    "translation": "throat",
+    "category": "body",
+    "sentence_de": "Gute Pflege für die Kehle ist wichtig für das Wohlbefinden.",
+    "sentence_en": "Good care for the throat is important for well-being."
+  },
+  {
+    "id": "zunge",
+    "word": "Zunge",
+    "article": "die",
+    "plural": "Zungen",
+    "translation": "tongue",
+    "category": "body",
+    "sentence_de": "Gute Pflege für die Zunge ist wichtig für das Wohlbefinden.",
+    "sentence_en": "Good care for the tongue is important for well-being."
+  },
+  {
+    "id": "lippe",
+    "word": "Lippe",
+    "article": "die",
+    "plural": "Lippen",
+    "translation": "lip",
+    "category": "body",
+    "sentence_de": "Gute Pflege für die Lippe ist wichtig für das Wohlbefinden.",
+    "sentence_en": "Good care for the lip is important for well-being."
+  },
+  {
+    "id": "wange",
+    "word": "Wange",
+    "article": "die",
+    "plural": "Wangen",
+    "translation": "cheek",
+    "category": "body",
+    "sentence_de": "Gute Pflege für die Wange ist wichtig für das Wohlbefinden.",
+    "sentence_en": "Good care for the cheek is important for well-being."
+  },
+  {
+    "id": "stirn",
+    "word": "Stirn",
+    "article": "die",
+    "plural": "Stirnen",
+    "translation": "forehead",
+    "category": "body",
+    "sentence_de": "Gute Pflege für die Stirn ist wichtig für das Wohlbefinden.",
+    "sentence_en": "Good care for the forehead is important for well-being."
+  },
+  {
+    "id": "kinn",
+    "word": "Kinn",
+    "article": "das",
+    "plural": "Kinne",
+    "translation": "chin",
+    "category": "body",
+    "sentence_de": "Gute Pflege für das Kinn ist wichtig für das Wohlbefinden.",
+    "sentence_en": "Good care for the chin is important for well-being."
+  },
+  {
+    "id": "bart",
+    "word": "Bart",
+    "article": "der",
+    "plural": "Bärte",
+    "translation": "beard",
+    "category": "body",
+    "sentence_de": "Gute Pflege für den Bart ist wichtig für das Wohlbefinden.",
+    "sentence_en": "Good care for the beard is important for well-being."
+  },
+  {
+    "id": "schnurrbart",
+    "word": "Schnurrbart",
+    "article": "der",
+    "plural": "Schnurrbärte",
+    "translation": "mustache",
+    "category": "body",
+    "sentence_de": "Gute Pflege für den Schnurrbart ist wichtig für das Wohlbefinden.",
+    "sentence_en": "Good care for the mustache is important for well-being."
+  },
+  {
+    "id": "wimper",
+    "word": "Wimper",
+    "article": "die",
+    "plural": "Wimpern",
+    "translation": "eyelash",
+    "category": "body",
+    "sentence_de": "Gute Pflege für die Wimper ist wichtig für das Wohlbefinden.",
+    "sentence_en": "Good care for the eyelash is important for well-being."
+  },
+  {
+    "id": "augenbraue",
+    "word": "Augenbraue",
+    "article": "die",
+    "plural": "Augenbrauen",
+    "translation": "eyebrow",
+    "category": "body",
+    "sentence_de": "Die Augenbraue ist ein wesentlicher Teil des menschlichen Körpers.",
+    "sentence_en": "The eyebrow is an essential part of the human body."
+  },
+  {
+    "id": "pupille",
+    "word": "Pupille",
+    "article": "die",
+    "plural": "Pupillen",
+    "translation": "pupil (eye)",
+    "category": "body",
+    "sentence_de": "Gute Pflege für die Pupille ist wichtig für das Wohlbefinden.",
+    "sentence_en": "Good care for the pupil is important for well-being."
+  },
+  {
+    "id": "stimme",
+    "word": "Stimme",
+    "article": "die",
+    "plural": "Stimmen",
+    "translation": "voice",
+    "category": "body",
+    "sentence_de": "Gute Pflege für die Stimme ist wichtig für das Wohlbefinden.",
+    "sentence_en": "Good care for the voice is important for well-being."
+  },
+  {
+    "id": "atem",
+    "word": "Atem",
+    "article": "der",
+    "plural": "",
+    "translation": "breath",
+    "category": "body",
+    "sentence_de": "Gute Pflege für den Atem ist wichtig für das Wohlbefinden.",
+    "sentence_en": "Good care for the breath is important for well-being."
+  },
+  {
+    "id": "schnupfen",
+    "word": "Schnupfen",
+    "article": "der",
+    "plural": "",
+    "translation": "runny nose / cold",
+    "category": "health",
+    "sentence_de": "Gute Pflege für den Schnupfen ist wichtig für das Wohlbefinden.",
+    "sentence_en": "Good care for the runny nose is important for well-being."
+  },
+  {
+    "id": "kopfschmerz",
+    "word": "Kopfschmerz",
+    "article": "der",
+    "plural": "Kopfschmerzen",
+    "translation": "headache",
+    "category": "health",
+    "sentence_de": "Der Kopfschmerz ist ein wesentlicher Teil des menschlichen Körpers.",
+    "sentence_en": "The headache is an essential part of the human body."
+  },
+  {
+    "id": "bauchschmerz",
+    "word": "Bauchschmerz",
+    "article": "der",
+    "plural": "Bauchschmerzen",
+    "translation": "stomachache",
+    "category": "health",
+    "sentence_de": "Der Bauchschmerz ist ein wesentlicher Teil des menschlichen Körpers.",
+    "sentence_en": "The stomachache is an essential part of the human body."
+  },
+  {
+    "id": "rueckenschmerz",
+    "word": "Rückenschmerz",
+    "article": "der",
+    "plural": "Rückenschmerzen",
+    "translation": "back pain",
+    "category": "health",
+    "sentence_de": "Der Rückenschmerz spielt eine entscheidende Rolle für die Genesung.",
+    "sentence_en": "The back pain plays a crucial role in recovery."
+  },
+  {
+    "id": "wunde",
+    "word": "Wunde",
+    "article": "die",
+    "plural": "Wunden",
+    "translation": "wound",
+    "category": "health",
+    "sentence_de": "Gute Pflege für die Wunde ist wichtig für das Wohlbefinden.",
+    "sentence_en": "Good care for the wound is important for well-being."
+  },
+  {
+    "id": "narbe",
+    "word": "Narbe",
+    "article": "die",
+    "plural": "Narben",
+    "translation": "scar",
+    "category": "health",
+    "sentence_de": "Gute Pflege für die Narbe ist wichtig für das Wohlbefinden.",
+    "sentence_en": "Good care for the scar is important for well-being."
+  },
+  {
+    "id": "verband",
+    "word": "Verband",
+    "article": "der",
+    "plural": "Verbände",
+    "translation": "bandage",
+    "category": "health",
+    "sentence_de": "Gute Pflege für den Verband ist wichtig für das Wohlbefinden.",
+    "sentence_en": "Good care for the bandage is important for well-being."
+  },
+  {
+    "id": "pflaster",
+    "word": "Pflaster",
+    "article": "das",
+    "plural": "Pflaster",
+    "translation": "adhesive bandage",
+    "category": "health",
+    "sentence_de": "Gute Pflege für das Pflaster ist wichtig für das Wohlbefinden.",
+    "sentence_en": "Good care for the adhesive bandage is important for well-being."
+  },
+  {
+    "id": "spritze",
+    "word": "Spritze",
+    "article": "die",
+    "plural": "Spritzen",
+    "translation": "syringe / injection",
+    "category": "health",
+    "sentence_de": "Gute Pflege für die Spritze ist wichtig für das Wohlbefinden.",
+    "sentence_en": "Good care for the syringe is important for well-being."
+  },
+  {
+    "id": "impfung",
+    "word": "Impfung",
+    "article": "die",
+    "plural": "Impfungen",
+    "translation": "vaccination",
+    "category": "health",
+    "sentence_de": "Die Impfung spielt eine entscheidende Rolle für die Genesung.",
+    "sentence_en": "The vaccination plays a crucial role in recovery."
+  },
+  {
+    "id": "operation",
+    "word": "Operation",
+    "article": "die",
+    "plural": "Operationen",
+    "translation": "surgery",
+    "category": "health",
+    "sentence_de": "Gute Pflege für die Operation ist wichtig für das Wohlbefinden.",
+    "sentence_en": "Good care for the surgery is important for well-being."
+  },
+  {
+    "id": "arztpraxis",
+    "word": "Praxis",
+    "article": "die",
+    "plural": "Praxen",
+    "translation": "doctor's office",
+    "category": "health",
+    "sentence_de": "Gute Pflege für die Praxis ist wichtig für das Wohlbefinden.",
+    "sentence_en": "Good care for the doctor's office is important for well-being."
+  },
+  {
+    "id": "wartezimmer",
+    "word": "Wartezimmer",
+    "article": "das",
+    "plural": "Wartezimmer",
+    "translation": "waiting room",
+    "category": "health",
+    "sentence_de": "Gute Pflege für das Wartezimmer ist wichtig für das Wohlbefinden.",
+    "sentence_en": "Good care for the waiting room is important for well-being."
+  },
+  {
+    "id": "rezept",
+    "word": "Rezept",
+    "article": "das",
+    "plural": "Rezepte",
+    "translation": "prescription / recipe",
+    "category": "health",
+    "sentence_de": "Gute Pflege für das Rezept ist wichtig für das Wohlbefinden.",
+    "sentence_en": "Good care for the prescription is important for well-being."
+  },
+  {
+    "id": "krankenkasse",
+    "word": "Krankenkasse",
+    "article": "die",
+    "plural": "Krankenkassen",
+    "translation": "health insurance",
+    "category": "health",
+    "sentence_de": "Gute Pflege für die Krankenkasse ist wichtig für das Wohlbefinden.",
+    "sentence_en": "Good care for the health insurance is important for well-being."
+  },
+  {
+    "id": "versicherung",
+    "word": "Versicherung",
+    "article": "die",
+    "plural": "Versicherungen",
+    "translation": "insurance",
+    "category": "money",
+    "sentence_de": "Die Versicherung spielt beim Einkaufen und Wirtschaften eine Rolle.",
+    "sentence_en": "The insurance plays a role in shopping and business."
+  },
+  {
+    "id": "unfall",
+    "word": "Unfall",
+    "article": "der",
+    "plural": "Unfälle",
+    "translation": "accident",
+    "category": "health",
+    "sentence_de": "Gute Pflege für den Unfall ist wichtig für das Wohlbefinden.",
+    "sentence_en": "Good care for the accident is important for well-being."
+  },
+  {
+    "id": "krankenwagen",
+    "word": "Krankenwagen",
+    "article": "der",
+    "plural": "Krankenwagen",
+    "translation": "ambulance",
+    "category": "health",
+    "sentence_de": "Gute Pflege für den Krankenwagen ist wichtig für das Wohlbefinden.",
+    "sentence_en": "Good care for the ambulance is important for well-being."
+  },
+  {
+    "id": "notaufnahme",
+    "word": "Notaufnahme",
+    "article": "die",
+    "plural": "Notaufnahmen",
+    "translation": "emergency room",
+    "category": "health",
+    "sentence_de": "Gute Pflege für die Notaufnahme ist wichtig für das Wohlbefinden.",
+    "sentence_en": "Good care for the emergency room is important for well-being."
+  },
+  {
+    "id": "pflege",
+    "word": "Pflege",
+    "article": "die",
+    "plural": "",
+    "translation": "care / nursing",
+    "category": "health",
+    "sentence_de": "Gute Pflege für die Pflege ist wichtig für das Wohlbefinden.",
+    "sentence_en": "Good care for the care is important for well-being."
+  },
+  {
+    "id": "pfleger",
+    "word": "Pfleger",
+    "article": "der",
+    "plural": "Pfleger",
+    "translation": "nurse (male)",
+    "category": "people",
+    "sentence_de": "Der Pfleger ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The nurse is a valued member of the community."
+  },
+  {
+    "id": "pflegerin",
+    "word": "Pflegerin",
+    "article": "die",
+    "plural": "Pflegerinnen",
+    "translation": "nurse (female)",
+    "category": "people",
+    "sentence_de": "Die Pflegerin ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The nurse is a valued member of the community."
+  },
+  {
+    "id": "zahnarzt",
+    "word": "Zahnarzt",
+    "article": "der",
+    "plural": "Zahnärzte",
+    "translation": "dentist (male)",
+    "category": "people",
+    "sentence_de": "Der Zahnarzt übt diesen Beruf mit großem Engagement aus.",
+    "sentence_en": "The dentist pursues this profession with great dedication."
+  },
+  {
+    "id": "zahnaerztin",
+    "word": "Zahnärztin",
+    "article": "die",
+    "plural": "Zahnärztinnen",
+    "translation": "dentist (female)",
+    "category": "people",
+    "sentence_de": "Die Zahnärztin ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The dentist is a valued member of the community."
+  },
+  {
+    "id": "apotheker",
+    "word": "Apotheker",
+    "article": "der",
+    "plural": "Apotheker",
+    "translation": "pharmacist (male)",
+    "category": "people",
+    "sentence_de": "Der Apotheker ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The pharmacist is a valued member of the community."
+  },
+  {
+    "id": "apothekerin",
+    "word": "Apothekerin",
+    "article": "die",
+    "plural": "Apothekerinnen",
+    "translation": "pharmacist (female)",
+    "category": "people",
+    "sentence_de": "Die Apothekerin ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The pharmacist is a valued member of the community."
+  },
+  {
+    "id": "ingenieur",
+    "word": "Ingenieur",
+    "article": "der",
+    "plural": "Ingenieure",
+    "translation": "engineer (male)",
+    "category": "people",
+    "sentence_de": "Der Ingenieur ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The engineer is a valued member of the community."
+  },
+  {
+    "id": "ingenieurin",
+    "word": "Ingenieurin",
+    "article": "die",
+    "plural": "Ingenieurinnen",
+    "translation": "engineer (female)",
+    "category": "people",
+    "sentence_de": "Die Ingenieurin ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The engineer is a valued member of the community."
+  },
+  {
+    "id": "anwalt",
+    "word": "Anwalt",
+    "article": "der",
+    "plural": "Anwälte",
+    "translation": "lawyer (male)",
+    "category": "people",
+    "sentence_de": "Der Anwalt ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The lawyer is a valued member of the community."
+  },
+  {
+    "id": "anwaeltin",
+    "word": "Anwältin",
+    "article": "die",
+    "plural": "Anwältinnen",
+    "translation": "lawyer (female)",
+    "category": "people",
+    "sentence_de": "Die Anwältin ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The lawyer is a valued member of the community."
+  },
+  {
+    "id": "richter",
+    "word": "Richter",
+    "article": "der",
+    "plural": "Richter",
+    "translation": "judge (male)",
+    "category": "people",
+    "sentence_de": "Der Richter ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The judge is a valued member of the community."
+  },
+  {
+    "id": "richterin",
+    "word": "Richterin",
+    "article": "die",
+    "plural": "Richterinnen",
+    "translation": "judge (female)",
+    "category": "people",
+    "sentence_de": "Die Richterin ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The judge is a valued member of the community."
+  },
+  {
+    "id": "feuerwehrmann",
+    "word": "Feuerwehrmann",
+    "article": "der",
+    "plural": "Feuerwehrmänner",
+    "translation": "firefighter (male)",
+    "category": "people",
+    "sentence_de": "Der Feuerwehrmann grüßt freundlich und hilft hilfsbereit.",
+    "sentence_en": "The firefighter greets kindly and helps readily."
+  },
+  {
+    "id": "feuerwehrfrau",
+    "word": "Feuerwehrfrau",
+    "article": "die",
+    "plural": "Feuerwehrfrauen",
+    "translation": "firefighter (female)",
+    "category": "people",
+    "sentence_de": "Die Feuerwehrfrau grüßt freundlich und hilft hilfsbereit.",
+    "sentence_en": "The firefighter greets kindly and helps readily."
+  },
+  {
+    "id": "pilot",
+    "word": "Pilot",
+    "article": "der",
+    "plural": "Piloten",
+    "translation": "pilot (male)",
+    "category": "people",
+    "sentence_de": "Der Pilot ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The pilot is a valued member of the community."
+  },
+  {
+    "id": "pilotin",
+    "word": "Pilotin",
+    "article": "die",
+    "plural": "Pilotinnen",
+    "translation": "pilot (female)",
+    "category": "people",
+    "sentence_de": "Die Pilotin ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The pilot is a valued member of the community."
+  },
+  {
+    "id": "taxifahrer",
+    "word": "Taxifahrer",
+    "article": "der",
+    "plural": "Taxifahrer",
+    "translation": "taxi driver",
+    "category": "people",
+    "sentence_de": "Der Taxifahrer übt diesen Beruf mit großem Engagement aus.",
+    "sentence_en": "The taxi driver pursues this profession with great dedication."
+  },
+  {
+    "id": "bauer",
+    "word": "Bauer",
+    "article": "der",
+    "plural": "Bauern",
+    "translation": "farmer (male)",
+    "category": "people",
+    "sentence_de": "Der Bauer ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The farmer is a valued member of the community."
+  },
+  {
+    "id": "baeuerin",
+    "word": "Bäuerin",
+    "article": "die",
+    "plural": "Bäuerinnen",
+    "translation": "farmer (female)",
+    "category": "people",
+    "sentence_de": "Die Bäuerin ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The farmer is a valued member of the community."
+  },
+  {
+    "id": "gaertner",
+    "word": "Gärtner",
+    "article": "der",
+    "plural": "Gärtner",
+    "translation": "gardener (male)",
+    "category": "people",
+    "sentence_de": "Der Gärtner ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The gardener is a valued member of the community."
+  },
+  {
+    "id": "gaertnerin",
+    "word": "Gärtnerin",
+    "article": "die",
+    "plural": "Gärtnerinnen",
+    "translation": "gardener (female)",
+    "category": "people",
+    "sentence_de": "Die Gärtnerin ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The gardener is a valued member of the community."
+  },
+  {
+    "id": "handwerker",
+    "word": "Handwerker",
+    "article": "der",
+    "plural": "Handwerker",
+    "translation": "craftsman",
+    "category": "people",
+    "sentence_de": "Der Handwerker ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The craftsman is a valued member of the community."
+  },
+  {
+    "id": "elektriker",
+    "word": "Elektriker",
+    "article": "der",
+    "plural": "Elektriker",
+    "translation": "electrician",
+    "category": "people",
+    "sentence_de": "Der Elektriker ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The electrician is a valued member of the community."
+  },
+  {
+    "id": "klempner",
+    "word": "Klempner",
+    "article": "der",
+    "plural": "Klempner",
+    "translation": "plumber",
+    "category": "people",
+    "sentence_de": "Der Klempner ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The plumber is a valued member of the community."
+  },
+  {
+    "id": "maler",
+    "word": "Maler",
+    "article": "der",
+    "plural": "Maler",
+    "translation": "painter (male)",
+    "category": "people",
+    "sentence_de": "Der Maler ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The painter is a valued member of the community."
+  },
+  {
+    "id": "malerin",
+    "word": "Malerin",
+    "article": "die",
+    "plural": "Malerinnen",
+    "translation": "painter (female)",
+    "category": "people",
+    "sentence_de": "Die Malerin ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The painter is a valued member of the community."
+  },
+  {
+    "id": "mechaniker",
+    "word": "Mechaniker",
+    "article": "der",
+    "plural": "Mechaniker",
+    "translation": "mechanic",
+    "category": "people",
+    "sentence_de": "Der Mechaniker ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The mechanic is a valued member of the community."
+  },
+  {
+    "id": "friseur",
+    "word": "Friseur",
+    "article": "der",
+    "plural": "Friseure",
+    "translation": "hairdresser (male)",
+    "category": "people",
+    "sentence_de": "Der Friseur ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The hairdresser is a valued member of the community."
+  },
+  {
+    "id": "friseurin",
+    "word": "Friseurin",
+    "article": "die",
+    "plural": "Friseurinnen",
+    "translation": "hairdresser (female)",
+    "category": "people",
+    "sentence_de": "Die Friseurin ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The hairdresser is a valued member of the community."
+  },
+  {
+    "id": "fotograf",
+    "word": "Fotograf",
+    "article": "der",
+    "plural": "Fotografen",
+    "translation": "photographer (male)",
+    "category": "people",
+    "sentence_de": "Der Fotograf ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The photographer is a valued member of the community."
+  },
+  {
+    "id": "fotografin",
+    "word": "Fotografin",
+    "article": "die",
+    "plural": "Fotografinnen",
+    "translation": "photographer (female)",
+    "category": "people",
+    "sentence_de": "Die Fotografin ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The photographer is a valued member of the community."
+  },
+  {
+    "id": "journalist",
+    "word": "Journalist",
+    "article": "der",
+    "plural": "Journalisten",
+    "translation": "journalist (male)",
+    "category": "people",
+    "sentence_de": "Der Journalist ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The journalist is a valued member of the community."
+  },
+  {
+    "id": "journalistin",
+    "word": "Journalistin",
+    "article": "die",
+    "plural": "Journalistinnen",
+    "translation": "journalist (female)",
+    "category": "people",
+    "sentence_de": "Die Journalistin ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The journalist is a valued member of the community."
+  },
+  {
+    "id": "kuenstler",
+    "word": "Künstler",
+    "article": "der",
+    "plural": "Künstler",
+    "translation": "artist (male)",
+    "category": "people",
+    "sentence_de": "Der Künstler ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The artist is a valued member of the community."
+  },
+  {
+    "id": "kuenstlerin",
+    "word": "Künstlerin",
+    "article": "die",
+    "plural": "Künstlerinnen",
+    "translation": "artist (female)",
+    "category": "people",
+    "sentence_de": "Die Künstlerin ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The artist is a valued member of the community."
+  },
+  {
+    "id": "musiker",
+    "word": "Musiker",
+    "article": "der",
+    "plural": "Musiker",
+    "translation": "musician (male)",
+    "category": "people",
+    "sentence_de": "Der Musiker ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The musician is a valued member of the community."
+  },
+  {
+    "id": "musikerin",
+    "word": "Musikerin",
+    "article": "die",
+    "plural": "Musikerinnen",
+    "translation": "musician (female)",
+    "category": "people",
+    "sentence_de": "Die Musikerin ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The musician is a valued member of the community."
+  },
+  {
+    "id": "saenger",
+    "word": "Sänger",
+    "article": "der",
+    "plural": "Sänger",
+    "translation": "singer (male)",
+    "category": "people",
+    "sentence_de": "Der Sänger ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The singer is a valued member of the community."
+  },
+  {
+    "id": "saengerin",
+    "word": "Sängerin",
+    "article": "die",
+    "plural": "Sängerinnen",
+    "translation": "singer (female)",
+    "category": "people",
+    "sentence_de": "Die Sängerin ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The singer is a valued member of the community."
+  },
+  {
+    "id": "schauspieler",
+    "word": "Schauspieler",
+    "article": "der",
+    "plural": "Schauspieler",
+    "translation": "actor",
+    "category": "people",
+    "sentence_de": "Der Schauspieler ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The actor is a valued member of the community."
+  },
+  {
+    "id": "schauspielerin",
+    "word": "Schauspielerin",
+    "article": "die",
+    "plural": "Schauspielerinnen",
+    "translation": "actress",
+    "category": "people",
+    "sentence_de": "Die Schauspielerin ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The actress is a valued member of the community."
+  },
+  {
+    "id": "schriftsteller",
+    "word": "Schriftsteller",
+    "article": "der",
+    "plural": "Schriftsteller",
+    "translation": "writer (male)",
+    "category": "people",
+    "sentence_de": "Der Schriftsteller ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The writer is a valued member of the community."
+  },
+  {
+    "id": "schriftstellerin",
+    "word": "Schriftstellerin",
+    "article": "die",
+    "plural": "Schriftstellerinnen",
+    "translation": "writer (female)",
+    "category": "people",
+    "sentence_de": "Die Schriftstellerin ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The writer is a valued member of the community."
+  },
+  {
+    "id": "uebersetzer",
+    "word": "Übersetzer",
+    "article": "der",
+    "plural": "Übersetzer",
+    "translation": "translator (male)",
+    "category": "people",
+    "sentence_de": "Der Übersetzer ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The translator is a valued member of the community."
+  },
+  {
+    "id": "uebersetzerin",
+    "word": "Übersetzerin",
+    "article": "die",
+    "plural": "Übersetzerinnen",
+    "translation": "translator (female)",
+    "category": "people",
+    "sentence_de": "Die Übersetzerin ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The translator is a valued member of the community."
+  },
+  {
+    "id": "dolmetscher",
+    "word": "Dolmetscher",
+    "article": "der",
+    "plural": "Dolmetscher",
+    "translation": "interpreter (male)",
+    "category": "people",
+    "sentence_de": "Der Dolmetscher ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The interpreter is a valued member of the community."
+  },
+  {
+    "id": "dolmetscherin",
+    "word": "Dolmetscherin",
+    "article": "die",
+    "plural": "Dolmetscherinnen",
+    "translation": "interpreter (female)",
+    "category": "people",
+    "sentence_de": "Die Dolmetscherin ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The interpreter is a valued member of the community."
+  },
+  {
+    "id": "wissenschaftler",
+    "word": "Wissenschaftler",
+    "article": "der",
+    "plural": "Wissenschaftler",
+    "translation": "scientist (male)",
+    "category": "people",
+    "sentence_de": "Der Wissenschaftler ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The scientist is a valued member of the community."
+  },
+  {
+    "id": "wissenschaftlerin",
+    "word": "Wissenschaftlerin",
+    "article": "die",
+    "plural": "Wissenschaftlerinnen",
+    "translation": "scientist (female)",
+    "category": "people",
+    "sentence_de": "Die Wissenschaftlerin ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The scientist is a valued member of the community."
+  },
+  {
+    "id": "forscher",
+    "word": "Forscher",
+    "article": "der",
+    "plural": "Forscher",
+    "translation": "researcher (male)",
+    "category": "people",
+    "sentence_de": "Der Forscher ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The researcher is a valued member of the community."
+  },
+  {
+    "id": "forscherin",
+    "word": "Forscherin",
+    "article": "die",
+    "plural": "Forscherinnen",
+    "translation": "researcher (female)",
+    "category": "people",
+    "sentence_de": "Die Forscherin ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The researcher is a valued member of the community."
+  },
+  {
+    "id": "professor",
+    "word": "Professor",
+    "article": "der",
+    "plural": "Professoren",
+    "translation": "professor (male)",
+    "category": "people",
+    "sentence_de": "Der Professor ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The professor is a valued member of the community."
+  },
+  {
+    "id": "professorin",
+    "word": "Professorin",
+    "article": "die",
+    "plural": "Professorinnen",
+    "translation": "professor (female)",
+    "category": "people",
+    "sentence_de": "Die Professorin ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The professor is a valued member of the community."
+  },
+  {
+    "id": "erzieher",
+    "word": "Erzieher",
+    "article": "der",
+    "plural": "Erzieher",
+    "translation": "preschool teacher (male)",
+    "category": "people",
+    "sentence_de": "Der Erzieher ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The preschool teacher is a valued member of the community."
+  },
+  {
+    "id": "erzieherin",
+    "word": "Erzieherin",
+    "article": "die",
+    "plural": "Erzieherinnen",
+    "translation": "preschool teacher (female)",
+    "category": "people",
+    "sentence_de": "Die Erzieherin ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The preschool teacher is a valued member of the community."
+  },
+  {
+    "id": "sekretaer",
+    "word": "Sekretär",
+    "article": "der",
+    "plural": "Sekretäre",
+    "translation": "secretary (male)",
+    "category": "people",
+    "sentence_de": "Der Sekretär ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The secretary is a valued member of the community."
+  },
+  {
+    "id": "sekretaerin",
+    "word": "Sekretärin",
+    "article": "die",
+    "plural": "Sekretärinnen",
+    "translation": "secretary (female)",
+    "category": "people",
+    "sentence_de": "Die Sekretärin ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The secretary is a valued member of the community."
+  },
+  {
+    "id": "kassierer",
+    "word": "Kassierer",
+    "article": "der",
+    "plural": "Kassierer",
+    "translation": "cashier (male)",
+    "category": "people",
+    "sentence_de": "Der Kassierer ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The cashier is a valued member of the community."
+  },
+  {
+    "id": "kassiererin",
+    "word": "Kassiererin",
+    "article": "die",
+    "plural": "Kassiererinnen",
+    "translation": "cashier (female)",
+    "category": "people",
+    "sentence_de": "Die Kassiererin ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The cashier is a valued member of the community."
+  },
+  {
+    "id": "manager",
+    "word": "Manager",
+    "article": "der",
+    "plural": "Manager",
+    "translation": "manager (male)",
+    "category": "people",
+    "sentence_de": "Der Manager ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The manager is a valued member of the community."
+  },
+  {
+    "id": "managerin",
+    "word": "Managerin",
+    "article": "die",
+    "plural": "Managerinnen",
+    "translation": "manager (female)",
+    "category": "people",
+    "sentence_de": "Die Managerin ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The manager is a valued member of the community."
+  },
+  {
+    "id": "unternehmer",
+    "word": "Unternehmer",
+    "article": "der",
+    "plural": "Unternehmer",
+    "translation": "entrepreneur (male)",
+    "category": "people",
+    "sentence_de": "Der Unternehmer ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The entrepreneur is a valued member of the community."
+  },
+  {
+    "id": "unternehmerin",
+    "word": "Unternehmerin",
+    "article": "die",
+    "plural": "Unternehmerinnen",
+    "translation": "entrepreneur (female)",
+    "category": "people",
+    "sentence_de": "Die Unternehmerin ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The entrepreneur is a valued member of the community."
+  },
+  {
+    "id": "arbeitsplatz",
+    "word": "Arbeitsplatz",
+    "article": "der",
+    "plural": "Arbeitsplätze",
+    "translation": "workplace",
+    "category": "work",
+    "sentence_de": "Der Arbeitsplatz ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The workplace is an important term in the German language."
+  },
+  {
+    "id": "arbeitszeit",
+    "word": "Arbeitszeit",
+    "article": "die",
+    "plural": "Arbeitszeiten",
+    "translation": "working hours",
+    "category": "work",
+    "sentence_de": "Die Arbeitszeit ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The working hours is an important term in the German language."
+  },
+  {
+    "id": "feierabend",
+    "word": "Feierabend",
+    "article": "der",
+    "plural": "Feierabende",
+    "translation": "end of the workday",
+    "category": "work",
+    "sentence_de": "Der Feierabend ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The end of the workday is an important term in the German language."
+  },
+  {
+    "id": "ueberstunde",
+    "word": "Überstunde",
+    "article": "die",
+    "plural": "Überstunden",
+    "translation": "overtime hour",
+    "category": "work",
+    "sentence_de": "Die Überstunde ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The overtime hour is an important term in the German language."
+  },
+  {
+    "id": "lohn",
+    "word": "Lohn",
+    "article": "der",
+    "plural": "Löhne",
+    "translation": "wage",
+    "category": "work",
+    "sentence_de": "Der Lohn ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The wage is an important term in the German language."
+  },
+  {
+    "id": "steuer",
+    "word": "Steuer",
+    "article": "die",
+    "plural": "Steuern",
+    "translation": "tax",
+    "category": "money",
+    "sentence_de": "Die Steuer spielt beim Einkaufen und Wirtschaften eine Rolle.",
+    "sentence_en": "The tax plays a role in shopping and business."
+  },
+  {
+    "id": "miete",
+    "word": "Miete",
+    "article": "die",
+    "plural": "Mieten",
+    "translation": "rent",
+    "category": "money",
+    "sentence_de": "Die Miete spielt beim Einkaufen und Wirtschaften eine Rolle.",
+    "sentence_en": "The rent plays a role in shopping and business."
+  },
+  {
+    "id": "nebenkosten",
+    "word": "Nebenkosten",
+    "article": "die",
+    "plural": "",
+    "translation": "utilities / extra costs",
+    "category": "money",
+    "sentence_de": "Die Nebenkosten spielt beim Einkaufen und Wirtschaften eine Rolle.",
+    "sentence_en": "The utilities plays a role in shopping and business."
+  },
+  {
+    "id": "kaution",
+    "word": "Kaution",
+    "article": "die",
+    "plural": "Kautionen",
+    "translation": "deposit",
+    "category": "money",
+    "sentence_de": "Die Kaution spielt beim Einkaufen und Wirtschaften eine Rolle.",
+    "sentence_en": "The deposit plays a role in shopping and business."
+  },
+  {
+    "id": "kredit",
+    "word": "Kredit",
+    "article": "der",
+    "plural": "Kredite",
+    "translation": "loan / credit",
+    "category": "money",
+    "sentence_de": "Der Kredit spielt beim Einkaufen und Wirtschaften eine Rolle.",
+    "sentence_en": "The loan plays a role in shopping and business."
+  },
+  {
+    "id": "konto",
+    "word": "Konto",
+    "article": "das",
+    "plural": "Konten",
+    "translation": "account",
+    "category": "money",
+    "sentence_de": "Das Konto spielt beim Einkaufen und Wirtschaften eine Rolle.",
+    "sentence_en": "The account plays a role in shopping and business."
+  },
+  {
+    "id": "sparkasse",
+    "word": "Sparkasse",
+    "article": "die",
+    "plural": "Sparkassen",
+    "translation": "savings bank",
+    "category": "money",
+    "sentence_de": "Die Sparkasse spielt beim Einkaufen und Wirtschaften eine Rolle.",
+    "sentence_en": "The savings bank plays a role in shopping and business."
+  },
+  {
+    "id": "bankkarte",
+    "word": "Bankkarte",
+    "article": "die",
+    "plural": "Bankkarten",
+    "translation": "bank card",
+    "category": "money",
+    "sentence_de": "Die Bankkarte spielt beim Einkaufen und Wirtschaften eine Rolle.",
+    "sentence_en": "The bank card plays a role in shopping and business."
+  },
+  {
+    "id": "kreditkarte",
+    "word": "Kreditkarte",
+    "article": "die",
+    "plural": "Kreditkarten",
+    "translation": "credit card",
+    "category": "money",
+    "sentence_de": "Die Kreditkarte spielt beim Einkaufen und Wirtschaften eine Rolle.",
+    "sentence_en": "The credit card plays a role in shopping and business."
+  },
+  {
+    "id": "ec_karte",
+    "word": "EC-Karte",
+    "article": "die",
+    "plural": "EC-Karten",
+    "translation": "debit card",
+    "category": "money",
+    "sentence_de": "Die EC-Karte spielt beim Einkaufen und Wirtschaften eine Rolle.",
+    "sentence_en": "The debit card plays a role in shopping and business."
+  },
+  {
+    "id": "ueberweisung",
+    "word": "Überweisung",
+    "article": "die",
+    "plural": "Überweisungen",
+    "translation": "bank transfer",
+    "category": "money",
+    "sentence_de": "Die Überweisung spielt beim Einkaufen und Wirtschaften eine Rolle.",
+    "sentence_en": "The bank transfer plays a role in shopping and business."
+  },
+  {
+    "id": "bargeld",
+    "word": "Bargeld",
+    "article": "das",
+    "plural": "",
+    "translation": "cash",
+    "category": "money",
+    "sentence_de": "Das Bargeld spielt beim Einkaufen und Wirtschaften eine Rolle.",
+    "sentence_en": "The cash plays a role in shopping and business."
+  },
+  {
+    "id": "schein",
+    "word": "Schein",
+    "article": "der",
+    "plural": "Scheine",
+    "translation": "banknote",
+    "category": "money",
+    "sentence_de": "Der Schein spielt beim Einkaufen und Wirtschaften eine Rolle.",
+    "sentence_en": "The banknote plays a role in shopping and business."
+  },
+  {
+    "id": "cent",
+    "word": "Cent",
+    "article": "der",
+    "plural": "Cents",
+    "translation": "cent",
+    "category": "money",
+    "sentence_de": "Der Cent spielt beim Einkaufen und Wirtschaften eine Rolle.",
+    "sentence_en": "The cent plays a role in shopping and business."
+  },
+  {
+    "id": "euro",
+    "word": "Euro",
+    "article": "der",
+    "plural": "Euro",
+    "translation": "euro",
+    "category": "money",
+    "sentence_de": "Der Euro spielt beim Einkaufen und Wirtschaften eine Rolle.",
+    "sentence_en": "The euro plays a role in shopping and business."
+  },
+  {
+    "id": "dollar",
+    "word": "Dollar",
+    "article": "der",
+    "plural": "Dollar",
+    "translation": "dollar",
+    "category": "money",
+    "sentence_de": "Der Dollar spielt beim Einkaufen und Wirtschaften eine Rolle.",
+    "sentence_en": "The dollar plays a role in shopping and business."
+  },
+  {
+    "id": "angebot",
+    "word": "Angebot",
+    "article": "das",
+    "plural": "Angebote",
+    "translation": "offer / deal",
+    "category": "shopping",
+    "sentence_de": "Das Angebot spielt beim Einkaufen und Wirtschaften eine Rolle.",
+    "sentence_en": "The offer plays a role in shopping and business."
+  },
+  {
+    "id": "sonderangebot",
+    "word": "Sonderangebot",
+    "article": "das",
+    "plural": "Sonderangebote",
+    "translation": "special offer",
+    "category": "shopping",
+    "sentence_de": "Das Sonderangebot spielt beim Einkaufen und Wirtschaften eine Rolle.",
+    "sentence_en": "The special offer plays a role in shopping and business."
+  },
+  {
+    "id": "reklamation",
+    "word": "Reklamation",
+    "article": "die",
+    "plural": "Reklamationen",
+    "translation": "complaint (product)",
+    "category": "shopping",
+    "sentence_de": "Die Reklamation spielt beim Einkaufen und Wirtschaften eine Rolle.",
+    "sentence_en": "The complaint plays a role in shopping and business."
+  },
+  {
+    "id": "garantie",
+    "word": "Garantie",
+    "article": "die",
+    "plural": "Garantien",
+    "translation": "warranty",
+    "category": "shopping",
+    "sentence_de": "Die Garantie spielt beim Einkaufen und Wirtschaften eine Rolle.",
+    "sentence_en": "The warranty plays a role in shopping and business."
+  },
+  {
+    "id": "groesse",
+    "word": "Größe",
+    "article": "die",
+    "plural": "Größen",
+    "translation": "size",
+    "category": "shopping",
+    "sentence_de": "Die Größe spielt beim Einkaufen und Wirtschaften eine Rolle.",
+    "sentence_en": "The size plays a role in shopping and business."
+  },
+  {
+    "id": "probe",
+    "word": "Probe",
+    "article": "die",
+    "plural": "Proben",
+    "translation": "sample / rehearsal",
+    "category": "shopping",
+    "sentence_de": "Die Probe spielt beim Einkaufen und Wirtschaften eine Rolle.",
+    "sentence_en": "The sample plays a role in shopping and business."
+  },
+  {
+    "id": "auswahl",
+    "word": "Auswahl",
+    "article": "die",
+    "plural": "Auswahlen",
+    "translation": "selection",
+    "category": "shopping",
+    "sentence_de": "Die Auswahl spielt beim Einkaufen und Wirtschaften eine Rolle.",
+    "sentence_en": "The selection plays a role in shopping and business."
+  },
+  {
+    "id": "korb",
+    "word": "Korb",
+    "article": "der",
+    "plural": "Körbe",
+    "translation": "basket",
+    "category": "shopping",
+    "sentence_de": "Der Korb spielt beim Einkaufen und Wirtschaften eine Rolle.",
+    "sentence_en": "The basket plays a role in shopping and business."
+  },
+  {
+    "id": "einkaufswagen",
+    "word": "Einkaufswagen",
+    "article": "der",
+    "plural": "Einkaufswagen",
+    "translation": "shopping cart",
+    "category": "shopping",
+    "sentence_de": "Der Einkaufswagen spielt beim Einkaufen und Wirtschaften eine Rolle.",
+    "sentence_en": "The shopping cart plays a role in shopping and business."
+  },
+  {
+    "id": "auslage",
+    "word": "Auslage",
+    "article": "die",
+    "plural": "Auslagen",
+    "translation": "shop display",
+    "category": "shopping",
+    "sentence_de": "Die Auslage spielt beim Einkaufen und Wirtschaften eine Rolle.",
+    "sentence_en": "The shop display plays a role in shopping and business."
+  },
+  {
+    "id": "werbung",
+    "word": "Werbung",
+    "article": "die",
+    "plural": "Werbungen",
+    "translation": "advertising",
+    "category": "shopping",
+    "sentence_de": "Die Werbung spielt beim Einkaufen und Wirtschaften eine Rolle.",
+    "sentence_en": "The advertising plays a role in shopping and business."
+  },
+  {
+    "id": "plakat",
+    "word": "Plakat",
+    "article": "das",
+    "plural": "Plakate",
+    "translation": "poster",
+    "category": "shopping",
+    "sentence_de": "Das Plakat spielt beim Einkaufen und Wirtschaften eine Rolle.",
+    "sentence_en": "The poster plays a role in shopping and business."
+  },
+  {
+    "id": "prospekt",
+    "word": "Prospekt",
+    "article": "der",
+    "plural": "Prospekte",
+    "translation": "brochure",
+    "category": "shopping",
+    "sentence_de": "Der Prospekt spielt beim Einkaufen und Wirtschaften eine Rolle.",
+    "sentence_en": "The brochure plays a role in shopping and business."
+  },
+  {
+    "id": "marktplatz",
+    "word": "Marktplatz",
+    "article": "der",
+    "plural": "Marktplätze",
+    "translation": "market square",
+    "category": "city",
+    "sentence_de": "Der Marktplatz ist ein zentraler Treffpunkt in der Umgebung.",
+    "sentence_en": "The market square is a central meeting place in the area."
+  },
+  {
+    "id": "rathaus",
+    "word": "Rathaus",
+    "article": "das",
+    "plural": "Rathäuser",
+    "translation": "town hall",
+    "category": "city",
+    "sentence_de": "Wir erreichen das Rathaus nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the town hall after a short ride."
+  },
+  {
+    "id": "polizeiwache",
+    "word": "Polizeiwache",
+    "article": "die",
+    "plural": "Polizeiwachen",
+    "translation": "police station",
+    "category": "city",
+    "sentence_de": "Wir erreichen die Polizeiwache nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the police station after a short ride."
+  },
+  {
+    "id": "feuerwache",
+    "word": "Feuerwache",
+    "article": "die",
+    "plural": "Feuerwachen",
+    "translation": "fire station",
+    "category": "city",
+    "sentence_de": "Wir erreichen die Feuerwache nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the fire station after a short ride."
+  },
+  {
+    "id": "kindergarten",
+    "word": "Kindergarten",
+    "article": "der",
+    "plural": "Kindergärten",
+    "translation": "kindergarten",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute den Kindergarten.",
+    "sentence_en": "In class today we are covering the kindergarten."
+  },
+  {
+    "id": "kita",
+    "word": "Kita",
+    "article": "die",
+    "plural": "Kitas",
+    "translation": "daycare center",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute die Kita.",
+    "sentence_en": "In class today we are covering the daycare center."
+  },
+  {
+    "id": "spielplatz",
+    "word": "Spielplatz",
+    "article": "der",
+    "plural": "Spielplätze",
+    "translation": "playground",
+    "category": "city",
+    "sentence_de": "Der Spielplatz ist ein zentraler Treffpunkt in der Umgebung.",
+    "sentence_en": "The playground is a central meeting place in the area."
+  },
+  {
+    "id": "parkplatz",
+    "word": "Parkplatz",
+    "article": "der",
+    "plural": "Parkplätze",
+    "translation": "parking lot",
+    "category": "transport",
+    "sentence_de": "Der Parkplatz ist ein zentraler Treffpunkt in der Umgebung.",
+    "sentence_en": "The parking lot is a central meeting place in the area."
+  },
+  {
+    "id": "garage",
+    "word": "Garage",
+    "article": "die",
+    "plural": "Garagen",
+    "translation": "garage",
+    "category": "home",
+    "sentence_de": "Die Garage ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The garage is a useful item in the house."
+  },
+  {
+    "id": "einfahrt",
+    "word": "Einfahrt",
+    "article": "die",
+    "plural": "Einfahrten",
+    "translation": "driveway",
+    "category": "home",
+    "sentence_de": "Die Einfahrt ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The driveway is a useful item in the house."
+  },
+  {
+    "id": "terrasse",
+    "word": "Terrasse",
+    "article": "die",
+    "plural": "Terrassen",
+    "translation": "terrace",
+    "category": "home",
+    "sentence_de": "Die Terrasse ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The terrace is a useful item in the house."
+  },
+  {
+    "id": "dachboden",
+    "word": "Dachboden",
+    "article": "der",
+    "plural": "Dachböden",
+    "translation": "attic",
+    "category": "home",
+    "sentence_de": "Der Dachboden gehört zu einem gemütlichen Zuhause.",
+    "sentence_en": "The attic is part of a cozy home."
+  },
+  {
+    "id": "speicher",
+    "word": "Speicher",
+    "article": "der",
+    "plural": "Speicher",
+    "translation": "storage / memory",
+    "category": "home",
+    "sentence_de": "Der Speicher ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The storage is a useful item in the house."
+  },
+  {
+    "id": "flur",
+    "word": "Flur",
+    "article": "der",
+    "plural": "Flure",
+    "translation": "hallway",
+    "category": "home",
+    "sentence_de": "Der Flur gehört zu einem gemütlichen Zuhause.",
+    "sentence_en": "The hallway is part of a cozy home."
+  },
+  {
+    "id": "diele",
+    "word": "Diele",
+    "article": "die",
+    "plural": "Dielen",
+    "translation": "entrance hall",
+    "category": "home",
+    "sentence_de": "Die Diele ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The entrance hall is a useful item in the house."
+  },
+  {
+    "id": "wohnzimmer",
+    "word": "Wohnzimmer",
+    "article": "das",
+    "plural": "Wohnzimmer",
+    "translation": "living room",
+    "category": "home",
+    "sentence_de": "Das Wohnzimmer ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The living room is a useful item in the house."
+  },
+  {
+    "id": "schlafzimmer",
+    "word": "Schlafzimmer",
+    "article": "das",
+    "plural": "Schlafzimmer",
+    "translation": "bedroom",
+    "category": "home",
+    "sentence_de": "Das Schlafzimmer ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The bedroom is a useful item in the house."
+  },
+  {
+    "id": "kinderzimmer",
+    "word": "Kinderzimmer",
+    "article": "das",
+    "plural": "Kinderzimmer",
+    "translation": "children's room",
+    "category": "home",
+    "sentence_de": "Das Kinderzimmer ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The children's room is a useful item in the house."
+  },
+  {
+    "id": "arbeitszimmer",
+    "word": "Arbeitszimmer",
+    "article": "das",
+    "plural": "Arbeitszimmer",
+    "translation": "study / home office",
+    "category": "home",
+    "sentence_de": "Das Arbeitszimmer ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The study is a useful item in the house."
+  },
+  {
+    "id": "esszimmer",
+    "word": "Esszimmer",
+    "article": "das",
+    "plural": "Esszimmer",
+    "translation": "dining room",
+    "category": "home",
+    "sentence_de": "Das Esszimmer ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The dining room is a useful item in the house."
+  },
+  {
+    "id": "badezimmer",
+    "word": "Badezimmer",
+    "article": "das",
+    "plural": "Badezimmer",
+    "translation": "bathroom",
+    "category": "home",
+    "sentence_de": "Das Badezimmer ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The bathroom is a useful item in the house."
+  },
+  {
+    "id": "toilette",
+    "word": "Toilette",
+    "article": "die",
+    "plural": "Toiletten",
+    "translation": "toilet",
+    "category": "home",
+    "sentence_de": "Die Toilette ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The toilet is a useful item in the house."
+  },
+  {
+    "id": "wc",
+    "word": "WC",
+    "article": "das",
+    "plural": "WCs",
+    "translation": "toilet (WC)",
+    "category": "home",
+    "sentence_de": "Das WC ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The toilet is a useful item in the house."
+  },
+  {
+    "id": "badewanne",
+    "word": "Badewanne",
+    "article": "die",
+    "plural": "Badewannen",
+    "translation": "bathtub",
+    "category": "home",
+    "sentence_de": "Die Badewanne ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The bathtub is a useful item in the house."
+  },
+  {
+    "id": "seife",
+    "word": "Seife",
+    "article": "die",
+    "plural": "Seifen",
+    "translation": "soap",
+    "category": "home",
+    "sentence_de": "Die Seife ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The soap is a useful item in the house."
+  },
+  {
+    "id": "shampoo",
+    "word": "Shampoo",
+    "article": "das",
+    "plural": "Shampoos",
+    "translation": "shampoo",
+    "category": "home",
+    "sentence_de": "Das Shampoo ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The shampoo is a useful item in the house."
+  },
+  {
+    "id": "zahnbuerste",
+    "word": "Zahnbürste",
+    "article": "die",
+    "plural": "Zahnbürsten",
+    "translation": "toothbrush",
+    "category": "home",
+    "sentence_de": "Die Zahnbürste ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The toothbrush is a useful item in the house."
+  },
+  {
+    "id": "zahnpasta",
+    "word": "Zahnpasta",
+    "article": "die",
+    "plural": "Zahnpasten",
+    "translation": "toothpaste",
+    "category": "home",
+    "sentence_de": "Die Zahnpasta ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The toothpaste is a useful item in the house."
+  },
+  {
+    "id": "klosett",
+    "word": "Klo",
+    "article": "das",
+    "plural": "Klos",
+    "translation": "toilet (informal)",
+    "category": "home",
+    "sentence_de": "Das Klo ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The toilet is a useful item in the house."
+  },
+  {
+    "id": "klopapier",
+    "word": "Klopapier",
+    "article": "das",
+    "plural": "",
+    "translation": "toilet paper",
+    "category": "home",
+    "sentence_de": "Das Klopapier ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The toilet paper is a useful item in the house."
+  },
+  {
+    "id": "kamm",
+    "word": "Kamm",
+    "article": "der",
+    "plural": "Kämme",
+    "translation": "comb",
+    "category": "home",
+    "sentence_de": "Der Kamm ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The comb is a useful item in the house."
+  },
+  {
+    "id": "buerste",
+    "word": "Bürste",
+    "article": "die",
+    "plural": "Bürsten",
+    "translation": "brush",
+    "category": "home",
+    "sentence_de": "Die Bürste ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The brush is a useful item in the house."
+  },
+  {
+    "id": "foehn",
+    "word": "Föhn",
+    "article": "der",
+    "plural": "Föhne",
+    "translation": "hair dryer",
+    "category": "home",
+    "sentence_de": "Der Föhn ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The hair dryer is a useful item in the house."
+  },
+  {
+    "id": "rasierer",
+    "word": "Rasierer",
+    "article": "der",
+    "plural": "Rasierer",
+    "translation": "razor",
+    "category": "home",
+    "sentence_de": "Der Rasierer ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The razor is a useful item in the house."
+  },
+  {
+    "id": "parfuem",
+    "word": "Parfüm",
+    "article": "das",
+    "plural": "Parfüms",
+    "translation": "perfume",
+    "category": "home",
+    "sentence_de": "Das Parfüm ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The perfume is a useful item in the house."
+  },
+  {
+    "id": "waschmittel",
+    "word": "Waschmittel",
+    "article": "das",
+    "plural": "Waschmittel",
+    "translation": "laundry detergent",
+    "category": "home",
+    "sentence_de": "Das Waschmittel ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The laundry detergent is a useful item in the house."
+  },
+  {
+    "id": "spuelmittel",
+    "word": "Spülmittel",
+    "article": "das",
+    "plural": "Spülmittel",
+    "translation": "dish soap",
+    "category": "home",
+    "sentence_de": "Das Spülmittel ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The dish soap is a useful item in the house."
+  },
+  {
+    "id": "muelleimer",
+    "word": "Mülleimer",
+    "article": "der",
+    "plural": "Mülleimer",
+    "translation": "trash can",
+    "category": "home",
+    "sentence_de": "Der Mülleimer ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The trash can is a useful item in the house."
+  },
+  {
+    "id": "muelltonne",
+    "word": "Mülltonne",
+    "article": "die",
+    "plural": "Mülltonnen",
+    "translation": "garbage bin",
+    "category": "home",
+    "sentence_de": "Die Mülltonne ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The garbage bin is a useful item in the house."
+  },
+  {
+    "id": "recycling",
+    "word": "Recycling",
+    "article": "das",
+    "plural": "",
+    "translation": "recycling",
+    "category": "home",
+    "sentence_de": "Das Recycling ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The recycling is a useful item in the house."
+  },
+  {
+    "id": "papierkorb",
+    "word": "Papierkorb",
+    "article": "der",
+    "plural": "Papierkörbe",
+    "translation": "wastepaper basket",
+    "category": "home",
+    "sentence_de": "Der Papierkorb ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The wastepaper basket is a useful item in the house."
+  },
+  {
+    "id": "staub",
+    "word": "Staub",
+    "article": "der",
+    "plural": "",
+    "translation": "dust",
+    "category": "home",
+    "sentence_de": "Der Staub ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The dust is a useful item in the house."
+  },
+  {
+    "id": "besen",
+    "word": "Besen",
+    "article": "der",
+    "plural": "Besen",
+    "translation": "broom",
+    "category": "home",
+    "sentence_de": "Der Besen ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The broom is a useful item in the house."
+  },
+  {
+    "id": "wischer",
+    "word": "Wischer",
+    "article": "der",
+    "plural": "Wischer",
+    "translation": "wiper / mop",
+    "category": "home",
+    "sentence_de": "Der Wischer ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The wiper is a useful item in the house."
+  },
+  {
+    "id": "eimer",
+    "word": "Eimer",
+    "article": "der",
+    "plural": "Eimer",
+    "translation": "bucket",
+    "category": "home",
+    "sentence_de": "Der Eimer ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The bucket is a useful item in the house."
+  },
+  {
+    "id": "lappen",
+    "word": "Lappen",
+    "article": "der",
+    "plural": "Lappen",
+    "translation": "rag / cloth",
+    "category": "home",
+    "sentence_de": "Der Lappen ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The rag is a useful item in the house."
+  },
+  {
+    "id": "schwamm",
+    "word": "Schwamm",
+    "article": "der",
+    "plural": "Schwämme",
+    "translation": "sponge",
+    "category": "home",
+    "sentence_de": "Der Schwamm ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The sponge is a useful item in the house."
+  },
+  {
+    "id": "buegeleisen",
+    "word": "Bügeleisen",
+    "article": "das",
+    "plural": "Bügeleisen",
+    "translation": "iron",
+    "category": "home",
+    "sentence_de": "Das Bügeleisen ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The iron is a useful item in the house."
+  },
+  {
+    "id": "buegelbrett",
+    "word": "Bügelbrett",
+    "article": "das",
+    "plural": "Bügelbretter",
+    "translation": "ironing board",
+    "category": "home",
+    "sentence_de": "Das Bügelbrett ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The ironing board is a useful item in the house."
+  },
+  {
+    "id": "naezeug",
+    "word": "Nähzeug",
+    "article": "das",
+    "plural": "",
+    "translation": "sewing kit",
+    "category": "home",
+    "sentence_de": "Das Nähzeug ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The sewing kit is a useful item in the house."
+  },
+  {
+    "id": "nadel",
+    "word": "Nadel",
+    "article": "die",
+    "plural": "Nadeln",
+    "translation": "needle",
+    "category": "home",
+    "sentence_de": "Die Nadel ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The needle is a useful item in the house."
+  },
+  {
+    "id": "faden",
+    "word": "Faden",
+    "article": "der",
+    "plural": "Fäden",
+    "translation": "thread",
+    "category": "home",
+    "sentence_de": "Der Faden ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The thread is a useful item in the house."
+  },
+  {
+    "id": "schere",
+    "word": "Schere",
+    "article": "die",
+    "plural": "Scheren",
+    "translation": "scissors",
+    "category": "home",
+    "sentence_de": "Die Schere ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The scissors is a useful item in the house."
+  },
+  {
+    "id": "klebeband",
+    "word": "Klebeband",
+    "article": "das",
+    "plural": "",
+    "translation": "tape",
+    "category": "home",
+    "sentence_de": "Das Klebeband ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The tape is a useful item in the house."
+  },
+  {
+    "id": "nagel_bau",
+    "word": "Hammer",
+    "article": "der",
+    "plural": "Hämmer",
+    "translation": "hammer",
+    "category": "tools",
+    "sentence_de": "Mit dem Hammer lässt sich die Reparatur schnell erledigen.",
+    "sentence_en": "With the hammer, the repair can be completed quickly."
+  },
+  {
+    "id": "schraubenzieher",
+    "word": "Schraubenzieher",
+    "article": "der",
+    "plural": "Schraubenzieher",
+    "translation": "screwdriver",
+    "category": "tools",
+    "sentence_de": "Mit dem Schraubenzieher lässt sich die Reparatur schnell erledigen.",
+    "sentence_en": "With the screwdriver, the repair can be completed quickly."
+  },
+  {
+    "id": "schraube",
+    "word": "Schraube",
+    "article": "die",
+    "plural": "Schrauben",
+    "translation": "screw",
+    "category": "tools",
+    "sentence_de": "Mit der Schraube lässt sich die Reparatur schnell erledigen.",
+    "sentence_en": "With the screw, the repair can be completed quickly."
+  },
+  {
+    "id": "zange",
+    "word": "Zange",
+    "article": "die",
+    "plural": "Zangen",
+    "translation": "pliers",
+    "category": "tools",
+    "sentence_de": "Mit der Zange lässt sich die Reparatur schnell erledigen.",
+    "sentence_en": "With the pliers, the repair can be completed quickly."
+  },
+  {
+    "id": "saege",
+    "word": "Säge",
+    "article": "die",
+    "plural": "Sägen",
+    "translation": "saw",
+    "category": "tools",
+    "sentence_de": "Die Säge ist ein nützliches Werkzeug in der modernen Praxis.",
+    "sentence_en": "The saw is a useful tool in modern practice."
+  },
+  {
+    "id": "bohrer",
+    "word": "Bohrer",
+    "article": "der",
+    "plural": "Bohrer",
+    "translation": "drill",
+    "category": "tools",
+    "sentence_de": "Mit dem Bohrer lässt sich die Reparatur schnell erledigen.",
+    "sentence_en": "With the drill, the repair can be completed quickly."
+  },
+  {
+    "id": "bohrmaschine",
+    "word": "Bohrmaschine",
+    "article": "die",
+    "plural": "Bohrmaschinen",
+    "translation": "power drill",
+    "category": "tools",
+    "sentence_de": "Die Bohrmaschine ist ein nützliches Werkzeug in der modernen Praxis.",
+    "sentence_en": "The power drill is a useful tool in modern practice."
+  },
+  {
+    "id": "leiter",
+    "word": "Leiter",
+    "article": "die",
+    "plural": "Leitern",
+    "translation": "ladder",
+    "category": "tools",
+    "sentence_de": "Die Leiter ist ein nützliches Werkzeug in der modernen Praxis.",
+    "sentence_en": "The ladder is a useful tool in modern practice."
+  },
+  {
+    "id": "werkzeug",
+    "word": "Werkzeug",
+    "article": "das",
+    "plural": "Werkzeuge",
+    "translation": "tool",
+    "category": "tools",
+    "sentence_de": "Das Werkzeug ist ein nützliches Werkzeug in der modernen Praxis.",
+    "sentence_en": "The tool is a useful tool in modern practice."
+  },
+  {
+    "id": "werkzeugkasten",
+    "word": "Werkzeugkasten",
+    "article": "der",
+    "plural": "Werkzeugkästen",
+    "translation": "toolbox",
+    "category": "tools",
+    "sentence_de": "Der Werkzeugkasten ist ein nützliches Werkzeug in der modernen Praxis.",
+    "sentence_en": "The toolbox is a useful tool in modern practice."
+  },
+  {
+    "id": "holz",
+    "word": "Holz",
+    "article": "das",
+    "plural": "Hölzer",
+    "translation": "wood",
+    "category": "materials",
+    "sentence_de": "Das Holz ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The wood is an important term in the German language."
+  },
+  {
+    "id": "metall",
+    "word": "Metall",
+    "article": "das",
+    "plural": "Metalle",
+    "translation": "metal",
+    "category": "materials",
+    "sentence_de": "Das Metall ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The metal is an important term in the German language."
+  },
+  {
+    "id": "stahl",
+    "word": "Stahl",
+    "article": "der",
+    "plural": "",
+    "translation": "steel",
+    "category": "materials",
+    "sentence_de": "Der Stahl ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The steel is an important term in the German language."
+  },
+  {
+    "id": "eisen",
+    "word": "Eisen",
+    "article": "das",
+    "plural": "",
+    "translation": "iron (metal)",
+    "category": "materials",
+    "sentence_de": "Das Eisen ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The iron is an important term in the German language."
+  },
+  {
+    "id": "kupfer",
+    "word": "Kupfer",
+    "article": "das",
+    "plural": "",
+    "translation": "copper",
+    "category": "materials",
+    "sentence_de": "Das Kupfer ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The copper is an important term in the German language."
+  },
+  {
+    "id": "aluminium",
+    "word": "Aluminium",
+    "article": "das",
+    "plural": "",
+    "translation": "aluminum",
+    "category": "materials",
+    "sentence_de": "Das Aluminium ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The aluminum is an important term in the German language."
+  },
+  {
+    "id": "kunststoff",
+    "word": "Kunststoff",
+    "article": "der",
+    "plural": "Kunststoffe",
+    "translation": "plastic",
+    "category": "materials",
+    "sentence_de": "Der Kunststoff ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The plastic is an important term in the German language."
+  },
+  {
+    "id": "plastik",
+    "word": "Plastik",
+    "article": "das",
+    "plural": "",
+    "translation": "plastic (colloquial)",
+    "category": "materials",
+    "sentence_de": "Das Plastik ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The plastic is an important term in the German language."
+  },
+  {
+    "id": "pappe",
+    "word": "Pappe",
+    "article": "die",
+    "plural": "",
+    "translation": "cardboard",
+    "category": "materials",
+    "sentence_de": "Die Pappe ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The cardboard is an important term in the German language."
+  },
+  {
+    "id": "karton",
+    "word": "Karton",
+    "article": "der",
+    "plural": "Kartons",
+    "translation": "cardboard box",
+    "category": "materials",
+    "sentence_de": "Der Karton ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The cardboard box is an important term in the German language."
+  },
+  {
+    "id": "stoff",
+    "word": "Stoff",
+    "article": "der",
+    "plural": "Stoffe",
+    "translation": "fabric / material",
+    "category": "materials",
+    "sentence_de": "Der Stoff ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The fabric is an important term in the German language."
+  },
+  {
+    "id": "wolle",
+    "word": "Wolle",
+    "article": "die",
+    "plural": "",
+    "translation": "wool",
+    "category": "materials",
+    "sentence_de": "Die Wolle ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The wool is an important term in the German language."
+  },
+  {
+    "id": "baumwolle",
+    "word": "Baumwolle",
+    "article": "die",
+    "plural": "",
+    "translation": "cotton",
+    "category": "materials",
+    "sentence_de": "Die Baumwolle ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The cotton is an important term in the German language."
+  },
+  {
+    "id": "seide",
+    "word": "Seide",
+    "article": "die",
+    "plural": "",
+    "translation": "silk",
+    "category": "materials",
+    "sentence_de": "Die Seide ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The silk is an important term in the German language."
+  },
+  {
+    "id": "leder",
+    "word": "Leder",
+    "article": "das",
+    "plural": "",
+    "translation": "leather",
+    "category": "materials",
+    "sentence_de": "Das Leder ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The leather is an important term in the German language."
+  },
+  {
+    "id": "gummi",
+    "word": "Gummi",
+    "article": "der",
+    "plural": "Gummis",
+    "translation": "rubber",
+    "category": "materials",
+    "sentence_de": "Der Gummi ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The rubber is an important term in the German language."
+  },
+  {
+    "id": "beton",
+    "word": "Beton",
+    "article": "der",
+    "plural": "",
+    "translation": "concrete",
+    "category": "materials",
+    "sentence_de": "Der Beton ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The concrete is an important term in the German language."
+  },
+  {
+    "id": "ziegel",
+    "word": "Ziegel",
+    "article": "der",
+    "plural": "Ziegel",
+    "translation": "brick",
+    "category": "materials",
+    "sentence_de": "Der Ziegel ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The brick is an important term in the German language."
+  },
+  {
+    "id": "sand",
+    "word": "Sand",
+    "article": "der",
+    "plural": "",
+    "translation": "sand",
+    "category": "materials",
+    "sentence_de": "Der Sand ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The sand is an important term in the German language."
+  },
+  {
+    "id": "erde",
+    "word": "Erde",
+    "article": "die",
+    "plural": "",
+    "translation": "earth / soil",
+    "category": "nature",
+    "sentence_de": "Die Erde zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The earth shows the impressive diversity of nature."
+  },
+  {
+    "id": "lehm",
+    "word": "Lehm",
+    "article": "der",
+    "plural": "",
+    "translation": "clay",
+    "category": "materials",
+    "sentence_de": "Der Lehm ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The clay is an important term in the German language."
+  },
+  {
+    "id": "kreide",
+    "word": "Kreide",
+    "article": "die",
+    "plural": "Kreiden",
+    "translation": "chalk",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute die Kreide.",
+    "sentence_en": "In class today we are covering the chalk."
+  },
+  {
+    "id": "ordner",
+    "word": "Ordner",
+    "article": "der",
+    "plural": "Ordner",
+    "translation": "binder / folder",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute den Ordner.",
+    "sentence_en": "In class today we are covering the binder."
+  },
+  {
+    "id": "mappe",
+    "word": "Mappe",
+    "article": "die",
+    "plural": "Mappen",
+    "translation": "folder / portfolio",
+    "category": "school",
+    "sentence_de": "Die Mappe liegt griffbereit auf der Schulbank.",
+    "sentence_en": "The folder is ready at hand on the school desk."
+  },
+  {
+    "id": "heftklammer",
+    "word": "Heftklammer",
+    "article": "die",
+    "plural": "Heftklammern",
+    "translation": "staple",
+    "category": "school",
+    "sentence_de": "Die Heftklammer liegt griffbereit auf der Schulbank.",
+    "sentence_en": "The staple is ready at hand on the school desk."
+  },
+  {
+    "id": "heftgeraet",
+    "word": "Hefter",
+    "article": "der",
+    "plural": "Hefter",
+    "translation": "stapler",
+    "category": "school",
+    "sentence_de": "Der Hefter liegt griffbereit auf der Schulbank.",
+    "sentence_en": "The stapler is ready at hand on the school desk."
+  },
+  {
+    "id": "locher",
+    "word": "Locher",
+    "article": "der",
+    "plural": "Locher",
+    "translation": "hole punch",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute den Locher.",
+    "sentence_en": "In class today we are covering the hole punch."
+  },
+  {
+    "id": "spitzer",
+    "word": "Spitzer",
+    "article": "der",
+    "plural": "Spitzer",
+    "translation": "pencil sharpener",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute den Spitzer.",
+    "sentence_en": "In class today we are covering the pencil sharpener."
+  },
+  {
+    "id": "marker",
+    "word": "Marker",
+    "article": "der",
+    "plural": "Marker",
+    "translation": "marker",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute den Marker.",
+    "sentence_en": "In class today we are covering the marker."
+  },
+  {
+    "id": "textmarker",
+    "word": "Textmarker",
+    "article": "der",
+    "plural": "Textmarker",
+    "translation": "highlighter",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute den Textmarker.",
+    "sentence_en": "In class today we are covering the highlighter."
+  },
+  {
+    "id": "whiteboard",
+    "word": "Whiteboard",
+    "article": "das",
+    "plural": "Whiteboards",
+    "translation": "whiteboard",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute das Whiteboard.",
+    "sentence_en": "In class today we are covering the whiteboard."
+  },
+  {
+    "id": "projektor",
+    "word": "Projektor",
+    "article": "der",
+    "plural": "Projektoren",
+    "translation": "projector",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute den Projektor.",
+    "sentence_en": "In class today we are covering the projector."
+  },
+  {
+    "id": "leinwand",
+    "word": "Leinwand",
+    "article": "die",
+    "plural": "Leinwände",
+    "translation": "screen / canvas",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute die Leinwand.",
+    "sentence_en": "In class today we are covering the screen."
+  },
+  {
+    "id": "tafelbild",
+    "word": "Tafelbild",
+    "article": "das",
+    "plural": "Tafelbilder",
+    "translation": "board work",
+    "category": "school",
+    "sentence_de": "Das Tafelbild liegt griffbereit auf der Schulbank.",
+    "sentence_en": "The board work is ready at hand on the school desk."
+  },
+  {
+    "id": "referat",
+    "word": "Referat",
+    "article": "das",
+    "plural": "Referate",
+    "translation": "presentation / paper",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute das Referat.",
+    "sentence_en": "In class today we are covering the presentation."
+  },
+  {
+    "id": "vortrag",
+    "word": "Vortrag",
+    "article": "der",
+    "plural": "Vorträge",
+    "translation": "talk / lecture",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute den Vortrag.",
+    "sentence_en": "In class today we are covering the talk."
+  },
+  {
+    "id": "seminar",
+    "word": "Seminar",
+    "article": "das",
+    "plural": "Seminare",
+    "translation": "seminar",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute das Seminar.",
+    "sentence_en": "In class today we are covering the seminar."
+  },
+  {
+    "id": "vorlesung",
+    "word": "Vorlesung",
+    "article": "die",
+    "plural": "Vorlesungen",
+    "translation": "lecture",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute die Vorlesung.",
+    "sentence_en": "In class today we are covering the lecture."
+  },
+  {
+    "id": "klausur",
+    "word": "Klausur",
+    "article": "die",
+    "plural": "Klausuren",
+    "translation": "written exam",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute die Klausur.",
+    "sentence_en": "In class today we are covering the written exam."
+  },
+  {
+    "id": "note",
+    "word": "Note",
+    "article": "die",
+    "plural": "Noten",
+    "translation": "grade / musical note",
+    "category": "school",
+    "sentence_de": "Die Note ist ein lehrreiches Fach in der Schule.",
+    "sentence_en": "The grade is an instructive subject at school."
+  },
+  {
+    "id": "abschluss",
+    "word": "Abschluss",
+    "article": "der",
+    "plural": "Abschlüsse",
+    "translation": "degree / graduation",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute den Abschluss.",
+    "sentence_en": "In class today we are covering the degree."
+  },
+  {
+    "id": "diplom",
+    "word": "Diplom",
+    "article": "das",
+    "plural": "Diplome",
+    "translation": "diploma",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute das Diplom.",
+    "sentence_en": "In class today we are covering the diploma."
+  },
+  {
+    "id": "zertifikat",
+    "word": "Zertifikat",
+    "article": "das",
+    "plural": "Zertifikate",
+    "translation": "certificate",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute das Zertifikat.",
+    "sentence_en": "In class today we are covering the certificate."
+  },
+  {
+    "id": "praktikum",
+    "word": "Praktikum",
+    "article": "das",
+    "plural": "Praktika",
+    "translation": "internship",
+    "category": "work",
+    "sentence_de": "Das Praktikum ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The internship is an important term in the German language."
+  },
+  {
+    "id": "ausbildung",
+    "word": "Ausbildung",
+    "article": "die",
+    "plural": "Ausbildungen",
+    "translation": "apprenticeship / training",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute die Ausbildung.",
+    "sentence_en": "In class today we are covering the apprenticeship."
+  },
+  {
+    "id": "berufsschule",
+    "word": "Berufsschule",
+    "article": "die",
+    "plural": "Berufsschulen",
+    "translation": "vocational school",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute die Berufsschule.",
+    "sentence_en": "In class today we are covering the vocational school."
+  },
+  {
+    "id": "uni",
+    "word": "Uni",
+    "article": "die",
+    "plural": "Unis",
+    "translation": "uni (short)",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute die Uni.",
+    "sentence_en": "In class today we are covering the uni."
+  },
+  {
+    "id": "hochschule",
+    "word": "Hochschule",
+    "article": "die",
+    "plural": "Hochschulen",
+    "translation": "college / university",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute die Hochschule.",
+    "sentence_en": "In class today we are covering the college."
+  },
+  {
+    "id": "mensa",
+    "word": "Mensa",
+    "article": "die",
+    "plural": "Mensen",
+    "translation": "cafeteria (campus)",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute die Mensa.",
+    "sentence_en": "In class today we are covering the cafeteria."
+  },
+  {
+    "id": "campus",
+    "word": "Campus",
+    "article": "der",
+    "plural": "Campusse",
+    "translation": "campus",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute den Campus.",
+    "sentence_en": "In class today we are covering the campus."
+  },
+  {
+    "id": "lesesaal",
+    "word": "Lesesaal",
+    "article": "der",
+    "plural": "Lesesäle",
+    "translation": "reading room",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute den Lesesaal.",
+    "sentence_en": "In class today we are covering the reading room."
+  },
+  {
+    "id": "labor",
+    "word": "Labor",
+    "article": "das",
+    "plural": "Labore",
+    "translation": "laboratory",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute das Labor.",
+    "sentence_en": "In class today we are covering the laboratory."
+  },
+  {
+    "id": "experiment",
+    "word": "Experiment",
+    "article": "das",
+    "plural": "Experimente",
+    "translation": "experiment",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute das Experiment.",
+    "sentence_en": "In class today we are covering the experiment."
+  },
+  {
+    "id": "ergebnis",
+    "word": "Ergebnis",
+    "article": "das",
+    "plural": "Ergebnisse",
+    "translation": "result",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute das Ergebnis.",
+    "sentence_en": "In class today we are covering the result."
+  },
+  {
+    "id": "loesung",
+    "word": "Lösung",
+    "article": "die",
+    "plural": "Lösungen",
+    "translation": "solution",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute die Lösung.",
+    "sentence_en": "In class today we are covering the solution."
+  },
+  {
+    "id": "regel",
+    "word": "Regel",
+    "article": "die",
+    "plural": "Regeln",
+    "translation": "rule",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute die Regel.",
+    "sentence_en": "In class today we are covering the rule."
+  },
+  {
+    "id": "gesetz",
+    "word": "Gesetz",
+    "article": "das",
+    "plural": "Gesetze",
+    "translation": "law",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute das Gesetz.",
+    "sentence_en": "In class today we are covering the law."
+  },
+  {
+    "id": "recht",
+    "word": "Recht",
+    "article": "das",
+    "plural": "Rechte",
+    "translation": "right / law",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute das Recht.",
+    "sentence_en": "In class today we are covering the right."
+  },
+  {
+    "id": "pflicht",
+    "word": "Pflicht",
+    "article": "die",
+    "plural": "Pflichten",
+    "translation": "duty",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute die Pflicht.",
+    "sentence_en": "In class today we are covering the duty."
+  },
+  {
+    "id": "freiheit",
+    "word": "Freiheit",
+    "article": "die",
+    "plural": "Freiheiten",
+    "translation": "freedom",
+    "category": "feelings",
+    "sentence_de": "Die Freiheit prägt unsere menschlichen Erfahrungen tief.",
+    "sentence_en": "The freedom deeply shapes our human experiences."
+  },
+  {
+    "id": "frieden",
+    "word": "Frieden",
+    "article": "der",
+    "plural": "",
+    "translation": "peace",
+    "category": "feelings",
+    "sentence_de": "Der Frieden prägt unsere menschlichen Erfahrungen tief.",
+    "sentence_en": "The peace deeply shapes our human experiences."
+  },
+  {
+    "id": "krieg",
+    "word": "Krieg",
+    "article": "der",
+    "plural": "Kriege",
+    "translation": "war",
+    "category": "events",
+    "sentence_de": "Der Krieg ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The war is an important term in the German language."
+  },
+  {
+    "id": "grenze",
+    "word": "Grenze",
+    "article": "die",
+    "plural": "Grenzen",
+    "translation": "border",
+    "category": "geography",
+    "sentence_de": "Die Grenze ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The border is an important term in the German language."
+  },
+  {
+    "id": "staat",
+    "word": "Staat",
+    "article": "der",
+    "plural": "Staaten",
+    "translation": "state / country",
+    "category": "geography",
+    "sentence_de": "Der Staat ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The state is an important term in the German language."
+  },
+  {
+    "id": "hauptstadt",
+    "word": "Hauptstadt",
+    "article": "die",
+    "plural": "Hauptstädte",
+    "translation": "capital city",
+    "category": "geography",
+    "sentence_de": "Die Hauptstadt ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The capital city is an important term in the German language."
+  },
+  {
+    "id": "bundesland",
+    "word": "Bundesland",
+    "article": "das",
+    "plural": "Bundesländer",
+    "translation": "federal state",
+    "category": "geography",
+    "sentence_de": "Das Bundesland ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The federal state is an important term in the German language."
+  },
+  {
+    "id": "kreis",
+    "word": "Kreis",
+    "article": "der",
+    "plural": "Kreise",
+    "translation": "district / circle",
+    "category": "geography",
+    "sentence_de": "Der Kreis ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The district is an important term in the German language."
+  },
+  {
+    "id": "gemeinde",
+    "word": "Gemeinde",
+    "article": "die",
+    "plural": "Gemeinden",
+    "translation": "municipality / parish",
+    "category": "geography",
+    "sentence_de": "Die Gemeinde ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The municipality is an important term in the German language."
+  },
+  {
+    "id": "vorort",
+    "word": "Vorort",
+    "article": "der",
+    "plural": "Vororte",
+    "translation": "suburb",
+    "category": "city",
+    "sentence_de": "Wir erreichen den Vorort nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the suburb after a short ride."
+  },
+  {
+    "id": "viertel_stadt",
+    "word": "Viertel",
+    "article": "das",
+    "plural": "Viertel",
+    "translation": "neighborhood / quarter",
+    "category": "city",
+    "sentence_de": "Wir erreichen das Viertel nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the neighborhood after a short ride."
+  },
+  {
+    "id": "altstadt",
+    "word": "Altstadt",
+    "article": "die",
+    "plural": "Altstädte",
+    "translation": "old town",
+    "category": "city",
+    "sentence_de": "Die Altstadt ist ein zentraler Treffpunkt in der Umgebung.",
+    "sentence_en": "The old town is a central meeting place in the area."
+  },
+  {
+    "id": "innenstadt",
+    "word": "Innenstadt",
+    "article": "die",
+    "plural": "Innenstädte",
+    "translation": "city center",
+    "category": "city",
+    "sentence_de": "Die Innenstadt ist ein zentraler Treffpunkt in der Umgebung.",
+    "sentence_en": "The city center is a central meeting place in the area."
+  },
+  {
+    "id": "fussgaengerzone",
+    "word": "Fußgängerzone",
+    "article": "die",
+    "plural": "Fußgängerzonen",
+    "translation": "pedestrian zone",
+    "category": "city",
+    "sentence_de": "Wir erreichen die Fußgängerzone nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the pedestrian zone after a short ride."
+  },
+  {
+    "id": "gehweg",
+    "word": "Gehweg",
+    "article": "der",
+    "plural": "Gehwege",
+    "translation": "sidewalk",
+    "category": "city",
+    "sentence_de": "Wir erreichen den Gehweg nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the sidewalk after a short ride."
+  },
+  {
+    "id": "radweg",
+    "word": "Radweg",
+    "article": "der",
+    "plural": "Radwege",
+    "translation": "bike path",
+    "category": "transport",
+    "sentence_de": "Wir erreichen den Radweg nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the bike path after a short ride."
+  },
+  {
+    "id": "tunnel",
+    "word": "Tunnel",
+    "article": "der",
+    "plural": "Tunnel",
+    "translation": "tunnel",
+    "category": "transport",
+    "sentence_de": "Wir erreichen den Tunnel nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the tunnel after a short ride."
+  },
+  {
+    "id": "kreisverkehr",
+    "word": "Kreisverkehr",
+    "article": "der",
+    "plural": "Kreisverkehre",
+    "translation": "roundabout",
+    "category": "transport",
+    "sentence_de": "Wir erreichen den Kreisverkehr nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the roundabout after a short ride."
+  },
+  {
+    "id": "landstrasse",
+    "word": "Landstraße",
+    "article": "die",
+    "plural": "Landstraßen",
+    "translation": "country road",
+    "category": "transport",
+    "sentence_de": "Wir erreichen die Landstraße nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the country road after a short ride."
+  },
+  {
+    "id": "gasse",
+    "word": "Gasse",
+    "article": "die",
+    "plural": "Gassen",
+    "translation": "alley",
+    "category": "city",
+    "sentence_de": "Wir erreichen die Gasse nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the alley after a short ride."
+  },
+  {
+    "id": "brunnen",
+    "word": "Brunnen",
+    "article": "der",
+    "plural": "Brunnen",
+    "translation": "fountain / well",
+    "category": "city",
+    "sentence_de": "Wir erreichen den Brunnen nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the fountain after a short ride."
+  },
+  {
+    "id": "denkmal",
+    "word": "Denkmal",
+    "article": "das",
+    "plural": "Denkmäler",
+    "translation": "monument",
+    "category": "city",
+    "sentence_de": "Wir erreichen das Denkmal nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the monument after a short ride."
+  },
+  {
+    "id": "schloss",
+    "word": "Schloss",
+    "article": "das",
+    "plural": "Schlösser",
+    "translation": "castle / lock",
+    "category": "city",
+    "sentence_de": "Wir erreichen das Schloss nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the castle after a short ride."
+  },
+  {
+    "id": "burg",
+    "word": "Burg",
+    "article": "die",
+    "plural": "Burgen",
+    "translation": "fortress / castle",
+    "category": "city",
+    "sentence_de": "Wir erreichen die Burg nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the fortress after a short ride."
+  },
+  {
+    "id": "dom",
+    "word": "Dom",
+    "article": "der",
+    "plural": "Dome",
+    "translation": "cathedral",
+    "category": "city",
+    "sentence_de": "Wir erreichen den Dom nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the cathedral after a short ride."
+  },
+  {
+    "id": "moschee",
+    "word": "Moschee",
+    "article": "die",
+    "plural": "Moscheen",
+    "translation": "mosque",
+    "category": "city",
+    "sentence_de": "Wir erreichen die Moschee nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the mosque after a short ride."
+  },
+  {
+    "id": "synagoge",
+    "word": "Synagoge",
+    "article": "die",
+    "plural": "Synagogen",
+    "translation": "synagogue",
+    "category": "city",
+    "sentence_de": "Wir erreichen die Synagoge nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the synagogue after a short ride."
+  },
+  {
+    "id": "tempel",
+    "word": "Tempel",
+    "article": "der",
+    "plural": "Tempel",
+    "translation": "temple",
+    "category": "city",
+    "sentence_de": "Wir erreichen den Tempel nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the temple after a short ride."
+  },
+  {
+    "id": "friedhof",
+    "word": "Friedhof",
+    "article": "der",
+    "plural": "Friedhöfe",
+    "translation": "cemetery",
+    "category": "city",
+    "sentence_de": "Wir erreichen den Friedhof nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the cemetery after a short ride."
+  },
+  {
+    "id": "drogerie",
+    "word": "Drogerie",
+    "article": "die",
+    "plural": "Drogerien",
+    "translation": "drugstore",
+    "category": "city",
+    "sentence_de": "Wir erreichen die Drogerie nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the drugstore after a short ride."
+  },
+  {
+    "id": "metzgerei",
+    "word": "Metzgerei",
+    "article": "die",
+    "plural": "Metzgereien",
+    "translation": "butcher shop",
+    "category": "city",
+    "sentence_de": "Wir erreichen die Metzgerei nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the butcher shop after a short ride."
+  },
+  {
+    "id": "konditorei",
+    "word": "Konditorei",
+    "article": "die",
+    "plural": "Konditoreien",
+    "translation": "pastry shop",
+    "category": "city",
+    "sentence_de": "Wir erreichen die Konditorei nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the pastry shop after a short ride."
+  },
+  {
+    "id": "discounter",
+    "word": "Discounter",
+    "article": "der",
+    "plural": "Discounter",
+    "translation": "discount supermarket",
+    "category": "city",
+    "sentence_de": "Wir erreichen den Discounter nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the discount supermarket after a short ride."
+  },
+  {
+    "id": "kaufhaus",
+    "word": "Kaufhaus",
+    "article": "das",
+    "plural": "Kaufhäuser",
+    "translation": "department store",
+    "category": "city",
+    "sentence_de": "Wir erreichen das Kaufhaus nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the department store after a short ride."
+  },
+  {
+    "id": "einkaufszentrum",
+    "word": "Einkaufszentrum",
+    "article": "das",
+    "plural": "Einkaufszentren",
+    "translation": "shopping mall",
+    "category": "city",
+    "sentence_de": "Wir erreichen das Einkaufszentrum nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the shopping mall after a short ride."
+  },
+  {
+    "id": "fussballplatz",
+    "word": "Fußballplatz",
+    "article": "der",
+    "plural": "Fußballplätze",
+    "translation": "soccer field",
+    "category": "sports",
+    "sentence_de": "Der Fußballplatz fördert Fitness, Teamgeist und Begeisterung.",
+    "sentence_en": "The soccer field promotes fitness, team spirit, and enthusiasm."
+  },
+  {
+    "id": "stadion",
+    "word": "Stadion",
+    "article": "das",
+    "plural": "Stadien",
+    "translation": "stadium",
+    "category": "sports",
+    "sentence_de": "Das Stadion bereitet in der Freizeit großen Spaß.",
+    "sentence_en": "The stadium brings great joy during leisure time."
+  },
+  {
+    "id": "sporthalle",
+    "word": "Sporthalle",
+    "article": "die",
+    "plural": "Sporthallen",
+    "translation": "sports hall",
+    "category": "sports",
+    "sentence_de": "Die Sporthalle fördert Fitness, Teamgeist und Begeisterung.",
+    "sentence_en": "The sports hall promotes fitness, team spirit, and enthusiasm."
+  },
+  {
+    "id": "schwimmbad",
+    "word": "Schwimmbad",
+    "article": "das",
+    "plural": "Schwimmbäder",
+    "translation": "swimming pool",
+    "category": "sports",
+    "sentence_de": "Das Schwimmbad bereitet in der Freizeit großen Spaß.",
+    "sentence_en": "The swimming pool brings great joy during leisure time."
+  },
+  {
+    "id": "becken",
+    "word": "Becken",
+    "article": "das",
+    "plural": "Becken",
+    "translation": "pool / basin / pelvis",
+    "category": "sports",
+    "sentence_de": "Das Becken bereitet in der Freizeit großen Spaß.",
+    "sentence_en": "The pool brings great joy during leisure time."
+  },
+  {
+    "id": "turnhalle",
+    "word": "Turnhalle",
+    "article": "die",
+    "plural": "Turnhallen",
+    "translation": "gymnasium",
+    "category": "sports",
+    "sentence_de": "Die Turnhalle bereitet in der Freizeit großen Spaß.",
+    "sentence_en": "The gymnasium brings great joy during leisure time."
+  },
+  {
+    "id": "fitnessstudio",
+    "word": "Fitnessstudio",
+    "article": "das",
+    "plural": "Fitnessstudios",
+    "translation": "gym",
+    "category": "sports",
+    "sentence_de": "Das Fitnessstudio bereitet in der Freizeit großen Spaß.",
+    "sentence_en": "The gym brings great joy during leisure time."
+  },
+  {
+    "id": "training",
+    "word": "Training",
+    "article": "das",
+    "plural": "Trainings",
+    "translation": "training",
+    "category": "sports",
+    "sentence_de": "Das Training fördert Fitness, Teamgeist und Begeisterung.",
+    "sentence_en": "The training promotes fitness, team spirit, and enthusiasm."
+  },
+  {
+    "id": "trainer",
+    "word": "Trainer",
+    "article": "der",
+    "plural": "Trainer",
+    "translation": "coach (male)",
+    "category": "sports",
+    "sentence_de": "Der Trainer bereitet in der Freizeit großen Spaß.",
+    "sentence_en": "The coach brings great joy during leisure time."
+  },
+  {
+    "id": "trainerin",
+    "word": "Trainerin",
+    "article": "die",
+    "plural": "Trainerinnen",
+    "translation": "coach (female)",
+    "category": "sports",
+    "sentence_de": "Die Trainerin bereitet in der Freizeit großen Spaß.",
+    "sentence_en": "The coach brings great joy during leisure time."
+  },
+  {
+    "id": "mannschaft",
+    "word": "Mannschaft",
+    "article": "die",
+    "plural": "Mannschaften",
+    "translation": "team",
+    "category": "sports",
+    "sentence_de": "Die Mannschaft fördert Fitness, Teamgeist und Begeisterung.",
+    "sentence_en": "The team promotes fitness, team spirit, and enthusiasm."
+  },
+  {
+    "id": "spieler",
+    "word": "Spieler",
+    "article": "der",
+    "plural": "Spieler",
+    "translation": "player (male)",
+    "category": "sports",
+    "sentence_de": "Der Spieler fördert Fitness, Teamgeist und Begeisterung.",
+    "sentence_en": "The player promotes fitness, team spirit, and enthusiasm."
+  },
+  {
+    "id": "spielerin",
+    "word": "Spielerin",
+    "article": "die",
+    "plural": "Spielerinnen",
+    "translation": "player (female)",
+    "category": "sports",
+    "sentence_de": "Die Spielerin fördert Fitness, Teamgeist und Begeisterung.",
+    "sentence_en": "The player promotes fitness, team spirit, and enthusiasm."
+  },
+  {
+    "id": "tor",
+    "word": "Tor",
+    "article": "das",
+    "plural": "Tore",
+    "translation": "goal / gate",
+    "category": "sports",
+    "sentence_de": "Das Tor bereitet in der Freizeit großen Spaß.",
+    "sentence_en": "The goal brings great joy during leisure time."
+  },
+  {
+    "id": "ball",
+    "word": "Ball",
+    "article": "der",
+    "plural": "Bälle",
+    "translation": "ball",
+    "category": "sports",
+    "sentence_de": "Der Ball fördert Fitness, Teamgeist und Begeisterung.",
+    "sentence_en": "The ball promotes fitness, team spirit, and enthusiasm."
+  },
+  {
+    "id": "basketball",
+    "word": "Basketball",
+    "article": "der",
+    "plural": "",
+    "translation": "basketball",
+    "category": "sports",
+    "sentence_de": "Der Basketball fördert Fitness, Teamgeist und Begeisterung.",
+    "sentence_en": "The basketball promotes fitness, team spirit, and enthusiasm."
+  },
+  {
+    "id": "volleyball",
+    "word": "Volleyball",
+    "article": "der",
+    "plural": "",
+    "translation": "volleyball",
+    "category": "sports",
+    "sentence_de": "Der Volleyball fördert Fitness, Teamgeist und Begeisterung.",
+    "sentence_en": "The volleyball promotes fitness, team spirit, and enthusiasm."
+  },
+  {
+    "id": "handball",
+    "word": "Handball",
+    "article": "der",
+    "plural": "",
+    "translation": "handball",
+    "category": "sports",
+    "sentence_de": "Der Handball fördert Fitness, Teamgeist und Begeisterung.",
+    "sentence_en": "The handball promotes fitness, team spirit, and enthusiasm."
+  },
+  {
+    "id": "tennis",
+    "word": "Tennis",
+    "article": "das",
+    "plural": "",
+    "translation": "tennis",
+    "category": "sports",
+    "sentence_de": "Das Tennis fördert Fitness, Teamgeist und Begeisterung.",
+    "sentence_en": "The tennis promotes fitness, team spirit, and enthusiasm."
+  },
+  {
+    "id": "tischtennis",
+    "word": "Tischtennis",
+    "article": "das",
+    "plural": "",
+    "translation": "table tennis",
+    "category": "sports",
+    "sentence_de": "Das Tischtennis fördert Fitness, Teamgeist und Begeisterung.",
+    "sentence_en": "The table tennis promotes fitness, team spirit, and enthusiasm."
+  },
+  {
+    "id": "golf",
+    "word": "Golf",
+    "article": "das",
+    "plural": "",
+    "translation": "golf",
+    "category": "sports",
+    "sentence_de": "Das Golf bereitet in der Freizeit großen Spaß.",
+    "sentence_en": "The golf brings great joy during leisure time."
+  },
+  {
+    "id": "hockey",
+    "word": "Hockey",
+    "article": "das",
+    "plural": "",
+    "translation": "hockey",
+    "category": "sports",
+    "sentence_de": "Das Hockey bereitet in der Freizeit großen Spaß.",
+    "sentence_en": "The hockey brings great joy during leisure time."
+  },
+  {
+    "id": "eishockey",
+    "word": "Eishockey",
+    "article": "das",
+    "plural": "",
+    "translation": "ice hockey",
+    "category": "sports",
+    "sentence_de": "Das Eishockey bereitet in der Freizeit großen Spaß.",
+    "sentence_en": "The ice hockey brings great joy during leisure time."
+  },
+  {
+    "id": "ski",
+    "word": "Ski",
+    "article": "der",
+    "plural": "Ski",
+    "translation": "ski",
+    "category": "sports",
+    "sentence_de": "Der Ski bereitet in der Freizeit großen Spaß.",
+    "sentence_en": "The ski brings great joy during leisure time."
+  },
+  {
+    "id": "schlitten",
+    "word": "Schlitten",
+    "article": "der",
+    "plural": "Schlitten",
+    "translation": "sled",
+    "category": "sports",
+    "sentence_de": "Der Schlitten bereitet in der Freizeit großen Spaß.",
+    "sentence_en": "The sled brings great joy during leisure time."
+  },
+  {
+    "id": "eislauf",
+    "word": "Eislauf",
+    "article": "der",
+    "plural": "",
+    "translation": "ice skating",
+    "category": "sports",
+    "sentence_de": "Der Eislauf bereitet in der Freizeit großen Spaß.",
+    "sentence_en": "The ice skating brings great joy during leisure time."
+  },
+  {
+    "id": "schwimmen",
+    "word": "Schwimmen",
+    "article": "das",
+    "plural": "",
+    "translation": "swimming",
+    "category": "sports",
+    "sentence_de": "Das Schwimmen bereitet in der Freizeit großen Spaß.",
+    "sentence_en": "The swimming brings great joy during leisure time."
+  },
+  {
+    "id": "laufen",
+    "word": "Laufen",
+    "article": "das",
+    "plural": "",
+    "translation": "running",
+    "category": "sports",
+    "sentence_de": "Das Laufen bereitet in der Freizeit großen Spaß.",
+    "sentence_en": "The running brings great joy during leisure time."
+  },
+  {
+    "id": "radfahren",
+    "word": "Radfahren",
+    "article": "das",
+    "plural": "",
+    "translation": "cycling",
+    "category": "sports",
+    "sentence_de": "Das Radfahren bereitet in der Freizeit großen Spaß.",
+    "sentence_en": "The cycling brings great joy during leisure time."
+  },
+  {
+    "id": "wandern",
+    "word": "Wandern",
+    "article": "das",
+    "plural": "",
+    "translation": "hiking",
+    "category": "sports",
+    "sentence_de": "Das Wandern bereitet in der Freizeit großen Spaß.",
+    "sentence_en": "The hiking brings great joy during leisure time."
+  },
+  {
+    "id": "klettern",
+    "word": "Klettern",
+    "article": "das",
+    "plural": "",
+    "translation": "climbing",
+    "category": "sports",
+    "sentence_de": "Das Klettern bereitet in der Freizeit großen Spaß.",
+    "sentence_en": "The climbing brings great joy during leisure time."
+  },
+  {
+    "id": "yoga",
+    "word": "Yoga",
+    "article": "das",
+    "plural": "",
+    "translation": "yoga",
+    "category": "sports",
+    "sentence_de": "Das Yoga bereitet in der Freizeit großen Spaß.",
+    "sentence_en": "The yoga brings great joy during leisure time."
+  },
+  {
+    "id": "kampf",
+    "word": "Kampf",
+    "article": "der",
+    "plural": "Kämpfe",
+    "translation": "fight / match",
+    "category": "sports",
+    "sentence_de": "Der Kampf bereitet in der Freizeit großen Spaß.",
+    "sentence_en": "The fight brings great joy during leisure time."
+  },
+  {
+    "id": "sieg",
+    "word": "Sieg",
+    "article": "der",
+    "plural": "Siege",
+    "translation": "victory",
+    "category": "sports",
+    "sentence_de": "Der Sieg bereitet in der Freizeit großen Spaß.",
+    "sentence_en": "The victory brings great joy during leisure time."
+  },
+  {
+    "id": "niederlage",
+    "word": "Niederlage",
+    "article": "die",
+    "plural": "Niederlagen",
+    "translation": "defeat",
+    "category": "sports",
+    "sentence_de": "Die Niederlage bereitet in der Freizeit großen Spaß.",
+    "sentence_en": "The defeat brings great joy during leisure time."
+  },
+  {
+    "id": "meisterschaft",
+    "word": "Meisterschaft",
+    "article": "die",
+    "plural": "Meisterschaften",
+    "translation": "championship",
+    "category": "sports",
+    "sentence_de": "Die Meisterschaft bereitet in der Freizeit großen Spaß.",
+    "sentence_en": "The championship brings great joy during leisure time."
+  },
+  {
+    "id": "turnier",
+    "word": "Turnier",
+    "article": "das",
+    "plural": "Turniere",
+    "translation": "tournament",
+    "category": "sports",
+    "sentence_de": "Das Turnier fördert Fitness, Teamgeist und Begeisterung.",
+    "sentence_en": "The tournament promotes fitness, team spirit, and enthusiasm."
+  },
+  {
+    "id": "medaille",
+    "word": "Medaille",
+    "article": "die",
+    "plural": "Medaillen",
+    "translation": "medal",
+    "category": "sports",
+    "sentence_de": "Die Medaille bereitet in der Freizeit großen Spaß.",
+    "sentence_en": "The medal brings great joy during leisure time."
+  },
+  {
+    "id": "pokal",
+    "word": "Pokal",
+    "article": "der",
+    "plural": "Pokale",
+    "translation": "trophy / cup",
+    "category": "sports",
+    "sentence_de": "Der Pokal bereitet in der Freizeit großen Spaß.",
+    "sentence_en": "The trophy brings great joy during leisure time."
+  },
+  {
+    "id": "rekord",
+    "word": "Rekord",
+    "article": "der",
+    "plural": "Rekorde",
+    "translation": "record",
+    "category": "sports",
+    "sentence_de": "Der Rekord bereitet in der Freizeit großen Spaß.",
+    "sentence_en": "The record brings great joy during leisure time."
+  },
+  {
+    "id": "schiedsrichter",
+    "word": "Schiedsrichter",
+    "article": "der",
+    "plural": "Schiedsrichter",
+    "translation": "referee",
+    "category": "sports",
+    "sentence_de": "Der Schiedsrichter bereitet in der Freizeit großen Spaß.",
+    "sentence_en": "The referee brings great joy during leisure time."
+  },
+  {
+    "id": "gitarre",
+    "word": "Gitarre",
+    "article": "die",
+    "plural": "Gitarren",
+    "translation": "guitar",
+    "category": "music",
+    "sentence_de": "Die Gitarre erzeugt wunderschöne und harmonische Klänge.",
+    "sentence_en": "The guitar produces beautiful and harmonious sounds."
+  },
+  {
+    "id": "klavier",
+    "word": "Klavier",
+    "article": "das",
+    "plural": "Klaviere",
+    "translation": "piano",
+    "category": "music",
+    "sentence_de": "Das Klavier erzeugt wunderschöne und harmonische Klänge.",
+    "sentence_en": "The piano produces beautiful and harmonious sounds."
+  },
+  {
+    "id": "geige",
+    "word": "Geige",
+    "article": "die",
+    "plural": "Geigen",
+    "translation": "violin",
+    "category": "music",
+    "sentence_de": "Die Geige erzeugt wunderschöne und harmonische Klänge.",
+    "sentence_en": "The violin produces beautiful and harmonious sounds."
+  },
+  {
+    "id": "floete",
+    "word": "Flöte",
+    "article": "die",
+    "plural": "Flöten",
+    "translation": "flute",
+    "category": "music",
+    "sentence_de": "Die Flöte bereitet in der Freizeit großen Spaß.",
+    "sentence_en": "The flute brings great joy during leisure time."
+  },
+  {
+    "id": "trompete",
+    "word": "Trompete",
+    "article": "die",
+    "plural": "Trompeten",
+    "translation": "trumpet",
+    "category": "music",
+    "sentence_de": "Die Trompete erzeugt wunderschöne und harmonische Klänge.",
+    "sentence_en": "The trumpet produces beautiful and harmonious sounds."
+  },
+  {
+    "id": "schlagzeug",
+    "word": "Schlagzeug",
+    "article": "das",
+    "plural": "Schlagzeuge",
+    "translation": "drums",
+    "category": "music",
+    "sentence_de": "Das Schlagzeug erzeugt wunderschöne und harmonische Klänge.",
+    "sentence_en": "The drums produces beautiful and harmonious sounds."
+  },
+  {
+    "id": "geige_cello",
+    "word": "Cello",
+    "article": "das",
+    "plural": "Celli",
+    "translation": "cello",
+    "category": "music",
+    "sentence_de": "Das Cello bereitet in der Freizeit großen Spaß.",
+    "sentence_en": "The cello brings great joy during leisure time."
+  },
+  {
+    "id": "harfe",
+    "word": "Harfe",
+    "article": "die",
+    "plural": "Harfen",
+    "translation": "harp",
+    "category": "music",
+    "sentence_de": "Die Harfe bereitet in der Freizeit großen Spaß.",
+    "sentence_en": "The harp brings great joy during leisure time."
+  },
+  {
+    "id": "orchester",
+    "word": "Orchester",
+    "article": "das",
+    "plural": "Orchester",
+    "translation": "orchestra",
+    "category": "music",
+    "sentence_de": "Das Orchester erzeugt wunderschöne und harmonische Klänge.",
+    "sentence_en": "The orchestra produces beautiful and harmonious sounds."
+  },
+  {
+    "id": "chor",
+    "word": "Chor",
+    "article": "der",
+    "plural": "Chöre",
+    "translation": "choir",
+    "category": "music",
+    "sentence_de": "Der Chor bereitet in der Freizeit großen Spaß.",
+    "sentence_en": "The choir brings great joy during leisure time."
+  },
+  {
+    "id": "lied",
+    "word": "Lied",
+    "article": "das",
+    "plural": "Lieder",
+    "translation": "song",
+    "category": "music",
+    "sentence_de": "Das Lied erzeugt wunderschöne und harmonische Klänge.",
+    "sentence_en": "The song produces beautiful and harmonious sounds."
+  },
+  {
+    "id": "melodie",
+    "word": "Melodie",
+    "article": "die",
+    "plural": "Melodien",
+    "translation": "melody",
+    "category": "music",
+    "sentence_de": "Die Melodie erzeugt wunderschöne und harmonische Klänge.",
+    "sentence_en": "The melody produces beautiful and harmonious sounds."
+  },
+  {
+    "id": "rhythmus",
+    "word": "Rhythmus",
+    "article": "der",
+    "plural": "Rhythmen",
+    "translation": "rhythm",
+    "category": "music",
+    "sentence_de": "Der Rhythmus bereitet in der Freizeit großen Spaß.",
+    "sentence_en": "The rhythm brings great joy during leisure time."
+  },
+  {
+    "id": "ton",
+    "word": "Ton",
+    "article": "der",
+    "plural": "Töne",
+    "translation": "tone / sound / clay",
+    "category": "music",
+    "sentence_de": "Der Ton bereitet in der Freizeit großen Spaß.",
+    "sentence_en": "The tone brings great joy during leisure time."
+  },
+  {
+    "id": "laut",
+    "word": "Laut",
+    "article": "der",
+    "plural": "Laute",
+    "translation": "sound",
+    "category": "music",
+    "sentence_de": "Der Laut bereitet in der Freizeit großen Spaß.",
+    "sentence_en": "The sound brings great joy during leisure time."
+  },
+  {
+    "id": "geraeusch",
+    "word": "Geräusch",
+    "article": "das",
+    "plural": "Geräusche",
+    "translation": "noise",
+    "category": "music",
+    "sentence_de": "Das Geräusch bereitet in der Freizeit großen Spaß.",
+    "sentence_en": "The noise brings great joy during leisure time."
+  },
+  {
+    "id": "stille",
+    "word": "Stille",
+    "article": "die",
+    "plural": "",
+    "translation": "silence",
+    "category": "feelings",
+    "sentence_de": "Die Stille prägt unsere menschlichen Erfahrungen tief.",
+    "sentence_en": "The silence deeply shapes our human experiences."
+  },
+  {
+    "id": "festival",
+    "word": "Festival",
+    "article": "das",
+    "plural": "Festivals",
+    "translation": "festival",
+    "category": "music",
+    "sentence_de": "Das Festival bereitet in der Freizeit großen Spaß.",
+    "sentence_en": "The festival brings great joy during leisure time."
+  },
+  {
+    "id": "album",
+    "word": "Album",
+    "article": "das",
+    "plural": "Alben",
+    "translation": "album",
+    "category": "music",
+    "sentence_de": "Das Album bereitet in der Freizeit großen Spaß.",
+    "sentence_en": "The album brings great joy during leisure time."
+  },
+  {
+    "id": "kopfhoerer",
+    "word": "Kopfhörer",
+    "article": "der",
+    "plural": "Kopfhörer",
+    "translation": "headphones",
+    "category": "technology",
+    "sentence_de": "Der Kopfhörer ist ein nützliches Werkzeug in der modernen Praxis.",
+    "sentence_en": "The headphones is a useful tool in modern practice."
+  },
+  {
+    "id": "lautsprecher",
+    "word": "Lautsprecher",
+    "article": "der",
+    "plural": "Lautsprecher",
+    "translation": "speaker",
+    "category": "technology",
+    "sentence_de": "Der Lautsprecher ist ein nützliches Werkzeug in der modernen Praxis.",
+    "sentence_en": "The speaker is a useful tool in modern practice."
+  },
+  {
+    "id": "mikrofon",
+    "word": "Mikrofon",
+    "article": "das",
+    "plural": "Mikrofone",
+    "translation": "microphone",
+    "category": "technology",
+    "sentence_de": "Das Mikrofon ist ein nützliches Werkzeug in der modernen Praxis.",
+    "sentence_en": "The microphone is a useful tool in modern practice."
+  },
+  {
+    "id": "fernbedienung",
+    "word": "Fernbedienung",
+    "article": "die",
+    "plural": "Fernbedienungen",
+    "translation": "remote control",
+    "category": "technology",
+    "sentence_de": "Die Fernbedienung ist ein nützliches Werkzeug in der modernen Praxis.",
+    "sentence_en": "The remote control is a useful tool in modern practice."
+  },
+  {
+    "id": "antenne",
+    "word": "Antenne",
+    "article": "die",
+    "plural": "Antennen",
+    "translation": "antenna",
+    "category": "technology",
+    "sentence_de": "Die Antenne ist ein nützliches Werkzeug in der modernen Praxis.",
+    "sentence_en": "The antenna is a useful tool in modern practice."
+  },
+  {
+    "id": "batterie",
+    "word": "Batterie",
+    "article": "die",
+    "plural": "Batterien",
+    "translation": "battery",
+    "category": "technology",
+    "sentence_de": "Die Batterie ist ein nützliches Werkzeug in der modernen Praxis.",
+    "sentence_en": "The battery is a useful tool in modern practice."
+  },
+  {
+    "id": "ladung",
+    "word": "Ladung",
+    "article": "die",
+    "plural": "Ladungen",
+    "translation": "charge / cargo",
+    "category": "technology",
+    "sentence_de": "Die Ladung ist ein nützliches Werkzeug in der modernen Praxis.",
+    "sentence_en": "The charge is a useful tool in modern practice."
+  },
+  {
+    "id": "datei",
+    "word": "Datei",
+    "article": "die",
+    "plural": "Dateien",
+    "translation": "file",
+    "category": "technology",
+    "sentence_de": "Die Datei ist ein nützliches Werkzeug in der modernen Praxis.",
+    "sentence_en": "The file is a useful tool in modern practice."
+  },
+  {
+    "id": "link",
+    "word": "Link",
+    "article": "der",
+    "plural": "Links",
+    "translation": "link",
+    "category": "technology",
+    "sentence_de": "Der Link ist ein nützliches Werkzeug in der modernen Praxis.",
+    "sentence_en": "The link is a useful tool in modern practice."
+  },
+  {
+    "id": "app",
+    "word": "App",
+    "article": "die",
+    "plural": "Apps",
+    "translation": "app",
+    "category": "technology",
+    "sentence_de": "Die App ist ein nützliches Werkzeug in der modernen Praxis.",
+    "sentence_en": "The app is a useful tool in modern practice."
+  },
+  {
+    "id": "browser",
+    "word": "Browser",
+    "article": "der",
+    "plural": "Browser",
+    "translation": "browser",
+    "category": "technology",
+    "sentence_de": "Der Browser ist ein nützliches Werkzeug in der modernen Praxis.",
+    "sentence_en": "The browser is a useful tool in modern practice."
+  },
+  {
+    "id": "suchmaschine",
+    "word": "Suchmaschine",
+    "article": "die",
+    "plural": "Suchmaschinen",
+    "translation": "search engine",
+    "category": "technology",
+    "sentence_de": "Die Suchmaschine ist ein nützliches Werkzeug in der modernen Praxis.",
+    "sentence_en": "The search engine is a useful tool in modern practice."
+  },
+  {
+    "id": "socialmedia",
+    "word": "Social Media",
+    "article": "das",
+    "plural": "",
+    "translation": "social media",
+    "category": "technology",
+    "sentence_de": "Das Social Media ist ein nützliches Werkzeug in der modernen Praxis.",
+    "sentence_en": "The social media is a useful tool in modern practice."
+  },
+  {
+    "id": "video",
+    "word": "Video",
+    "article": "das",
+    "plural": "Videos",
+    "translation": "video",
+    "category": "technology",
+    "sentence_de": "Das Video ist ein nützliches Werkzeug in der modernen Praxis.",
+    "sentence_en": "The video is a useful tool in modern practice."
+  },
+  {
+    "id": "serie",
+    "word": "Serie",
+    "article": "die",
+    "plural": "Serien",
+    "translation": "series",
+    "category": "hobbies",
+    "sentence_de": "Die Serie bereitet in der Freizeit großen Spaß.",
+    "sentence_en": "The series brings great joy during leisure time."
+  },
+  {
+    "id": "nachrichtensendung",
+    "word": "Nachrichtensendung",
+    "article": "die",
+    "plural": "Nachrichtensendungen",
+    "translation": "news broadcast",
+    "category": "technology",
+    "sentence_de": "Die Nachrichtensendung ist ein nützliches Werkzeug in der modernen Praxis.",
+    "sentence_en": "The news broadcast is a useful tool in modern practice."
+  },
+  {
+    "id": "zeitung",
+    "word": "Zeitung",
+    "article": "die",
+    "plural": "Zeitungen",
+    "translation": "newspaper",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute die Zeitung.",
+    "sentence_en": "In class today we are covering the newspaper."
+  },
+  {
+    "id": "zeitschrift",
+    "word": "Zeitschrift",
+    "article": "die",
+    "plural": "Zeitschriften",
+    "translation": "magazine",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute die Zeitschrift.",
+    "sentence_en": "In class today we are covering the magazine."
+  },
+  {
+    "id": "roman",
+    "word": "Roman",
+    "article": "der",
+    "plural": "Romane",
+    "translation": "novel",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute den Roman.",
+    "sentence_en": "In class today we are covering the novel."
+  },
+  {
+    "id": "gedicht",
+    "word": "Gedicht",
+    "article": "das",
+    "plural": "Gedichte",
+    "translation": "poem",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute das Gedicht.",
+    "sentence_en": "In class today we are covering the poem."
+  },
+  {
+    "id": "maerchen",
+    "word": "Märchen",
+    "article": "das",
+    "plural": "Märchen",
+    "translation": "fairy tale",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute das Märchen.",
+    "sentence_en": "In class today we are covering the fairy tale."
+  },
+  {
+    "id": "geschichte",
+    "word": "Geschichte",
+    "article": "die",
+    "plural": "Geschichten",
+    "translation": "story / history",
+    "category": "school",
+    "sentence_de": "Die Geschichte ist ein lehrreiches Fach in der Schule.",
+    "sentence_en": "The story is an instructive subject at school."
+  },
+  {
+    "id": "seite",
+    "word": "Seite",
+    "article": "die",
+    "plural": "Seiten",
+    "translation": "page / side",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute die Seite.",
+    "sentence_en": "In class today we are covering the page."
+  },
+  {
+    "id": "absatz",
+    "word": "Absatz",
+    "article": "der",
+    "plural": "Absätze",
+    "translation": "paragraph / heel",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute den Absatz.",
+    "sentence_en": "In class today we are covering the paragraph."
+  },
+  {
+    "id": "kapitel",
+    "word": "Kapitel",
+    "article": "das",
+    "plural": "Kapitel",
+    "translation": "chapter",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute das Kapitel.",
+    "sentence_en": "In class today we are covering the chapter."
+  },
+  {
+    "id": "titel",
+    "word": "Titel",
+    "article": "der",
+    "plural": "Titel",
+    "translation": "title",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute den Titel.",
+    "sentence_en": "In class today we are covering the title."
+  },
+  {
+    "id": "autor",
+    "word": "Autor",
+    "article": "der",
+    "plural": "Autoren",
+    "translation": "author (male)",
+    "category": "people",
+    "sentence_de": "Der Autor übt diesen Beruf mit großem Engagement aus.",
+    "sentence_en": "The author pursues this profession with great dedication."
+  },
+  {
+    "id": "autorin",
+    "word": "Autorin",
+    "article": "die",
+    "plural": "Autorinnen",
+    "translation": "author (female)",
+    "category": "people",
+    "sentence_de": "Die Autorin übt diesen Beruf mit großem Engagement aus.",
+    "sentence_en": "The author pursues this profession with great dedication."
+  },
+  {
+    "id": "verlag",
+    "word": "Verlag",
+    "article": "der",
+    "plural": "Verlage",
+    "translation": "publisher",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute den Verlag.",
+    "sentence_en": "In class today we are covering the publisher."
+  },
+  {
+    "id": "buchhandlung",
+    "word": "Buchhandlung",
+    "article": "die",
+    "plural": "Buchhandlungen",
+    "translation": "bookstore",
+    "category": "city",
+    "sentence_de": "Wir erreichen die Buchhandlung nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the bookstore after a short ride."
+  },
+  {
+    "id": "leser",
+    "word": "Leser",
+    "article": "der",
+    "plural": "Leser",
+    "translation": "reader (male)",
+    "category": "people",
+    "sentence_de": "Der Leser ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The reader is a valued member of the community."
+  },
+  {
+    "id": "leserin",
+    "word": "Leserin",
+    "article": "die",
+    "plural": "Leserinnen",
+    "translation": "reader (female)",
+    "category": "people",
+    "sentence_de": "Die Leserin ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The reader is a valued member of the community."
+  },
+  {
+    "id": "kuli",
+    "word": "Kuli",
+    "article": "der",
+    "plural": "Kulis",
+    "translation": "ballpoint pen",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute den Kuli.",
+    "sentence_en": "In class today we are covering the ballpoint pen."
+  },
+  {
+    "id": "fueller",
+    "word": "Füller",
+    "article": "der",
+    "plural": "Füller",
+    "translation": "fountain pen",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute den Füller.",
+    "sentence_en": "In class today we are covering the fountain pen."
+  },
+  {
+    "id": "block",
+    "word": "Block",
+    "article": "der",
+    "plural": "Blöcke",
+    "translation": "notepad / block",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute den Block.",
+    "sentence_en": "In class today we are covering the notepad."
+  },
+  {
+    "id": "zettel",
+    "word": "Zettel",
+    "article": "der",
+    "plural": "Zettel",
+    "translation": "slip of paper",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute den Zettel.",
+    "sentence_en": "In class today we are covering the slip of paper."
+  },
+  {
+    "id": "brief",
+    "word": "Brief",
+    "article": "der",
+    "plural": "Briefe",
+    "translation": "letter",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute den Brief.",
+    "sentence_en": "In class today we are covering the letter."
+  },
+  {
+    "id": "umschlag",
+    "word": "Umschlag",
+    "article": "der",
+    "plural": "Umschläge",
+    "translation": "envelope",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute den Umschlag.",
+    "sentence_en": "In class today we are covering the envelope."
+  },
+  {
+    "id": "briefmarke",
+    "word": "Briefmarke",
+    "article": "die",
+    "plural": "Briefmarken",
+    "translation": "postage stamp",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute die Briefmarke.",
+    "sentence_en": "In class today we are covering the postage stamp."
+  },
+  {
+    "id": "paket",
+    "word": "Paket",
+    "article": "das",
+    "plural": "Pakete",
+    "translation": "package",
+    "category": "shopping",
+    "sentence_de": "Das Paket spielt beim Einkaufen und Wirtschaften eine Rolle.",
+    "sentence_en": "The package plays a role in shopping and business."
+  },
+  {
+    "id": "sendung",
+    "word": "Sendung",
+    "article": "die",
+    "plural": "Sendungen",
+    "translation": "shipment / broadcast",
+    "category": "shopping",
+    "sentence_de": "Die Sendung spielt beim Einkaufen und Wirtschaften eine Rolle.",
+    "sentence_en": "The shipment plays a role in shopping and business."
+  },
+  {
+    "id": "absender",
+    "word": "Absender",
+    "article": "der",
+    "plural": "Absender",
+    "translation": "sender",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute den Absender.",
+    "sentence_en": "In class today we are covering the sender."
+  },
+  {
+    "id": "empfaenger",
+    "word": "Empfänger",
+    "article": "der",
+    "plural": "Empfänger",
+    "translation": "recipient",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute den Empfänger.",
+    "sentence_en": "In class today we are covering the recipient."
+  },
+  {
+    "id": "postamt",
+    "word": "Postamt",
+    "article": "das",
+    "plural": "Postämter",
+    "translation": "post office",
+    "category": "city",
+    "sentence_de": "Das Postamt ist ein zentraler Treffpunkt in der Umgebung.",
+    "sentence_en": "The post office is a central meeting place in the area."
+  },
+  {
+    "id": "briefkasten",
+    "word": "Briefkasten",
+    "article": "der",
+    "plural": "Briefkästen",
+    "translation": "mailbox",
+    "category": "city",
+    "sentence_de": "Wir erreichen den Briefkasten nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the mailbox after a short ride."
+  },
+  {
+    "id": "telefon",
+    "word": "Telefon",
+    "article": "das",
+    "plural": "Telefone",
+    "translation": "telephone",
+    "category": "technology",
+    "sentence_de": "Das Telefon ist ein nützliches Werkzeug in der modernen Praxis.",
+    "sentence_en": "The telephone is a useful tool in modern practice."
+  },
+  {
+    "id": "anrufbeantworter",
+    "word": "Anrufbeantworter",
+    "article": "der",
+    "plural": "Anrufbeantworter",
+    "translation": "answering machine",
+    "category": "technology",
+    "sentence_de": "Der Anrufbeantworter ist ein nützliches Werkzeug in der modernen Praxis.",
+    "sentence_en": "The answering machine is a useful tool in modern practice."
+  },
+  {
+    "id": "mailbox",
+    "word": "Mailbox",
+    "article": "die",
+    "plural": "Mailboxen",
+    "translation": "voicemail",
+    "category": "technology",
+    "sentence_de": "Die Mailbox ist ein nützliches Werkzeug in der modernen Praxis.",
+    "sentence_en": "The voicemail is a useful tool in modern practice."
+  },
+  {
+    "id": "sms",
+    "word": "SMS",
+    "article": "die",
+    "plural": "SMS",
+    "translation": "text message",
+    "category": "technology",
+    "sentence_de": "Die SMS ist ein nützliches Werkzeug in der modernen Praxis.",
+    "sentence_en": "The text message is a useful tool in modern practice."
+  },
+  {
+    "id": "chat",
+    "word": "Chat",
+    "article": "der",
+    "plural": "Chats",
+    "translation": "chat",
+    "category": "technology",
+    "sentence_de": "Der Chat ist ein nützliches Werkzeug in der modernen Praxis.",
+    "sentence_en": "The chat is a useful tool in modern practice."
+  },
+  {
+    "id": "emoji",
+    "word": "Emoji",
+    "article": "das",
+    "plural": "Emojis",
+    "translation": "emoji",
+    "category": "technology",
+    "sentence_de": "Das Emoji ist ein nützliches Werkzeug in der modernen Praxis.",
+    "sentence_en": "The emoji is a useful tool in modern practice."
+  },
+  {
+    "id": "benutzername",
+    "word": "Benutzername",
+    "article": "der",
+    "plural": "Benutzername",
+    "translation": "username",
+    "category": "technology",
+    "sentence_de": "Der Benutzername ist ein nützliches Werkzeug in der modernen Praxis.",
+    "sentence_en": "The username is a useful tool in modern practice."
+  },
+  {
+    "id": "konto_online",
+    "word": "Profil",
+    "article": "das",
+    "plural": "Profile",
+    "translation": "profile",
+    "category": "technology",
+    "sentence_de": "Das Profil ist ein nützliches Werkzeug in der modernen Praxis.",
+    "sentence_en": "The profile is a useful tool in modern practice."
+  },
+  {
+    "id": "datenschutz",
+    "word": "Datenschutz",
+    "article": "der",
+    "plural": "",
+    "translation": "data privacy",
+    "category": "technology",
+    "sentence_de": "Der Datenschutz ist ein nützliches Werkzeug in der modernen Praxis.",
+    "sentence_en": "The data privacy is a useful tool in modern practice."
+  },
+  {
+    "id": "virus",
+    "word": "Virus",
+    "article": "das",
+    "plural": "Viren",
+    "translation": "virus",
+    "category": "technology",
+    "sentence_de": "Das Virus ist ein nützliches Werkzeug in der modernen Praxis.",
+    "sentence_en": "The virus is a useful tool in modern practice."
+  },
+  {
+    "id": "update",
+    "word": "Update",
+    "article": "das",
+    "plural": "Updates",
+    "translation": "update",
+    "category": "technology",
+    "sentence_de": "Das Update ist ein nützliches Werkzeug in der modernen Praxis.",
+    "sentence_en": "The update is a useful tool in modern practice."
+  },
+  {
+    "id": "download",
+    "word": "Download",
+    "article": "der",
+    "plural": "Downloads",
+    "translation": "download",
+    "category": "technology",
+    "sentence_de": "Der Download ist ein nützliches Werkzeug in der modernen Praxis.",
+    "sentence_en": "The download is a useful tool in modern practice."
+  },
+  {
+    "id": "wlan",
+    "word": "WLAN",
+    "article": "das",
+    "plural": "",
+    "translation": "Wi-Fi",
+    "category": "technology",
+    "sentence_de": "Das WLAN ist ein nützliches Werkzeug in der modernen Praxis.",
+    "sentence_en": "The Wi-Fi is a useful tool in modern practice."
+  },
+  {
+    "id": "router",
+    "word": "Router",
+    "article": "der",
+    "plural": "Router",
+    "translation": "router",
+    "category": "technology",
+    "sentence_de": "Der Router ist ein nützliches Werkzeug in der modernen Praxis.",
+    "sentence_en": "The router is a useful tool in modern practice."
+  },
+  {
+    "id": "scanner",
+    "word": "Scanner",
+    "article": "der",
+    "plural": "Scanner",
+    "translation": "scanner",
+    "category": "technology",
+    "sentence_de": "Der Scanner ist ein nützliches Werkzeug in der modernen Praxis.",
+    "sentence_en": "The scanner is a useful tool in modern practice."
+  },
+  {
+    "id": "kopierer",
+    "word": "Kopierer",
+    "article": "der",
+    "plural": "Kopierer",
+    "translation": "copier",
+    "category": "technology",
+    "sentence_de": "Der Kopierer ist ein nützliches Werkzeug in der modernen Praxis.",
+    "sentence_en": "The copier is a useful tool in modern practice."
+  },
+  {
+    "id": "usb_stick",
+    "word": "USB-Stick",
+    "article": "der",
+    "plural": "USB-Sticks",
+    "translation": "USB stick",
+    "category": "technology",
+    "sentence_de": "Der USB-Stick ist ein nützliches Werkzeug in der modernen Praxis.",
+    "sentence_en": "The USB stick is a useful tool in modern practice."
+  },
+  {
+    "id": "festplatte",
+    "word": "Festplatte",
+    "article": "die",
+    "plural": "Festplatten",
+    "translation": "hard drive",
+    "category": "technology",
+    "sentence_de": "Die Festplatte ist ein nützliches Werkzeug in der modernen Praxis.",
+    "sentence_en": "The hard drive is a useful tool in modern practice."
+  },
+  {
+    "id": "speicherplatz",
+    "word": "Speicherplatz",
+    "article": "der",
+    "plural": "",
+    "translation": "storage space",
+    "category": "technology",
+    "sentence_de": "Der Speicherplatz ist ein nützliches Werkzeug in der modernen Praxis.",
+    "sentence_en": "The storage space is a useful tool in modern practice."
+  },
+  {
+    "id": "pixel",
+    "word": "Pixel",
+    "article": "das",
+    "plural": "Pixel",
+    "translation": "pixel",
+    "category": "technology",
+    "sentence_de": "Das Pixel ist ein nützliches Werkzeug in der modernen Praxis.",
+    "sentence_en": "The pixel is a useful tool in modern practice."
+  },
+  {
+    "id": "aufloesung",
+    "word": "Auflösung",
+    "article": "die",
+    "plural": "Auflösungen",
+    "translation": "resolution",
+    "category": "technology",
+    "sentence_de": "Die Auflösung ist ein nützliches Werkzeug in der modernen Praxis.",
+    "sentence_en": "The resolution is a useful tool in modern practice."
+  },
+  {
+    "id": "stativ",
+    "word": "Stativ",
+    "article": "das",
+    "plural": "Stative",
+    "translation": "tripod",
+    "category": "technology",
+    "sentence_de": "Das Stativ ist ein nützliches Werkzeug in der modernen Praxis.",
+    "sentence_en": "The tripod is a useful tool in modern practice."
+  },
+  {
+    "id": "fahrplan",
+    "word": "Fahrplan",
+    "article": "der",
+    "plural": "Fahrpläne",
+    "translation": "timetable",
+    "category": "transport",
+    "sentence_de": "Wir erreichen den Fahrplan nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the timetable after a short ride."
+  },
+  {
+    "id": "anschluss",
+    "word": "Anschluss",
+    "article": "der",
+    "plural": "Anschlüsse",
+    "translation": "connection",
+    "category": "transport",
+    "sentence_de": "Wir erreichen den Anschluss nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the connection after a short ride."
+  },
+  {
+    "id": "umstieg",
+    "word": "Umstieg",
+    "article": "der",
+    "plural": "Umstiege",
+    "translation": "transfer (transit)",
+    "category": "transport",
+    "sentence_de": "Wir erreichen den Umstieg nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the transfer after a short ride."
+  },
+  {
+    "id": "abfahrt",
+    "word": "Abfahrt",
+    "article": "die",
+    "plural": "Abfahrten",
+    "translation": "departure",
+    "category": "transport",
+    "sentence_de": "Wir erreichen die Abfahrt nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the departure after a short ride."
+  },
+  {
+    "id": "ankunft",
+    "word": "Ankunft",
+    "article": "die",
+    "plural": "Ankünfte",
+    "translation": "arrival",
+    "category": "transport",
+    "sentence_de": "Wir erreichen die Ankunft nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the arrival after a short ride."
+  },
+  {
+    "id": "ziel",
+    "word": "Ziel",
+    "article": "das",
+    "plural": "Ziele",
+    "translation": "destination / goal",
+    "category": "transport",
+    "sentence_de": "Wir erreichen das Ziel nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the destination after a short ride."
+  },
+  {
+    "id": "start",
+    "word": "Start",
+    "article": "der",
+    "plural": "Starts",
+    "translation": "start",
+    "category": "transport",
+    "sentence_de": "Wir erreichen den Start nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the start after a short ride."
+  },
+  {
+    "id": "reiseziel",
+    "word": "Reiseziel",
+    "article": "das",
+    "plural": "Reiseziele",
+    "translation": "travel destination",
+    "category": "travel",
+    "sentence_de": "Wir erreichen das Reiseziel nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the travel destination after a short ride."
+  },
+  {
+    "id": "reisebuero",
+    "word": "Reisebüro",
+    "article": "das",
+    "plural": "Reisebüros",
+    "translation": "travel agency",
+    "category": "travel",
+    "sentence_de": "Wir erreichen das Reisebüro nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the travel agency after a short ride."
+  },
+  {
+    "id": "reiseleitung",
+    "word": "Reiseleitung",
+    "article": "die",
+    "plural": "Reiseleitungen",
+    "translation": "tour guide service",
+    "category": "travel",
+    "sentence_de": "Wir erreichen die Reiseleitung nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the tour guide service after a short ride."
+  },
+  {
+    "id": "reisepass",
+    "word": "Reisepass",
+    "article": "der",
+    "plural": "Reisepässe",
+    "translation": "passport",
+    "category": "travel",
+    "sentence_de": "Wir erreichen den Reisepass nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the passport after a short ride."
+  },
+  {
+    "id": "visum",
+    "word": "Visum",
+    "article": "das",
+    "plural": "Visa",
+    "translation": "visa",
+    "category": "travel",
+    "sentence_de": "Wir erreichen das Visum nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the visa after a short ride."
+  },
+  {
+    "id": "zoll",
+    "word": "Zoll",
+    "article": "der",
+    "plural": "",
+    "translation": "customs",
+    "category": "travel",
+    "sentence_de": "Wir erreichen den Zoll nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the customs after a short ride."
+  },
+  {
+    "id": "gepaeck",
+    "word": "Gepäck",
+    "article": "das",
+    "plural": "",
+    "translation": "luggage",
+    "category": "travel",
+    "sentence_de": "Wir erreichen das Gepäck nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the luggage after a short ride."
+  },
+  {
+    "id": "handgepaeck",
+    "word": "Handgepäck",
+    "article": "das",
+    "plural": "",
+    "translation": "carry-on luggage",
+    "category": "travel",
+    "sentence_de": "Wir erreichen das Handgepäck nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the carry-on luggage after a short ride."
+  },
+  {
+    "id": "kofferband",
+    "word": "Förderband",
+    "article": "das",
+    "plural": "Förderbänder",
+    "translation": "conveyor belt",
+    "category": "travel",
+    "sentence_de": "Wir erreichen das Förderband nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the conveyor belt after a short ride."
+  },
+  {
+    "id": "gate",
+    "word": "Gate",
+    "article": "das",
+    "plural": "Gates",
+    "translation": "gate (airport)",
+    "category": "travel",
+    "sentence_de": "Wir erreichen das Gate nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the gate after a short ride."
+  },
+  {
+    "id": "terminal",
+    "word": "Terminal",
+    "article": "das",
+    "plural": "Terminals",
+    "translation": "terminal",
+    "category": "travel",
+    "sentence_de": "Wir erreichen das Terminal nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the terminal after a short ride."
+  },
+  {
+    "id": "checkin",
+    "word": "Check-in",
+    "article": "der",
+    "plural": "Check-ins",
+    "translation": "check-in",
+    "category": "travel",
+    "sentence_de": "Wir erreichen den Check-in nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the check-in after a short ride."
+  },
+  {
+    "id": "sitzplatz",
+    "word": "Sitzplatz",
+    "article": "der",
+    "plural": "Sitzplätze",
+    "translation": "seat",
+    "category": "transport",
+    "sentence_de": "Der Sitzplatz ist ein zentraler Treffpunkt in der Umgebung.",
+    "sentence_en": "The seat is a central meeting place in the area."
+  },
+  {
+    "id": "fensterplatz",
+    "word": "Fensterplatz",
+    "article": "der",
+    "plural": "Fensterplätze",
+    "translation": "window seat",
+    "category": "transport",
+    "sentence_de": "Der Fensterplatz ist ein zentraler Treffpunkt in der Umgebung.",
+    "sentence_en": "The window seat is a central meeting place in the area."
+  },
+  {
+    "id": "gang",
+    "word": "Gang",
+    "article": "der",
+    "plural": "Gänge",
+    "translation": "aisle / gear / hallway",
+    "category": "transport",
+    "sentence_de": "Wir erreichen den Gang nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the aisle after a short ride."
+  },
+  {
+    "id": "notausgang",
+    "word": "Notausgang",
+    "article": "der",
+    "plural": "Notausgänge",
+    "translation": "emergency exit",
+    "category": "city",
+    "sentence_de": "Wir erreichen den Notausgang nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the emergency exit after a short ride."
+  },
+  {
+    "id": "rettungsweste",
+    "word": "Rettungsweste",
+    "article": "die",
+    "plural": "Rettungswesten",
+    "translation": "life jacket",
+    "category": "travel",
+    "sentence_de": "Wir erreichen die Rettungsweste nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the life jacket after a short ride."
+  },
+  {
+    "id": "landkarte",
+    "word": "Landkarte",
+    "article": "die",
+    "plural": "Landkarten",
+    "translation": "map",
+    "category": "travel",
+    "sentence_de": "Wir erreichen die Landkarte nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the map after a short ride."
+  },
+  {
+    "id": "stadtplan",
+    "word": "Stadtplan",
+    "article": "der",
+    "plural": "Stadtpläne",
+    "translation": "city map",
+    "category": "travel",
+    "sentence_de": "Der Stadtplan ist ein zentraler Treffpunkt in der Umgebung.",
+    "sentence_en": "The city map is a central meeting place in the area."
+  },
+  {
+    "id": "kompass",
+    "word": "Kompass",
+    "article": "der",
+    "plural": "Kompasse",
+    "translation": "compass",
+    "category": "travel",
+    "sentence_de": "Wir erreichen den Kompass nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the compass after a short ride."
+  },
+  {
+    "id": "gps",
+    "word": "GPS",
+    "article": "das",
+    "plural": "",
+    "translation": "GPS",
+    "category": "technology",
+    "sentence_de": "Das GPS ist ein nützliches Werkzeug in der modernen Praxis.",
+    "sentence_en": "The GPS is a useful tool in modern practice."
+  },
+  {
+    "id": "navigation",
+    "word": "Navigation",
+    "article": "die",
+    "plural": "",
+    "translation": "navigation",
+    "category": "travel",
+    "sentence_de": "Wir erreichen die Navigation nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the navigation after a short ride."
+  },
+  {
+    "id": "sehenswuerdigkeit",
+    "word": "Sehenswürdigkeit",
+    "article": "die",
+    "plural": "Sehenswürdigkeiten",
+    "translation": "sight / attraction",
+    "category": "travel",
+    "sentence_de": "Wir erreichen die Sehenswürdigkeit nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the sight after a short ride."
+  },
+  {
+    "id": "ausstellung",
+    "word": "Ausstellung",
+    "article": "die",
+    "plural": "Ausstellungen",
+    "translation": "exhibition",
+    "category": "hobbies",
+    "sentence_de": "Die Ausstellung bereitet in der Freizeit großen Spaß.",
+    "sentence_en": "The exhibition brings great joy during leisure time."
+  },
+  {
+    "id": "fuehrung",
+    "word": "Führung",
+    "article": "die",
+    "plural": "Führungen",
+    "translation": "guided tour / leadership",
+    "category": "travel",
+    "sentence_de": "Wir erreichen die Führung nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the guided tour after a short ride."
+  },
+  {
+    "id": "eintritt",
+    "word": "Eintritt",
+    "article": "der",
+    "plural": "Eintritte",
+    "translation": "admission",
+    "category": "travel",
+    "sentence_de": "Wir erreichen den Eintritt nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the admission after a short ride."
+  },
+  {
+    "id": "ausflug",
+    "word": "Ausflug",
+    "article": "der",
+    "plural": "Ausflüge",
+    "translation": "day trip",
+    "category": "travel",
+    "sentence_de": "Wir erreichen den Ausflug nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the day trip after a short ride."
+  },
+  {
+    "id": "wanderung",
+    "word": "Wanderung",
+    "article": "die",
+    "plural": "Wanderungen",
+    "translation": "hike",
+    "category": "hobbies",
+    "sentence_de": "Die Wanderung bereitet in der Freizeit großen Spaß.",
+    "sentence_en": "The hike brings great joy during leisure time."
+  },
+  {
+    "id": "picknick",
+    "word": "Picknick",
+    "article": "das",
+    "plural": "Picknicks",
+    "translation": "picnic",
+    "category": "hobbies",
+    "sentence_de": "Das Picknick bereitet in der Freizeit großen Spaß.",
+    "sentence_en": "The picnic brings great joy during leisure time."
+  },
+  {
+    "id": "lagerfeuer",
+    "word": "Lagerfeuer",
+    "article": "das",
+    "plural": "Lagerfeuer",
+    "translation": "campfire",
+    "category": "hobbies",
+    "sentence_de": "Das Lagerfeuer bereitet in der Freizeit großen Spaß.",
+    "sentence_en": "The campfire brings great joy during leisure time."
+  },
+  {
+    "id": "zelt",
+    "word": "Zelt",
+    "article": "das",
+    "plural": "Zelte",
+    "translation": "tent",
+    "category": "hobbies",
+    "sentence_de": "Das Zelt bereitet in der Freizeit großen Spaß.",
+    "sentence_en": "The tent brings great joy during leisure time."
+  },
+  {
+    "id": "schlafsaal",
+    "word": "Schlafsaal",
+    "article": "der",
+    "plural": "Schlafsäle",
+    "translation": "dormitory",
+    "category": "travel",
+    "sentence_de": "Wir erreichen den Schlafsaal nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the dormitory after a short ride."
+  },
+  {
+    "id": "herberge",
+    "word": "Herberge",
+    "article": "die",
+    "plural": "Herbergen",
+    "translation": "hostel",
+    "category": "travel",
+    "sentence_de": "Wir erreichen die Herberge nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the hostel after a short ride."
+  },
+  {
+    "id": "pension",
+    "word": "Pension",
+    "article": "die",
+    "plural": "Pensionen",
+    "translation": "guesthouse / pension",
+    "category": "travel",
+    "sentence_de": "Wir erreichen die Pension nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the guesthouse after a short ride."
+  },
+  {
+    "id": "fruehstueckspension",
+    "word": "Frühstückspension",
+    "article": "die",
+    "plural": "Frühstückspensionen",
+    "translation": "B&B",
+    "category": "travel",
+    "sentence_de": "Wir erreichen die Frühstückspension nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the B&B after a short ride."
+  },
+  {
+    "id": "rezeption",
+    "word": "Rezeption",
+    "article": "die",
+    "plural": "Rezeptionen",
+    "translation": "reception desk",
+    "category": "travel",
+    "sentence_de": "Wir erreichen die Rezeption nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the reception desk after a short ride."
+  },
+  {
+    "id": "schluesselkarte",
+    "word": "Schlüsselkarte",
+    "article": "die",
+    "plural": "Schlüsselkarten",
+    "translation": "key card",
+    "category": "travel",
+    "sentence_de": "Wir erreichen die Schlüsselkarte nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the key card after a short ride."
+  },
+  {
+    "id": "einzelzimmer",
+    "word": "Einzelzimmer",
+    "article": "das",
+    "plural": "Einzelzimmer",
+    "translation": "single room",
+    "category": "travel",
+    "sentence_de": "Wir erreichen das Einzelzimmer nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the single room after a short ride."
+  },
+  {
+    "id": "doppelzimmer",
+    "word": "Doppelzimmer",
+    "article": "das",
+    "plural": "Doppelzimmer",
+    "translation": "double room",
+    "category": "travel",
+    "sentence_de": "Wir erreichen das Doppelzimmer nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the double room after a short ride."
+  },
+  {
+    "id": "suite",
+    "word": "Suite",
+    "article": "die",
+    "plural": "Suiten",
+    "translation": "suite",
+    "category": "travel",
+    "sentence_de": "Wir erreichen die Suite nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the suite after a short ride."
+  },
+  {
+    "id": "aussicht",
+    "word": "Aussicht",
+    "article": "die",
+    "plural": "Aussichten",
+    "translation": "view",
+    "category": "travel",
+    "sentence_de": "Wir erreichen die Aussicht nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the view after a short ride."
+  },
+  {
+    "id": "klima_anlage",
+    "word": "Klimaanlage",
+    "article": "die",
+    "plural": "Klimaanlagen",
+    "translation": "air conditioning",
+    "category": "home",
+    "sentence_de": "Die Klimaanlage ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The air conditioning is a useful item in the house."
+  },
+  {
+    "id": "heizung",
+    "word": "Heizung",
+    "article": "die",
+    "plural": "Heizungen",
+    "translation": "heating",
+    "category": "home",
+    "sentence_de": "Die Heizung ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The heating is a useful item in the house."
+  },
+  {
+    "id": "radiator",
+    "word": "Heizkörper",
+    "article": "der",
+    "plural": "Heizkörper",
+    "translation": "radiator",
+    "category": "home",
+    "sentence_de": "Der Heizkörper ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The radiator is a useful item in the house."
+  },
+  {
+    "id": "ventilator",
+    "word": "Ventilator",
+    "article": "der",
+    "plural": "Ventilatoren",
+    "translation": "fan",
+    "category": "home",
+    "sentence_de": "Der Ventilator ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The fan is a useful item in the house."
+  },
+  {
+    "id": "gluehbirne",
+    "word": "Glühbirne",
+    "article": "die",
+    "plural": "Glühbirnen",
+    "translation": "light bulb",
+    "category": "home",
+    "sentence_de": "Die Glühbirne ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The light bulb is a useful item in the house."
+  },
+  {
+    "id": "kerze",
+    "word": "Kerze",
+    "article": "die",
+    "plural": "Kerzen",
+    "translation": "candle",
+    "category": "home",
+    "sentence_de": "Die Kerze ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The candle is a useful item in the house."
+  },
+  {
+    "id": "feuerzeug",
+    "word": "Feuerzeug",
+    "article": "das",
+    "plural": "Feuerzeuge",
+    "translation": "lighter",
+    "category": "home",
+    "sentence_de": "Das Feuerzeug ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The lighter is a useful item in the house."
+  },
+  {
+    "id": "streichholz",
+    "word": "Streichholz",
+    "article": "das",
+    "plural": "Streichhölzer",
+    "translation": "match",
+    "category": "home",
+    "sentence_de": "Das Streichholz ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The match is a useful item in the house."
+  },
+  {
+    "id": "alarm",
+    "word": "Alarm",
+    "article": "der",
+    "plural": "Alarme",
+    "translation": "alarm",
+    "category": "home",
+    "sentence_de": "Der Alarm ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The alarm is a useful item in the house."
+  },
+  {
+    "id": "rauchmelder",
+    "word": "Rauchmelder",
+    "article": "der",
+    "plural": "Rauchmelder",
+    "translation": "smoke detector",
+    "category": "home",
+    "sentence_de": "Der Rauchmelder ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The smoke detector is a useful item in the house."
+  },
+  {
+    "id": "riegel",
+    "word": "Riegel",
+    "article": "der",
+    "plural": "Riegel",
+    "translation": "bolt / bar",
+    "category": "home",
+    "sentence_de": "Der Riegel ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The bolt is a useful item in the house."
+  },
+  {
+    "id": "klingel",
+    "word": "Klingel",
+    "article": "die",
+    "plural": "Klingeln",
+    "translation": "doorbell",
+    "category": "home",
+    "sentence_de": "Die Klingel ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The doorbell is a useful item in the house."
+  },
+  {
+    "id": "tuerschild",
+    "word": "Türschild",
+    "article": "das",
+    "plural": "Türschilder",
+    "translation": "door sign",
+    "category": "home",
+    "sentence_de": "Das Türschild ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The door sign is a useful item in the house."
+  },
+  {
+    "id": "briefschlitz",
+    "word": "Briefschlitz",
+    "article": "der",
+    "plural": "Briefschlitze",
+    "translation": "mail slot",
+    "category": "home",
+    "sentence_de": "Der Briefschlitz ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The mail slot is a useful item in the house."
+  },
+  {
+    "id": "fussmatte",
+    "word": "Fußmatte",
+    "article": "die",
+    "plural": "Fußmatten",
+    "translation": "doormat",
+    "category": "home",
+    "sentence_de": "Die Fußmatte ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The doormat is a useful item in the house."
+  },
+  {
+    "id": "jalousie",
+    "word": "Jalousie",
+    "article": "die",
+    "plural": "Jalousien",
+    "translation": "blinds",
+    "category": "home",
+    "sentence_de": "Die Jalousie ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The blinds is a useful item in the house."
+  },
+  {
+    "id": "rollladen",
+    "word": "Rollladen",
+    "article": "der",
+    "plural": "Rollläden",
+    "translation": "roller shutter",
+    "category": "home",
+    "sentence_de": "Der Rollladen ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The roller shutter is a useful item in the house."
+  },
+  {
+    "id": "parkett",
+    "word": "Parkett",
+    "article": "das",
+    "plural": "",
+    "translation": "parquet floor",
+    "category": "home",
+    "sentence_de": "Das Parkett ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The parquet floor is a useful item in the house."
+  },
+  {
+    "id": "fliesen",
+    "word": "Fliese",
+    "article": "die",
+    "plural": "Fliesen",
+    "translation": "tile",
+    "category": "home",
+    "sentence_de": "Die Fliese ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The tile is a useful item in the house."
+  },
+  {
+    "id": "tapete",
+    "word": "Tapete",
+    "article": "die",
+    "plural": "Tapeten",
+    "translation": "wallpaper",
+    "category": "home",
+    "sentence_de": "Die Tapete ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The wallpaper is a useful item in the house."
+  },
+  {
+    "id": "farbe_wand",
+    "word": "Wandfarbe",
+    "article": "die",
+    "plural": "Wandfarben",
+    "translation": "wall paint",
+    "category": "home",
+    "sentence_de": "Die Wandfarbe gehört zu einem gemütlichen Zuhause.",
+    "sentence_en": "The wall paint is part of a cozy home."
+  },
+  {
+    "id": "bilderrahmen",
+    "word": "Bilderrahmen",
+    "article": "der",
+    "plural": "Bilderrahmen",
+    "translation": "picture frame",
+    "category": "home",
+    "sentence_de": "Der Bilderrahmen ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The picture frame is a useful item in the house."
+  },
+  {
+    "id": "poster",
+    "word": "Poster",
+    "article": "das",
+    "plural": "Poster",
+    "translation": "poster",
+    "category": "home",
+    "sentence_de": "Das Poster ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The poster is a useful item in the house."
+  },
+  {
+    "id": "wecker",
+    "word": "Wecker",
+    "article": "der",
+    "plural": "Wecker",
+    "translation": "alarm clock",
+    "category": "home",
+    "sentence_de": "Der Wecker ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The alarm clock is a useful item in the house."
+  },
+  {
+    "id": "nachttisch",
+    "word": "Nachttisch",
+    "article": "der",
+    "plural": "Nachttische",
+    "translation": "nightstand",
+    "category": "home",
+    "sentence_de": "Der Nachttisch passt optisch perfekt in das Zimmer.",
+    "sentence_en": "The nightstand fits perfectly into the room."
+  },
+  {
+    "id": "kleiderschrank",
+    "word": "Kleiderschrank",
+    "article": "der",
+    "plural": "Kleiderschränke",
+    "translation": "wardrobe",
+    "category": "home",
+    "sentence_de": "Der Kleiderschrank passt optisch perfekt in das Zimmer.",
+    "sentence_en": "The wardrobe fits perfectly into the room."
+  },
+  {
+    "id": "kommode",
+    "word": "Kommode",
+    "article": "die",
+    "plural": "Kommoden",
+    "translation": "chest of drawers",
+    "category": "home",
+    "sentence_de": "Die Kommode passt optisch perfekt in das Zimmer.",
+    "sentence_en": "The chest of drawers fits perfectly into the room."
+  },
+  {
+    "id": "schublade",
+    "word": "Schublade",
+    "article": "die",
+    "plural": "Schubladen",
+    "translation": "drawer",
+    "category": "home",
+    "sentence_de": "Die Schublade ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The drawer is a useful item in the house."
+  },
+  {
+    "id": "haengematte",
+    "word": "Hängematte",
+    "article": "die",
+    "plural": "Hängematten",
+    "translation": "hammock",
+    "category": "home",
+    "sentence_de": "Die Hängematte ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The hammock is a useful item in the house."
+  },
+  {
+    "id": "sessel",
+    "word": "Sessel",
+    "article": "der",
+    "plural": "Sessel",
+    "translation": "armchair",
+    "category": "home",
+    "sentence_de": "Der Sessel passt optisch perfekt in das Zimmer.",
+    "sentence_en": "The armchair fits perfectly into the room."
+  },
+  {
+    "id": "hocker",
+    "word": "Hocker",
+    "article": "der",
+    "plural": "Hocker",
+    "translation": "stool",
+    "category": "home",
+    "sentence_de": "Der Hocker ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The stool is a useful item in the house."
+  },
+  {
+    "id": "tischdecke",
+    "word": "Tischdecke",
+    "article": "die",
+    "plural": "Tischdecken",
+    "translation": "tablecloth",
+    "category": "home",
+    "sentence_de": "Die Tischdecke passt optisch perfekt in das Zimmer.",
+    "sentence_en": "The tablecloth fits perfectly into the room."
+  },
+  {
+    "id": "serviette",
+    "word": "Serviette",
+    "article": "die",
+    "plural": "Servietten",
+    "translation": "napkin",
+    "category": "kitchen",
+    "sentence_de": "Wir bereiten die Serviette mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the napkin with fresh ingredients."
+  },
+  {
+    "id": "untersetzer",
+    "word": "Untersetzer",
+    "article": "der",
+    "plural": "Untersetzer",
+    "translation": "coaster",
+    "category": "kitchen",
+    "sentence_de": "Wir bereiten den Untersetzer mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the coaster with fresh ingredients."
+  },
+  {
+    "id": "kerzenstaender",
+    "word": "Kerzenständer",
+    "article": "der",
+    "plural": "Kerzenständer",
+    "translation": "candlestick",
+    "category": "home",
+    "sentence_de": "Der Kerzenständer ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The candlestick is a useful item in the house."
+  },
+  {
+    "id": "blumentopf",
+    "word": "Blumentopf",
+    "article": "der",
+    "plural": "Blumentöpfe",
+    "translation": "flowerpot",
+    "category": "home",
+    "sentence_de": "Der Blumentopf ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The flowerpot is a useful item in the house."
+  },
+  {
+    "id": "giesskanne",
+    "word": "Gießkanne",
+    "article": "die",
+    "plural": "Gießkannen",
+    "translation": "watering can",
+    "category": "home",
+    "sentence_de": "Die Gießkanne ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The watering can is a useful item in the house."
+  },
+  {
+    "id": "rasenmaeher",
+    "word": "Rasenmäher",
+    "article": "der",
+    "plural": "Rasenmäher",
+    "translation": "lawn mower",
+    "category": "home",
+    "sentence_de": "Der Rasenmäher ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The lawn mower is a useful item in the house."
+  },
+  {
+    "id": "schubkarre",
+    "word": "Schubkarre",
+    "article": "die",
+    "plural": "Schubkarren",
+    "translation": "wheelbarrow",
+    "category": "tools",
+    "sentence_de": "Die Schubkarre ist ein nützliches Werkzeug in der modernen Praxis.",
+    "sentence_en": "The wheelbarrow is a useful tool in modern practice."
+  },
+  {
+    "id": "schaufel",
+    "word": "Schaufel",
+    "article": "die",
+    "plural": "Schaufeln",
+    "translation": "shovel",
+    "category": "tools",
+    "sentence_de": "Die Schaufel ist ein nützliches Werkzeug in der modernen Praxis.",
+    "sentence_en": "The shovel is a useful tool in modern practice."
+  },
+  {
+    "id": "rechen",
+    "word": "Rechen",
+    "article": "der",
+    "plural": "Rechen",
+    "translation": "rake",
+    "category": "tools",
+    "sentence_de": "Der Rechen ist ein nützliches Werkzeug in der modernen Praxis.",
+    "sentence_en": "The rake is a useful tool in modern practice."
+  },
+  {
+    "id": "hacke",
+    "word": "Hacke",
+    "article": "die",
+    "plural": "Hacken",
+    "translation": "hoe",
+    "category": "tools",
+    "sentence_de": "Die Hacke ist ein nützliches Werkzeug in der modernen Praxis.",
+    "sentence_en": "The hoe is a useful tool in modern practice."
+  },
+  {
+    "id": "gartenstuhl",
+    "word": "Gartenstuhl",
+    "article": "der",
+    "plural": "Gartenstühle",
+    "translation": "garden chair",
+    "category": "home",
+    "sentence_de": "Der Gartenstuhl passt optisch perfekt in das Zimmer.",
+    "sentence_en": "The garden chair fits perfectly into the room."
+  },
+  {
+    "id": "sonnenliege",
+    "word": "Sonnenliege",
+    "article": "die",
+    "plural": "Sonnenliegen",
+    "translation": "sun lounger",
+    "category": "home",
+    "sentence_de": "Die Sonnenliege ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The sun lounger is a useful item in the house."
+  },
+  {
+    "id": "grill",
+    "word": "Grill",
+    "article": "der",
+    "plural": "Grills",
+    "translation": "grill",
+    "category": "kitchen",
+    "sentence_de": "Wir bereiten den Grill mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the grill with fresh ingredients."
+  },
+  {
+    "id": "holzkohle",
+    "word": "Holzkohle",
+    "article": "die",
+    "plural": "",
+    "translation": "charcoal",
+    "category": "kitchen",
+    "sentence_de": "Wir bereiten die Holzkohle mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the charcoal with fresh ingredients."
+  },
+  {
+    "id": "tierarzt",
+    "word": "Tierarzt",
+    "article": "der",
+    "plural": "Tierärzte",
+    "translation": "veterinarian (male)",
+    "category": "people",
+    "sentence_de": "Der Tierarzt übt diesen Beruf mit großem Engagement aus.",
+    "sentence_en": "The veterinarian pursues this profession with great dedication."
+  },
+  {
+    "id": "tieraerztin",
+    "word": "Tierärztin",
+    "article": "die",
+    "plural": "Tierärztinnen",
+    "translation": "veterinarian (female)",
+    "category": "people",
+    "sentence_de": "Die Tierärztin ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The veterinarian is a valued member of the community."
+  },
+  {
+    "id": "haustier",
+    "word": "Haustier",
+    "article": "das",
+    "plural": "Haustiere",
+    "translation": "pet",
+    "category": "animals",
+    "sentence_de": "Das Haustier ist ein faszinierendes Lebewesen in der Natur.",
+    "sentence_en": "The pet is a fascinating creature in nature."
+  },
+  {
+    "id": "welpe",
+    "word": "Welpe",
+    "article": "der",
+    "plural": "Welpen",
+    "translation": "puppy",
+    "category": "animals",
+    "sentence_de": "Der Welpe ist ein faszinierendes Lebewesen in der Natur.",
+    "sentence_en": "The puppy is a fascinating creature in nature."
+  },
+  {
+    "id": "kätzchen",
+    "word": "Kätzchen",
+    "article": "das",
+    "plural": "Kätzchen",
+    "translation": "kitten",
+    "category": "animals",
+    "sentence_de": "Das Kätzchen ist ein faszinierendes Lebewesen in der Natur.",
+    "sentence_en": "The kitten is a fascinating creature in nature."
+  },
+  {
+    "id": "hamster",
+    "word": "Hamster",
+    "article": "der",
+    "plural": "Hamster",
+    "translation": "hamster",
+    "category": "animals",
+    "sentence_de": "Der Hamster ist ein treues und beliebtes Tier.",
+    "sentence_en": "The hamster is a faithful and popular animal."
+  },
+  {
+    "id": "meerschweinchen",
+    "word": "Meerschweinchen",
+    "article": "das",
+    "plural": "Meerschweinchen",
+    "translation": "guinea pig",
+    "category": "animals",
+    "sentence_de": "Das Meerschweinchen ist ein treues und beliebtes Tier.",
+    "sentence_en": "The guinea pig is a faithful and popular animal."
+  },
+  {
+    "id": "kaninchen",
+    "word": "Kaninchen",
+    "article": "das",
+    "plural": "Kaninchen",
+    "translation": "rabbit",
+    "category": "animals",
+    "sentence_de": "Das Kaninchen ist ein treues und beliebtes Tier.",
+    "sentence_en": "The rabbit is a faithful and popular animal."
+  },
+  {
+    "id": "goldfisch",
+    "word": "Goldfisch",
+    "article": "der",
+    "plural": "Goldfische",
+    "translation": "goldfish",
+    "category": "animals",
+    "sentence_de": "Der Goldfisch ist ein faszinierendes Lebewesen in der Natur.",
+    "sentence_en": "The goldfish is a fascinating creature in nature."
+  },
+  {
+    "id": "aquarium",
+    "word": "Aquarium",
+    "article": "das",
+    "plural": "Aquarien",
+    "translation": "aquarium",
+    "category": "home",
+    "sentence_de": "Das Aquarium ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The aquarium is a useful item in the house."
+  },
+  {
+    "id": "kaefig",
+    "word": "Käfig",
+    "article": "der",
+    "plural": "Käfige",
+    "translation": "cage",
+    "category": "home",
+    "sentence_de": "Der Käfig ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The cage is a useful item in the house."
+  },
+  {
+    "id": "leine",
+    "word": "Leine",
+    "article": "die",
+    "plural": "Leinen",
+    "translation": "leash",
+    "category": "animals",
+    "sentence_de": "Die Leine ist ein faszinierendes Lebewesen in der Natur.",
+    "sentence_en": "The leash is a fascinating creature in nature."
+  },
+  {
+    "id": "halsband",
+    "word": "Halsband",
+    "article": "das",
+    "plural": "Halsbänder",
+    "translation": "collar",
+    "category": "animals",
+    "sentence_de": "Das Halsband ist ein faszinierendes Lebewesen in der Natur.",
+    "sentence_en": "The collar is a fascinating creature in nature."
+  },
+  {
+    "id": "futter",
+    "word": "Futter",
+    "article": "das",
+    "plural": "",
+    "translation": "pet food / lining",
+    "category": "animals",
+    "sentence_de": "Das Futter ist ein faszinierendes Lebewesen in der Natur.",
+    "sentence_en": "The pet food is a fascinating creature in nature."
+  },
+  {
+    "id": "knochen_hund",
+    "word": "Kauknochen",
+    "article": "der",
+    "plural": "Kauknochen",
+    "translation": "chew bone",
+    "category": "animals",
+    "sentence_de": "Der Kauknochen ist ein faszinierendes Lebewesen in der Natur.",
+    "sentence_en": "The chew bone is a fascinating creature in nature."
+  },
+  {
+    "id": "wolf",
+    "word": "Wolf",
+    "article": "der",
+    "plural": "Wölfe",
+    "translation": "wolf",
+    "category": "animals",
+    "sentence_de": "Der Wolf lebt geschützt in der freien Wildnis.",
+    "sentence_en": "The wolf lives protected in the wild."
+  },
+  {
+    "id": "fuchs",
+    "word": "Fuchs",
+    "article": "der",
+    "plural": "Füchse",
+    "translation": "fox",
+    "category": "animals",
+    "sentence_de": "Der Fuchs lebt geschützt in der freien Wildnis.",
+    "sentence_en": "The fox lives protected in the wild."
+  },
+  {
+    "id": "hirsch",
+    "word": "Hirsch",
+    "article": "der",
+    "plural": "Hirsche",
+    "translation": "deer / stag",
+    "category": "animals",
+    "sentence_de": "Der Hirsch lebt geschützt in der freien Wildnis.",
+    "sentence_en": "The deer lives protected in the wild."
+  },
+  {
+    "id": "reh",
+    "word": "Reh",
+    "article": "das",
+    "plural": "Rehe",
+    "translation": "roe deer",
+    "category": "animals",
+    "sentence_de": "Das Reh ist ein faszinierendes Lebewesen in der Natur.",
+    "sentence_en": "The roe deer is a fascinating creature in nature."
+  },
+  {
+    "id": "wildschwein",
+    "word": "Wildschwein",
+    "article": "das",
+    "plural": "Wildschweine",
+    "translation": "wild boar",
+    "category": "animals",
+    "sentence_de": "Das Wildschwein ist ein treues und beliebtes Tier.",
+    "sentence_en": "The wild boar is a faithful and popular animal."
+  },
+  {
+    "id": "tiger",
+    "word": "Tiger",
+    "article": "der",
+    "plural": "Tiger",
+    "translation": "tiger",
+    "category": "animals",
+    "sentence_de": "Der Tiger lebt geschützt in der freien Wildnis.",
+    "sentence_en": "The tiger lives protected in the wild."
+  },
+  {
+    "id": "leopard",
+    "word": "Leopard",
+    "article": "der",
+    "plural": "Leoparden",
+    "translation": "leopard",
+    "category": "animals",
+    "sentence_de": "Der Leopard ist ein faszinierendes Lebewesen in der Natur.",
+    "sentence_en": "The leopard is a fascinating creature in nature."
+  },
+  {
+    "id": "giraffe",
+    "word": "Giraffe",
+    "article": "die",
+    "plural": "Giraffen",
+    "translation": "giraffe",
+    "category": "animals",
+    "sentence_de": "Die Giraffe lebt geschützt in der freien Wildnis.",
+    "sentence_en": "The giraffe lives protected in the wild."
+  },
+  {
+    "id": "affe",
+    "word": "Affe",
+    "article": "der",
+    "plural": "Affen",
+    "translation": "monkey",
+    "category": "animals",
+    "sentence_de": "Der Affe lebt geschützt in der freien Wildnis.",
+    "sentence_en": "The monkey lives protected in the wild."
+  },
+  {
+    "id": "gorilla",
+    "word": "Gorilla",
+    "article": "der",
+    "plural": "Gorillas",
+    "translation": "gorilla",
+    "category": "animals",
+    "sentence_de": "Der Gorilla ist ein faszinierendes Lebewesen in der Natur.",
+    "sentence_en": "The gorilla is a fascinating creature in nature."
+  },
+  {
+    "id": "zebra",
+    "word": "Zebra",
+    "article": "das",
+    "plural": "Zebras",
+    "translation": "zebra",
+    "category": "animals",
+    "sentence_de": "Das Zebra ist ein faszinierendes Lebewesen in der Natur.",
+    "sentence_en": "The zebra is a fascinating creature in nature."
+  },
+  {
+    "id": "nashorn",
+    "word": "Nashorn",
+    "article": "das",
+    "plural": "Nashörner",
+    "translation": "rhinoceros",
+    "category": "animals",
+    "sentence_de": "Das Nashorn ist ein faszinierendes Lebewesen in der Natur.",
+    "sentence_en": "The rhinoceros is a fascinating creature in nature."
+  },
+  {
+    "id": "nilpferd",
+    "word": "Nilpferd",
+    "article": "das",
+    "plural": "Nilpferde",
+    "translation": "hippo",
+    "category": "animals",
+    "sentence_de": "Das Nilpferd ist ein treues und beliebtes Tier.",
+    "sentence_en": "The hippo is a faithful and popular animal."
+  },
+  {
+    "id": "krokodil",
+    "word": "Krokodil",
+    "article": "das",
+    "plural": "Krokodile",
+    "translation": "crocodile",
+    "category": "animals",
+    "sentence_de": "Das Krokodil lebt geschützt in der freien Wildnis.",
+    "sentence_en": "The crocodile lives protected in the wild."
+  },
+  {
+    "id": "schlange",
+    "word": "Schlange",
+    "article": "die",
+    "plural": "Schlangen",
+    "translation": "snake / queue",
+    "category": "animals",
+    "sentence_de": "Die Schlange ist ein faszinierendes Lebewesen in der Natur.",
+    "sentence_en": "The snake is a fascinating creature in nature."
+  },
+  {
+    "id": "echse",
+    "word": "Echse",
+    "article": "die",
+    "plural": "Echsen",
+    "translation": "lizard",
+    "category": "animals",
+    "sentence_de": "Die Echse ist ein faszinierendes Lebewesen in der Natur.",
+    "sentence_en": "The lizard is a fascinating creature in nature."
+  },
+  {
+    "id": "schildkroete",
+    "word": "Schildkröte",
+    "article": "die",
+    "plural": "Schildkröten",
+    "translation": "turtle",
+    "category": "animals",
+    "sentence_de": "Die Schildkröte ist ein faszinierendes Lebewesen in der Natur.",
+    "sentence_en": "The turtle is a fascinating creature in nature."
+  },
+  {
+    "id": "kroete",
+    "word": "Kröte",
+    "article": "die",
+    "plural": "Kröten",
+    "translation": "toad",
+    "category": "animals",
+    "sentence_de": "Die Kröte ist ein faszinierendes Lebewesen in der Natur.",
+    "sentence_en": "The toad is a fascinating creature in nature."
+  },
+  {
+    "id": "spinne",
+    "word": "Spinne",
+    "article": "die",
+    "plural": "Spinnen",
+    "translation": "spider",
+    "category": "animals",
+    "sentence_de": "Die Spinne ist ein faszinierendes Lebewesen in der Natur.",
+    "sentence_en": "The spider is a fascinating creature in nature."
+  },
+  {
+    "id": "ameise",
+    "word": "Ameise",
+    "article": "die",
+    "plural": "Ameisen",
+    "translation": "ant",
+    "category": "animals",
+    "sentence_de": "Die Ameise ist ein faszinierendes Lebewesen in der Natur.",
+    "sentence_en": "The ant is a fascinating creature in nature."
+  },
+  {
+    "id": "biene",
+    "word": "Biene",
+    "article": "die",
+    "plural": "Bienen",
+    "translation": "bee",
+    "category": "animals",
+    "sentence_de": "Die Biene ist ein faszinierendes Lebewesen in der Natur.",
+    "sentence_en": "The bee is a fascinating creature in nature."
+  },
+  {
+    "id": "wespe",
+    "word": "Wespe",
+    "article": "die",
+    "plural": "Wespen",
+    "translation": "wasp",
+    "category": "animals",
+    "sentence_de": "Die Wespe ist ein faszinierendes Lebewesen in der Natur.",
+    "sentence_en": "The wasp is a fascinating creature in nature."
+  },
+  {
+    "id": "muecke",
+    "word": "Mücke",
+    "article": "die",
+    "plural": "Mücken",
+    "translation": "mosquito",
+    "category": "animals",
+    "sentence_de": "Die Mücke ist ein faszinierendes Lebewesen in der Natur.",
+    "sentence_en": "The mosquito is a fascinating creature in nature."
+  },
+  {
+    "id": "kaefer",
+    "word": "Käfer",
+    "article": "der",
+    "plural": "Käfer",
+    "translation": "beetle",
+    "category": "animals",
+    "sentence_de": "Der Käfer ist ein faszinierendes Lebewesen in der Natur.",
+    "sentence_en": "The beetle is a fascinating creature in nature."
+  },
+  {
+    "id": "marienkaefer",
+    "word": "Marienkäfer",
+    "article": "der",
+    "plural": "Marienkäfer",
+    "translation": "ladybug",
+    "category": "animals",
+    "sentence_de": "Der Marienkäfer ist ein faszinierendes Lebewesen in der Natur.",
+    "sentence_en": "The ladybug is a fascinating creature in nature."
+  },
+  {
+    "id": "wurm",
+    "word": "Wurm",
+    "article": "der",
+    "plural": "Würmer",
+    "translation": "worm",
+    "category": "animals",
+    "sentence_de": "Der Wurm ist ein faszinierendes Lebewesen in der Natur.",
+    "sentence_en": "The worm is a fascinating creature in nature."
+  },
+  {
+    "id": "schnecke",
+    "word": "Schnecke",
+    "article": "die",
+    "plural": "Schnecken",
+    "translation": "snail / slug",
+    "category": "animals",
+    "sentence_de": "Die Schnecke ist ein faszinierendes Lebewesen in der Natur.",
+    "sentence_en": "The snail is a fascinating creature in nature."
+  },
+  {
+    "id": "hai",
+    "word": "Hai",
+    "article": "der",
+    "plural": "Haie",
+    "translation": "shark",
+    "category": "animals",
+    "sentence_de": "Der Hai ist ein faszinierendes Lebewesen in der Natur.",
+    "sentence_en": "The shark is a fascinating creature in nature."
+  },
+  {
+    "id": "wal",
+    "word": "Wal",
+    "article": "der",
+    "plural": "Wale",
+    "translation": "whale",
+    "category": "animals",
+    "sentence_de": "Der Wal ist ein faszinierendes Lebewesen in der Natur.",
+    "sentence_en": "The whale is a fascinating creature in nature."
+  },
+  {
+    "id": "delfin",
+    "word": "Delfin",
+    "article": "der",
+    "plural": "Delfine",
+    "translation": "dolphin",
+    "category": "animals",
+    "sentence_de": "Der Delfin ist ein faszinierendes Lebewesen in der Natur.",
+    "sentence_en": "The dolphin is a fascinating creature in nature."
+  },
+  {
+    "id": "seehund",
+    "word": "Seehund",
+    "article": "der",
+    "plural": "Seehunde",
+    "translation": "seal",
+    "category": "animals",
+    "sentence_de": "Der Seehund ist ein treues und beliebtes Tier.",
+    "sentence_en": "The seal is a faithful and popular animal."
+  },
+  {
+    "id": "qual",
+    "word": "Qualle",
+    "article": "die",
+    "plural": "Quallen",
+    "translation": "jellyfish",
+    "category": "animals",
+    "sentence_de": "Die Qualle ist ein faszinierendes Lebewesen in der Natur.",
+    "sentence_en": "The jellyfish is a fascinating creature in nature."
+  },
+  {
+    "id": "seestern",
+    "word": "Seestern",
+    "article": "der",
+    "plural": "Seesterne",
+    "translation": "starfish",
+    "category": "animals",
+    "sentence_de": "Der Seestern ist ein faszinierendes Lebewesen in der Natur.",
+    "sentence_en": "The starfish is a fascinating creature in nature."
+  },
+  {
+    "id": "hummer",
+    "word": "Hummer",
+    "article": "der",
+    "plural": "Hummer",
+    "translation": "lobster",
+    "category": "animals",
+    "sentence_de": "Der Hummer ist ein faszinierendes Lebewesen in der Natur.",
+    "sentence_en": "The lobster is a fascinating creature in nature."
+  },
+  {
+    "id": "ziege",
+    "word": "Ziege",
+    "article": "die",
+    "plural": "Ziegen",
+    "translation": "goat",
+    "category": "animals",
+    "sentence_de": "Die Ziege ist ein treues und beliebtes Tier.",
+    "sentence_en": "The goat is a faithful and popular animal."
+  },
+  {
+    "id": "esel",
+    "word": "Esel",
+    "article": "der",
+    "plural": "Esel",
+    "translation": "donkey",
+    "category": "animals",
+    "sentence_de": "Der Esel ist ein treues und beliebtes Tier.",
+    "sentence_en": "The donkey is a faithful and popular animal."
+  },
+  {
+    "id": "pute",
+    "word": "Pute",
+    "article": "die",
+    "plural": "Puten",
+    "translation": "turkey hen",
+    "category": "animals",
+    "sentence_de": "Die Pute ist ein faszinierendes Lebewesen in der Natur.",
+    "sentence_en": "The turkey hen is a fascinating creature in nature."
+  },
+  {
+    "id": "ratte",
+    "word": "Ratte",
+    "article": "die",
+    "plural": "Ratten",
+    "translation": "rat",
+    "category": "animals",
+    "sentence_de": "Die Ratte ist ein faszinierendes Lebewesen in der Natur.",
+    "sentence_en": "The rat is a fascinating creature in nature."
+  },
+  {
+    "id": "igel",
+    "word": "Igel",
+    "article": "der",
+    "plural": "Igel",
+    "translation": "hedgehog",
+    "category": "animals",
+    "sentence_de": "Der Igel ist ein faszinierendes Lebewesen in der Natur.",
+    "sentence_en": "The hedgehog is a fascinating creature in nature."
+  },
+  {
+    "id": "eichhoernchen",
+    "word": "Eichhörnchen",
+    "article": "das",
+    "plural": "Eichhörnchen",
+    "translation": "squirrel",
+    "category": "animals",
+    "sentence_de": "Das Eichhörnchen ist ein faszinierendes Lebewesen in der Natur.",
+    "sentence_en": "The squirrel is a fascinating creature in nature."
+  },
+  {
+    "id": "fledermaus",
+    "word": "Fledermaus",
+    "article": "die",
+    "plural": "Fledermäuse",
+    "translation": "bat",
+    "category": "animals",
+    "sentence_de": "Die Fledermaus ist ein faszinierendes Lebewesen in der Natur.",
+    "sentence_en": "The bat is a fascinating creature in nature."
+  },
+  {
+    "id": "maulwurf",
+    "word": "Maulwurf",
+    "article": "der",
+    "plural": "Maulwürfe",
+    "translation": "mole",
+    "category": "animals",
+    "sentence_de": "Der Maulwurf ist ein faszinierendes Lebewesen in der Natur.",
+    "sentence_en": "The mole is a fascinating creature in nature."
+  },
+  {
+    "id": "dachs",
+    "word": "Dachs",
+    "article": "der",
+    "plural": "Dachse",
+    "translation": "badger",
+    "category": "animals",
+    "sentence_de": "Der Dachs ist ein faszinierendes Lebewesen in der Natur.",
+    "sentence_en": "The badger is a fascinating creature in nature."
+  },
+  {
+    "id": "otter",
+    "word": "Otter",
+    "article": "der",
+    "plural": "Otter",
+    "translation": "otter",
+    "category": "animals",
+    "sentence_de": "Der Otter ist ein faszinierendes Lebewesen in der Natur.",
+    "sentence_en": "The otter is a fascinating creature in nature."
+  },
+  {
+    "id": "luchs",
+    "word": "Luchs",
+    "article": "der",
+    "plural": "Luchse",
+    "translation": "lynx",
+    "category": "animals",
+    "sentence_de": "Der Luchs ist ein faszinierendes Lebewesen in der Natur.",
+    "sentence_en": "The lynx is a fascinating creature in nature."
+  },
+  {
+    "id": "elch",
+    "word": "Elch",
+    "article": "der",
+    "plural": "Elche",
+    "translation": "moose / elk",
+    "category": "animals",
+    "sentence_de": "Der Elch ist ein faszinierendes Lebewesen in der Natur.",
+    "sentence_en": "The moose is a fascinating creature in nature."
+  },
+  {
+    "id": "rentier",
+    "word": "Rentier",
+    "article": "das",
+    "plural": "Rentiere",
+    "translation": "reindeer",
+    "category": "animals",
+    "sentence_de": "Das Rentier ist ein faszinierendes Lebewesen in der Natur.",
+    "sentence_en": "The reindeer is a fascinating creature in nature."
+  },
+  {
+    "id": "kamel",
+    "word": "Kamel",
+    "article": "das",
+    "plural": "Kamele",
+    "translation": "camel",
+    "category": "animals",
+    "sentence_de": "Das Kamel ist ein faszinierendes Lebewesen in der Natur.",
+    "sentence_en": "The camel is a fascinating creature in nature."
+  },
+  {
+    "id": "lama",
+    "word": "Lama",
+    "article": "das",
+    "plural": "Lamas",
+    "translation": "llama",
+    "category": "animals",
+    "sentence_de": "Das Lama ist ein faszinierendes Lebewesen in der Natur.",
+    "sentence_en": "The llama is a fascinating creature in nature."
+  },
+  {
+    "id": "koala",
+    "word": "Koala",
+    "article": "der",
+    "plural": "Koalas",
+    "translation": "koala",
+    "category": "animals",
+    "sentence_de": "Der Koala ist ein faszinierendes Lebewesen in der Natur.",
+    "sentence_en": "The koala is a fascinating creature in nature."
+  },
+  {
+    "id": "kaenguru",
+    "word": "Känguru",
+    "article": "das",
+    "plural": "Kängurus",
+    "translation": "kangaroo",
+    "category": "animals",
+    "sentence_de": "Das Känguru ist ein faszinierendes Lebewesen in der Natur.",
+    "sentence_en": "The kangaroo is a fascinating creature in nature."
+  },
+  {
+    "id": "panda",
+    "word": "Panda",
+    "article": "der",
+    "plural": "Pandas",
+    "translation": "panda",
+    "category": "animals",
+    "sentence_de": "Der Panda ist ein faszinierendes Lebewesen in der Natur.",
+    "sentence_en": "The panda is a fascinating creature in nature."
+  },
+  {
+    "id": "schweiz",
+    "word": "Schweiz",
+    "article": "die",
+    "plural": "",
+    "translation": "Switzerland",
+    "category": "geography",
+    "sentence_de": "Die Schweiz ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The Switzerland is an important term in the German language."
+  },
+  {
+    "id": "tuerkei",
+    "word": "Türkei",
+    "article": "die",
+    "plural": "",
+    "translation": "Turkey",
+    "category": "geography",
+    "sentence_de": "Die Türkei ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The Turkey is an important term in the German language."
+  },
+  {
+    "id": "ukraine",
+    "word": "Ukraine",
+    "article": "die",
+    "plural": "",
+    "translation": "Ukraine",
+    "category": "geography",
+    "sentence_de": "Die Ukraine ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The Ukraine is an important term in the German language."
+  },
+  {
+    "id": "usa",
+    "word": "USA",
+    "article": "die",
+    "plural": "",
+    "translation": "USA",
+    "category": "geography",
+    "sentence_de": "Die USA ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The USA is an important term in the German language."
+  },
+  {
+    "id": "niederlande",
+    "word": "Niederlande",
+    "article": "die",
+    "plural": "",
+    "translation": "Netherlands",
+    "category": "geography",
+    "sentence_de": "Die Niederlande ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The Netherlands is an important term in the German language."
+  },
+  {
+    "id": "slowakei",
+    "word": "Slowakei",
+    "article": "die",
+    "plural": "",
+    "translation": "Slovakia",
+    "category": "geography",
+    "sentence_de": "Die Slowakei ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The Slovakia is an important term in the German language."
+  },
+  {
+    "id": "tschechien",
+    "word": "Tschechien",
+    "article": "das",
+    "plural": "",
+    "translation": "Czechia",
+    "category": "geography",
+    "sentence_de": "Das Tschechien ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The Czechia is an important term in the German language."
+  },
+  {
+    "id": "oesterreich",
+    "word": "Österreich",
+    "article": "das",
+    "plural": "",
+    "translation": "Austria",
+    "category": "geography",
+    "sentence_de": "Das Österreich ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The Austria is an important term in the German language."
+  },
+  {
+    "id": "deutschland",
+    "word": "Deutschland",
+    "article": "das",
+    "plural": "",
+    "translation": "Germany",
+    "category": "geography",
+    "sentence_de": "Das Deutschland ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The Germany is an important term in the German language."
+  },
+  {
+    "id": "frankreich",
+    "word": "Frankreich",
+    "article": "das",
+    "plural": "",
+    "translation": "France",
+    "category": "geography",
+    "sentence_de": "Das Frankreich ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The France is an important term in the German language."
+  },
+  {
+    "id": "italien",
+    "word": "Italien",
+    "article": "das",
+    "plural": "",
+    "translation": "Italy",
+    "category": "geography",
+    "sentence_de": "Das Italien ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The Italy is an important term in the German language."
+  },
+  {
+    "id": "spanien",
+    "word": "Spanien",
+    "article": "das",
+    "plural": "",
+    "translation": "Spain",
+    "category": "geography",
+    "sentence_de": "Das Spanien ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The Spain is an important term in the German language."
+  },
+  {
+    "id": "portugal",
+    "word": "Portugal",
+    "article": "das",
+    "plural": "",
+    "translation": "Portugal",
+    "category": "geography",
+    "sentence_de": "Das Portugal ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The Portugal is an important term in the German language."
+  },
+  {
+    "id": "griechenland",
+    "word": "Griechenland",
+    "article": "das",
+    "plural": "",
+    "translation": "Greece",
+    "category": "geography",
+    "sentence_de": "Das Griechenland ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The Greece is an important term in the German language."
+  },
+  {
+    "id": "polen",
+    "word": "Polen",
+    "article": "das",
+    "plural": "",
+    "translation": "Poland",
+    "category": "geography",
+    "sentence_de": "Das Polen ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The Poland is an important term in the German language."
+  },
+  {
+    "id": "schweden",
+    "word": "Schweden",
+    "article": "das",
+    "plural": "",
+    "translation": "Sweden",
+    "category": "geography",
+    "sentence_de": "Das Schweden ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The Sweden is an important term in the German language."
+  },
+  {
+    "id": "norwegen",
+    "word": "Norwegen",
+    "article": "das",
+    "plural": "",
+    "translation": "Norway",
+    "category": "geography",
+    "sentence_de": "Das Norwegen ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The Norway is an important term in the German language."
+  },
+  {
+    "id": "daenemark",
+    "word": "Dänemark",
+    "article": "das",
+    "plural": "",
+    "translation": "Denmark",
+    "category": "geography",
+    "sentence_de": "Das Dänemark ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The Denmark is an important term in the German language."
+  },
+  {
+    "id": "finnland",
+    "word": "Finnland",
+    "article": "das",
+    "plural": "",
+    "translation": "Finland",
+    "category": "geography",
+    "sentence_de": "Das Finnland ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The Finland is an important term in the German language."
+  },
+  {
+    "id": "england",
+    "word": "England",
+    "article": "das",
+    "plural": "",
+    "translation": "England",
+    "category": "geography",
+    "sentence_de": "Das England ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The England is an important term in the German language."
+  },
+  {
+    "id": "irland",
+    "word": "Irland",
+    "article": "das",
+    "plural": "",
+    "translation": "Ireland",
+    "category": "geography",
+    "sentence_de": "Das Irland ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The Ireland is an important term in the German language."
+  },
+  {
+    "id": "schottland",
+    "word": "Schottland",
+    "article": "das",
+    "plural": "",
+    "translation": "Scotland",
+    "category": "geography",
+    "sentence_de": "Das Schottland ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The Scotland is an important term in the German language."
+  },
+  {
+    "id": "russland",
+    "word": "Russland",
+    "article": "das",
+    "plural": "",
+    "translation": "Russia",
+    "category": "geography",
+    "sentence_de": "Das Russland ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The Russia is an important term in the German language."
+  },
+  {
+    "id": "china",
+    "word": "China",
+    "article": "das",
+    "plural": "",
+    "translation": "China",
+    "category": "geography",
+    "sentence_de": "Das China ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The China is an important term in the German language."
+  },
+  {
+    "id": "japan",
+    "word": "Japan",
+    "article": "das",
+    "plural": "",
+    "translation": "Japan",
+    "category": "geography",
+    "sentence_de": "Das Japan ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The Japan is an important term in the German language."
+  },
+  {
+    "id": "indien",
+    "word": "Indien",
+    "article": "das",
+    "plural": "",
+    "translation": "India",
+    "category": "geography",
+    "sentence_de": "Das Indien ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The India is an important term in the German language."
+  },
+  {
+    "id": "brasilien",
+    "word": "Brasilien",
+    "article": "das",
+    "plural": "",
+    "translation": "Brazil",
+    "category": "geography",
+    "sentence_de": "Das Brasilien ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The Brazil is an important term in the German language."
+  },
+  {
+    "id": "kanada",
+    "word": "Kanada",
+    "article": "das",
+    "plural": "",
+    "translation": "Canada",
+    "category": "geography",
+    "sentence_de": "Das Kanada ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The Canada is an important term in the German language."
+  },
+  {
+    "id": "mexiko",
+    "word": "Mexiko",
+    "article": "das",
+    "plural": "",
+    "translation": "Mexico",
+    "category": "geography",
+    "sentence_de": "Das Mexiko ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The Mexico is an important term in the German language."
+  },
+  {
+    "id": "aegypten",
+    "word": "Ägypten",
+    "article": "das",
+    "plural": "",
+    "translation": "Egypt",
+    "category": "geography",
+    "sentence_de": "Das Ägypten ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The Egypt is an important term in the German language."
+  },
+  {
+    "id": "marokko",
+    "word": "Marokko",
+    "article": "das",
+    "plural": "",
+    "translation": "Morocco",
+    "category": "geography",
+    "sentence_de": "Das Marokko ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The Morocco is an important term in the German language."
+  },
+  {
+    "id": "australien",
+    "word": "Australien",
+    "article": "das",
+    "plural": "",
+    "translation": "Australia",
+    "category": "geography",
+    "sentence_de": "Das Australien ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The Australia is an important term in the German language."
+  },
+  {
+    "id": "europa",
+    "word": "Europa",
+    "article": "das",
+    "plural": "",
+    "translation": "Europe",
+    "category": "geography",
+    "sentence_de": "Das Europa ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The Europe is an important term in the German language."
+  },
+  {
+    "id": "asien",
+    "word": "Asien",
+    "article": "das",
+    "plural": "",
+    "translation": "Asia",
+    "category": "geography",
+    "sentence_de": "Das Asien ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The Asia is an important term in the German language."
+  },
+  {
+    "id": "afrika",
+    "word": "Afrika",
+    "article": "das",
+    "plural": "",
+    "translation": "Africa",
+    "category": "geography",
+    "sentence_de": "Das Afrika ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The Africa is an important term in the German language."
+  },
+  {
+    "id": "amerika",
+    "word": "Amerika",
+    "article": "das",
+    "plural": "",
+    "translation": "America",
+    "category": "geography",
+    "sentence_de": "Das Amerika ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The America is an important term in the German language."
+  },
+  {
+    "id": "antarktis",
+    "word": "Antarktis",
+    "article": "die",
+    "plural": "",
+    "translation": "Antarctica",
+    "category": "geography",
+    "sentence_de": "Die Antarktis ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The Antarctica is an important term in the German language."
+  },
+  {
+    "id": "arktis",
+    "word": "Arktis",
+    "article": "die",
+    "plural": "",
+    "translation": "Arctic",
+    "category": "geography",
+    "sentence_de": "Die Arktis ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The Arctic is an important term in the German language."
+  },
+  {
+    "id": "nordsee",
+    "word": "Nordsee",
+    "article": "die",
+    "plural": "",
+    "translation": "North Sea",
+    "category": "geography",
+    "sentence_de": "Die Nordsee ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The North Sea is an important term in the German language."
+  },
+  {
+    "id": "ostsee",
+    "word": "Ostsee",
+    "article": "die",
+    "plural": "",
+    "translation": "Baltic Sea",
+    "category": "geography",
+    "sentence_de": "Die Ostsee ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The Baltic Sea is an important term in the German language."
+  },
+  {
+    "id": "mittelmeer",
+    "word": "Mittelmeer",
+    "article": "das",
+    "plural": "",
+    "translation": "Mediterranean",
+    "category": "geography",
+    "sentence_de": "Das Mittelmeer ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The Mediterranean is an important term in the German language."
+  },
+  {
+    "id": "atlantik",
+    "word": "Atlantik",
+    "article": "der",
+    "plural": "",
+    "translation": "Atlantic",
+    "category": "geography",
+    "sentence_de": "Der Atlantik ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The Atlantic is an important term in the German language."
+  },
+  {
+    "id": "pazifik",
+    "word": "Pazifik",
+    "article": "der",
+    "plural": "",
+    "translation": "Pacific",
+    "category": "geography",
+    "sentence_de": "Der Pazifik ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The Pacific is an important term in the German language."
+  },
+  {
+    "id": "alpen",
+    "word": "Alpen",
+    "article": "die",
+    "plural": "",
+    "translation": "Alps",
+    "category": "geography",
+    "sentence_de": "Die Alpen ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The Alps is an important term in the German language."
+  },
+  {
+    "id": "rhein",
+    "word": "Rhein",
+    "article": "der",
+    "plural": "",
+    "translation": "Rhine",
+    "category": "geography",
+    "sentence_de": "Der Rhein ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The Rhine is an important term in the German language."
+  },
+  {
+    "id": "donau",
+    "word": "Donau",
+    "article": "die",
+    "plural": "",
+    "translation": "Danube",
+    "category": "geography",
+    "sentence_de": "Die Donau ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The Danube is an important term in the German language."
+  },
+  {
+    "id": "elbe",
+    "word": "Elbe",
+    "article": "die",
+    "plural": "",
+    "translation": "Elbe",
+    "category": "geography",
+    "sentence_de": "Die Elbe ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The Elbe is an important term in the German language."
+  },
+  {
+    "id": "spree",
+    "word": "Spree",
+    "article": "die",
+    "plural": "",
+    "translation": "Spree",
+    "category": "geography",
+    "sentence_de": "Die Spree ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The Spree is an important term in the German language."
+  },
+  {
+    "id": "main",
+    "word": "Main",
+    "article": "der",
+    "plural": "",
+    "translation": "Main (river)",
+    "category": "geography",
+    "sentence_de": "Der Main ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The Main is an important term in the German language."
+  },
+  {
+    "id": "nordpol",
+    "word": "Nordpol",
+    "article": "der",
+    "plural": "",
+    "translation": "North Pole",
+    "category": "geography",
+    "sentence_de": "Der Nordpol ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The North Pole is an important term in the German language."
+  },
+  {
+    "id": "suedpol",
+    "word": "Südpol",
+    "article": "der",
+    "plural": "",
+    "translation": "South Pole",
+    "category": "geography",
+    "sentence_de": "Der Südpol ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The South Pole is an important term in the German language."
+  },
+  {
+    "id": "aequator",
+    "word": "Äquator",
+    "article": "der",
+    "plural": "",
+    "translation": "equator",
+    "category": "geography",
+    "sentence_de": "Der Äquator ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The equator is an important term in the German language."
+  },
+  {
+    "id": "mars",
+    "word": "Mars",
+    "article": "der",
+    "plural": "",
+    "translation": "Mars",
+    "category": "geography",
+    "sentence_de": "Der Mars ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The Mars is an important term in the German language."
+  },
+  {
+    "id": "venus",
+    "word": "Venus",
+    "article": "die",
+    "plural": "",
+    "translation": "Venus",
+    "category": "geography",
+    "sentence_de": "Die Venus ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The Venus is an important term in the German language."
+  },
+  {
+    "id": "jupiter",
+    "word": "Jupiter",
+    "article": "der",
+    "plural": "",
+    "translation": "Jupiter",
+    "category": "geography",
+    "sentence_de": "Der Jupiter ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The Jupiter is an important term in the German language."
+  },
+  {
+    "id": "saturn",
+    "word": "Saturn",
+    "article": "der",
+    "plural": "",
+    "translation": "Saturn",
+    "category": "geography",
+    "sentence_de": "Der Saturn ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The Saturn is an important term in the German language."
+  },
+  {
+    "id": "merkur",
+    "word": "Merkur",
+    "article": "der",
+    "plural": "",
+    "translation": "Mercury",
+    "category": "geography",
+    "sentence_de": "Der Merkur ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The Mercury is an important term in the German language."
+  },
+  {
+    "id": "neptun",
+    "word": "Neptun",
+    "article": "der",
+    "plural": "",
+    "translation": "Neptune",
+    "category": "geography",
+    "sentence_de": "Der Neptun ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The Neptune is an important term in the German language."
+  },
+  {
+    "id": "uranus",
+    "word": "Uranus",
+    "article": "der",
+    "plural": "",
+    "translation": "Uranus",
+    "category": "geography",
+    "sentence_de": "Der Uranus ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The Uranus is an important term in the German language."
+  },
+  {
+    "id": "pluto",
+    "word": "Pluto",
+    "article": "der",
+    "plural": "",
+    "translation": "Pluto",
+    "category": "geography",
+    "sentence_de": "Der Pluto ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The Pluto is an important term in the German language."
+  },
+  {
+    "id": "stern",
+    "word": "Stern",
+    "article": "der",
+    "plural": "Sterne",
+    "translation": "star",
+    "category": "nature",
+    "sentence_de": "Der Stern zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The star shows the impressive diversity of nature."
+  },
+  {
+    "id": "planet",
+    "word": "Planet",
+    "article": "der",
+    "plural": "Planeten",
+    "translation": "planet",
+    "category": "nature",
+    "sentence_de": "Der Planet zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The planet shows the impressive diversity of nature."
+  },
+  {
+    "id": "galaxie",
+    "word": "Galaxie",
+    "article": "die",
+    "plural": "Galaxien",
+    "translation": "galaxy",
+    "category": "nature",
+    "sentence_de": "Die Galaxie zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The galaxy shows the impressive diversity of nature."
+  },
+  {
+    "id": "weltall",
+    "word": "Weltall",
+    "article": "das",
+    "plural": "",
+    "translation": "universe / space",
+    "category": "nature",
+    "sentence_de": "Das Weltall zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The universe shows the impressive diversity of nature."
+  },
+  {
+    "id": "rakete",
+    "word": "Rakete",
+    "article": "die",
+    "plural": "Raketen",
+    "translation": "rocket",
+    "category": "technology",
+    "sentence_de": "Die Rakete ist ein nützliches Werkzeug in der modernen Praxis.",
+    "sentence_en": "The rocket is a useful tool in modern practice."
+  },
+  {
+    "id": "satellit",
+    "word": "Satellit",
+    "article": "der",
+    "plural": "Satelliten",
+    "translation": "satellite",
+    "category": "technology",
+    "sentence_de": "Der Satellit ist ein nützliches Werkzeug in der modernen Praxis.",
+    "sentence_en": "The satellite is a useful tool in modern practice."
+  },
+  {
+    "id": "astronaut",
+    "word": "Astronaut",
+    "article": "der",
+    "plural": "Astronauten",
+    "translation": "astronaut (male)",
+    "category": "people",
+    "sentence_de": "Der Astronaut ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The astronaut is a valued member of the community."
+  },
+  {
+    "id": "astronautin",
+    "word": "Astronautin",
+    "article": "die",
+    "plural": "Astronautinnen",
+    "translation": "astronaut (female)",
+    "category": "people",
+    "sentence_de": "Die Astronautin ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The astronaut is a valued member of the community."
+  },
+  {
+    "id": "gott",
+    "word": "Gott",
+    "article": "der",
+    "plural": "Götter",
+    "translation": "god",
+    "category": "events",
+    "sentence_de": "Der Gott ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The god is an important term in the German language."
+  },
+  {
+    "id": "goettin",
+    "word": "Göttin",
+    "article": "die",
+    "plural": "Göttinnen",
+    "translation": "goddess",
+    "category": "events",
+    "sentence_de": "Die Göttin ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The goddess is an important term in the German language."
+  },
+  {
+    "id": "glaube",
+    "word": "Glaube",
+    "article": "der",
+    "plural": "",
+    "translation": "faith / belief",
+    "category": "feelings",
+    "sentence_de": "Der Glaube prägt unsere menschlichen Erfahrungen tief.",
+    "sentence_en": "The faith deeply shapes our human experiences."
+  },
+  {
+    "id": "religion",
+    "word": "Religion",
+    "article": "die",
+    "plural": "Religionen",
+    "translation": "religion",
+    "category": "events",
+    "sentence_de": "Die Religion ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The religion is an important term in the German language."
+  },
+  {
+    "id": "pfarrer",
+    "word": "Pfarrer",
+    "article": "der",
+    "plural": "Pfarrer",
+    "translation": "pastor",
+    "category": "people",
+    "sentence_de": "Der Pfarrer ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The pastor is a valued member of the community."
+  },
+  {
+    "id": "gebet",
+    "word": "Gebet",
+    "article": "das",
+    "plural": "Gebete",
+    "translation": "prayer",
+    "category": "events",
+    "sentence_de": "Das Gebet ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The prayer is an important term in the German language."
+  },
+  {
+    "id": "segen",
+    "word": "Segen",
+    "article": "der",
+    "plural": "",
+    "translation": "blessing",
+    "category": "events",
+    "sentence_de": "Der Segen ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The blessing is an important term in the German language."
+  },
+  {
+    "id": "suende",
+    "word": "Sünde",
+    "article": "die",
+    "plural": "Sünden",
+    "translation": "sin",
+    "category": "events",
+    "sentence_de": "Die Sünde ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The sin is an important term in the German language."
+  },
+  {
+    "id": "hoelle",
+    "word": "Hölle",
+    "article": "die",
+    "plural": "",
+    "translation": "hell",
+    "category": "events",
+    "sentence_de": "Die Hölle ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The hell is an important term in the German language."
+  },
+  {
+    "id": "engel",
+    "word": "Engel",
+    "article": "der",
+    "plural": "Engel",
+    "translation": "angel",
+    "category": "events",
+    "sentence_de": "Der Engel ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The angel is an important term in the German language."
+  },
+  {
+    "id": "teufel",
+    "word": "Teufel",
+    "article": "der",
+    "plural": "Teufel",
+    "translation": "devil",
+    "category": "events",
+    "sentence_de": "Der Teufel ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The devil is an important term in the German language."
+  },
+  {
+    "id": "seele",
+    "word": "Seele",
+    "article": "die",
+    "plural": "Seelen",
+    "translation": "soul",
+    "category": "feelings",
+    "sentence_de": "Die Seele prägt unsere menschlichen Erfahrungen tief.",
+    "sentence_en": "The soul deeply shapes our human experiences."
+  },
+  {
+    "id": "geist",
+    "word": "Geist",
+    "article": "der",
+    "plural": "Geister",
+    "translation": "spirit / mind / ghost",
+    "category": "feelings",
+    "sentence_de": "Der Geist prägt unsere menschlichen Erfahrungen tief.",
+    "sentence_en": "The spirit deeply shapes our human experiences."
+  },
+  {
+    "id": "traum",
+    "word": "Traum",
+    "article": "der",
+    "plural": "Träume",
+    "translation": "dream",
+    "category": "feelings",
+    "sentence_de": "Der Traum prägt unsere menschlichen Erfahrungen tief.",
+    "sentence_en": "The dream deeply shapes our human experiences."
+  },
+  {
+    "id": "albtraum",
+    "word": "Albtraum",
+    "article": "der",
+    "plural": "Albträume",
+    "translation": "nightmare",
+    "category": "feelings",
+    "sentence_de": "Der Albtraum prägt unsere menschlichen Erfahrungen tief.",
+    "sentence_en": "The nightmare deeply shapes our human experiences."
+  },
+  {
+    "id": "wunsch",
+    "word": "Wunsch",
+    "article": "der",
+    "plural": "Wünsche",
+    "translation": "wish",
+    "category": "feelings",
+    "sentence_de": "Der Wunsch prägt unsere menschlichen Erfahrungen tief.",
+    "sentence_en": "The wish deeply shapes our human experiences."
+  },
+  {
+    "id": "ziel_leben",
+    "word": "Lebensziel",
+    "article": "das",
+    "plural": "Lebensziele",
+    "translation": "life goal",
+    "category": "feelings",
+    "sentence_de": "Das Lebensziel prägt unsere menschlichen Erfahrungen tief.",
+    "sentence_en": "The life goal deeply shapes our human experiences."
+  },
+  {
+    "id": "sinn",
+    "word": "Sinn",
+    "article": "der",
+    "plural": "Sinne",
+    "translation": "sense / meaning",
+    "category": "feelings",
+    "sentence_de": "Der Sinn prägt unsere menschlichen Erfahrungen tief.",
+    "sentence_en": "The sense deeply shapes our human experiences."
+  },
+  {
+    "id": "gedanke",
+    "word": "Gedanke",
+    "article": "der",
+    "plural": "Gedanken",
+    "translation": "thought",
+    "category": "feelings",
+    "sentence_de": "Der Gedanke prägt unsere menschlichen Erfahrungen tief.",
+    "sentence_en": "The thought deeply shapes our human experiences."
+  },
+  {
+    "id": "erinnerung",
+    "word": "Erinnerung",
+    "article": "die",
+    "plural": "Erinnerungen",
+    "translation": "memory",
+    "category": "feelings",
+    "sentence_de": "Die Erinnerung prägt unsere menschlichen Erfahrungen tief.",
+    "sentence_en": "The memory deeply shapes our human experiences."
+  },
+  {
+    "id": "erfahrung",
+    "word": "Erfahrung",
+    "article": "die",
+    "plural": "Erfahrungen",
+    "translation": "experience",
+    "category": "feelings",
+    "sentence_de": "Die Erfahrung prägt unsere menschlichen Erfahrungen tief.",
+    "sentence_en": "The experience deeply shapes our human experiences."
+  },
+  {
+    "id": "meinung",
+    "word": "Meinung",
+    "article": "die",
+    "plural": "Meinungen",
+    "translation": "opinion",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute die Meinung.",
+    "sentence_en": "In class today we are covering the opinion."
+  },
+  {
+    "id": "wahrheit",
+    "word": "Wahrheit",
+    "article": "die",
+    "plural": "Wahrheiten",
+    "translation": "truth",
+    "category": "feelings",
+    "sentence_de": "Die Wahrheit prägt unsere menschlichen Erfahrungen tief.",
+    "sentence_en": "The truth deeply shapes our human experiences."
+  },
+  {
+    "id": "luege",
+    "word": "Lüge",
+    "article": "die",
+    "plural": "Lügen",
+    "translation": "lie",
+    "category": "feelings",
+    "sentence_de": "Die Lüge prägt unsere menschlichen Erfahrungen tief.",
+    "sentence_en": "The lie deeply shapes our human experiences."
+  },
+  {
+    "id": "geheimnis",
+    "word": "Geheimnis",
+    "article": "das",
+    "plural": "Geheimnisse",
+    "translation": "secret",
+    "category": "feelings",
+    "sentence_de": "Das Geheimnis prägt unsere menschlichen Erfahrungen tief.",
+    "sentence_en": "The secret deeply shapes our human experiences."
+  },
+  {
+    "id": "witz",
+    "word": "Witz",
+    "article": "der",
+    "plural": "Witze",
+    "translation": "joke",
+    "category": "hobbies",
+    "sentence_de": "Der Witz bereitet in der Freizeit großen Spaß.",
+    "sentence_en": "The joke brings great joy during leisure time."
+  },
+  {
+    "id": "raetsel",
+    "word": "Rätsel",
+    "article": "das",
+    "plural": "Rätsel",
+    "translation": "riddle / puzzle",
+    "category": "hobbies",
+    "sentence_de": "Das Rätsel bereitet in der Freizeit großen Spaß.",
+    "sentence_en": "The riddle brings great joy during leisure time."
+  },
+  {
+    "id": "karte_spiel",
+    "word": "Spielkarte",
+    "article": "die",
+    "plural": "Spielkarten",
+    "translation": "playing card",
+    "category": "hobbies",
+    "sentence_de": "Die Spielkarte fördert Fitness, Teamgeist und Begeisterung.",
+    "sentence_en": "The playing card promotes fitness, team spirit, and enthusiasm."
+  },
+  {
+    "id": "wuerfel",
+    "word": "Würfel",
+    "article": "der",
+    "plural": "Würfel",
+    "translation": "dice / cube",
+    "category": "hobbies",
+    "sentence_de": "Der Würfel bereitet in der Freizeit großen Spaß.",
+    "sentence_en": "The dice brings great joy during leisure time."
+  },
+  {
+    "id": "schach",
+    "word": "Schach",
+    "article": "das",
+    "plural": "",
+    "translation": "chess",
+    "category": "hobbies",
+    "sentence_de": "Das Schach bereitet in der Freizeit großen Spaß.",
+    "sentence_en": "The chess brings great joy during leisure time."
+  },
+  {
+    "id": "puzzle",
+    "word": "Puzzle",
+    "article": "das",
+    "plural": "Puzzles",
+    "translation": "jigsaw puzzle",
+    "category": "hobbies",
+    "sentence_de": "Das Puzzle bereitet in der Freizeit großen Spaß.",
+    "sentence_en": "The jigsaw puzzle brings great joy during leisure time."
+  },
+  {
+    "id": "lego",
+    "word": "Lego",
+    "article": "das",
+    "plural": "",
+    "translation": "Lego",
+    "category": "hobbies",
+    "sentence_de": "Das Lego bereitet in der Freizeit großen Spaß.",
+    "sentence_en": "The Lego brings great joy during leisure time."
+  },
+  {
+    "id": "puppe",
+    "word": "Puppe",
+    "article": "die",
+    "plural": "Puppen",
+    "translation": "doll",
+    "category": "hobbies",
+    "sentence_de": "Die Puppe bereitet in der Freizeit großen Spaß.",
+    "sentence_en": "The doll brings great joy during leisure time."
+  },
+  {
+    "id": "teddy",
+    "word": "Teddy",
+    "article": "der",
+    "plural": "Teddys",
+    "translation": "teddy bear",
+    "category": "hobbies",
+    "sentence_de": "Der Teddy bereitet in der Freizeit großen Spaß.",
+    "sentence_en": "The teddy bear brings great joy during leisure time."
+  },
+  {
+    "id": "spielzeug",
+    "word": "Spielzeug",
+    "article": "das",
+    "plural": "Spielzeuge",
+    "translation": "toy",
+    "category": "hobbies",
+    "sentence_de": "Das Spielzeug fördert Fitness, Teamgeist und Begeisterung.",
+    "sentence_en": "The toy promotes fitness, team spirit, and enthusiasm."
+  },
+  {
+    "id": "baustein",
+    "word": "Baustein",
+    "article": "der",
+    "plural": "Bausteine",
+    "translation": "building block",
+    "category": "hobbies",
+    "sentence_de": "Der Baustein bereitet in der Freizeit großen Spaß.",
+    "sentence_en": "The building block brings great joy during leisure time."
+  },
+  {
+    "id": "kreisel",
+    "word": "Kreisel",
+    "article": "der",
+    "plural": "Kreisel",
+    "translation": "spinning top",
+    "category": "hobbies",
+    "sentence_de": "Der Kreisel bereitet in der Freizeit großen Spaß.",
+    "sentence_en": "The spinning top brings great joy during leisure time."
+  },
+  {
+    "id": "drachen",
+    "word": "Drachen",
+    "article": "der",
+    "plural": "Drachen",
+    "translation": "kite / dragon",
+    "category": "hobbies",
+    "sentence_de": "Der Drachen bereitet in der Freizeit großen Spaß.",
+    "sentence_en": "The kite brings great joy during leisure time."
+  },
+  {
+    "id": "seifenblase",
+    "word": "Seifenblase",
+    "article": "die",
+    "plural": "Seifenblasen",
+    "translation": "soap bubble",
+    "category": "hobbies",
+    "sentence_de": "Die Seifenblase bereitet in der Freizeit großen Spaß.",
+    "sentence_en": "The soap bubble brings great joy during leisure time."
+  },
+  {
+    "id": "huepfseil",
+    "word": "Hüpfseil",
+    "article": "das",
+    "plural": "Hüpfseile",
+    "translation": "jump rope",
+    "category": "hobbies",
+    "sentence_de": "Das Hüpfseil bereitet in der Freizeit großen Spaß.",
+    "sentence_en": "The jump rope brings great joy during leisure time."
+  },
+  {
+    "id": "roller",
+    "word": "Roller",
+    "article": "der",
+    "plural": "Roller",
+    "translation": "scooter",
+    "category": "transport",
+    "sentence_de": "Wir erreichen den Roller nach einer kurzen Fahrt.",
+    "sentence_en": "We reach the scooter after a short ride."
+  },
+  {
+    "id": "skateboard",
+    "word": "Skateboard",
+    "article": "das",
+    "plural": "Skateboards",
+    "translation": "skateboard",
+    "category": "hobbies",
+    "sentence_de": "Das Skateboard bereitet in der Freizeit großen Spaß.",
+    "sentence_en": "The skateboard brings great joy during leisure time."
+  },
+  {
+    "id": "inliner",
+    "word": "Inliner",
+    "article": "die",
+    "plural": "Inliner",
+    "translation": "inline skates",
+    "category": "hobbies",
+    "sentence_de": "Die Inliner bereitet in der Freizeit großen Spaß.",
+    "sentence_en": "The inline skates brings great joy during leisure time."
+  },
+  {
+    "id": "helm",
+    "word": "Helm",
+    "article": "der",
+    "plural": "Helme",
+    "translation": "helmet",
+    "category": "clothing",
+    "sentence_de": "Sie trägt den Helm gern zu besonderen Anlässen.",
+    "sentence_en": "She likes to wear the helmet on special occasions."
+  },
+  {
+    "id": "knieprotektor",
+    "word": "Schoner",
+    "article": "der",
+    "plural": "Schoner",
+    "translation": "pad / guard",
+    "category": "sports",
+    "sentence_de": "Der Schoner bereitet in der Freizeit großen Spaß.",
+    "sentence_en": "The pad brings great joy during leisure time."
+  },
+  {
+    "id": "pause_brot",
+    "word": "Pausenbrot",
+    "article": "das",
+    "plural": "Pausenbröte",
+    "translation": "packed school snack",
+    "category": "food",
+    "sentence_de": "Das Pausenbrot schmeckt warm und frisch zubereitet hervorragend.",
+    "sentence_en": "The packed school snack tastes excellent when freshly prepared and warm."
+  },
+  {
+    "id": "trinkflasche",
+    "word": "Trinkflasche",
+    "article": "die",
+    "plural": "Trinkflaschen",
+    "translation": "water bottle",
+    "category": "food",
+    "sentence_de": "Wir bereiten die Trinkflasche mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the water bottle with fresh ingredients."
+  },
+  {
+    "id": "lunch",
+    "word": "Lunchpaket",
+    "article": "das",
+    "plural": "Lunchpakete",
+    "translation": "packed lunch",
+    "category": "food",
+    "sentence_de": "Wir bereiten das Lunchpaket mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the packed lunch with fresh ingredients."
+  },
+  {
+    "id": "suessigkeit",
+    "word": "Süßigkeit",
+    "article": "die",
+    "plural": "Süßigkeiten",
+    "translation": "candy / sweet",
+    "category": "food",
+    "sentence_de": "Wir bereiten die Süßigkeit mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the candy with fresh ingredients."
+  },
+  {
+    "id": "bonbon",
+    "word": "Bonbon",
+    "article": "das",
+    "plural": "Bonbons",
+    "translation": "hard candy",
+    "category": "food",
+    "sentence_de": "Wir bereiten das Bonbon mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the hard candy with fresh ingredients."
+  },
+  {
+    "id": "kaugummi",
+    "word": "Kaugummi",
+    "article": "der",
+    "plural": "Kaugummis",
+    "translation": "chewing gum",
+    "category": "food",
+    "sentence_de": "Wir bereiten den Kaugummi mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the chewing gum with fresh ingredients."
+  },
+  {
+    "id": "keks",
+    "word": "Keks",
+    "article": "der",
+    "plural": "Kekse",
+    "translation": "cookie / biscuit",
+    "category": "food",
+    "sentence_de": "Wir bereiten den Keks mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the cookie with fresh ingredients."
+  },
+  {
+    "id": "muffin",
+    "word": "Muffin",
+    "article": "der",
+    "plural": "Muffins",
+    "translation": "muffin",
+    "category": "food",
+    "sentence_de": "Wir bereiten den Muffin mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the muffin with fresh ingredients."
+  },
+  {
+    "id": "donut",
+    "word": "Donut",
+    "article": "der",
+    "plural": "Donuts",
+    "translation": "donut",
+    "category": "food",
+    "sentence_de": "Wir bereiten den Donut mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the donut with fresh ingredients."
+  },
+  {
+    "id": "torte",
+    "word": "Torte",
+    "article": "die",
+    "plural": "Torten",
+    "translation": "layer cake",
+    "category": "food",
+    "sentence_de": "Die Torte schmeckt warm und frisch zubereitet hervorragend.",
+    "sentence_en": "The layer cake tastes excellent when freshly prepared and warm."
+  },
+  {
+    "id": "waffel",
+    "word": "Waffel",
+    "article": "die",
+    "plural": "Waffeln",
+    "translation": "waffle",
+    "category": "food",
+    "sentence_de": "Wir bereiten die Waffel mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the waffle with fresh ingredients."
+  },
+  {
+    "id": "pfannkuchen",
+    "word": "Pfannkuchen",
+    "article": "der",
+    "plural": "Pfannkuchen",
+    "translation": "pancake",
+    "category": "food",
+    "sentence_de": "Der Pfannkuchen schmeckt warm und frisch zubereitet hervorragend.",
+    "sentence_en": "The pancake tastes excellent when freshly prepared and warm."
+  },
+  {
+    "id": "crepe",
+    "word": "Crêpe",
+    "article": "der",
+    "plural": "Crêpes",
+    "translation": "crêpe",
+    "category": "food",
+    "sentence_de": "Wir bereiten den Crêpe mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the crêpe with fresh ingredients."
+  },
+  {
+    "id": "milchreis",
+    "word": "Milchreis",
+    "article": "der",
+    "plural": "",
+    "translation": "rice pudding",
+    "category": "food",
+    "sentence_de": "Der Milchreis schmeckt warm und frisch zubereitet hervorragend.",
+    "sentence_en": "The rice pudding tastes excellent when freshly prepared and warm."
+  },
+  {
+    "id": "pudding",
+    "word": "Pudding",
+    "article": "der",
+    "plural": "Puddings",
+    "translation": "pudding",
+    "category": "food",
+    "sentence_de": "Wir bereiten den Pudding mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the pudding with fresh ingredients."
+  },
+  {
+    "id": "suessstoff",
+    "word": "Süßstoff",
+    "article": "der",
+    "plural": "",
+    "translation": "sweetener",
+    "category": "food",
+    "sentence_de": "Wir bereiten den Süßstoff mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the sweetener with fresh ingredients."
+  },
+  {
+    "id": "kalorien",
+    "word": "Kalorie",
+    "article": "die",
+    "plural": "Kalorien",
+    "translation": "calorie",
+    "category": "food",
+    "sentence_de": "Wir bereiten die Kalorie mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the calorie with fresh ingredients."
+  },
+  {
+    "id": "diaet",
+    "word": "Diät",
+    "article": "die",
+    "plural": "Diäten",
+    "translation": "diet",
+    "category": "health",
+    "sentence_de": "Gute Pflege für die Diät ist wichtig für das Wohlbefinden.",
+    "sentence_en": "Good care for the diet is important for well-being."
+  },
+  {
+    "id": "allergie",
+    "word": "Allergie",
+    "article": "die",
+    "plural": "Allergien",
+    "translation": "allergy",
+    "category": "health",
+    "sentence_de": "Gute Pflege für die Allergie ist wichtig für das Wohlbefinden.",
+    "sentence_en": "Good care for the allergy is important for well-being."
+  },
+  {
+    "id": "unvertraeglichkeit",
+    "word": "Unverträglichkeit",
+    "article": "die",
+    "plural": "Unverträglichkeiten",
+    "translation": "intolerance",
+    "category": "health",
+    "sentence_de": "Gute Pflege für die Unverträglichkeit ist wichtig für das Wohlbefinden.",
+    "sentence_en": "Good care for the intolerance is important for well-being."
+  },
+  {
+    "id": "vitamine",
+    "word": "Vitamin",
+    "article": "das",
+    "plural": "Vitamine",
+    "translation": "vitamin",
+    "category": "health",
+    "sentence_de": "Gute Pflege für das Vitamin ist wichtig für das Wohlbefinden.",
+    "sentence_en": "Good care for the vitamin is important for well-being."
+  },
+  {
+    "id": "mineralstoff",
+    "word": "Mineralstoff",
+    "article": "der",
+    "plural": "Mineralstoffe",
+    "translation": "mineral (nutrition)",
+    "category": "health",
+    "sentence_de": "Gute Pflege für den Mineralstoff ist wichtig für das Wohlbefinden.",
+    "sentence_en": "Good care for the mineral is important for well-being."
+  },
+  {
+    "id": "eiweiss",
+    "word": "Eiweiß",
+    "article": "das",
+    "plural": "",
+    "translation": "protein",
+    "category": "food",
+    "sentence_de": "Wir bereiten das Eiweiß mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the protein with fresh ingredients."
+  },
+  {
+    "id": "fett",
+    "word": "Fett",
+    "article": "das",
+    "plural": "Fette",
+    "translation": "fat",
+    "category": "food",
+    "sentence_de": "Wir bereiten das Fett mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the fat with fresh ingredients."
+  },
+  {
+    "id": "kohlenhydrat",
+    "word": "Kohlenhydrat",
+    "article": "das",
+    "plural": "Kohlenhydrate",
+    "translation": "carbohydrate",
+    "category": "food",
+    "sentence_de": "Wir bereiten das Kohlenhydrat mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the carbohydrate with fresh ingredients."
+  },
+  {
+    "id": "ballaststoff",
+    "word": "Ballaststoff",
+    "article": "der",
+    "plural": "Ballaststoffe",
+    "translation": "fiber",
+    "category": "food",
+    "sentence_de": "Wir bereiten den Ballaststoff mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the fiber with fresh ingredients."
+  },
+  {
+    "id": "appetit",
+    "word": "Appetit",
+    "article": "der",
+    "plural": "",
+    "translation": "appetite",
+    "category": "food",
+    "sentence_de": "Wir bereiten den Appetit mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the appetite with fresh ingredients."
+  },
+  {
+    "id": "geschmack",
+    "word": "Geschmack",
+    "article": "der",
+    "plural": "Geschmäcker",
+    "translation": "taste",
+    "category": "food",
+    "sentence_de": "Wir bereiten den Geschmack mit frischen Zutaten zu.",
+    "sentence_en": "We prepare the taste with fresh ingredients."
+  },
+  {
+    "id": "geruch",
+    "word": "Geruch",
+    "article": "der",
+    "plural": "Gerüche",
+    "translation": "smell",
+    "category": "body",
+    "sentence_de": "Gute Pflege für den Geruch ist wichtig für das Wohlbefinden.",
+    "sentence_en": "Good care for the smell is important for well-being."
+  },
+  {
+    "id": "duft",
+    "word": "Duft",
+    "article": "der",
+    "plural": "Düfte",
+    "translation": "scent",
+    "category": "feelings",
+    "sentence_de": "Der Duft prägt unsere menschlichen Erfahrungen tief.",
+    "sentence_en": "The scent deeply shapes our human experiences."
+  },
+  {
+    "id": "qualitaet",
+    "word": "Qualität",
+    "article": "die",
+    "plural": "Qualitäten",
+    "translation": "quality",
+    "category": "shopping",
+    "sentence_de": "Die Qualität spielt beim Einkaufen und Wirtschaften eine Rolle.",
+    "sentence_en": "The quality plays a role in shopping and business."
+  },
+  {
+    "id": "menge",
+    "word": "Menge",
+    "article": "die",
+    "plural": "Mengen",
+    "translation": "amount / crowd",
+    "category": "numbers",
+    "sentence_de": "Die Menge ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The amount is an important term in the German language."
+  },
+  {
+    "id": "gewicht",
+    "word": "Gewicht",
+    "article": "das",
+    "plural": "Gewichte",
+    "translation": "weight",
+    "category": "numbers",
+    "sentence_de": "Das Gewicht ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The weight is an important term in the German language."
+  },
+  {
+    "id": "laenge",
+    "word": "Länge",
+    "article": "die",
+    "plural": "Längen",
+    "translation": "length",
+    "category": "numbers",
+    "sentence_de": "Die Länge ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The length is an important term in the German language."
+  },
+  {
+    "id": "breite",
+    "word": "Breite",
+    "article": "die",
+    "plural": "Breiten",
+    "translation": "width",
+    "category": "numbers",
+    "sentence_de": "Die Breite ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The width is an important term in the German language."
+  },
+  {
+    "id": "hoehe",
+    "word": "Höhe",
+    "article": "die",
+    "plural": "Höhen",
+    "translation": "height",
+    "category": "numbers",
+    "sentence_de": "Die Höhe ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The height is an important term in the German language."
+  },
+  {
+    "id": "tiefe",
+    "word": "Tiefe",
+    "article": "die",
+    "plural": "Tiefen",
+    "translation": "depth",
+    "category": "numbers",
+    "sentence_de": "Die Tiefe ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The depth is an important term in the German language."
+  },
+  {
+    "id": "entfernung",
+    "word": "Entfernung",
+    "article": "die",
+    "plural": "Entfernungen",
+    "translation": "distance",
+    "category": "numbers",
+    "sentence_de": "Die Entfernung ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The distance is an important term in the German language."
+  },
+  {
+    "id": "kilometer",
+    "word": "Kilometer",
+    "article": "der",
+    "plural": "Kilometer",
+    "translation": "kilometer",
+    "category": "numbers",
+    "sentence_de": "Der Kilometer ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The kilometer is an important term in the German language."
+  },
+  {
+    "id": "meter",
+    "word": "Meter",
+    "article": "der",
+    "plural": "Meter",
+    "translation": "meter",
+    "category": "numbers",
+    "sentence_de": "Der Meter ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The meter is an important term in the German language."
+  },
+  {
+    "id": "zentimeter",
+    "word": "Zentimeter",
+    "article": "der",
+    "plural": "Zentimeter",
+    "translation": "centimeter",
+    "category": "numbers",
+    "sentence_de": "Der Zentimeter ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The centimeter is an important term in the German language."
+  },
+  {
+    "id": "millimeter",
+    "word": "Millimeter",
+    "article": "der",
+    "plural": "Millimeter",
+    "translation": "millimeter",
+    "category": "numbers",
+    "sentence_de": "Der Millimeter ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The millimeter is an important term in the German language."
+  },
+  {
+    "id": "kilogramm",
+    "word": "Kilogramm",
+    "article": "das",
+    "plural": "Kilogramm",
+    "translation": "kilogram",
+    "category": "numbers",
+    "sentence_de": "Das Kilogramm ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The kilogram is an important term in the German language."
+  },
+  {
+    "id": "gramm",
+    "word": "Gramm",
+    "article": "das",
+    "plural": "Gramm",
+    "translation": "gram",
+    "category": "numbers",
+    "sentence_de": "Das Gramm ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The gram is an important term in the German language."
+  },
+  {
+    "id": "liter",
+    "word": "Liter",
+    "article": "der",
+    "plural": "Liter",
+    "translation": "liter",
+    "category": "numbers",
+    "sentence_de": "Der Liter ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The liter is an important term in the German language."
+  },
+  {
+    "id": "milliliter",
+    "word": "Milliliter",
+    "article": "der",
+    "plural": "Milliliter",
+    "translation": "milliliter",
+    "category": "numbers",
+    "sentence_de": "Der Milliliter ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The milliliter is an important term in the German language."
+  },
+  {
+    "id": "tonne",
+    "word": "Tonne",
+    "article": "die",
+    "plural": "Tonnen",
+    "translation": "ton / barrel",
+    "category": "numbers",
+    "sentence_de": "Die Tonne ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The ton is an important term in the German language."
+  },
+  {
+    "id": "celsius",
+    "word": "Celsius",
+    "article": "das",
+    "plural": "",
+    "translation": "Celsius",
+    "category": "weather",
+    "sentence_de": "Das Celsius zeigt die beeindruckende Vielfalt der Natur.",
+    "sentence_en": "The Celsius shows the impressive diversity of nature."
+  },
+  {
+    "id": "kilowatt",
+    "word": "Kilowatt",
+    "article": "das",
+    "plural": "Kilowatt",
+    "translation": "kilowatt",
+    "category": "numbers",
+    "sentence_de": "Das Kilowatt ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The kilowatt is an important term in the German language."
+  },
+  {
+    "id": "volt",
+    "word": "Volt",
+    "article": "das",
+    "plural": "Volt",
+    "translation": "volt",
+    "category": "numbers",
+    "sentence_de": "Das Volt ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The volt is an important term in the German language."
+  },
+  {
+    "id": "ampere",
+    "word": "Ampere",
+    "article": "das",
+    "plural": "Ampere",
+    "translation": "ampere",
+    "category": "numbers",
+    "sentence_de": "Das Ampere ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The ampere is an important term in the German language."
+  },
+  {
+    "id": "watt",
+    "word": "Watt",
+    "article": "das",
+    "plural": "Watt",
+    "translation": "watt",
+    "category": "numbers",
+    "sentence_de": "Das Watt ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The watt is an important term in the German language."
+  },
+  {
+    "id": "strom",
+    "word": "Strom",
+    "article": "der",
+    "plural": "",
+    "translation": "electricity / current",
+    "category": "technology",
+    "sentence_de": "Der Strom ist ein nützliches Werkzeug in der modernen Praxis.",
+    "sentence_en": "The electricity is a useful tool in modern practice."
+  },
+  {
+    "id": "gas",
+    "word": "Gas",
+    "article": "das",
+    "plural": "Gase",
+    "translation": "gas",
+    "category": "home",
+    "sentence_de": "Das Gas ist ein nützlicher Gegenstand im Haus.",
+    "sentence_en": "The gas is a useful item in the house."
+  },
+  {
+    "id": "heizkosten",
+    "word": "Heizkosten",
+    "article": "die",
+    "plural": "",
+    "translation": "heating costs",
+    "category": "money",
+    "sentence_de": "Die Heizkosten spielt beim Einkaufen und Wirtschaften eine Rolle.",
+    "sentence_en": "The heating costs plays a role in shopping and business."
+  },
+  {
+    "id": "stromrechnung",
+    "word": "Stromrechnung",
+    "article": "die",
+    "plural": "Stromrechnungen",
+    "translation": "electricity bill",
+    "category": "money",
+    "sentence_de": "Die Stromrechnung spielt beim Einkaufen und Wirtschaften eine Rolle.",
+    "sentence_en": "The electricity bill plays a role in shopping and business."
+  },
+  {
+    "id": "kuendigung",
+    "word": "Kündigung",
+    "article": "die",
+    "plural": "Kündigungen",
+    "translation": "cancellation / notice",
+    "category": "work",
+    "sentence_de": "Die Kündigung ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The cancellation is an important term in the German language."
+  },
+  {
+    "id": "bewerbung",
+    "word": "Bewerbung",
+    "article": "die",
+    "plural": "Bewerbungen",
+    "translation": "job application",
+    "category": "work",
+    "sentence_de": "Die Bewerbung ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The job application is an important term in the German language."
+  },
+  {
+    "id": "lebenslauf",
+    "word": "Lebenslauf",
+    "article": "der",
+    "plural": "Lebensläufe",
+    "translation": "resume / CV",
+    "category": "work",
+    "sentence_de": "Der Lebenslauf ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The resume is an important term in the German language."
+  },
+  {
+    "id": "vorstellungsgespraech",
+    "word": "Vorstellungsgespräch",
+    "article": "das",
+    "plural": "Vorstellungsgespräche",
+    "translation": "job interview",
+    "category": "work",
+    "sentence_de": "Das Vorstellungsgespräch ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The job interview is an important term in the German language."
+  },
+  {
+    "id": "chancen",
+    "word": "Chance",
+    "article": "die",
+    "plural": "Chancen",
+    "translation": "chance",
+    "category": "feelings",
+    "sentence_de": "Die Chance prägt unsere menschlichen Erfahrungen tief.",
+    "sentence_en": "The chance deeply shapes our human experiences."
+  },
+  {
+    "id": "risiko",
+    "word": "Risiko",
+    "article": "das",
+    "plural": "Risiken",
+    "translation": "risk",
+    "category": "feelings",
+    "sentence_de": "Das Risiko prägt unsere menschlichen Erfahrungen tief.",
+    "sentence_en": "The risk deeply shapes our human experiences."
+  },
+  {
+    "id": "erfolg",
+    "word": "Erfolg",
+    "article": "der",
+    "plural": "Erfolge",
+    "translation": "success",
+    "category": "work",
+    "sentence_de": "Der Erfolg ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The success is an important term in the German language."
+  },
+  {
+    "id": "misserfolg",
+    "word": "Misserfolg",
+    "article": "der",
+    "plural": "Misserfolge",
+    "translation": "failure",
+    "category": "work",
+    "sentence_de": "Der Misserfolg ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The failure is an important term in the German language."
+  },
+  {
+    "id": "hilfe",
+    "word": "Hilfe",
+    "article": "die",
+    "plural": "",
+    "translation": "help",
+    "category": "feelings",
+    "sentence_de": "Die Hilfe prägt unsere menschlichen Erfahrungen tief.",
+    "sentence_en": "The help deeply shapes our human experiences."
+  },
+  {
+    "id": "rat",
+    "word": "Rat",
+    "article": "der",
+    "plural": "Ratschläge",
+    "translation": "advice / council",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute den Rat.",
+    "sentence_en": "In class today we are covering the advice."
+  },
+  {
+    "id": "tipp",
+    "word": "Tipp",
+    "article": "der",
+    "plural": "Tipps",
+    "translation": "tip",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute den Tipp.",
+    "sentence_en": "In class today we are covering the tip."
+  },
+  {
+    "id": "vorschlag",
+    "word": "Vorschlag",
+    "article": "der",
+    "plural": "Vorschläge",
+    "translation": "suggestion",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute den Vorschlag.",
+    "sentence_en": "In class today we are covering the suggestion."
+  },
+  {
+    "id": "bitte",
+    "word": "Bitte",
+    "article": "die",
+    "plural": "Bitten",
+    "translation": "request / please",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute die Bitte.",
+    "sentence_en": "In class today we are covering the request."
+  },
+  {
+    "id": "danke",
+    "word": "Dank",
+    "article": "der",
+    "plural": "",
+    "translation": "thanks",
+    "category": "feelings",
+    "sentence_de": "Der Dank prägt unsere menschlichen Erfahrungen tief.",
+    "sentence_en": "The thanks deeply shapes our human experiences."
+  },
+  {
+    "id": "entschuldigung",
+    "word": "Entschuldigung",
+    "article": "die",
+    "plural": "Entschuldigungen",
+    "translation": "apology / excuse",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute die Entschuldigung.",
+    "sentence_en": "In class today we are covering the apology."
+  },
+  {
+    "id": "gruess",
+    "word": "Gruß",
+    "article": "der",
+    "plural": "Grüße",
+    "translation": "greeting",
+    "category": "people",
+    "sentence_de": "Der Gruß ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The greeting is a valued member of the community."
+  },
+  {
+    "id": "abschied",
+    "word": "Abschied",
+    "article": "der",
+    "plural": "Abschiede",
+    "translation": "farewell",
+    "category": "people",
+    "sentence_de": "Der Abschied ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The farewell is a valued member of the community."
+  },
+  {
+    "id": "besuch",
+    "word": "Besuch",
+    "article": "der",
+    "plural": "Besuche",
+    "translation": "visit",
+    "category": "people",
+    "sentence_de": "Der Besuch ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The visit is a valued member of the community."
+  },
+  {
+    "id": "treffen",
+    "word": "Treffen",
+    "article": "das",
+    "plural": "Treffen",
+    "translation": "meeting",
+    "category": "people",
+    "sentence_de": "Das Treffen ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The meeting is a valued member of the community."
+  },
+  {
+    "id": "verabredung",
+    "word": "Verabredung",
+    "article": "die",
+    "plural": "Verabredungen",
+    "translation": "appointment / date",
+    "category": "people",
+    "sentence_de": "Die Verabredung ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The appointment is a valued member of the community."
+  },
+  {
+    "id": "date",
+    "word": "Date",
+    "article": "das",
+    "plural": "Dates",
+    "translation": "date (romantic)",
+    "category": "people",
+    "sentence_de": "Das Date ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The date is a valued member of the community."
+  },
+  {
+    "id": "freundschaft",
+    "word": "Freundschaft",
+    "article": "die",
+    "plural": "Freundschaften",
+    "translation": "friendship",
+    "category": "people",
+    "sentence_de": "Die Freundschaft grüßt freundlich und hilft hilfsbereit.",
+    "sentence_en": "The friendship greets kindly and helps readily."
+  },
+  {
+    "id": "beziehung",
+    "word": "Beziehung",
+    "article": "die",
+    "plural": "Beziehungen",
+    "translation": "relationship",
+    "category": "people",
+    "sentence_de": "Die Beziehung ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The relationship is a valued member of the community."
+  },
+  {
+    "id": "ehe",
+    "word": "Ehe",
+    "article": "die",
+    "plural": "Ehen",
+    "translation": "marriage",
+    "category": "people",
+    "sentence_de": "Die Ehe ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The marriage is a valued member of the community."
+  },
+  {
+    "id": "scheidung",
+    "word": "Scheidung",
+    "article": "die",
+    "plural": "Scheidungen",
+    "translation": "divorce",
+    "category": "people",
+    "sentence_de": "Die Scheidung ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The divorce is a valued member of the community."
+  },
+  {
+    "id": "streit",
+    "word": "Streit",
+    "article": "der",
+    "plural": "Streite",
+    "translation": "argument",
+    "category": "people",
+    "sentence_de": "Der Streit ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The argument is a valued member of the community."
+  },
+  {
+    "id": "kompromiss",
+    "word": "Kompromiss",
+    "article": "der",
+    "plural": "Kompromisse",
+    "translation": "compromise",
+    "category": "people",
+    "sentence_de": "Der Kompromiss ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The compromise is a valued member of the community."
+  },
+  {
+    "id": "versprech",
+    "word": "Versprechen",
+    "article": "das",
+    "plural": "Versprechen",
+    "translation": "promise",
+    "category": "feelings",
+    "sentence_de": "Das Versprechen prägt unsere menschlichen Erfahrungen tief.",
+    "sentence_en": "The promise deeply shapes our human experiences."
+  },
+  {
+    "id": "vertrauen",
+    "word": "Vertrauen",
+    "article": "das",
+    "plural": "",
+    "translation": "trust",
+    "category": "feelings",
+    "sentence_de": "Das Vertrauen prägt unsere menschlichen Erfahrungen tief.",
+    "sentence_en": "The trust deeply shapes our human experiences."
+  },
+  {
+    "id": "respekt",
+    "word": "Respekt",
+    "article": "der",
+    "plural": "",
+    "translation": "respect",
+    "category": "feelings",
+    "sentence_de": "Der Respekt prägt unsere menschlichen Erfahrungen tief.",
+    "sentence_en": "The respect deeply shapes our human experiences."
+  },
+  {
+    "id": "hoeflichkeit",
+    "word": "Höflichkeit",
+    "article": "die",
+    "plural": "",
+    "translation": "politeness",
+    "category": "feelings",
+    "sentence_de": "Die Höflichkeit prägt unsere menschlichen Erfahrungen tief.",
+    "sentence_en": "The politeness deeply shapes our human experiences."
+  },
+  {
+    "id": "kultur",
+    "word": "Kultur",
+    "article": "die",
+    "plural": "Kulturen",
+    "translation": "culture",
+    "category": "hobbies",
+    "sentence_de": "Die Kultur bereitet in der Freizeit großen Spaß.",
+    "sentence_en": "The culture brings great joy during leisure time."
+  },
+  {
+    "id": "tradition",
+    "word": "Tradition",
+    "article": "die",
+    "plural": "Traditionen",
+    "translation": "tradition",
+    "category": "events",
+    "sentence_de": "Die Tradition ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The tradition is an important term in the German language."
+  },
+  {
+    "id": "brauch",
+    "word": "Brauch",
+    "article": "der",
+    "plural": "Bräuche",
+    "translation": "custom",
+    "category": "events",
+    "sentence_de": "Der Brauch ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The custom is an important term in the German language."
+  },
+  {
+    "id": "fest",
+    "word": "Fest",
+    "article": "das",
+    "plural": "Feste",
+    "translation": "festival / party",
+    "category": "events",
+    "sentence_de": "Das Fest ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The festival is an important term in the German language."
+  },
+  {
+    "id": "umzug",
+    "word": "Umzug",
+    "article": "der",
+    "plural": "Umzüge",
+    "translation": "move / parade",
+    "category": "events",
+    "sentence_de": "Der Umzug ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The move is an important term in the German language."
+  },
+  {
+    "id": "geburtstagskuchen",
+    "word": "Geburtstagskuchen",
+    "article": "der",
+    "plural": "Geburtstagskuchen",
+    "translation": "birthday cake",
+    "category": "food",
+    "sentence_de": "Der Geburtstagskuchen schmeckt warm und frisch zubereitet hervorragend.",
+    "sentence_en": "The birthday cake tastes excellent when freshly prepared and warm."
+  },
+  {
+    "id": "kerze_kuchen",
+    "word": "Geburtstagskerze",
+    "article": "die",
+    "plural": "Geburtstagskerzen",
+    "translation": "birthday candle",
+    "category": "events",
+    "sentence_de": "Die Geburtstagskerze ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The birthday candle is an important term in the German language."
+  },
+  {
+    "id": "geschenkpapier",
+    "word": "Geschenkpapier",
+    "article": "das",
+    "plural": "",
+    "translation": "wrapping paper",
+    "category": "shopping",
+    "sentence_de": "Das Geschenkpapier spielt beim Einkaufen und Wirtschaften eine Rolle.",
+    "sentence_en": "The wrapping paper plays a role in shopping and business."
+  },
+  {
+    "id": "schleife",
+    "word": "Schleife",
+    "article": "die",
+    "plural": "Schleifen",
+    "translation": "ribbon / bow",
+    "category": "shopping",
+    "sentence_de": "Die Schleife spielt beim Einkaufen und Wirtschaften eine Rolle.",
+    "sentence_en": "The ribbon plays a role in shopping and business."
+  },
+  {
+    "id": "karte_glueck",
+    "word": "Glückwunschkarte",
+    "article": "die",
+    "plural": "Glückwunschkarten",
+    "translation": "greeting card",
+    "category": "events",
+    "sentence_de": "Die Glückwunschkarte ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The greeting card is an important term in the German language."
+  },
+  {
+    "id": "glueckwunsch",
+    "word": "Glückwunsch",
+    "article": "der",
+    "plural": "Glückwünsche",
+    "translation": "congratulation",
+    "category": "events",
+    "sentence_de": "Der Glückwunsch ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The congratulation is an important term in the German language."
+  },
+  {
+    "id": "beileid",
+    "word": "Beileid",
+    "article": "das",
+    "plural": "",
+    "translation": "condolence",
+    "category": "feelings",
+    "sentence_de": "Das Beileid prägt unsere menschlichen Erfahrungen tief.",
+    "sentence_en": "The condolence deeply shapes our human experiences."
+  },
+  {
+    "id": "trauer",
+    "word": "Trauer",
+    "article": "die",
+    "plural": "",
+    "translation": "grief",
+    "category": "feelings",
+    "sentence_de": "Die Trauer prägt unsere menschlichen Erfahrungen tief.",
+    "sentence_en": "The grief deeply shapes our human experiences."
+  },
+  {
+    "id": "tod",
+    "word": "Tod",
+    "article": "der",
+    "plural": "Tode",
+    "translation": "death",
+    "category": "events",
+    "sentence_de": "Der Tod ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The death is an important term in the German language."
+  },
+  {
+    "id": "leben",
+    "word": "Leben",
+    "article": "das",
+    "plural": "Leben",
+    "translation": "life",
+    "category": "feelings",
+    "sentence_de": "Das Leben prägt unsere menschlichen Erfahrungen tief.",
+    "sentence_en": "The life deeply shapes our human experiences."
+  },
+  {
+    "id": "kindheit",
+    "word": "Kindheit",
+    "article": "die",
+    "plural": "",
+    "translation": "childhood",
+    "category": "time",
+    "sentence_de": "Die Kindheit ist ein wichtiger Zeitpunkt im Kalender.",
+    "sentence_en": "The childhood is an important point in time on the calendar."
+  },
+  {
+    "id": "jugend",
+    "word": "Jugend",
+    "article": "die",
+    "plural": "",
+    "translation": "youth",
+    "category": "time",
+    "sentence_de": "Die Jugend ist ein wichtiger Zeitpunkt im Kalender.",
+    "sentence_en": "The youth is an important point in time on the calendar."
+  },
+  {
+    "id": "erwachsene",
+    "word": "Erwachsene",
+    "article": "der",
+    "plural": "Erwachsenen",
+    "translation": "adult",
+    "category": "people",
+    "sentence_de": "Der Erwachsene ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The adult is a valued member of the community."
+  },
+  {
+    "id": "teenager",
+    "word": "Teenager",
+    "article": "der",
+    "plural": "Teenager",
+    "translation": "teenager",
+    "category": "people",
+    "sentence_de": "Der Teenager ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The teenager is a valued member of the community."
+  },
+  {
+    "id": "kleinkind",
+    "word": "Kleinkind",
+    "article": "das",
+    "plural": "Kleinkinder",
+    "translation": "toddler",
+    "category": "people",
+    "sentence_de": "Das Kleinkind verbringt gern Zeit mit der ganzen Familie.",
+    "sentence_en": "The toddler enjoys spending time with the whole family."
+  },
+  {
+    "id": "schuelerin",
+    "word": "Schülerin",
+    "article": "die",
+    "plural": "Schülerinnen",
+    "translation": "female student",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute die Schülerin.",
+    "sentence_en": "In class today we are covering the female student."
+  },
+  {
+    "id": "studentin",
+    "word": "Studentin",
+    "article": "die",
+    "plural": "Studentinnen",
+    "translation": "female university student",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute die Studentin.",
+    "sentence_en": "In class today we are covering the female university student."
+  },
+  {
+    "id": "klassenzimmer",
+    "word": "Klassenzimmer",
+    "article": "das",
+    "plural": "Klassenzimmer",
+    "translation": "classroom",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute das Klassenzimmer.",
+    "sentence_en": "In class today we are covering the classroom."
+  },
+  {
+    "id": "stuhlkreis",
+    "word": "Stuhlkreis",
+    "article": "der",
+    "plural": "Stuhlkreise",
+    "translation": "circle of chairs",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute den Stuhlkreis.",
+    "sentence_en": "In class today we are covering the circle of chairs."
+  },
+  {
+    "id": "schulhof",
+    "word": "Schulhof",
+    "article": "der",
+    "plural": "Schulhöfe",
+    "translation": "schoolyard",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute den Schulhof.",
+    "sentence_en": "In class today we are covering the schoolyard."
+  },
+  {
+    "id": "turnbeutel",
+    "word": "Turnbeutel",
+    "article": "der",
+    "plural": "Turnbeutel",
+    "translation": "gym bag",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute den Turnbeutel.",
+    "sentence_en": "In class today we are covering the gym bag."
+  },
+  {
+    "id": "brotzeit",
+    "word": "Brotzeit",
+    "article": "die",
+    "plural": "Brotzeiten",
+    "translation": "snack break",
+    "category": "food",
+    "sentence_de": "Die Brotzeit schmeckt warm und frisch zubereitet hervorragend.",
+    "sentence_en": "The snack break tastes excellent when freshly prepared and warm."
+  },
+  {
+    "id": "hausmeister",
+    "word": "Hausmeister",
+    "article": "der",
+    "plural": "Hausmeister",
+    "translation": "janitor / caretaker",
+    "category": "people",
+    "sentence_de": "Der Hausmeister übt diesen Beruf mit großem Engagement aus.",
+    "sentence_en": "The janitor pursues this profession with great dedication."
+  },
+  {
+    "id": "direktor",
+    "word": "Direktor",
+    "article": "der",
+    "plural": "Direktoren",
+    "translation": "principal (male)",
+    "category": "people",
+    "sentence_de": "Der Direktor ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The principal is a valued member of the community."
+  },
+  {
+    "id": "direktorin",
+    "word": "Direktorin",
+    "article": "die",
+    "plural": "Direktorinnen",
+    "translation": "principal (female)",
+    "category": "people",
+    "sentence_de": "Die Direktorin ist ein geschätztes Mitglied der Gemeinschaft.",
+    "sentence_en": "The principal is a valued member of the community."
+  },
+  {
+    "id": "sekretariat",
+    "word": "Sekretariat",
+    "article": "das",
+    "plural": "Sekretariate",
+    "translation": "school office",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute das Sekretariat.",
+    "sentence_en": "In class today we are covering the school office."
+  },
+  {
+    "id": "zeugnisausgabe",
+    "word": "Zeugnisausgabe",
+    "article": "die",
+    "plural": "Zeugnisausgaben",
+    "translation": "report-card day",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute die Zeugnisausgabe.",
+    "sentence_en": "In class today we are covering the report-card day."
+  },
+  {
+    "id": "ferien",
+    "word": "Ferien",
+    "article": "die",
+    "plural": "",
+    "translation": "holidays / vacation (school)",
+    "category": "time",
+    "sentence_de": "Die Ferien ist ein wichtiger Zeitpunkt im Kalender.",
+    "sentence_en": "The holidays is an important point in time on the calendar."
+  },
+  {
+    "id": "sommerferien",
+    "word": "Sommerferien",
+    "article": "die",
+    "plural": "",
+    "translation": "summer vacation",
+    "category": "time",
+    "sentence_de": "Die Sommerferien vergeht oft schneller als man denkt.",
+    "sentence_en": "The summer vacation often passes faster than one thinks."
+  },
+  {
+    "id": "weihnachtsferien",
+    "word": "Weihnachtsferien",
+    "article": "die",
+    "plural": "",
+    "translation": "Christmas break",
+    "category": "time",
+    "sentence_de": "Die Weihnachtsferien vergeht oft schneller als man denkt.",
+    "sentence_en": "The Christmas break often passes faster than one thinks."
+  },
+  {
+    "id": "osterferien",
+    "word": "Osterferien",
+    "article": "die",
+    "plural": "",
+    "translation": "Easter break",
+    "category": "time",
+    "sentence_de": "Die Osterferien ist ein wichtiger Zeitpunkt im Kalender.",
+    "sentence_en": "The Easter break is an important point in time on the calendar."
+  },
+  {
+    "id": "halbes_jahr",
+    "word": "Halbjahr",
+    "article": "das",
+    "plural": "Halbjahre",
+    "translation": "half year / semester",
+    "category": "time",
+    "sentence_de": "Das Halbjahr vergeht oft schneller als man denkt.",
+    "sentence_en": "The half year often passes faster than one thinks."
+  },
+  {
+    "id": "semester",
+    "word": "Semester",
+    "article": "das",
+    "plural": "Semester",
+    "translation": "semester",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute das Semester.",
+    "sentence_en": "In class today we are covering the semester."
+  },
+  {
+    "id": "trimester",
+    "word": "Trimester",
+    "article": "das",
+    "plural": "Trimester",
+    "translation": "trimester",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute das Trimester.",
+    "sentence_en": "In class today we are covering the trimester."
+  },
+  {
+    "id": "doppelstunde",
+    "word": "Doppelstunde",
+    "article": "die",
+    "plural": "Doppelstunden",
+    "translation": "double period",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute die Doppelstunde.",
+    "sentence_en": "In class today we are covering the double period."
+  },
+  {
+    "id": "vertretung",
+    "word": "Vertretung",
+    "article": "die",
+    "plural": "Vertretungen",
+    "translation": "substitution / representation",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute die Vertretung.",
+    "sentence_en": "In class today we are covering the substitution."
+  },
+  {
+    "id": "ausfall",
+    "word": "Ausfall",
+    "article": "der",
+    "plural": "Ausfälle",
+    "translation": "cancellation / outage",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute den Ausfall.",
+    "sentence_en": "In class today we are covering the cancellation."
+  },
+  {
+    "id": "klaerung",
+    "word": "Erklärung",
+    "article": "die",
+    "plural": "Erklärungen",
+    "translation": "explanation",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute die Erklärung.",
+    "sentence_en": "In class today we are covering the explanation."
+  },
+  {
+    "id": "uebung",
+    "word": "Übung",
+    "article": "die",
+    "plural": "Übungen",
+    "translation": "exercise / practice",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute die Übung.",
+    "sentence_en": "In class today we are covering the exercise."
+  },
+  {
+    "id": "hausuebung",
+    "word": "Hausübung",
+    "article": "die",
+    "plural": "Hausübungen",
+    "translation": "homework (Austria)",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute die Hausübung.",
+    "sentence_en": "In class today we are covering the homework."
+  },
+  {
+    "id": "vokabel",
+    "word": "Vokabel",
+    "article": "die",
+    "plural": "Vokabeln",
+    "translation": "vocabulary word",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute die Vokabel.",
+    "sentence_en": "In class today we are covering the vocabulary word."
+  },
+  {
+    "id": "grammatik",
+    "word": "Grammatik",
+    "article": "die",
+    "plural": "Grammatiken",
+    "translation": "grammar",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute die Grammatik.",
+    "sentence_en": "In class today we are covering the grammar."
+  },
+  {
+    "id": "aussprache",
+    "word": "Aussprache",
+    "article": "die",
+    "plural": "",
+    "translation": "pronunciation",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute die Aussprache.",
+    "sentence_en": "In class today we are covering the pronunciation."
+  },
+  {
+    "id": "rechtschreibung",
+    "word": "Rechtschreibung",
+    "article": "die",
+    "plural": "",
+    "translation": "spelling",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute die Rechtschreibung.",
+    "sentence_en": "In class today we are covering the spelling."
+  },
+  {
+    "id": "uebersetzung",
+    "word": "Übersetzung",
+    "article": "die",
+    "plural": "Übersetzungen",
+    "translation": "translation",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute die Übersetzung.",
+    "sentence_en": "In class today we are covering the translation."
+  },
+  {
+    "id": "bedeutung",
+    "word": "Bedeutung",
+    "article": "die",
+    "plural": "Bedeutungen",
+    "translation": "meaning",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute die Bedeutung.",
+    "sentence_en": "In class today we are covering the meaning."
+  },
+  {
+    "id": "satz",
+    "word": "Satz",
+    "article": "der",
+    "plural": "Sätze",
+    "translation": "sentence / set",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute den Satz.",
+    "sentence_en": "In class today we are covering the sentence."
+  },
+  {
+    "id": "dialog",
+    "word": "Dialog",
+    "article": "der",
+    "plural": "Dialoge",
+    "translation": "dialogue",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute den Dialog.",
+    "sentence_en": "In class today we are covering the dialogue."
+  },
+  {
+    "id": "ueberschrift",
+    "word": "Überschrift",
+    "article": "die",
+    "plural": "Überschriften",
+    "translation": "headline",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute die Überschrift.",
+    "sentence_en": "In class today we are covering the headline."
+  },
+  {
+    "id": "komma",
+    "word": "Komma",
+    "article": "das",
+    "plural": "Kommas",
+    "translation": "comma",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute das Komma.",
+    "sentence_en": "In class today we are covering the comma."
+  },
+  {
+    "id": "punkt",
+    "word": "Punkt",
+    "article": "der",
+    "plural": "Punkte",
+    "translation": "period / point",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute den Punkt.",
+    "sentence_en": "In class today we are covering the period."
+  },
+  {
+    "id": "ausrufezeichen",
+    "word": "Ausrufezeichen",
+    "article": "das",
+    "plural": "Ausrufezeichen",
+    "translation": "exclamation mark",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute das Ausrufezeichen.",
+    "sentence_en": "In class today we are covering the exclamation mark."
+  },
+  {
+    "id": "fragezeichen",
+    "word": "Fragezeichen",
+    "article": "das",
+    "plural": "Fragezeichen",
+    "translation": "question mark",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute das Fragezeichen.",
+    "sentence_en": "In class today we are covering the question mark."
+  },
+  {
+    "id": "klammer",
+    "word": "Klammer",
+    "article": "die",
+    "plural": "Klammern",
+    "translation": "bracket / clip",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute die Klammer.",
+    "sentence_en": "In class today we are covering the bracket."
+  },
+  {
+    "id": "strich",
+    "word": "Strich",
+    "article": "der",
+    "plural": "Striche",
+    "translation": "line / dash",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute den Strich.",
+    "sentence_en": "In class today we are covering the line."
+  },
+  {
+    "id": "alphabet",
+    "word": "Alphabet",
+    "article": "das",
+    "plural": "Alphabete",
+    "translation": "alphabet",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute das Alphabet.",
+    "sentence_en": "In class today we are covering the alphabet."
+  },
+  {
+    "id": "buchstabe",
+    "word": "Buchstabe",
+    "article": "der",
+    "plural": "Buchstaben",
+    "translation": "letter (alphabet)",
+    "category": "school",
+    "sentence_de": "Der Buchstabe liegt griffbereit auf der Schulbank.",
+    "sentence_en": "The letter is ready at hand on the school desk."
+  },
+  {
+    "id": "silbe",
+    "word": "Silbe",
+    "article": "die",
+    "plural": "Silben",
+    "translation": "syllable",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute die Silbe.",
+    "sentence_en": "In class today we are covering the syllable."
+  },
+  {
+    "id": "wortschatz",
+    "word": "Wortschatz",
+    "article": "der",
+    "plural": "",
+    "translation": "vocabulary",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute den Wortschatz.",
+    "sentence_en": "In class today we are covering the vocabulary."
+  },
+  {
+    "id": "dialekt",
+    "word": "Dialekt",
+    "article": "der",
+    "plural": "Dialekte",
+    "translation": "dialect",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute den Dialekt.",
+    "sentence_en": "In class today we are covering the dialect."
+  },
+  {
+    "id": "akzent",
+    "word": "Akzent",
+    "article": "der",
+    "plural": "Akzente",
+    "translation": "accent",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute den Akzent.",
+    "sentence_en": "In class today we are covering the accent."
+  },
+  {
+    "id": "muttersprache",
+    "word": "Muttersprache",
+    "article": "die",
+    "plural": "Muttersprachen",
+    "translation": "native language",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute die Muttersprache.",
+    "sentence_en": "In class today we are covering the native language."
+  },
+  {
+    "id": "fremdsprache",
+    "word": "Fremdsprache",
+    "article": "die",
+    "plural": "Fremdsprachen",
+    "translation": "foreign language",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute die Fremdsprache.",
+    "sentence_en": "In class today we are covering the foreign language."
+  },
+  {
+    "id": "deutsch",
+    "word": "Deutsch",
+    "article": "das",
+    "plural": "",
+    "translation": "German (language)",
+    "category": "school",
+    "sentence_de": "Das Deutsch ist ein lehrreiches Fach in der Schule.",
+    "sentence_en": "The German is an instructive subject at school."
+  },
+  {
+    "id": "englisch",
+    "word": "Englisch",
+    "article": "das",
+    "plural": "",
+    "translation": "English (language)",
+    "category": "school",
+    "sentence_de": "Das Englisch ist ein lehrreiches Fach in der Schule.",
+    "sentence_en": "The English is an instructive subject at school."
+  },
+  {
+    "id": "franzoesisch",
+    "word": "Französisch",
+    "article": "das",
+    "plural": "",
+    "translation": "French (language)",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute das Französisch.",
+    "sentence_en": "In class today we are covering the French."
+  },
+  {
+    "id": "spanisch",
+    "word": "Spanisch",
+    "article": "das",
+    "plural": "",
+    "translation": "Spanish (language)",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute das Spanisch.",
+    "sentence_en": "In class today we are covering the Spanish."
+  },
+  {
+    "id": "italienisch",
+    "word": "Italienisch",
+    "article": "das",
+    "plural": "",
+    "translation": "Italian (language)",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute das Italienisch.",
+    "sentence_en": "In class today we are covering the Italian."
+  },
+  {
+    "id": "tuerkisch",
+    "word": "Türkisch",
+    "article": "das",
+    "plural": "",
+    "translation": "Turkish (language)",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute das Türkisch.",
+    "sentence_en": "In class today we are covering the Turkish."
+  },
+  {
+    "id": "arabisch",
+    "word": "Arabisch",
+    "article": "das",
+    "plural": "",
+    "translation": "Arabic (language)",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute das Arabisch.",
+    "sentence_en": "In class today we are covering the Arabic."
+  },
+  {
+    "id": "chinesisch",
+    "word": "Chinesisch",
+    "article": "das",
+    "plural": "",
+    "translation": "Chinese (language)",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute das Chinesisch.",
+    "sentence_en": "In class today we are covering the Chinese."
+  },
+  {
+    "id": "japanisch",
+    "word": "Japanisch",
+    "article": "das",
+    "plural": "",
+    "translation": "Japanese (language)",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute das Japanisch.",
+    "sentence_en": "In class today we are covering the Japanese."
+  },
+  {
+    "id": "russisch",
+    "word": "Russisch",
+    "article": "das",
+    "plural": "",
+    "translation": "Russian (language)",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute das Russisch.",
+    "sentence_en": "In class today we are covering the Russian."
+  },
+  {
+    "id": "latein",
+    "word": "Latein",
+    "article": "das",
+    "plural": "",
+    "translation": "Latin",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute das Latein.",
+    "sentence_en": "In class today we are covering the Latin."
+  },
+  {
+    "id": "mathematik",
+    "word": "Mathematik",
+    "article": "die",
+    "plural": "",
+    "translation": "mathematics",
+    "category": "school",
+    "sentence_de": "Die Mathematik ist ein lehrreiches Fach in der Schule.",
+    "sentence_en": "The mathematics is an instructive subject at school."
+  },
+  {
+    "id": "physik",
+    "word": "Physik",
+    "article": "die",
+    "plural": "",
+    "translation": "physics",
+    "category": "school",
+    "sentence_de": "Die Physik ist ein lehrreiches Fach in der Schule.",
+    "sentence_en": "The physics is an instructive subject at school."
+  },
+  {
+    "id": "chemie",
+    "word": "Chemie",
+    "article": "die",
+    "plural": "",
+    "translation": "chemistry",
+    "category": "school",
+    "sentence_de": "Die Chemie ist ein lehrreiches Fach in der Schule.",
+    "sentence_en": "The chemistry is an instructive subject at school."
+  },
+  {
+    "id": "biologie",
+    "word": "Biologie",
+    "article": "die",
+    "plural": "",
+    "translation": "biology",
+    "category": "school",
+    "sentence_de": "Die Biologie ist ein lehrreiches Fach in der Schule.",
+    "sentence_en": "The biology is an instructive subject at school."
+  },
+  {
+    "id": "geografie",
+    "word": "Geografie",
+    "article": "die",
+    "plural": "",
+    "translation": "geography (subject)",
+    "category": "school",
+    "sentence_de": "Die Geografie ist ein lehrreiches Fach in der Schule.",
+    "sentence_en": "The geography is an instructive subject at school."
+  },
+  {
+    "id": "politik",
+    "word": "Politik",
+    "article": "die",
+    "plural": "",
+    "translation": "politics",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute die Politik.",
+    "sentence_en": "In class today we are covering the politics."
+  },
+  {
+    "id": "wirtschaft",
+    "word": "Wirtschaft",
+    "article": "die",
+    "plural": "",
+    "translation": "economy / economics",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute die Wirtschaft.",
+    "sentence_en": "In class today we are covering the economy."
+  },
+  {
+    "id": "kunst",
+    "word": "Kunst",
+    "article": "die",
+    "plural": "Künste",
+    "translation": "art",
+    "category": "hobbies",
+    "sentence_de": "Die Kunst bereitet in der Freizeit großen Spaß.",
+    "sentence_en": "The art brings great joy during leisure time."
+  },
+  {
+    "id": "ethik",
+    "word": "Ethik",
+    "article": "die",
+    "plural": "",
+    "translation": "ethics",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute die Ethik.",
+    "sentence_en": "In class today we are covering the ethics."
+  },
+  {
+    "id": "informatik",
+    "word": "Informatik",
+    "article": "die",
+    "plural": "",
+    "translation": "computer science",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute die Informatik.",
+    "sentence_en": "In class today we are covering the computer science."
+  },
+  {
+    "id": "technik",
+    "word": "Technik",
+    "article": "die",
+    "plural": "Techniken",
+    "translation": "technology / technique",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute die Technik.",
+    "sentence_en": "In class today we are covering the technology."
+  },
+  {
+    "id": "handarbeit",
+    "word": "Handarbeit",
+    "article": "die",
+    "plural": "Handarbeiten",
+    "translation": "handicraft",
+    "category": "hobbies",
+    "sentence_de": "Die Handarbeit bereitet in der Freizeit großen Spaß.",
+    "sentence_en": "The handicraft brings great joy during leisure time."
+  },
+  {
+    "id": "werker",
+    "word": "Werken",
+    "article": "das",
+    "plural": "",
+    "translation": "crafts class",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute das Werken.",
+    "sentence_en": "In class today we are covering the crafts class."
+  },
+  {
+    "id": "kochen",
+    "word": "Kochen",
+    "article": "das",
+    "plural": "",
+    "translation": "cooking",
+    "category": "hobbies",
+    "sentence_de": "Das Kochen bereitet in der Freizeit großen Spaß.",
+    "sentence_en": "The cooking brings great joy during leisure time."
+  },
+  {
+    "id": "backe",
+    "word": "Backen",
+    "article": "das",
+    "plural": "",
+    "translation": "baking",
+    "category": "hobbies",
+    "sentence_de": "Das Backen bereitet in der Freizeit großen Spaß.",
+    "sentence_en": "The baking brings great joy during leisure time."
+  },
+  {
+    "id": "naehen",
+    "word": "Nähen",
+    "article": "das",
+    "plural": "",
+    "translation": "sewing",
+    "category": "hobbies",
+    "sentence_de": "Das Nähen bereitet in der Freizeit großen Spaß.",
+    "sentence_en": "The sewing brings great joy during leisure time."
+  },
+  {
+    "id": "stricken",
+    "word": "Stricken",
+    "article": "das",
+    "plural": "",
+    "translation": "knitting",
+    "category": "hobbies",
+    "sentence_de": "Das Stricken bereitet in der Freizeit großen Spaß.",
+    "sentence_en": "The knitting brings great joy during leisure time."
+  },
+  {
+    "id": "malen",
+    "word": "Malen",
+    "article": "das",
+    "plural": "",
+    "translation": "painting",
+    "category": "hobbies",
+    "sentence_de": "Das Malen bereitet in der Freizeit großen Spaß.",
+    "sentence_en": "The painting brings great joy during leisure time."
+  },
+  {
+    "id": "zeichnen",
+    "word": "Zeichnen",
+    "article": "das",
+    "plural": "",
+    "translation": "drawing",
+    "category": "hobbies",
+    "sentence_de": "Das Zeichnen bereitet in der Freizeit großen Spaß.",
+    "sentence_en": "The drawing brings great joy during leisure time."
+  },
+  {
+    "id": "leidenschaft",
+    "word": "Leidenschaft",
+    "article": "die",
+    "plural": "Leidenschaften",
+    "translation": "passion",
+    "category": "feelings",
+    "sentence_de": "Die Leidenschaft prägt unsere menschlichen Erfahrungen tief.",
+    "sentence_en": "The passion deeply shapes our human experiences."
+  },
+  {
+    "id": "talent",
+    "word": "Talent",
+    "article": "das",
+    "plural": "Talente",
+    "translation": "talent",
+    "category": "hobbies",
+    "sentence_de": "Das Talent bereitet in der Freizeit großen Spaß.",
+    "sentence_en": "The talent brings great joy during leisure time."
+  },
+  {
+    "id": "faehigkeit",
+    "word": "Fähigkeit",
+    "article": "die",
+    "plural": "Fähigkeiten",
+    "translation": "ability",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute die Fähigkeit.",
+    "sentence_en": "In class today we are covering the ability."
+  },
+  {
+    "id": "koennen",
+    "word": "Können",
+    "article": "das",
+    "plural": "",
+    "translation": "skill / ability",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute das Können.",
+    "sentence_en": "In class today we are covering the skill."
+  },
+  {
+    "id": "wissen",
+    "word": "Wissen",
+    "article": "das",
+    "plural": "",
+    "translation": "knowledge",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute das Wissen.",
+    "sentence_en": "In class today we are covering the knowledge."
+  },
+  {
+    "id": "bildung",
+    "word": "Bildung",
+    "article": "die",
+    "plural": "",
+    "translation": "education",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute die Bildung.",
+    "sentence_en": "In class today we are covering the education."
+  },
+  {
+    "id": "erziehung",
+    "word": "Erziehung",
+    "article": "die",
+    "plural": "",
+    "translation": "upbringing",
+    "category": "school",
+    "sentence_de": "Im Unterricht behandeln wir heute die Erziehung.",
+    "sentence_en": "In class today we are covering the upbringing."
+  },
+  {
+    "id": "wert",
+    "word": "Wert",
+    "article": "der",
+    "plural": "Werte",
+    "translation": "value",
+    "category": "feelings",
+    "sentence_de": "Der Wert prägt unsere menschlichen Erfahrungen tief.",
+    "sentence_en": "The value deeply shapes our human experiences."
+  },
+  {
+    "id": "zukunft",
+    "word": "Zukunft",
+    "article": "die",
+    "plural": "",
+    "translation": "future",
+    "category": "time",
+    "sentence_de": "Die Zukunft ist ein wichtiger Zeitpunkt im Kalender.",
+    "sentence_en": "The future is an important point in time on the calendar."
+  },
+  {
+    "id": "vergangenheit",
+    "word": "Vergangenheit",
+    "article": "die",
+    "plural": "",
+    "translation": "past",
+    "category": "time",
+    "sentence_de": "Die Vergangenheit ist ein wichtiger Zeitpunkt im Kalender.",
+    "sentence_en": "The past is an important point in time on the calendar."
+  },
+  {
+    "id": "gegenwart",
+    "word": "Gegenwart",
+    "article": "die",
+    "plural": "",
+    "translation": "present",
+    "category": "time",
+    "sentence_de": "Die Gegenwart ist ein wichtiger Zeitpunkt im Kalender.",
+    "sentence_en": "The present is an important point in time on the calendar."
+  },
+  {
+    "id": "anfang",
+    "word": "Anfang",
+    "article": "der",
+    "plural": "Anfänge",
+    "translation": "beginning",
+    "category": "time",
+    "sentence_de": "Der Anfang ist ein wichtiger Zeitpunkt im Kalender.",
+    "sentence_en": "The beginning is an important point in time on the calendar."
+  },
+  {
+    "id": "ende",
+    "word": "Ende",
+    "article": "das",
+    "plural": "Enden",
+    "translation": "end",
+    "category": "time",
+    "sentence_de": "Das Ende ist ein wichtiger Zeitpunkt im Kalender.",
+    "sentence_en": "The end is an important point in time on the calendar."
+  },
+  {
+    "id": "mitte",
+    "word": "Mitte",
+    "article": "die",
+    "plural": "",
+    "translation": "middle",
+    "category": "numbers",
+    "sentence_de": "Die Mitte ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The middle is an important term in the German language."
+  },
+  {
+    "id": "rand",
+    "word": "Rand",
+    "article": "der",
+    "plural": "Ränder",
+    "translation": "edge",
+    "category": "numbers",
+    "sentence_de": "Der Rand ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The edge is an important term in the German language."
+  },
+  {
+    "id": "oben",
+    "word": "Oben",
+    "article": "das",
+    "plural": "",
+    "translation": "top (as noun, rare)",
+    "category": "numbers",
+    "sentence_de": "Das Oben ist ein wichtiger Begriff in der deutschen Sprache.",
+    "sentence_en": "The top (as noun is an important term in the German language."
   }
 ];
-
-function mergeVocabularyExtension(baseWords, extensionWords) {
-  const seen = new Set(baseWords.map(w => w.id));
-  extensionWords.forEach(word => {
-    if (!seen.has(word.id)) {
-      baseWords.push(word);
-      seen.add(word.id);
-    }
-  });
-  return baseWords;
-}
-
-async function loadExtendedVocabulary() {
-  try {
-    const res = await fetch('words.json');
-    if (!res.ok) return null;
-    const fetched = await res.json();
-    return Array.isArray(fetched) ? fetched : null;
-  } catch {
-    return null;
-  }
-}
 
 /* ============================================================
    CONSTANTS
@@ -2397,18 +18269,37 @@ const MODES = [
   { id: 'review',       name: 'Review Mode',         icon: '📅',  desc: 'Words currently due for review' },
 ];
 
+const DECK_PREVIEW_COUNT = 8;
+
 /* ============================================================
    STATE
    ============================================================ */
-let vocabulary  = DEFAULT_VOCABULARY.slice();       // raw words.json array
-let progress    = {};       // { wordId: progressObj }
-let settings    = { theme: 'light', activeMode: 'article', practiceCategory: 'all', audioEnabled: true, autoPronounce: true, speechRate: 0.9 };
-let streakData  = { date: '', count: 0 };
+let vocabulary      = DEFAULT_VOCABULARY.slice();       // raw words.json array
+let progress        = {};       // { wordId: progressObj }
+let settings        = { theme: 'light', activeMode: 'article', practiceCategory: 'all', audioEnabled: true, autoPronounce: true, speechRate: 0.9 };
+let streakData      = { date: '', count: 0 };
+let vocabFilter     = { search: '', article: 'all', category: 'all', status: 'all' };
+let decksExpanded   = false;
 
-let sessionStats = { correct: 0, wrong: 0, total: 0 };
-let currentCard  = null;    // { word, mode, answered }
-let lastWordId   = null;    // avoid immediate repeats
+let sessionStats    = { correct: 0, wrong: 0, total: 0 };
+let currentCard     = null;    // { word, mode, answered }
+let lastWordId      = null;    // avoid immediate repeats
 let selectedArticle = null; // for article+word mode pill selection
+
+async function loadExtendedVocabulary() {
+  try {
+    const res = await fetch('words.json');
+    if (res.ok) {
+      const data = await res.json();
+      if (Array.isArray(data) && data.length > 0) {
+        return data;
+      }
+    }
+  } catch (e) {
+    // Offline or file:/// fallback
+  }
+  return DEFAULT_VOCABULARY;
+}
 
 /* ============================================================
    AUDIO / GERMAN PRONUNCIATION
@@ -2420,7 +18311,6 @@ function unlockAudioContext() {
   if ('speechSynthesis' in window) {
     try {
       window.speechSynthesis.resume();
-      // Prime voices
       window.speechSynthesis.getVoices();
     } catch(e) {}
   }
@@ -2498,6 +18388,19 @@ function speakCurrentCard(e) {
   } else {
     speakGerman(`${word.article} ${word.word}`);
   }
+}
+
+function speakSentence(id) {
+  const w = vocabulary.find(item => item.id === id);
+  if (w && w.sentence_de) {
+    speakGerman(w.sentence_de);
+  }
+}
+
+function formatSentenceWithHighlight(sentence, noun) {
+  if (!sentence || !noun) return sentence || '';
+  const escaped = noun.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  return sentence.replace(new RegExp(`(\\b${escaped}\\b)`, 'gi'), '<strong class="sentence-word-highlight">$1</strong>');
 }
 
 /* ============================================================
@@ -2704,7 +18607,6 @@ function showView(id) {
   $$('.nav-btn, .mobile-nav-btn').forEach(b => {
     b.classList.toggle('active', b.dataset.view === id);
   });
-  // Toggle mobile practice mode body class for true full-screen immersion
   document.body.classList.toggle('practice-fullscreen', id === 'view-practice');
 }
 
@@ -2760,7 +18662,23 @@ const CAT_ICONS = {
   work: '💼',
   hobbies: '🎨',
   shopping: '🛒',
-  health: '🏥'
+  health: '🏥',
+  kitchen: '🍳',
+  colors: '🎨',
+  numbers: '🔢',
+  birds: '🐦',
+  flowers: '🌸',
+  animals: '🐾',
+  feelings: '💭',
+  weather: '🌦️',
+  sports: '⚽',
+  music: '🎵',
+  tools: '🔧',
+  materials: '🧱',
+  geography: '🌍',
+  events: '🎉',
+  travel: '✈️',
+  money: '💶'
 };
 
 function practiceCategory(cat) {
@@ -2808,30 +18726,31 @@ function renderDashboard() {
 
   const cgrid = document.getElementById('category-grid');
   if (cgrid) {
+    const entries = Object.entries(cats);
+    const visible = decksExpanded ? entries : entries.slice(0, DECK_PREVIEW_COUNT);
+    cgrid.className = 'category-pills';
     cgrid.innerHTML = '';
-    Object.entries(cats).forEach(([cat, data]) => {
-      const pct = data.total ? Math.round((data.mastered / data.total) * 100) : 0;
+    visible.forEach(([cat, data]) => {
       const icon = CAT_ICONS[cat] || '📁';
-      const card = document.createElement('div');
-      card.className = 'category-card';
-      card.innerHTML = `
-        <div class="category-top-row">
-          <div class="category-title-wrap">
-            <span class="category-icon">${icon}</span>
-            <span class="category-name">${cat}</span>
-          </div>
-          <span class="category-pill-action">Practice →</span>
-        </div>
-        <div class="progress-bar-wrap">
-          <div class="progress-bar-fill" style="width:${pct}%"></div>
-        </div>
-        <div class="category-meta">
-          <span>${data.mastered} / ${data.total} mastered</span>
-          <span>${pct}%</span>
-        </div>`;
-      card.addEventListener('click', () => practiceCategory(cat));
-      cgrid.appendChild(card);
+      const pill = document.createElement('button');
+      pill.type = 'button';
+      pill.className = 'deck-pill';
+      pill.title = `${data.mastered}/${data.total} mastered`;
+      pill.innerHTML = `<span class="deck-pill-icon">${icon}</span><span class="deck-pill-name">${cat}</span><span class="deck-pill-count">${data.total}</span>`;
+      pill.addEventListener('click', () => practiceCategory(cat));
+      cgrid.appendChild(pill);
     });
+    if (entries.length > DECK_PREVIEW_COUNT) {
+      const more = document.createElement('button');
+      more.type = 'button';
+      more.className = 'deck-pill deck-pill-more';
+      more.textContent = decksExpanded ? 'Show less' : `Show more (${entries.length - DECK_PREVIEW_COUNT})`;
+      more.addEventListener('click', () => {
+        decksExpanded = !decksExpanded;
+        renderDashboard();
+      });
+      cgrid.appendChild(more);
+    }
   }
 
   // Also refresh mode card badges
@@ -2872,7 +18791,7 @@ function loadNextCard() {
 
   const card = document.getElementById('flash-card');
   if (card) {
-    card.classList.remove('correct-flash', 'wrong-flash', 'card-animate');
+    card.classList.remove('correct-flash', 'wrong-flash', 'skipped-flash', 'card-animate');
     void card.offsetWidth; // reflow
     card.classList.add('card-animate');
   }
@@ -2906,35 +18825,31 @@ function renderNoWords() {
     showSwitchBtn = true;
   } else if (mode === 'review') {
     title = '🎉 All Caught Up!';
-    desc = 'No words are currently due for review according to your spaced repetition schedule.';
+    desc = 'No words are due for review right now. Try practicing new words or playing Mixed Mode!';
     showSwitchBtn = true;
-  } else if (settings.practiceCategory !== 'all') {
-    title = 'Category Complete';
-    desc = `No active words found in the "${settings.practiceCategory}" category.`;
   }
 
   if (card) {
     card.innerHTML = `
       <div class="empty-state">
-        <div class="empty-state-icon">${mode === 'weak' ? '🌟' : (mode === 'review' ? '🎉' : '📚')}</div>
-        <div style="font-size:1.3rem;font-weight:800;margin-bottom:0.5rem;color:var(--text);">${title}</div>
-        <div class="empty-state-text" style="max-width:380px;margin:0 auto 1.5rem;">${desc}</div>
-        <div style="display:flex;gap:0.75rem;justify-content:center;flex-wrap:wrap;">
-          ${showSwitchBtn ? '<button class="btn btn-primary" onclick="startMode(\'article\')">Practice Article Mode</button>' : ''}
-          <button class="btn btn-secondary" onclick="showView('view-dashboard')">Back to Dashboard</button>
-        </div>
+        <div class="empty-state-icon">✅</div>
+        <div class="card-question" style="font-size:1.5rem;margin-bottom:0.5rem;">${title}</div>
+        <div class="card-sub" style="margin-bottom:1.5rem;">${desc}</div>
+        ${showSwitchBtn ? `<button class="btn btn-primary" onclick="startMode('article')">Practice All Words →</button>` : ''}
       </div>`;
   }
+
   const answerArea = document.getElementById('answer-area');
   if (answerArea) answerArea.innerHTML = '';
 }
 
-function renderCard(c) {
-  const { word, mode } = c;
+function renderCard({ word, mode }) {
   const card = document.getElementById('flash-card');
   if (!card) return;
 
-  let hint = '', question = '', sub = '';
+  let hint = '';
+  let question = '';
+  let sub = '';
 
   if (mode === 'article') {
     hint     = 'Choose the article';
@@ -2963,6 +18878,13 @@ function renderCard(c) {
   renderAnswerArea(mode);
 }
 
+function skipActionHtml() {
+  return `<div class="practice-actions">
+      <button type="button" class="skip-btn" id="skip-btn" onclick="skipCard()">Skip / Show answer</button>
+      <button type="button" class="next-btn" id="next-btn" onclick="loadNextCard()">Next →</button>
+    </div>`;
+}
+
 function renderAnswerArea(mode) {
   const area = document.getElementById('answer-area');
   if (!area) return;
@@ -2970,71 +18892,47 @@ function renderAnswerArea(mode) {
   if (mode === 'article') {
     area.innerHTML = `
       <div class="answer-buttons">
-        <button class="article-btn btn-der" data-article="der" onclick="submitArticle('der')">
+        <button type="button" class="article-btn btn-der" data-article="der" onclick="submitArticle('der')">
           <span class="key-hint">1</span>DER
         </button>
-        <button class="article-btn btn-die" data-article="die" onclick="submitArticle('die')">
+        <button type="button" class="article-btn btn-die" data-article="die" onclick="submitArticle('die')">
           <span class="key-hint">2</span>DIE
         </button>
-        <button class="article-btn btn-das" data-article="das" onclick="submitArticle('das')">
+        <button type="button" class="article-btn btn-das" data-article="das" onclick="submitArticle('das')">
           <span class="key-hint">3</span>DAS
         </button>
       </div>
-      <button class="next-btn" id="next-btn" onclick="loadNextCard()">Next →</button>`;
+      ${skipActionHtml()}`;
 
   } else if (mode === 'article_word') {
     area.innerHTML = `
       <div class="article-select-row" id="article-pills" style="margin-bottom:0.75rem;">
-        <button class="article-pill" data-a="der" onclick="selectArticlePill('der')">DER</button>
-        <button class="article-pill" data-a="die" onclick="selectArticlePill('die')">DIE</button>
-        <button class="article-pill" data-a="das" onclick="selectArticlePill('das')">DAS</button>
+        <button type="button" class="article-pill" data-a="der" onclick="selectArticlePill('der')">DER</button>
+        <button type="button" class="article-pill" data-a="die" onclick="selectArticlePill('die')">DIE</button>
+        <button type="button" class="article-pill" data-a="das" onclick="selectArticlePill('das')">DAS</button>
       </div>
       <div class="text-input-wrap">
         <input class="answer-input" id="word-input" type="text" placeholder="German noun or 'der Tisch'..." autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" />
-        <button class="submit-btn" onclick="submitArticleWord()">Check Answer ↵</button>
+        <button type="button" class="submit-btn" id="check-answer-btn" onclick="submitArticleWord()">Check Answer ↵</button>
       </div>
-      <button class="next-btn" id="next-btn" onclick="loadNextCard()">Next →</button>`;
+      ${skipActionHtml()}`;
 
     setTimeout(() => {
       const inp = document.getElementById('word-input');
-      if (inp) {
-        inp.addEventListener('keydown', e => {
-          if (e.key === 'Enter') {
-            e.preventDefault();
-            if (!currentCard.answered) {
-              submitArticleWord();
-            } else {
-              loadNextCard();
-            }
-          }
-        });
-        inp.focus();
-      }
+      if (inp) inp.focus();
     }, 50);
 
   } else if (mode === 'plural') {
     area.innerHTML = `
       <div class="text-input-wrap">
         <input class="answer-input" id="plural-input" type="text" placeholder="Plural form (e.g. Tische or die Tische)..." autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" />
-        <button class="submit-btn" onclick="submitPlural()">Check Answer ↵</button>
+        <button type="button" class="submit-btn" id="check-answer-btn" onclick="submitPlural()">Check Answer ↵</button>
       </div>
-      <button class="next-btn" id="next-btn" onclick="loadNextCard()">Next →</button>`;
+      ${skipActionHtml()}`;
 
     setTimeout(() => {
       const inp = document.getElementById('plural-input');
-      if (inp) {
-        inp.addEventListener('keydown', e => {
-          if (e.key === 'Enter') {
-            e.preventDefault();
-            if (!currentCard.answered) {
-              submitPlural();
-            } else {
-              loadNextCard();
-            }
-          }
-        });
-        inp.focus();
-      }
+      if (inp) inp.focus();
     }, 50);
   }
 }
@@ -3160,12 +19058,19 @@ function showFeedback(correct, word, extra = {}) {
   const card = document.getElementById('flash-card');
   if (!card) return;
 
-  card.classList.remove('correct-flash', 'wrong-flash');
+  card.classList.remove('correct-flash', 'wrong-flash', 'skipped-flash');
   void card.offsetWidth; // Force reflow
-  card.classList.add(correct ? 'correct-flash' : 'wrong-flash');
+  if (extra.skipped) card.classList.add('skipped-flash');
+  else card.classList.add(correct ? 'correct-flash' : 'wrong-flash');
 
   let resultDetail = '';
-  if (!correct) {
+  if (extra.skipped) {
+    if (currentCard.mode === 'plural') {
+      resultDetail = `Plural: <strong>die ${word.plural}</strong>`;
+    } else {
+      resultDetail = `<strong>${word.article.toUpperCase()} ${word.word}</strong>`;
+    }
+  } else if (!correct) {
     if (currentCard.mode === 'article') {
       resultDetail = `Correct article: <strong>${word.article.toUpperCase()}</strong>`;
     } else if (currentCard.mode === 'article_word') {
@@ -3181,11 +19086,11 @@ function showFeedback(correct, word, extra = {}) {
     }
   }
 
-  // Update card content to continuously show full German word and answer summary
+  // Update card content to continuously show full German word, answer summary & example sentence
   card.innerHTML = `
     <div class="card-answered-wrapper">
-      <div class="result-banner ${correct ? 'result-correct' : 'result-wrong'}">
-        <div style="font-size:1.05rem;letter-spacing:0.3px;">${correct ? '✅ Richtig!' : '❌ Falsch!'}</div>
+      <div class="result-banner ${extra.skipped ? 'result-skipped' : (correct ? 'result-correct' : 'result-wrong')}">
+        <div style="font-size:1.05rem;letter-spacing:0.3px;">${extra.skipped ? '⏭ Skipped' : (correct ? '✅ Richtig!' : '❌ Falsch!')}</div>
         ${resultDetail ? `<div class="result-detail">${resultDetail}</div>` : ''}
       </div>
 
@@ -3193,30 +19098,61 @@ function showFeedback(correct, word, extra = {}) {
         <div class="answered-main-row">
           <span class="article-badge badge-${word.article}">${word.article.toUpperCase()}</span>
           <span class="answered-word">${word.word}</span>
-          <button class="card-audio-btn" onclick="speakGerman('${word.article} ${word.word}')" title="Listen (P)" aria-label="Listen">🔊</button>
+          <button class="card-audio-btn" onclick="speakGerman('${word.article} ${word.word}')" title="Listen word (P)" aria-label="Listen">🔊</button>
         </div>
 
         ${word.plural ? `
         <div class="answered-meta-line">
           <span class="meta-label">Plural:</span>
           <strong style="color:var(--die);font-weight:700;">die ${word.plural}</strong>
-          <button class="card-audio-btn" style="width:26px;height:26px;font-size:0.75rem;vertical-align:middle;margin-left:0.25rem;" onclick="speakGerman('die ${word.plural}')" title="Listen plural">🔊</button>
+          <button class="card-audio-btn audio-btn-sm" onclick="speakGerman('die ${word.plural}')" title="Listen plural">🔊</button>
         </div>` : ''}
 
         <div class="answered-meta-line">
           <span class="meta-label">Meaning:</span>
           <em>"${word.translation}"</em>
         </div>
+
+        ${word.sentence_de ? `
+        <div class="answered-sentence-box">
+          <div class="sentence-box-header">
+            <span class="sentence-label">Beispielsatz (Example)</span>
+            <button type="button" class="sentence-play-btn" onclick="speakSentence('${word.id}')" title="Listen to sentence">
+              <span>🔊</span> Listen sentence
+            </button>
+          </div>
+          <div class="sentence-text-de">${formatSentenceWithHighlight(word.sentence_de, word.word)}</div>
+          ${word.sentence_en ? `<div class="sentence-text-en">${word.sentence_en}</div>` : ''}
+        </div>` : ''}
       </div>
 
       <span class="card-category-badge">${word.category}</span>
     </div>`;
 
-  // Reveal next button
+  const skipBtn = document.getElementById('skip-btn');
+  if (skipBtn) skipBtn.disabled = true;
+
   const nextBtn = document.getElementById('next-btn');
   if (nextBtn) {
     nextBtn.classList.add('visible');
   }
+}
+
+function skipCard() {
+  if (!currentCard || currentCard.answered) return;
+
+  currentCard.answered = true;
+  currentCard.skipped = true;
+  lastWordId = currentCard.word.id;
+
+  $$('.article-btn').forEach(btn => { btn.disabled = true; });
+  $$('.article-pill').forEach(p => { p.style.pointerEvents = 'none'; });
+  const inp = document.getElementById('word-input') || document.getElementById('plural-input');
+  if (inp) inp.disabled = true;
+  const checkBtn = document.getElementById('check-answer-btn');
+  if (checkBtn) checkBtn.disabled = true;
+
+  showFeedback(false, currentCard.word, { skipped: true });
 }
 
 function recordAnswer(correct) {
@@ -3231,15 +19167,12 @@ function recordAnswer(correct) {
 }
 
 function updateWordMeta() {
-  if (!currentCard) return;
-  const p = progress[currentCard.word.id];
-  if (!p) return;
-
   const metaRow = document.getElementById('word-meta-row');
-  if (!metaRow) return;
+  if (!metaRow || !currentCard) return;
 
+  const p = progress[currentCard.word.id] || freshProgress(currentCard.word.id);
   metaRow.innerHTML = `
-    <span>${levelBadge(p.level)}</span>
+    <span>Level: ${levelBadge(p.level)}</span>
     <div class="mini-accuracy-bar">
       <div class="mini-accuracy-fill" style="width:${p.accuracy || 0}%"></div>
     </div>
@@ -3249,8 +19182,6 @@ function updateWordMeta() {
 /* ============================================================
    VOCABULARY VIEW
    ============================================================ */
-let vocabFilter = { search: '', article: 'all', category: 'all', status: 'all' };
-
 function renderVocabView() {
   const cats = [...new Set(vocabulary.map(w => w.category))].sort();
   const catSel = document.getElementById('filter-category');
@@ -3269,36 +19200,35 @@ function renderVocabTable() {
 
   let words = vocabulary.filter(w => {
     const p = progress[w.id] || freshProgress(w.id);
-    if (search && !w.word.toLowerCase().includes(search) && !w.translation.toLowerCase().includes(search)) return false;
-    if (article !== 'all' && w.article !== article) return false;
-    if (category !== 'all' && w.category !== category) return false;
-    if (status === 'archived' && !p.archived) return false;
-    if (status === 'weak'     && p.level !== 'weak') return false;
-    if (status === 'mastered' && p.level !== 'mastered') return false;
-    if (status === 'due') {
-      const due = p.nextReview && p.nextReview <= Date.now();
-      if (!due) return false;
+
+    if (search) {
+      const matchW = w.word.toLowerCase().includes(search);
+      const matchT = w.translation.toLowerCase().includes(search);
+      const matchP = (w.plural || '').toLowerCase().includes(search);
+      const matchS = (w.sentence_de || '').toLowerCase().includes(search) || (w.sentence_en || '').toLowerCase().includes(search);
+      if (!matchW && !matchT && !matchP && !matchS) return false;
     }
-    if (status === 'active' && p.archived) return false;
+    if (article  !== 'all' && w.article  !== article)  return false;
+    if (category !== 'all' && w.category !== category) return false;
+    if (status   !== 'all') {
+      if (status === 'archived' && !p.archived) return false;
+      if (status !== 'archived' && p.archived)  return false;
+      if (status !== 'archived' && p.level !== status) return false;
+    }
     return true;
   });
 
   const countEl = document.getElementById('vocab-count');
-  if (countEl) countEl.textContent = `${words.length} word${words.length !== 1 ? 's' : ''}`;
+  if (countEl) countEl.textContent = `Showing ${words.length} of ${vocabulary.length} words`;
 
   const tbody = document.getElementById('vocab-tbody');
   if (!tbody) return;
   tbody.innerHTML = '';
 
-  if (words.length === 0) {
-    tbody.innerHTML = `<tr><td colspan="8" style="text-align:center;padding:2rem;color:var(--text-muted)">No words found</td></tr>`;
-    return;
-  }
-
   words.forEach(w => {
     const p = progress[w.id] || freshProgress(w.id);
     const tr = document.createElement('tr');
-    if (p.archived) tr.classList.add('archived-row');
+    if (p.archived) tr.className = 'archived-row';
     tr.innerHTML = `
       <td>${articleBadge(w.article)}</td>
       <td><strong>${w.word}</strong></td>
@@ -3346,7 +19276,7 @@ function openWordDetail(id) {
     bodyEl.innerHTML = `
       <div class="word-detail-grid">
         <div class="detail-item"><div class="detail-key">Translation</div><div class="detail-val">${word.translation}</div></div>
-        <div class="detail-item"><div class="detail-key">Plural</div><div class="detail-val">${word.plural || '—'} ${word.plural ? `<button class="card-audio-btn" style="width:24px;height:24px;font-size:0.75rem;vertical-align:middle;margin-left:0.35rem;" onclick="speakGerman('die ${word.plural}')" title="Listen">🔊</button>` : ''}</div></div>
+        <div class="detail-item"><div class="detail-key">Plural</div><div class="detail-val">${word.plural || '—'} ${word.plural ? `<button class="card-audio-btn audio-btn-sm" onclick="speakGerman('die ${word.plural}')" title="Listen">🔊</button>` : ''}</div></div>
         <div class="detail-item"><div class="detail-key">Category</div><div class="detail-val" style="text-transform:capitalize">${word.category}</div></div>
         <div class="detail-item"><div class="detail-key">Level</div><div class="detail-val">${levelBadge(p.level)}</div></div>
         <div class="detail-item"><div class="detail-key">Attempts</div><div class="detail-val">${p.attempts}</div></div>
@@ -3355,7 +19285,19 @@ function openWordDetail(id) {
         <div class="detail-item"><div class="detail-key">Last reviewed</div><div class="detail-val" style="font-size:.82rem">${lastStr}</div></div>
         <div class="detail-item"><div class="detail-key">Next review</div><div class="detail-val" style="font-size:.82rem">${nextReviewStr}</div></div>
         <div class="detail-item"><div class="detail-key">Archived</div><div class="detail-val">${p.archived ? 'Yes' : 'No'}</div></div>
-      </div>`;
+      </div>
+      ${word.sentence_de ? `
+      <div class="detail-sentence-card">
+        <div class="sentence-box-header">
+          <span class="sentence-label">Beispielsatz (Example)</span>
+          <button type="button" class="sentence-play-btn" onclick="speakSentence('${word.id}')" title="Listen to sentence">
+            <span>🔊</span> Listen sentence
+          </button>
+        </div>
+        <div class="sentence-text-de">${formatSentenceWithHighlight(word.sentence_de, word.word)}</div>
+        ${word.sentence_en ? `<div class="sentence-text-en">${word.sentence_en}</div>` : ''}
+      </div>` : ''}
+    `;
   }
 }
 
@@ -3464,30 +19406,44 @@ function importProgress(file) {
    KEYBOARD SHORTCUTS
    ============================================================ */
 document.addEventListener('keydown', e => {
-  const tag = document.activeElement ? document.activeElement.tagName : '';
-  const isInput = tag === 'INPUT' || tag === 'TEXTAREA';
+  const fromInput = e.target && (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA');
 
   const practiceActive = document.getElementById('view-practice') && document.getElementById('view-practice').classList.contains('active');
   if (!practiceActive) return;
 
-  // Audio pronunciation with 'P' (works even in input)
-  if ((e.key === 'p' || e.key === 'P') && (e.ctrlKey || !isInput)) {
+  if ((e.key === 'p' || e.key === 'P') && (e.ctrlKey || !fromInput)) {
     e.preventDefault();
     speakCurrentCard();
     return;
   }
 
-  // Next card with Space when not typing
-  if (!isInput && currentCard && currentCard.answered) {
-    if (e.key === ' ' || e.key === 'Enter') {
-      e.preventDefault();
-      loadNextCard();
-      return;
-    }
+  if ((e.key === 's' || e.key === 'S') && !fromInput && currentCard && !currentCard.answered) {
+    e.preventDefault();
+    skipCard();
+    return;
   }
 
-  // Article mode numbers 1, 2, 3
-  if (!isInput && currentCard && !currentCard.answered) {
+  if (e.key === 'Enter') {
+    e.preventDefault();
+    if (!currentCard) return;
+    if (currentCard.answered) {
+      const nextBtn = document.getElementById('next-btn');
+      if (nextBtn) nextBtn.click();
+    } else {
+      const checkBtn = document.getElementById('check-answer-btn');
+      if (checkBtn && !checkBtn.disabled) checkBtn.click();
+    }
+    return;
+  }
+
+  if (!fromInput && currentCard && currentCard.answered && e.key === ' ') {
+    e.preventDefault();
+    const nextBtn = document.getElementById('next-btn');
+    if (nextBtn) nextBtn.click();
+    return;
+  }
+
+  if (!fromInput && currentCard && !currentCard.answered) {
     if (currentCard.mode === 'article') {
       if (e.key === '1') { e.preventDefault(); submitArticle('der'); }
       if (e.key === '2') { e.preventDefault(); submitArticle('die'); }
@@ -3516,7 +19472,6 @@ async function boot() {
     vocabulary = fetchedVocabulary;
   } else {
     vocabulary = DEFAULT_VOCABULARY.slice();
-    console.info('Using embedded vocabulary dataset (serve via HTTP for the full word list)');
   }
 
   mergeProgress();
@@ -3598,6 +19553,7 @@ window.submitPlural      = submitPlural;
 window.submitArticleWord = submitArticleWord;
 window.selectArticlePill = selectArticlePill;
 window.loadNextCard      = loadNextCard;
+window.skipCard          = skipCard;
 window.openWordDetail    = openWordDetail;
 window.toggleArchive     = toggleArchive;
 window.resetWordProgress = resetWordProgress;
@@ -3610,6 +19566,7 @@ window.exportProgress    = exportProgress;
 window.practiceCategory  = practiceCategory;
 window.speakGerman       = speakGerman;
 window.speakCurrentCard  = speakCurrentCard;
+window.speakSentence     = speakSentence;
 
 /* ============================================================
    DOM READY
