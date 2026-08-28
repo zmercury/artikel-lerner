@@ -18237,7 +18237,7 @@ const DEFAULT_VOCABULARY = [
     "translation": "top (as noun, rare)",
     "category": "numbers",
     "sentence_de": "Das Oben ist sehr nützlich.",
-    "sentence_en": "The top (as noun is very useful."
+    "sentence_en": "The top (as noun) is very useful."
   }
 ];
 
@@ -18284,6 +18284,7 @@ let decksExpanded   = false;
 let sessionStats    = { correct: 0, wrong: 0, total: 0 };
 let currentCard     = null;    // { word, mode, answered }
 let lastWordId      = null;    // avoid immediate repeats
+let recentArticles  = [];      // avoid long streaks of same article
 let selectedArticle = null; // for article+word mode pill selection
 let modalSelectedMode = 'article';
 
@@ -18340,12 +18341,18 @@ function getGermanVoice() {
   return voice || null;
 }
 
+let ttsWarned = false;
+
 function speakGerman(text) {
   if (!settings.audioEnabled || !text) return;
   const cleanText = text.trim();
   if (!cleanText) return;
 
   if (!('speechSynthesis' in window)) {
+    if (!ttsWarned) {
+      toast('Speech synthesis is not supported by your browser', 'info');
+      ttsWarned = true;
+    }
     console.warn('Speech synthesis not supported in this browser');
     return;
   }
@@ -18376,6 +18383,10 @@ function speakGerman(text) {
     window.speechSynthesis.speak(utterance);
   } catch(err) {
     console.warn('Speech synthesis execution error:', err);
+    if (!ttsWarned) {
+      toast('Could not play audio pronunciation', 'error');
+      ttsWarned = true;
+    }
     document.querySelectorAll('.card-audio-btn').forEach(btn => btn.classList.remove('speaking'));
   }
 }
@@ -18517,11 +18528,11 @@ function wordWeight(word) {
 
   let w = 1;
   if (p.level === 'new')      w = 12;
-  if (p.level === 'learning') w = 8;
-  if (p.level === 'weak')     w = 15;
-  if (p.level === 'review')   w = isDue ? 10 : 3;
-  if (p.level === 'strong')   w = isDue ? 5  : 1;
-  if (p.level === 'mastered') w = isDue ? 3  : 0.3;
+  if (p.level === 'learning') w = 10;
+  if (p.level === 'weak')     w = 16;
+  if (p.level === 'review')   w = isDue ? 12 : 2;
+  if (p.level === 'strong')   w = isDue ? 6  : 1;
+  if (p.level === 'mastered') w = isDue ? 3  : 0.2;
 
   // Accuracy penalty
   if (p.attempts > 0 && p.accuracy < 60) w *= 1.8;
@@ -18529,7 +18540,53 @@ function wordWeight(word) {
   // Avoid picking last word immediately
   if (word.id === lastWordId) w *= 0.01;
 
+  // Article anti-streak: if last 2 words were the same article, favor other articles
+  if (recentArticles.length >= 2 && recentArticles[0] === word.article && recentArticles[1] === word.article) {
+    w *= 0.25;
+  }
+
   return w;
+}
+
+function getBalancedPool(activeVocab) {
+  const byStatus = {
+    inProgress: { der: [], die: [], das: [] },
+    new: { der: [], die: [], das: [] }
+  };
+
+  for (const w of activeVocab) {
+    const p = progress[w.id];
+    const art = (w.article === 'die' || w.article === 'das') ? w.article : 'der';
+    if (p && p.level !== 'new') {
+      byStatus.inProgress[art].push(w);
+    } else {
+      byStatus.new[art].push(w);
+    }
+  }
+
+  // Shuffle new buckets
+  for (const art of ['der', 'die', 'das']) {
+    const arr = byStatus.new[art];
+    for (let i = arr.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [arr[i], arr[j]] = [arr[j], arr[i]];
+    }
+  }
+
+  const pool = [];
+  const TARGET_PER_ARTICLE = 6; // Maintain at least 6 active words per article
+
+  for (const art of ['der', 'die', 'das']) {
+    const inProg = byStatus.inProgress[art];
+    pool.push(...inProg);
+    
+    // Always inject new words for this article to maintain balance
+    const needed = Math.max(3, TARGET_PER_ARTICLE - inProg.length);
+    const fromNew = byStatus.new[art].slice(0, needed);
+    pool.push(...fromNew);
+  }
+
+  return pool.length > 0 ? pool : activeVocab;
 }
 
 function pickEligibleWords(mode) {
@@ -18553,7 +18610,8 @@ function pickEligibleWords(mode) {
       return p.nextReview && p.nextReview <= now;
     });
   }
-  return activeVocab;
+
+  return getBalancedPool(activeVocab);
 }
 
 function weightedRandom(words) {
@@ -18851,10 +18909,15 @@ function confirmPracticeModal() {
   startMode(settings.activeMode);
 }
 
+const SESSION_BATCH_SIZE = 15;
+let sessionMilestoneShown = 0;
+
 function startMode(modeId) {
   settings.activeMode = modeId;
   saveLS(LS_KEY_SETTINGS, settings);
   sessionStats = { correct: 0, wrong: 0, total: 0 };
+  sessionMilestoneShown = 0;
+  recentArticles = [];
   selectedArticle = null;
   updateHeroModeLabel();
   showView('view-practice');
@@ -18877,13 +18940,69 @@ function updateSessionStats() {
   if (elT) elT.textContent = sessionStats.total;
 }
 
-function loadNextCard() {
+function renderSessionSummary() {
+  const card = document.getElementById('flash-card');
+  if (!card) return;
+
+  const total = sessionStats.total;
+  const correct = sessionStats.correct;
+  const acc = total > 0 ? Math.round((correct / total) * 100) : 0;
+
+  let emoji = '🎯';
+  let heading = 'Session Milestone!';
+  if (acc >= 90) { emoji = '🔥'; heading = 'Outstanding!'; }
+  else if (acc >= 75) { emoji = '🎉'; heading = 'Great Progress!'; }
+  else if (acc >= 50) { emoji = '💪'; heading = 'Keep Going!'; }
+
+  card.className = 'flash-card card-animate';
+  card.innerHTML = `
+    <div class="empty-state" style="padding: 1.25rem 0.5rem;">
+      <div class="empty-state-icon" style="font-size:2.5rem;margin-bottom:0.5rem;">${emoji}</div>
+      <div class="card-question" style="font-size:1.5rem;margin-bottom:0.35rem;">${heading}</div>
+      <div class="card-sub" style="margin-bottom:1.25rem;">You completed <strong>${total}</strong> cards with <strong>${acc}%</strong> accuracy.</div>
+      
+      <div style="display:flex;gap:1.25rem;justify-content:center;margin-bottom:1.5rem;flex-wrap:wrap;">
+        <div style="background:var(--bg-card2);padding:0.6rem 1rem;border-radius:var(--radius-md);border:1px solid var(--border);min-width:70px;">
+          <div style="font-size:1.3rem;font-weight:800;color:var(--correct);">✅ ${correct}</div>
+          <div style="font-size:0.7rem;color:var(--text-muted);text-transform:uppercase;font-weight:700;">Correct</div>
+        </div>
+        <div style="background:var(--bg-card2);padding:0.6rem 1rem;border-radius:var(--radius-md);border:1px solid var(--border);min-width:70px;">
+          <div style="font-size:1.3rem;font-weight:800;color:var(--wrong);">❌ ${sessionStats.wrong}</div>
+          <div style="font-size:0.7rem;color:var(--text-muted);text-transform:uppercase;font-weight:700;">Mistakes</div>
+        </div>
+        <div style="background:var(--bg-card2);padding:0.6rem 1rem;border-radius:var(--radius-md);border:1px solid var(--border);min-width:70px;">
+          <div style="font-size:1.3rem;font-weight:800;color:var(--accent);">🔥 ${streakData.count}</div>
+          <div style="font-size:0.7rem;color:var(--text-muted);text-transform:uppercase;font-weight:700;">Streak</div>
+        </div>
+      </div>
+
+      <div style="display:flex;gap:0.75rem;justify-content:center;flex-wrap:wrap;">
+        <button type="button" class="btn btn-primary" onclick="continueSession()" style="padding:0.75rem 1.4rem;">Keep Practicing →</button>
+        <button type="button" class="btn btn-secondary" onclick="showView('view-dashboard')">Dashboard 🏠</button>
+      </div>
+    </div>`;
+
+  const answerArea = document.getElementById('answer-area');
+  if (answerArea) answerArea.innerHTML = '';
+}
+
+function continueSession() {
+  loadNextCard(true);
+}
+
+function loadNextCard(forceNoMilestone = false) {
+  if (!forceNoMilestone && sessionStats.total > 0 && sessionStats.total % SESSION_BATCH_SIZE === 0 && sessionMilestoneShown !== sessionStats.total) {
+    sessionMilestoneShown = sessionStats.total;
+    renderSessionSummary();
+    return;
+  }
+
   currentCard = pickNextCard();
   selectedArticle = null;
 
   const card = document.getElementById('flash-card');
   if (card) {
-    card.classList.remove('correct-flash', 'wrong-flash', 'skipped-flash', 'card-animate');
+    card.classList.remove('correct-flash', 'wrong-flash', 'skipped-flash', 'card-animate', 'card-exit');
     void card.offsetWidth; // reflow
     card.classList.add('card-animate');
   }
@@ -19002,9 +19121,9 @@ function renderAnswerArea(mode) {
   } else if (mode === 'article_word') {
     area.innerHTML = `
       <div class="article-select-row" id="article-pills" style="margin-bottom:0.75rem;">
-        <button type="button" class="article-pill" data-a="der" onclick="selectArticlePill('der')">DER</button>
-        <button type="button" class="article-pill" data-a="die" onclick="selectArticlePill('die')">DIE</button>
-        <button type="button" class="article-pill" data-a="das" onclick="selectArticlePill('das')">DAS</button>
+        <button type="button" class="article-pill" data-a="der" onclick="selectArticlePill('der')"><span class="key-hint">1</span>DER</button>
+        <button type="button" class="article-pill" data-a="die" onclick="selectArticlePill('die')"><span class="key-hint">2</span>DIE</button>
+        <button type="button" class="article-pill" data-a="das" onclick="selectArticlePill('das')"><span class="key-hint">3</span>DAS</button>
       </div>
       <div class="text-input-wrap">
         <input class="answer-input" id="word-input" type="text" placeholder="German noun or 'der Tisch'..." autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" />
@@ -19239,6 +19358,10 @@ function skipCard() {
   currentCard.answered = true;
   currentCard.skipped = true;
   lastWordId = currentCard.word.id;
+  if (currentCard.word && currentCard.word.article) {
+    recentArticles.unshift(currentCard.word.article);
+    if (recentArticles.length > 5) recentArticles.pop();
+  }
 
   $$('.article-btn').forEach(btn => { btn.disabled = true; });
   $$('.article-pill').forEach(p => { p.style.pointerEvents = 'none'; });
@@ -19257,6 +19380,10 @@ function recordAnswer(correct) {
   updateSessionStats();
   updateProgress(currentCard.word.id, correct);
   lastWordId = currentCard.word.id;
+  if (currentCard.word && currentCard.word.article) {
+    recentArticles.unshift(currentCard.word.article);
+    if (recentArticles.length > 5) recentArticles.pop();
+  }
   checkStreak();
   renderDashboard();
 }
@@ -19308,7 +19435,9 @@ function renderVocabTable() {
     if (status   !== 'all') {
       if (status === 'archived' && !p.archived) return false;
       if (status !== 'archived' && p.archived)  return false;
-      if (status !== 'archived' && p.level !== status) return false;
+      if (status === 'due') {
+        if (!p.nextReview || p.nextReview > Date.now()) return false;
+      } else if (status !== 'archived' && p.level !== status) return false;
     }
     return true;
   });
@@ -19319,6 +19448,19 @@ function renderVocabTable() {
   const tbody = document.getElementById('vocab-tbody');
   if (!tbody) return;
   tbody.innerHTML = '';
+
+  if (words.length === 0) {
+    tbody.innerHTML = `
+      <tr>
+        <td colspan="8" style="text-align:center;padding:2.5rem 1rem;">
+          <div style="font-size:2rem;margin-bottom:0.5rem;">🔍</div>
+          <div style="font-weight:700;font-size:1.05rem;color:var(--text);margin-bottom:0.25rem;">No words match your filters</div>
+          <div style="font-size:0.85rem;color:var(--text-muted);margin-bottom:1rem;">Try clearing your search query or changing article/status filters.</div>
+          <button type="button" class="btn btn-secondary" onclick="clearVocabFilters()">Clear all filters</button>
+        </td>
+      </tr>`;
+    return;
+  }
 
   words.forEach(w => {
     const p = progress[w.id] || freshProgress(w.id);
@@ -19342,6 +19484,15 @@ function renderVocabTable() {
       </td>`;
     tbody.appendChild(tr);
   });
+}
+
+function clearVocabFilters() {
+  vocabFilter = { search: '', article: 'all', category: 'all', status: 'all' };
+  const s = document.getElementById('vocab-search'); if (s) s.value = '';
+  const a = document.getElementById('filter-article'); if (a) a.value = 'all';
+  const c = document.getElementById('filter-category'); if (c) c.value = 'all';
+  const st = document.getElementById('filter-status'); if (st) st.value = 'all';
+  renderVocabTable();
 }
 
 function openWordDetail(id) {
@@ -19503,6 +19654,16 @@ function importProgress(file) {
 document.addEventListener('keydown', e => {
   const fromInput = e.target && (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA');
 
+  // Escape key closes any open modal (works globally)
+  if (e.key === 'Escape') {
+    const openModal = document.querySelector('.modal-backdrop.open');
+    if (openModal) {
+      e.preventDefault();
+      openModal.classList.remove('open');
+      return;
+    }
+  }
+
   const practiceActive = document.getElementById('view-practice') && document.getElementById('view-practice').classList.contains('active');
   if (!practiceActive) return;
 
@@ -19576,6 +19737,9 @@ async function boot() {
   renderVocabView();
   renderSettings();
   updateHeroModeLabel();
+
+  const heroEl = document.querySelector('.dashboard-hero');
+  if (heroEl) heroEl.classList.remove('stats-loading');
 
   showView('view-dashboard');
 }
